@@ -24,3 +24,12 @@ Main: https://github.com/CompVis/stable-diffusion
   - Textual inversion for customization of the prompt language and images.
 - https://github.com/bfirsh/stable-diffusion
   - works on M1 Macs - [blog](https://replicate.com/blog/run-stable-diffusion-on-m1-mac), [tweet](https://twitter.com/levelsio/status/1565731907664478209)
+- https://github.com/harubaru/waifu-diffusion
+  - nicer GUI for img2img
+
+## Results
+
+### Img2Img
+
+- A black and white photo of a young woman, studio lighting, realistic, Ilford HP5 400
+  - https://twitter.com/TomLikesRobots/status/1566027217892671488
