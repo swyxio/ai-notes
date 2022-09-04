@@ -81,7 +81,9 @@ SD Tooling
 ## SD Model values
 
 
-- How SD works https://twitter.com/johnowhitaker/status/1565710033463156739
+- How SD works
+  - https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing
+  - https://twitter.com/johnowhitaker/status/1565710033463156739
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
   - explore: https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images
 

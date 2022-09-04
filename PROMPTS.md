@@ -11,6 +11,7 @@ Adding the right enhancers can really tweak the outcome:
 
 - Prefixes
   - `A black and white photo of`
+  - `Wide angle ArchDaily photograph of`
 - Enhancers
   - Lighting
     - `studio lighting`
