@@ -29,11 +29,13 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
   - Krita: https://github.com/nousr/koi
   - Photoshop: https://old.reddit.com/r/StableDiffusion/comments/wyduk1/show_rstablediffusion_integrating_sd_in_photoshop/
   - Figma: https://twitter.com/RemitNotPaucity/status/1562319004563173376?s=20&t=fPSI5JhLzkuZLFB7fntzoA
+  - collage tool https://twitter.com/genekogan/status/1555184488606564353
 
 
 ## Communities
 
 - Deforum Discord https://discord.gg/upmXXsrwZc
+- Lexica Discord https://discord.com/invite/bMHBjJ9wRh
 - Midjourney
 - https://promptbase.com/
 
@@ -49,7 +51,11 @@ Main: https://github.com/CompVis/stable-diffusion
   This repo is a modified version of the Stable Diffusion repo, optimized to use less VRAM than the original by sacrificing inference speed.
 - https://github.com/hlky/stable-diffusion
   - adds a bunch of features - GUI/webui, [textual inversion](https://textual-inversion.github.io/), [upscalers](https://github.com/hlky/stable-diffusion-webui/wiki/Upscalers), mask and crop, img2img editor, word seeds, prompt weighting
+    - doesn't work on Mac https://github.com/hlky/stable-diffusion/issues/173
   - How to Fine-tune Stable Diffusion using Textual Inversion https://towardsdatascience.com/how-to-fine-tune-stable-diffusion-using-textual-inversion-b995d7ecc095
+  - https://github.com/AbdBarho/stable-diffusion-webui-docker
+    - Run Stable Diffusion on your machine with a nice UI without any hassle! This repository provides the WebUI as a docker image for easy setup and deployment. Please note that the WebUI is experimental and evolving quickly, so expect some bugs.
+    - doesnt work on m1 mac yet https://github.com/AbdBarho/stable-diffusion-webui-docker/issues/31
 - https://github.com/lstein/stable-diffusion and https://github.com/magnusviri/stable-diffusion
   - An interactive command-line interface that accepts the same prompt and switches as the Discord bot.
   - A basic Web interface that allows you to run a local web server for generating images in your browser.
@@ -60,6 +66,7 @@ Main: https://github.com/CompVis/stable-diffusion
   - Textual inversion for customization of the prompt language and images.
 - https://github.com/bfirsh/stable-diffusion
   - works on M1 Macs - [blog](https://replicate.com/blog/run-stable-diffusion-on-m1-mac), [tweet](https://twitter.com/levelsio/status/1565731907664478209)
+  - can also look at `environment-mac.yaml` from https://github.com/fragmede/stable-diffusion/blob/mps_consistent_seed/environment-mac.yaml
 - https://github.com/harubaru/waifu-diffusion
   - nicer GUI for img2img
 
@@ -76,6 +83,7 @@ SD Tooling
 
 - How SD works https://twitter.com/johnowhitaker/status/1565710033463156739
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
+  - explore: https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images
 
 
 ## SD Results
@@ -84,3 +92,14 @@ SD Tooling
 
 - A black and white photo of a young woman, studio lighting, realistic, Ilford HP5 400
   - https://twitter.com/TomLikesRobots/status/1566027217892671488
+
+
+## Hardware requirements
+
+- https://news.ycombinator.com/item?id=32642255#32646761
+  - For something like this, you ideally would want a powerful GPU with 12-24gb VRAM. 
+  - A $500 RTX 3070 with 8GB of VRAM can generate 512x512 images with 50 steps in 7 seconds.
+
+## SD vs DallE vs MJ
+
+DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025?s=20&t=GCU5prherJvKebRrv9urdw

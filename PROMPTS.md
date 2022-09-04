@@ -152,6 +152,7 @@ Adding the right enhancers can really tweak the outcome:
     - `Arthur Suydam`
     - `Thomas Kinkade`
     - `H.R. Giger`
+    - `Frank Miller`
     - `H.P. Lovecraft`
     - `Jim Burns`
     - `Lovecraftian`
@@ -160,7 +161,7 @@ Adding the right enhancers can really tweak the outcome:
     - `Gustave Doré`
     - `Salvador Dali`
     - `Syd Mead`
-    - `Studio Ghibli`
+    - [`Studio Ghibli`](https://lexica.art/?q=studio+ghibli+landscape)
   - Quality
     - `Ilford HP5 400`
     - `IMAX`
@@ -220,3 +221,12 @@ Adding the right enhancers can really tweak the outcome:
 - Beautiful flower meadow
 - Abandoned mining town
 - [Celebrity name]
+  - https://www.popsugar.com/celebrities
+  - https://celebanswers.com/celebrity-list/
+- [Celebrity] as [Character]
+  - 
+
+
+## Extremely detailed prompt examples
+
+- [dark skinned Johnny Storm young male superhero of the fantastic four, full body, flaming dreadlock hair, blue uniform with the number 4 on the chest in a round logo, cinematic, high detail, no imperfections, extreme realism, high detail, extremely symmetric facial features, no distortion, clean, also evil villians fighting in the background, by Stan Lee](https://lexica.art/prompt/d622e029-176d-42b7-a437-39ccf1952b71)
