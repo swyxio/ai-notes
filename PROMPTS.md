@@ -1,0 +1,222 @@
+
+Prompts might go in the form of 
+
+```
+[Prefix] [Subject], [Enhancers]
+```
+
+Adding the right enhancers can really tweak the outcome:
+
+![image](https://user-images.githubusercontent.com/6764957/188303877-4555e026-4da5-4f22-b7f5-2972425350ba.png)
+
+- Prefixes
+  - `A black and white photo of`
+- Enhancers
+  - Lighting
+    - `studio lighting`
+  - Styles
+    - serious
+      - `detailed`/`hyperdetailed`
+      - `oil painting`
+      - `detailed painting`
+      - `realistic`
+      - `3d game`
+      - `filmic`
+      - `matte`/`matte painting`
+      - `charcoal`/`charcoal drawing`
+      - `renaissance painting`
+      - `volumetric lighting`
+      - `tilt shift`
+    - futuristic
+      - `cyberpunk`
+      - `synthwave`
+    - scary
+      - `sinister`
+      - `surreal`
+      - `dystopian`
+      - `Eldritch`
+      - `horror`
+    - fun
+      - `acrylic art`
+      - `album art`
+      - `airbrush art`
+      - `anime`
+      - `abstract`
+      - `biomorphic`
+      - `bokeh`
+      - `candy`
+      - `chalk art`
+      - `clip art`
+      - `cosmic`
+      - `deviantart`
+      - `dream`
+      - `geometric`
+      - `gouache`
+      - `fantasy`
+      - `mixed media`
+      - `iridescent`
+      - `photoillustration`
+      - `pastels`
+      - `ink drawing`
+      - `low poly`
+      - `pencil sketch`
+      - `steampunk`
+      - `quilling`
+      - `oil on canvas`
+      - `storybook illustration`
+      - `tapestry`
+      - `pop art`
+      - `heavenly`
+      - `holographic`
+      - `mystical`
+      - drawings
+        - `parallax`
+        - `stipple`
+      - `Flickr`, `trending on Artstation`, `ZBrush central`
+      - `Pixar`
+      - `N64`
+  - art movements
+    - `academic art`
+    - `action painting`
+    - `art Brut`
+    - `art deco`
+    - `art Nouveau`
+    - `ashcan school`
+    - `Australian tonalism`
+    - `baroque`
+    - `bauhaus`
+    - `brutalism`
+    - `concept art`
+    - `concrete art`
+    - `cubism`
+    - `cubist`
+    - `detailed painting`
+    - `expressionism`
+    - `fauvism`
+    - `film noir`
+    - `filmic`
+    - `fluxus`
+    - `folk art`
+    - `futurism`
+    - `geometric abstract art`
+    - `gothic art`
+    - `graffiti`
+    - `Harlem renaissance`
+    - `Heidelberg school`
+    - `hudson river school`
+    - `hypermodernism`
+    - `hyperrealism`
+    - `impressionism`
+    - `kinetic pointillism`
+    - `lyrical abstraction`
+    - `mannerism`
+    - `matte painting`
+    - `maximalism`
+    - `maximalist`
+    - `minimalism`
+    - `minimalist`
+    - `modern art`
+    - `modern European ink painting`
+    - `movie poster`
+    - `naïve art`
+    - `neo-primitivism`
+    - `photorealism`
+    - `pointillism`
+    - `pop art`
+    - `post-impressionism`
+    - `poster art`
+    - `pre-raphaelitism`
+    - `precisionism`
+    - `primitivism`
+    - `psychedelic art`
+    - `qajar art`
+    - `renaissance painting`
+    - `retrofuturism`
+    - `romanesque`
+    - `romanticism`
+    - `shin hanga`
+    - `storybook illustration`
+    - `street art`
+    - `surrealism`
+    - `synthetism`
+    - `Ukiyo-e`
+    - `underground comix`
+    - `vorticism`
+  - by [artist]
+    - `Norman Rockwell`
+    - `Gustav Klimt`
+    - `Vincent Van Gogh`/`Van Gogh`
+    - `Alfonse Mucha`
+    - `James Gurney`
+    - `Basquiat`
+    - `Arthur Suydam`
+    - `Thomas Kinkade`
+    - `H.R. Giger`
+    - `H.P. Lovecraft`
+    - `Jim Burns`
+    - `Lovecraftian`
+    - `Picasso`
+    - `Kandinsky`
+    - `Gustave Doré`
+    - `Salvador Dali`
+    - `Syd Mead`
+    - `Studio Ghibli`
+  - Quality
+    - `Ilford HP5 400`
+    - `IMAX`
+    - `20 megapixels`
+    - `8k resolution`/`8k resolution concept art`
+    - `8k 3D`
+    - `HDR`
+    - `35mm film`
+    - rendering engines: `Unreal Engine`, `CryEngine`, `VRay`, `SketchUp`, `Blender`, `CryEngine`, `Cinema 4D`
+    - `Photoshop`, `Sketchfab`
+    - `polaroid`
+
+### Example subjects to try
+
+- Ruins
+  - Post apocalyptic wonderland
+  - Desolate wasteland
+- Nature
+  - Secret flower garden
+  - Cottage in the forest
+- Humans
+
+- Misc
+  - Cinematic fantasy landscape
+
+- The angel of death
+- Grand entrance to a Roman market
+- Monolith in the desert
+- Hooded alien creature
+- Whimsical Fairy Wonderland
+- Ruins of a medieval castle
+- Sunset over the bay
+- City on the moon
+- The entrance to Hell
+- Gas station on Mars
+- 1950s diner
+- Overgrown city covered in vines and moss
+- Creepy motel
+- Goodness gracious, great balls of fire
+- Psychedelic fantasy castle
+- Waterfall and mountains
+- Sunrise over the mountains
+- Desert ghost town
+- Beautiful misty mountain landscape
+- Mayan temple in the jungle
+- Cyborg bartender
+- Mount Olympus at dawn
+- Humanoid robot with a flamethrower
+- City skyline across the water at sunset
+- The Arc de Triomphe lit up at night
+- Gingerbread house
+- Desert sunrise
+- 1880s misty London street
+- Little fairy town
+- Tropical beach
+- Mountain town in the Pyrenees
+- Beautiful flower meadow
+- Abandoned mining town
+- [Celebrity name]
