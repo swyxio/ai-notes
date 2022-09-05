@@ -12,17 +12,33 @@ Adding the right enhancers can really tweak the outcome:
 - Prefixes
   - `A black and white photo of`
   - `Wide angle ArchDaily photograph of`
+  - `An image of`
+  - `A photograph of`
+  - `A headshot of`
+  - `A painting of`
+  - `A vision of`
+  - `A depiction of`
+  - `A cartoon of`
+  - `A drawing of`
+  - `A figure of`
+  - `An illustration of`
+  - `A sketch of`
+  - `A portrayal of`
 - Enhancers
   - Lighting
     - `studio lighting`
+    - `cinematic lighting`
   - Styles
     - serious
       - `detailed`/`hyperdetailed`
       - `oil painting`
       - `detailed painting`
+      - `photographic`
+      - `ultra photoreal`
       - `realistic`
       - `3d game`
       - `filmic`
+      - `modernist`/`modernistic`
       - `matte`/`matte painting`
       - `charcoal`/`charcoal drawing`
       - `renaissance painting`
@@ -31,12 +47,16 @@ Adding the right enhancers can really tweak the outcome:
     - futuristic
       - `cyberpunk`
       - `synthwave`
+      - `Solarpunk`
+      - `Steampunk`
     - scary
       - `sinister`
       - `surreal`
       - `dystopian`
       - `Eldritch`
       - `horror`
+      - `Angelcore`
+      - `Aliencore`
     - fun
       - `acrylic art`
       - `album art`
@@ -46,6 +66,7 @@ Adding the right enhancers can really tweak the outcome:
       - `biomorphic`
       - `bokeh`
       - `candy`
+      - `Cottagecore`
       - `chalk art`
       - `clip art`
       - `cosmic`
@@ -63,6 +84,8 @@ Adding the right enhancers can really tweak the outcome:
       - `pencil sketch`
       - `steampunk`
       - `quilling`
+      - `impressionist`
+      - `expressionist`
       - `oil on canvas`
       - `storybook illustration`
       - `tapestry`
@@ -163,6 +186,25 @@ Adding the right enhancers can really tweak the outcome:
     - `Salvador Dali`
     - `Syd Mead`
     - [`Studio Ghibli`](https://lexica.art/?q=studio+ghibli+landscape)
+    - Painters:
+      - `in the style of Vincent van Gogh`
+      - `in the style of Pablo Picasso`
+      - `in the style of Andrew Warhol`
+      - `in the style of Frida Kahlo`
+      - `in the style of Jackson Pollock`
+      - `in the style of Salvador Dali`
+    - Sculptors:
+      - `in the style of Michelangelo`
+      - `in the style of Donatello`
+      - `in the style of Auguste Rodin`
+      - `in the style of Richard Serra`
+      - `in the style of Henry Moore`
+    - Architects:
+      - `in the style of Frank Lloyd Wright`
+      - `in the style of Mies van der Rohe`
+      - `in the style of Eero Saarinen`
+      - `in the style of Antoni Gaudi`
+      - `in the style of Frank Gehry`
   - Quality
     - `Ilford HP5 400`
     - `IMAX`
@@ -174,6 +216,18 @@ Adding the right enhancers can really tweak the outcome:
     - rendering engines: `Unreal Engine`, `CryEngine`, `VRay`, `SketchUp`, `Blender`, `CryEngine`, `Cinema 4D`
     - `Photoshop`, `Sketchfab`
     - `polaroid`
+
+
+Other kinds of prompts are worth trying too!
+
+- https://twitter.com/fofrai/status/1558553614540587017?s=21&t=RdQ-vfnKdUWZ-oZJhbc37g - made up names with places
+  - Miguel Bashirian, Haiti
+  - Elizabeth Tillman, USA
+  - Meghan Lindgren, Nicaragua
+  - Don Goldner, Dominican Republic
+
+- https://twitter.com/_benoitmartinez/status/1566439265218838530?s=21&t=RdQ-vfnKdUWZ-oZJhbc37g
+  - `_age_ _adjective_ _job_ _bodyType_ _genre_ from _country_, _adjective_ lighting`
 
 ### Example subjects to try
 

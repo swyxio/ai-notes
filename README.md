@@ -34,6 +34,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 
 ## Communities
 
+- StableDiffusion Discord https://discord.com/invite/stablediffusion
 - Deforum Discord https://discord.gg/upmXXsrwZc
 - Lexica Discord https://discord.com/invite/bMHBjJ9wRh
 - Midjourney
@@ -43,13 +44,19 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 
 stable diffusion specific notes
 
+Main: https://github.com/CompVis/stable-diffusion
+
+Required reading:
+- param intuitionhttps://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
+- CLI commands https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/#script-options
+
 ### SD Major forks
 
-Main: https://github.com/CompVis/stable-diffusion
+Forks 
 
 - https://github.com/basujindal/stable-diffusion 
   This repo is a modified version of the Stable Diffusion repo, optimized to use less VRAM than the original by sacrificing inference speed.
-- https://github.com/hlky/stable-diffusion
+- https://github.com/hlky/stable-diffusion ([here is](https://www.reddit.com/r/StableDiffusion/comments/x28a76/stable_diffusion_web_ui/) another fork that might be better)
   - adds a bunch of features - GUI/webui, [textual inversion](https://textual-inversion.github.io/), [upscalers](https://github.com/hlky/stable-diffusion-webui/wiki/Upscalers), mask and crop, img2img editor, word seeds, prompt weighting
     - doesn't work on Mac https://github.com/hlky/stable-diffusion/issues/173
   - How to Fine-tune Stable Diffusion using Textual Inversion https://towardsdatascience.com/how-to-fine-tune-stable-diffusion-using-textual-inversion-b995d7ecc095
