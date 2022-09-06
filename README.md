@@ -7,6 +7,7 @@ notes for prompt engineering
 - video
   - img2img of famous movie scenes ([lalaland](https://twitter.com/TomLikesRobots/status/1565678995986911236))
   - virtual fashion ([karenxcheng](https://twitter.com/karenxcheng/status/1564626773001719813))
+  - evolution of scenes ([xander](https://twitter.com/xsteenbrugge/status/1558508866463219712))
 
 ## Top Prompt Engineering Reads
 
