@@ -220,6 +220,7 @@ Adding the right enhancers can really tweak the outcome:
 
 Other kinds of prompts are worth trying too!
 
+- programmatic combinations to search latent space https://twitter.com/xsteenbrugge/status/1566957660200632323?s=21&t=q-puVhdTmExlbvDgNdMAqw
 - https://twitter.com/fofrai/status/1558553614540587017?s=21&t=RdQ-vfnKdUWZ-oZJhbc37g - made up names with places
   - Miguel Bashirian, Haiti
   - Elizabeth Tillman, USA
