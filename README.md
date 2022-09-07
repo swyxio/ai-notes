@@ -12,8 +12,9 @@ notes for prompt engineering
 ## Top Prompt Engineering Reads
 
 - https://www.gwern.net/GPT-3#prompts-as-programming
-- https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
-- 
+- beginner
+  - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
+  - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
   - https://creator.nightcafe.studio/collection/8dMYgKm1eVXG7z9pV23W
@@ -53,6 +54,8 @@ Required reading:
 
 ### SD Major forks
 
+https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
+
 Forks 
 
 - https://github.com/basujindal/stable-diffusion 
@@ -90,6 +93,7 @@ SD Tooling
 
 
 - How SD works
+  - https://huggingface.co/blog/stable_diffusion
   - https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing
   - https://twitter.com/johnowhitaker/status/1565710033463156739
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
