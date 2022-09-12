@@ -21,6 +21,7 @@ notes for prompt engineering
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
   - https://creator.nightcafe.studio/collection/8dMYgKm1eVXG7z9pV23W
+- Google released PartiPrompts as a benchmark: https://parti.research.google/ "PartiPrompts (P2) is a rich set of over 1600 prompts in English that we release as part of this work. P2 can be used to measure model capabilities across various categories and challenge aspects."
 
 ## Tooling
 
