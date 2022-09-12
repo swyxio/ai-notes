@@ -105,6 +105,7 @@ SD Tooling
   - https://huggingface.co/blog/stable_diffusion
   - https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing
   - https://twitter.com/johnowhitaker/status/1565710033463156739
+  - https://twitter.com/ai__pub/status/1561362542487695360
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
   - explore: https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images
 
