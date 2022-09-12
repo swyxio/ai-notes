@@ -36,6 +36,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
   - Figma: https://twitter.com/RemitNotPaucity/status/1562319004563173376?s=20&t=fPSI5JhLzkuZLFB7fntzoA
   - collage tool https://twitter.com/genekogan/status/1555184488606564353
 
+Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
 
 ## Communities
 
@@ -44,6 +45,10 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Lexica Discord https://discord.com/invite/bMHBjJ9wRh
 - Midjourney
 - https://promptbase.com/
+- Prompt Galleries
+  - https://arthub.ai/
+  - https://lexica.art/
+  - https://dallery.gallery/
 
 ## Stable Diffusion
 
