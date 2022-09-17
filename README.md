@@ -9,6 +9,7 @@ notes for prompt engineering
   - virtual fashion ([karenxcheng](https://twitter.com/karenxcheng/status/1564626773001719813))
   - evolution of scenes ([xander](https://twitter.com/xsteenbrugge/status/1558508866463219712))
   - outpainting https://twitter.com/orbamsterdam/status/1568200010747068417?s=21&t=rliacnWOIjJMiS37s8qCCw
+  - image to video with rotation https://twitter.com/TomLikesRobots/status/1571096804539912192
 - gpt3 applications
   - text to graphviz https://twitter.com/goodside/status/1561549768987496449?s=21&t=rliacnWOIjJMiS37s8qCCw
 
