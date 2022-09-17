@@ -12,6 +12,9 @@ notes for prompt engineering
   - image to video with rotation https://twitter.com/TomLikesRobots/status/1571096804539912192
 - gpt3 applications
   - text to graphviz https://twitter.com/goodside/status/1561549768987496449?s=21&t=rliacnWOIjJMiS37s8qCCw
+  - suspedning to python for math   
+    - https://twitter.com/sharifshameem/status/1414029295043764226?lang=en
+    - https://twitter.com/amasad/status/1568824744367259648
 
 ## Top Prompt Engineering Reads
 
