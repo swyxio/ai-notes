@@ -62,6 +62,17 @@ Required reading:
 - param intuitionhttps://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
 - CLI commands https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/#script-options
 
+### Distros
+
+- Bundled Distros
+  - https://www.charl-e.com/
+  - https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
+- Web Distros
+  - https://www.mage.space/
+- Twitter Bots
+  - https://twitter.com/diffusionbot
+  - https://twitter.com/m1guelpf/status/1569487042345861121
+
 ### SD Major forks
 
 https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
@@ -90,6 +101,7 @@ Forks
   - can also look at `environment-mac.yaml` from https://github.com/fragmede/stable-diffusion/blob/mps_consistent_seed/environment-mac.yaml
 - https://github.com/harubaru/waifu-diffusion
   - nicer GUI for img2img
+
 
 SD Tooling
 
