@@ -81,6 +81,74 @@ Required reading:
   
 more: https://np.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
 
+**Prompt galleries and search engines:**
+
+- [Lexica](https://lexica.art/): Content-based search powered by OpenAI's CLIP model. **Seed**, CFG, Dimensions.
+- [OpenArt](https://openart.ai/discovery?dataSource=sd): Content-based search powered by OpenAI's CLIP model. Favorites.
+- [PromptHero](https://prompthero.com/): [Random wall](https://prompthero.com/random). **Seed**, CFG, Dimensions, Steps. Favorites.
+- [Libraire](https://libraire.ai/): **Seed**, CFG, Dimensions, Steps.
+- [Krea](https://www.krea.ai/): modifiers focused UI. Favorites.
+- [Avyn](http://avyn.com/): Search engine and generator.
+- [Pinegraph](https://pinegraph.com/): [discover](https://pinegraph.com/discover), [create](https://pinegraph.com/create) and edit with Stable/Disco/Waifu diffusion models.
+- [Phraser](https://phraser.tech/compare): text and image search.
+
+**Visual search:**
+
+- [Lexica](https://lexica.art/?q=): enter an image URL in the search bar. Or next to q=. [Example](https://lexica.art/?q=https%3A%2F%2Fi.imgur.com%2FNyURMpx.jpeg)
+- [Phraser](https://phraser.tech/compare): image icon at the right.
+- [same.energy](https://same.energy/)
+- [Yandex](https://yandex.com/images/), [Bing](https://www.bing.com/images/feed), [Google](https://www.google.com/imghp), [Tineye](https://www.tineye.com/), [iqdb](https://iqdb.org/): reverse and similar image search engines.
+- [Pinterest](https://www.pinterest.com/search/)
+- [dessant/search-by-image](https://github.com/dessant/search-by-image): Open-source browser extension for reverse image search.
+
+**Prompt generators:**
+
+- [promptoMANIA](https://promptomania.com/prompt-builder/): **Visual** modifiers. Great selection. With weight setting.
+- [Phase.art](https://www.phase.art/): **Visual** modifiers. SD [Generator and share](https://www.phase.art/images/cl826cjsb000509mlwqbael1i).
+- [Phraser](https://phraser.tech/): **Visual** modifiers.
+- [AI Text Prompt Generator](https://aitextpromptgenerator.com/)
+- [Dynamic Prompt generator](https://rexwang8.github.io/resource/ai/generator)
+- [succinctly/text2image](https://huggingface.co/succinctly/text2image-prompt-generator): GPT-2 Midjourney trained text completion.
+- [Prompt Parrot colab](https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing): Train and generate prompts.
+- [cmdr2](https://github.com/cmdr2/stable-diffusion-ui): 1-click SD installation with image modifiers selection.
+
+**Img2prompt:**
+
+- [img2prompt](https://replicate.com/methexis-inc/img2prompt) Replicate by [methexis-inc](https://replicate.com/methexis-inc): Optimized for SD (clip ViT-L/14).
+- [CLIP Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb) by [@pharmapsychotic](https://twitter.com/pharmapsychotic): select ViTL14 CLIP model.
+- [CLIP Artist Evaluator colab](https://colab.research.google.com/github/lowfuel/CLIP_artists/blob/main/CLIP_Evaluator.ipynb)
+- [BLIP](https://huggingface.co/spaces/Salesforce/BLIP)
+
+**Explore Artists, styles, and modifiers:**
+
+- [Artist Style Studies](https://www.notion.so/e28a4f8d97724f14a784a538b8589e7d) & [Modifier Studies](https://www.notion.so/2b07d3195d5948c6a7e5836f9d535592) by [parrot zone](https://www.notion.so/74a5c04d4feb4f12b52a41fc8750b205): **[Gallery](https://www.notion.so/e28a4f8d97724f14a784a538b8589e7d)**, [Style](https://www.notion.so/e28a4f8d97724f14a784a538b8589e7d), [Spreadsheet](https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit#gid=0)
+- [The Ai Art:](https://www.the-ai-art.com/modifiers) **gallery** for modifiers.
+- [urania.ai](https://www.urania.ai/top-sd-artists): Top 500 Artists **gallery**, sorted by [image count](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/artists?_sort_desc=image_counts). With modifiers/styles.
+- [Generrated](https://generrated.com/): DALL•E 2 table **gallery** sorted by [visual arts media](https://en.wikipedia.org/wiki/Category:Visual_arts_media).
+- [Artist Studies by @remi_durant](https://remidurant.com/artists/): **gallery** and Search.
+- [CLIP Ranked Artists](https://f000.backblazeb2.com/file/clip-artists/index.html): **gallery** sorted by weight/strength.
+- [Clip retrieval](https://knn5.laion.ai/): search [laion-5b](https://laion.ai/blog/laion-5b/) dataset.
+- [Datasette](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls): [image search](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images); image-count sort by [artist](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/artists?_sort_desc=image_counts), [celebrities](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/celebrities?_sort_desc=image_counts), [characters](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/characters?_sort_desc=image_counts), [domain](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/domain?_sort_desc=image_counts)
+- [Visual](https://en.wikipedia.org/wiki/Category:Visual_arts) [arts](https://en.wikipedia.org/wiki/Category:The_arts): [media](https://en.wikipedia.org/wiki/Category:Visual_arts_media) [list](https://en.wikipedia.org/wiki/List_of_art_media), [related](https://en.wikipedia.org/wiki/Category:Arts-related_lists); [Artists](https://en.wikipedia.org/wiki/Category:Artists) [list](https://en.wikipedia.org/wiki/Category:Lists_of_artists) by [genre](https://en.wikipedia.org/wiki/Category:Artists_by_genre), [medium](https://en.wikipedia.org/wiki/Category:Artists_by_medium); [Portal](https://en.wikipedia.org/wiki/Portal:The_arts)
+
+**Guides and studies:**
+
+- [Disco Diffusion Illustrated Settings](https://www.notion.so/cd4badf06e08440c99d8a93d4cd39f51)
+- [Understanding MidJourney (and SD) through teapots.](https://rexwang8.github.io/resource/ai/teapot)
+- [A Traveler’s Guide to the Latent Space](https://www.notion.so/85efba7e5e6a40e5bd3cae980f30235f)
+
+**Prompt Tools directories and guides:**
+
+- [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) by [pharmapsychotic](https://www.reddit.com/user/pharmapsychosis)
+- [Akashic Records](https://github.com/Maks-s/sd-akashic#prompts-toc)
+- [Awesome Stable-Diffusion](https://github.com/Maks-s/sd-akashic#prompts-toc)
+
+**Other SD directories:**
+
+- [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) by [pharmapsychotic](https://www.reddit.com/user/pharmapsychosis)
+- [List of Stable Diffusion systems](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
+- [Active GitHub SD Forks](https://techgaun.github.io/active-forks/index.html#CompVis/stable-diffusion): [hlky sd-webui](https://github.com/sd-webui/stable-diffusion-webui), [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [neonsecret](https://github.com/neonsecret/stable-diffusion), [basujindal](https://github.com/basujindal/stable-diffusion), [lstein](https://github.com/lstein/stable-diffusion), [Doggettx](https://github.com/Doggettx/stable-diffusion), [deforum video](https://github.com/deforum/stable-diffusion)
+
 ### SD Major forks
 
 https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
