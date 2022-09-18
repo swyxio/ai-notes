@@ -72,6 +72,7 @@ Required reading:
   - https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
 - Web Distros
   - https://www.mage.space/
+  - https://inpainter.vercel.app/paint for inpainting
 - Twitter Bots
   - https://twitter.com/diffusionbot
   - https://twitter.com/m1guelpf/status/1569487042345861121
