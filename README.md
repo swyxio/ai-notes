@@ -70,12 +70,16 @@ Required reading:
 - Bundled Distros
   - https://www.charl-e.com/
   - https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
+  - https://nmkd.itch.io/t2i-gui windows
 - Web Distros
   - https://www.mage.space/
+  - https://dreamlike.art/ has img2img
   - https://inpainter.vercel.app/paint for inpainting
 - Twitter Bots
   - https://twitter.com/diffusionbot
   - https://twitter.com/m1guelpf/status/1569487042345861121
+  
+more: https://np.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
 
 ### SD Major forks
 
