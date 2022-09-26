@@ -26,6 +26,8 @@ notes for prompt engineering
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
   - https://creator.nightcafe.studio/collection/8dMYgKm1eVXG7z9pV23W
 - Google released PartiPrompts as a benchmark: https://parti.research.google/ "PartiPrompts (P2) is a rich set of over 1600 prompts in English that we release as part of this work. P2 can be used to measure model capabilities across various categories and challenge aspects."
+- Video tutorials
+  - Pixel art https://www.youtube.com/watch?v=UvJkQPtr-8s&feature=youtu.be
 
 ## Tooling
 
@@ -38,6 +40,8 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Art program plugins
   - Krita: https://github.com/nousr/koi
   - Photoshop: https://old.reddit.com/r/StableDiffusion/comments/wyduk1/show_rstablediffusion_integrating_sd_in_photoshop/
+    - download: https://twitter.com/cantrell/status/1574432458501677058
+    - demo: https://www.youtube.com/watch?v=t_4Y6SUs1cI
   - Figma: https://twitter.com/RemitNotPaucity/status/1562319004563173376?s=20&t=fPSI5JhLzkuZLFB7fntzoA
   - collage tool https://twitter.com/genekogan/status/1555184488606564353
 - Papers
@@ -178,9 +182,12 @@ Forks
 - https://github.com/bfirsh/stable-diffusion
   - works on M1 Macs - [blog](https://replicate.com/blog/run-stable-diffusion-on-m1-mac), [tweet](https://twitter.com/levelsio/status/1565731907664478209)
   - can also look at `environment-mac.yaml` from https://github.com/fragmede/stable-diffusion/blob/mps_consistent_seed/environment-mac.yaml
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon
+  - another m1 mac compatible fork - only 2 samplers, Euler and DPM2, with real-ESRGAN upscaling
+  - https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl
 - https://github.com/harubaru/waifu-diffusion
   - nicer GUI for img2img
-
+- fast-stable-diffusion colabs, +25% speed increase + memory efficient. https://github.com/TheLastBen/fast-stable-diffusion (be careful on gdrive security)
 
 SD Tooling
 
@@ -220,3 +227,10 @@ SD Tooling
 ## SD vs DallE vs MJ
 
 DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025?s=20&t=GCU5prherJvKebRrv9urdw
+
+## Misc
+
+- Whisper
+  - https://huggingface.co/spaces/sensahin/YouWhisper YouWhisper converts Youtube videos to text using openai/whisper.
+  - multilingual subtitles https://twitter.com/1littlecoder/status/1573030143848722433
+  - you can join whisper to stable diffusion for reasons https://twitter.com/fffiloni/status/1573733520765247488/photo/1
