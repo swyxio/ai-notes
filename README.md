@@ -9,7 +9,9 @@ notes for prompt engineering
   - virtual fashion ([karenxcheng](https://twitter.com/karenxcheng/status/1564626773001719813))
   - evolution of scenes ([xander](https://twitter.com/xsteenbrugge/status/1558508866463219712))
   - outpainting https://twitter.com/orbamsterdam/status/1568200010747068417?s=21&t=rliacnWOIjJMiS37s8qCCw
+  - webUI img2img collaboration https://twitter.com/_akhaliq/status/1563582621757898752
   - image to video with rotation https://twitter.com/TomLikesRobots/status/1571096804539912192
+  - "prompt paint" https://twitter.com/1littlecoder/status/1572573152974372864
 - gpt3 applications
   - text to graphviz https://twitter.com/goodside/status/1561549768987496449?s=21&t=rliacnWOIjJMiS37s8qCCw
   - suspedning to python for math   
@@ -197,6 +199,11 @@ SD Tooling
 - misc
   - (super super raw dont try yet) https://github.com/breadthe/sd-buddy
 
+Other languages
+
+- Chinese: https://twitter.com/_akhaliq/status/1572580845785083906
+- Japanese: https://twitter.com/_akhaliq/status/1571977273489739781
+
 ## SD Model values
 
 
@@ -232,5 +239,8 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
 
 - Whisper
   - https://huggingface.co/spaces/sensahin/YouWhisper YouWhisper converts Youtube videos to text using openai/whisper.
+  - https://twitter.com/jeffistyping/status/1573145140205846528 youtube whipserer
   - multilingual subtitles https://twitter.com/1littlecoder/status/1573030143848722433
   - you can join whisper to stable diffusion for reasons https://twitter.com/fffiloni/status/1573733520765247488/photo/1
+- Codegen
+  - CodegeeX https://twitter.com/thukeg/status/1572218413694726144
