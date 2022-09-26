@@ -81,7 +81,7 @@ Required reading:
 ### Distros
 
 - Bundled Distros
-  - https://www.charl-e.com/
+  - https://www.charl-e.com/ ([intro](https://twitter.com/charliebholtz/status/1571138577744138240))
   - https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
   - https://nmkd.itch.io/t2i-gui windows
 - Web Distros
