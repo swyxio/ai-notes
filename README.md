@@ -33,6 +33,8 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 
 ## Tooling
 
+- Prompt Generator: https://huggingface.co/succinctly/text2image-prompt-generator
+  - This is a GPT-2 model fine-tuned on the succinctly/midjourney-prompts dataset, which contains 250k text prompts that users issued to the Midjourney text-to-image service over a month period. This prompt generator can be used to auto-complete prompts for any text-to-image model (including the DALL·E family)
 - Deforum Diffusion https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb
 - Disco Diffusion https://news.ycombinator.com/item?id=32660138
 - [Edsynth](https://www.youtube.com/watch?v=eghGQtQhY38) and [DAIN](https://twitter.com/karenxcheng/status/1564635828436885504) for coherence
