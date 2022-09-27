@@ -67,6 +67,7 @@ Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list
   - https://arthub.ai/
   - https://lexica.art/
   - https://dallery.gallery/
+  - https://generrated.com/
 
 ## Stable Diffusion
 
