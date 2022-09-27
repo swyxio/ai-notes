@@ -12,6 +12,7 @@ notes for prompt engineering
   - webUI img2img collaboration https://twitter.com/_akhaliq/status/1563582621757898752
   - image to video with rotation https://twitter.com/TomLikesRobots/status/1571096804539912192
   - "prompt paint" https://twitter.com/1littlecoder/status/1572573152974372864
+  - music videos [video](https://www.youtube.com/watch?v=WJaxFbdjm8c), [colab](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
 - gpt3 applications
   - text to graphviz https://twitter.com/goodside/status/1561549768987496449?s=21&t=rliacnWOIjJMiS37s8qCCw
   - suspedning to python for math   
