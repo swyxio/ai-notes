@@ -31,6 +31,8 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Google released PartiPrompts as a benchmark: https://parti.research.google/ "PartiPrompts (P2) is a rich set of over 1600 prompts in English that we release as part of this work. P2 can be used to measure model capabilities across various categories and challenge aspects."
 - Video tutorials
   - Pixel art https://www.youtube.com/watch?v=UvJkQPtr-8s&feature=youtu.be
+- Misc
+  - StabilityAI CIO perspective https://danieljeffries.substack.com/p/the-turning-point-for-truly-open?sd=pf
 
 ## Tooling
 
@@ -60,6 +62,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Papers
   - 2015: [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf) founding paper of diffusion models
   - Textual Inversion: https://arxiv.org/abs/2208.01618
+  - https://dreambooth.github.io/
     - productized as dreambooth https://twitter.com/psuraj28/status/1575123562435956740
 
 Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
