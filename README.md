@@ -38,6 +38,12 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
   - This is a GPT-2 model fine-tuned on the succinctly/midjourney-prompts dataset, which contains 250k text prompts that users issued to the Midjourney text-to-image service over a month period. This prompt generator can be used to auto-complete prompts for any text-to-image model (including the DALL·E family)
 - Prompt Parrot https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing
   - This notebook is designed to train language model on a list of your prompts,generate prompts in your style, and synthesize wonderful surreal images! ✨
+- https://twitter.com/stuhlmueller/status/1575187860063285248
+  - The Interactive Composition Explorer (ICE), a Python library for writing and debugging compositional language model programs https://github.com/oughtinc/ice
+  - The Factored Cognition Primer, a tutorial that shows using examples how to write such programs https://primer.ought.org
+- Prompt Explorer
+  - https://twitter.com/fabianstelzer/status/1575088140234428416
+  - https://docs.google.com/spreadsheets/d/1oi0fwTNuJu5EYM2DIndyk0KeAY8tL6-Qd1BozFb9Zls/edit#gid=1567267935 
 - Deforum Diffusion https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb
 - Disco Diffusion https://news.ycombinator.com/item?id=32660138
 - [Edsynth](https://www.youtube.com/watch?v=eghGQtQhY38) and [DAIN](https://twitter.com/karenxcheng/status/1564635828436885504) for coherence
@@ -54,6 +60,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Papers
   - 2015: [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf) founding paper of diffusion models
   - Textual Inversion: https://arxiv.org/abs/2208.01618
+    - productized as dreambooth https://twitter.com/psuraj28/status/1575123562435956740
 
 Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
 
@@ -219,6 +226,7 @@ Other languages
   - https://twitter.com/johnowhitaker/status/1565710033463156739
   - https://twitter.com/ai__pub/status/1561362542487695360
   - https://twitter.com/JayAlammar/status/1572297768693006337
+  - inside https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/#wait-how-does-this-even-work
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
   - explore: https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images
   - search: https://haveibeentrained.com/ ([tweet](https://twitter.com/matdryhurst/status/1570143343157575680))
@@ -248,6 +256,8 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
   - https://huggingface.co/spaces/sensahin/YouWhisper YouWhisper converts Youtube videos to text using openai/whisper.
   - https://twitter.com/jeffistyping/status/1573145140205846528 youtube whipserer
   - multilingual subtitles https://twitter.com/1littlecoder/status/1573030143848722433
+  - video subtitles https://twitter.com/m1guelpf/status/1574929980207034375
   - you can join whisper to stable diffusion for reasons https://twitter.com/fffiloni/status/1573733520765247488/photo/1
+  - known problems https://twitter.com/lunixbochs/status/1574848899897884672 (edge case with catastrophic failures)
 - Codegen
   - CodegeeX https://twitter.com/thukeg/status/1572218413694726144
