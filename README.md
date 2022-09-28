@@ -28,6 +28,7 @@ notes for prompt engineering
   - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview
   - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 - Intermediate
+  - go through all the GPT3 examples https://beta.openai.com/examples
   - play with the smaller GPT3 models https://beta.openai.com/docs/models/gpt-3
   - and deploy GPT2 https://huggingface.co/gpt2
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
