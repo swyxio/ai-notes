@@ -64,6 +64,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
   - Textual Inversion: https://arxiv.org/abs/2208.01618
   - https://dreambooth.github.io/
     - productized as dreambooth https://twitter.com/psuraj28/status/1575123562435956740
+    - https://github.com/JoePenna/Dreambooth-Stable-Diffusion
 
 Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
 
