@@ -24,7 +24,11 @@ notes for prompt engineering
 - https://www.gwern.net/GPT-3#prompts-as-programming
 - beginner
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
+  - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview
   - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+- Intermediate
+  - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
+  - settings tweaking https://www.reddit.com/r/StableDiffusion/comments/x3k79h/the_feeling_of_discovery_sd_is_like_a_great_proc/
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
   - https://creator.nightcafe.studio/collection/8dMYgKm1eVXG7z9pV23W
@@ -190,7 +194,7 @@ Forks
   - https://github.com/AbdBarho/stable-diffusion-webui-docker
     - Run Stable Diffusion on your machine with a nice UI without any hassle! This repository provides the WebUI as a docker image for easy setup and deployment. Please note that the WebUI is experimental and evolving quickly, so expect some bugs.
     - doesnt work on m1 mac yet https://github.com/AbdBarho/stable-diffusion-webui-docker/issues/31
-- https://github.com/lstein/stable-diffusion and https://github.com/magnusviri/stable-diffusion
+- https://github.com/invoke-ai/InvokeAI (previously https://github.com/lstein/stable-diffusion) and https://github.com/magnusviri/stable-diffusion
   - An interactive command-line interface that accepts the same prompt and switches as the Discord bot.
   - A basic Web interface that allows you to run a local web server for generating images in your browser.
   - A notebook for running the code on Google Colab.
