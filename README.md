@@ -23,6 +23,7 @@ notes for prompt engineering
 
 - https://www.gwern.net/GPT-3#prompts-as-programming
 - beginner
+  - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
   - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview
   - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
