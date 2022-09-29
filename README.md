@@ -55,6 +55,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Prompt Explorer
   - https://twitter.com/fabianstelzer/status/1575088140234428416
   - https://docs.google.com/spreadsheets/d/1oi0fwTNuJu5EYM2DIndyk0KeAY8tL6-Qd1BozFb9Zls/edit#gid=1567267935 
+- Prompt generator https://www.aiprompt.io/
 - Deforum Diffusion https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb
 - Disco Diffusion https://news.ycombinator.com/item?id=32660138
 - [Edsynth](https://www.youtube.com/watch?v=eghGQtQhY38) and [DAIN](https://twitter.com/karenxcheng/status/1564635828436885504) for coherence
@@ -87,6 +88,7 @@ Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list
 - Prompt Galleries
   - https://arthub.ai/
   - https://lexica.art/
+  - https://avyn.com/
   - https://dallery.gallery/
   - [The Ai Art:](https://www.the-ai-art.com/modifiers) **gallery** for modifiers.
   - [urania.ai](https://www.urania.ai/top-sd-artists): Top 500 Artists **gallery**, sorted by [image count](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/artists?_sort_desc=image_counts). With modifiers/styles.
