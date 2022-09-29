@@ -16,6 +16,7 @@ notes for prompt engineering
   - direct text2video project
     - https://twitter.com/_akhaliq/status/1575546841533497344
     - https://makeavideo.studio/
+    - https://phenaki.video/
 - text-to-3d https://twitter.com/_akhaliq/status/1575541930905243652
   -  https://dreamfusion3d.github.io/
 - gpt3 applications
