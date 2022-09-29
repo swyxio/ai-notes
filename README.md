@@ -13,6 +13,10 @@ notes for prompt engineering
   - image to video with rotation https://twitter.com/TomLikesRobots/status/1571096804539912192
   - "prompt paint" https://twitter.com/1littlecoder/status/1572573152974372864
   - music videos [video](https://www.youtube.com/watch?v=WJaxFbdjm8c), [colab](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
+  - direct text2video project
+    - https://twitter.com/_akhaliq/status/1575546841533497344
+    - https://makeavideo.studio/
+- text-to-3d https://twitter.com/_akhaliq/status/1575541930905243652
 - gpt3 applications
   - text to graphviz https://twitter.com/goodside/status/1561549768987496449?s=21&t=rliacnWOIjJMiS37s8qCCw
   - suspedning to python for math   
@@ -273,5 +277,7 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
   - video subtitles https://twitter.com/m1guelpf/status/1574929980207034375
   - you can join whisper to stable diffusion for reasons https://twitter.com/fffiloni/status/1573733520765247488/photo/1
   - known problems https://twitter.com/lunixbochs/status/1574848899897884672 (edge case with catastrophic failures)
+- textually guided audio https://twitter.com/_akhaliq/status/1575555973028188160
 - Codegen
   - CodegeeX https://twitter.com/thukeg/status/1572218413694726144
+  - https://github.com/salesforce/CodeGen https://joel.tools/codegen/
