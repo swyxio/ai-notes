@@ -17,6 +17,7 @@ notes for prompt engineering
     - https://twitter.com/_akhaliq/status/1575546841533497344
     - https://makeavideo.studio/
 - text-to-3d https://twitter.com/_akhaliq/status/1575541930905243652
+  -  https://dreamfusion3d.github.io/
 - gpt3 applications
   - text to graphviz https://twitter.com/goodside/status/1561549768987496449?s=21&t=rliacnWOIjJMiS37s8qCCw
   - suspedning to python for math   
