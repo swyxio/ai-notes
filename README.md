@@ -38,6 +38,7 @@ notes for prompt engineering
   - go through all the GPT3 examples https://beta.openai.com/examples
   - play with the smaller GPT3 models https://beta.openai.com/docs/models/gpt-3
   - and deploy GPT2 https://huggingface.co/gpt2
+  - write a blogpost with GPT3 https://www.youtube.com/watch?v=NC7990PmDfM
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
     - https://medium.com/merzazine/prompt-design-for-dall-e-photorealism-emulating-reality-6f478df6f186
   - settings tweaking https://www.reddit.com/r/StableDiffusion/comments/x3k79h/the_feeling_of_discovery_sd_is_like_a_great_proc/
