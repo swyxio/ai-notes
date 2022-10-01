@@ -206,6 +206,7 @@ Adding the right enhancers can really tweak the outcome:
       - `in the style of Antoni Gaudi`
       - `in the style of Frank Gehry`
   - Quality
+    - lens aperture actually really does matter https://twitter.com/sharifshameem/status/1528155519889727488
     - `Ilford HP5 400`
     - `IMAX`
     - `20 megapixels`
