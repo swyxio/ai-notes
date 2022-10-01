@@ -24,6 +24,7 @@ notes for prompt engineering
   - suspedning to python for math   
     - https://twitter.com/sharifshameem/status/1414029295043764226?lang=en
     - https://twitter.com/amasad/status/1568824744367259648
+    - and API's https://twitter.com/sergeykarayev/status/1569377881440276481
 
 ## Top Prompt Engineering Reads
 
