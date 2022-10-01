@@ -39,6 +39,7 @@ notes for prompt engineering
   - go through all the GPT3 examples https://beta.openai.com/examples
   - play with the smaller GPT3 models https://beta.openai.com/docs/models/gpt-3
   - and deploy GPT2 https://huggingface.co/gpt2
+  - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - write a blogpost with GPT3 https://www.youtube.com/watch?v=NC7990PmDfM
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
     - https://medium.com/merzazine/prompt-design-for-dall-e-photorealism-emulating-reality-6f478df6f186
@@ -202,6 +203,7 @@ https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusio
 
 Forks 
 
+- https://github.com/lkwq007/stablediffusion-infinity Outpainting with Stable Diffusion on an infinite canvas.
 - https://github.com/basujindal/stable-diffusion 
   This repo is a modified version of the Stable Diffusion repo, optimized to use less VRAM than the original by sacrificing inference speed.
 - https://github.com/hlky/stable-diffusion ([here is](https://www.reddit.com/r/StableDiffusion/comments/x28a76/stable_diffusion_web_ui/) another fork that might be better)
@@ -284,7 +286,7 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
   - video subtitles https://twitter.com/m1guelpf/status/1574929980207034375
   - you can join whisper to stable diffusion for reasons https://twitter.com/fffiloni/status/1573733520765247488/photo/1
   - known problems https://twitter.com/lunixbochs/status/1574848899897884672 (edge case with catastrophic failures)
-- textually guided audio https://twitter.com/_akhaliq/status/1575555973028188160
+- textually guided audio https://twitter.com/FelixKreuk/status/1575846953333579776
 - Codegen
   - CodegeeX https://twitter.com/thukeg/status/1572218413694726144
   - https://github.com/salesforce/CodeGen https://joel.tools/codegen/
