@@ -288,3 +288,4 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
 - Codegen
   - CodegeeX https://twitter.com/thukeg/status/1572218413694726144
   - https://github.com/salesforce/CodeGen https://joel.tools/codegen/
+- pdf to structured data https://www.impira.com/blog/hey-machine-whats-my-invoice-total
