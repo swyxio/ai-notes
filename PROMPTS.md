@@ -227,7 +227,8 @@ Other kinds of prompts are worth trying too!
   - Elizabeth Tillman, USA
   - Meghan Lindgren, Nicaragua
   - Don Goldner, Dominican Republic
-- negative prompts (append ::-1 to get away from the prompt) https://twitter.com/supercomposite/status/1567162288087470081?s=21&t=ftHBU5iD-T9qUdS3tbTU6A
+- negative prompts (append ::-1 to get away from the prompt) https://twitter.com/supercomposite/status/1567162288087470081?s=21&t=ftHBU5iD-T9qUdS3tbTU6A 
+-  https://www.reddit.com/r/StableDiffusion/comments/xs2b2k/comment/iqj0mil/?utm_source=reddit&utm_medium=web2x&context=3
 - https://twitter.com/_benoitmartinez/status/1566439265218838530?s=21&t=RdQ-vfnKdUWZ-oZJhbc37g
   - `_age_ _adjective_ _job_ _bodyType_ _genre_ from _country_, _adjective_ lighting`
 
