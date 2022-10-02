@@ -218,7 +218,7 @@ Forks
   - A basic Web interface that allows you to run a local web server for generating images in your browser.
   - A notebook for running the code on Google Colab.
   - Support for img2img in which you provide a seed image to guide the image creation. (inpainting & masking coming soon)
-  - Upscaling and face fixing using the optional ESRGAN and GFPGAN packages.
+  - Upscaling and face fixing using the optional ESRGAN (standalone: https://news.ycombinator.com/item?id=32628761) and GFPGAN packages.
   - Weighted subprompts for prompt tuning.
   - Textual inversion for customization of the prompt language and images.
 - https://github.com/bfirsh/stable-diffusion
