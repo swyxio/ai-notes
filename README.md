@@ -41,6 +41,7 @@ notes for prompt engineering
   - go through all the GPT3 examples https://beta.openai.com/examples
   - play with the smaller GPT3 models https://beta.openai.com/docs/models/gpt-3
   - and deploy GPT2 https://huggingface.co/gpt2
+  - using gpt3 for text2image prompts https://twitter.com/fabianstelzer/status/1554229347506176001
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - write a blogpost with GPT3 https://www.youtube.com/watch?v=NC7990PmDfM
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
