@@ -32,6 +32,7 @@ notes for prompt engineering
 - https://www.gwern.net/GPT-3#prompts-as-programming
 - beginner
   - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
+  - DALLE2 prompt writing book http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
   - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview
   - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
@@ -90,9 +91,12 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
   - examples: https://twitter.com/TomLikesRobots/status/1566152352117161990
 - Art program plugins
   - Krita: https://github.com/nousr/koi
+  - GIMP https://80.lv/articles/a-new-stable-diffusion-plug-in-for-gimp-krita/
   - Photoshop: https://old.reddit.com/r/StableDiffusion/comments/wyduk1/show_rstablediffusion_integrating_sd_in_photoshop/
     - download: https://twitter.com/cantrell/status/1574432458501677058
+    - https://www.getalpaca.io/
     - demo: https://www.youtube.com/watch?v=t_4Y6SUs1cI
+    - tutorial https://odysee.com/@MaxChromaColor:2/how-to-install-the-free-stable-diffusion:1
   - Figma: https://twitter.com/RemitNotPaucity/status/1562319004563173376?s=20&t=fPSI5JhLzkuZLFB7fntzoA
   - collage tool https://twitter.com/genekogan/status/1555184488606564353
 - Papers
