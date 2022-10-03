@@ -166,7 +166,7 @@ Adding the right enhancers can really tweak the outcome:
     - `Ukiyo-e`
     - `underground comix`
     - `vorticism`
-  - by [artist] ([1500 artists here](https://gorgeous.adityashankar.xyz/))
+  - by [artist] ([1500+ artist study here](https://proximacentaurib.notion.site/e28a4f8d97724f14a784a538b8589e7d?v=42948fd8f45c4d47a0edfc4b78937474), and [a worse/limited one here](https://gorgeous.adityashankar.xyz/))
     - `Norman Rockwell`
     - `Gustav Klimt`
     - `Vincent Van Gogh`/`Van Gogh`
