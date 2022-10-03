@@ -46,6 +46,7 @@ notes for prompt engineering
   - using gpt3 for text2image prompts https://twitter.com/fabianstelzer/status/1554229347506176001
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - write a blogpost with GPT3 https://www.youtube.com/watch?v=NC7990PmDfM
+  - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
     - https://medium.com/merzazine/prompt-design-for-dall-e-photorealism-emulating-reality-6f478df6f186
   - settings tweaking https://www.reddit.com/r/StableDiffusion/comments/x3k79h/the_feeling_of_discovery_sd_is_like_a_great_proc/
@@ -280,6 +281,7 @@ Other languages
   - https://twitter.com/johnowhitaker/status/1565710033463156739
   - https://twitter.com/ai__pub/status/1561362542487695360
   - https://twitter.com/JayAlammar/status/1572297768693006337
+  - https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing
   - inside https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/#wait-how-does-this-even-work
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
   - explore: https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/images
