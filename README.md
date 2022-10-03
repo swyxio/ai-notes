@@ -242,6 +242,7 @@ Forks
   - Upscaling and face fixing using the optional ESRGAN (standalone: https://news.ycombinator.com/item?id=32628761) and GFPGAN packages.
   - Weighted subprompts for prompt tuning.
   - Textual inversion for customization of the prompt language and images.
+  - fuller feature list https://www.reddit.com/r/StableDiffusion/comments/xcclmf/comment/io6u03s/?utm_source=reddit&utm_medium=web2x&context=3
 - https://github.com/bfirsh/stable-diffusion
   - works on M1 Macs - [blog](https://replicate.com/blog/run-stable-diffusion-on-m1-mac), [tweet](https://twitter.com/levelsio/status/1565731907664478209)
   - can also look at `environment-mac.yaml` from https://github.com/fragmede/stable-diffusion/blob/mps_consistent_seed/environment-mac.yaml
