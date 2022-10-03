@@ -17,6 +17,7 @@ notes for prompt engineering
     - https://twitter.com/_akhaliq/status/1575546841533497344
     - https://makeavideo.studio/
     - https://phenaki.video/
+    - https://github.com/THUDM/CogVideo
 - text-to-3d https://twitter.com/_akhaliq/status/1575541930905243652
   -  https://dreamfusion3d.github.io/
 - gpt3 applications
@@ -56,6 +57,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
   - Pixel art https://www.youtube.com/watch?v=UvJkQPtr-8s&feature=youtu.be
 - Misc
   - StabilityAI CIO perspective https://danieljeffries.substack.com/p/the-turning-point-for-truly-open?sd=pf
+  - https://github.com/awesome-stable-diffusion/awesome-stable-diffusion
 
 ## Tooling
 
@@ -70,8 +72,18 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
   - https://twitter.com/fabianstelzer/status/1575088140234428416
   - https://docs.google.com/spreadsheets/d/1oi0fwTNuJu5EYM2DIndyk0KeAY8tL6-Qd1BozFb9Zls/edit#gid=1567267935 
 - Prompt generator https://www.aiprompt.io/
+- GUIs
+  - 🌟 https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  - notable fork https://github.com/sd-webui/stable-diffusion-webui
+  - https://nmkd.itch.io/t2i-gui
+  - windows https://github.com/razzorblade/stable-diffusion-gui
+  - mac https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
+  - https://github.com/Fictiverse/StableDiffusion-Windows-GUI
+  - https://www.reddit.com/r/StableDiffusion/comments/xawppz/stable_diffusion_windows_gui_08_release/
+  - https://www.reddit.com/r/StableDiffusion/comments/xc65as/face_swapping/ -> interface which uses diffusers with https://github.com/leszekhanusz/diffusion-ui
 - Deforum Diffusion https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb
-- Disco Diffusion https://news.ycombinator.com/item?id=32660138
+- Disco Diffusion https://news.ycombinator.com/item?id=32660138 "A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations."
+- [Waifu Diffusion]([url](https://www.reddit.com/r/StableDiffusion/comments/x8y1u3/waifudiffusion_v12_a_sd_14_model_finetuned_on_56k/)) "A model trained on danbooru (anime/manga drawing site with also lewds and nsfw on it) over 56k images.Produces FAR BETTER results if you're interested in getting manga and anime stuff out of stable diffusion."
 - [Edsynth](https://www.youtube.com/watch?v=eghGQtQhY38) and [DAIN](https://twitter.com/karenxcheng/status/1564635828436885504) for coherence
 - [FILM: Frame Interpolation for Large Motion](https://film-net.github.io/) ([github](https://github.com/google-research/frame-interpolation))
 - [Depth Mapping](https://github.com/compphoto/BoostingMonocularDepth)
@@ -98,7 +110,7 @@ Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list
 - Deforum Discord https://discord.gg/upmXXsrwZc
 - Lexica Discord https://discord.com/invite/bMHBjJ9wRh
 - Midjourney
-- https://promptbase.com/
+- https://promptbase.com/ Selling prompts that produce desirable results
 - Prompt Galleries
   - https://arthub.ai/
   - https://lexica.art/
@@ -133,6 +145,9 @@ Required reading:
 - Twitter Bots
   - https://twitter.com/diffusionbot
   - https://twitter.com/m1guelpf/status/1569487042345861121
+- Windows "retard guides"
+  - https://rentry.org/voldy
+  - https://rentry.org/GUItard
   
 more: https://np.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
 
@@ -142,7 +157,7 @@ more: https://np.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engi
 - [OpenArt](https://openart.ai/discovery?dataSource=sd): Content-based search powered by OpenAI's CLIP model. Favorites.
 - [PromptHero](https://prompthero.com/): [Random wall](https://prompthero.com/random). **Seed**, CFG, Dimensions, Steps. Favorites.
 - [Libraire](https://libraire.ai/): **Seed**, CFG, Dimensions, Steps.
-- [Krea](https://www.krea.ai/): modifiers focused UI. Favorites.
+- [Krea](https://www.krea.ai/): modifiers focused UI. Favorites. Gives prompt suggestions and allows to create prompts over Stable diffusion, Waifu Diffusion and Disco diffusion. Really quick and useful
 - [Avyn](http://avyn.com/): Search engine and generator.
 - [Pinegraph](https://pinegraph.com/): [discover](https://pinegraph.com/discover), [create](https://pinegraph.com/create) and edit with Stable/Disco/Waifu diffusion models.
 - [Phraser](https://phraser.tech/compare): text and image search.
