@@ -103,9 +103,11 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Papers
   - 2015: [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf) founding paper of diffusion models
   - Textual Inversion: https://arxiv.org/abs/2208.01618
+  - 2017: Attention is all you need
   - https://dreambooth.github.io/
     - productized as dreambooth https://twitter.com/psuraj28/status/1575123562435956740
     - https://github.com/JoePenna/Dreambooth-Stable-Diffusion
+  - [very good BLOOM model overview](https://www.youtube.com/watch?v=3EjtHs_lXnk)
 
 Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
 
