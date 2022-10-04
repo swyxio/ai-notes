@@ -123,7 +123,8 @@ Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list
 - https://promptbase.com/ Selling prompts that produce desirable results
 - Prompt Galleries
   - https://arthub.ai/
-  - https://lexica.art/
+  - 🌟 https://lexica.art/
+  - https://pagebrain.ai/promptsearch/
   - https://avyn.com/
   - https://dallery.gallery/
   - [The Ai Art:](https://www.the-ai-art.com/modifiers) **gallery** for modifiers.
