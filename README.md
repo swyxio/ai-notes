@@ -281,6 +281,7 @@ Other languages
   - https://twitter.com/johnowhitaker/status/1565710033463156739
   - https://twitter.com/ai__pub/status/1561362542487695360
   - https://twitter.com/JayAlammar/status/1572297768693006337
+    - https://jalammar.github.io/illustrated-stable-diffusion/
   - https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing
   - inside https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/#wait-how-does-this-even-work
 - [Exploring 12 Million of the 2.3 Billion Images Used to Train Stable Diffusion’s Image Generator](https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/)
