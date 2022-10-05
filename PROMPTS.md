@@ -1,3 +1,26 @@
+The basic intuition of Stable Diffusion is that you have to add descriptors to get what you want. 
+
+From [here](https://news.ycombinator.com/item?id=33086085):
+
+<details>
+	<summary>
+		"George Washington riding a Unicorn in Times Square"
+	</summary>
+
+  ![image](https://user-images.githubusercontent.com/6764957/194002068-bf0345a6-1826-4a41-8c39-47fee653e207.png)
+
+</details>
+
+<details>
+	<summary>
+		George Washington riding a unicorn in Times Square, cinematic composition, concept art, digital illustration, detailed
+	</summary>
+
+
+  ![image](https://user-images.githubusercontent.com/6764957/194002170-748bfe81-8e60-4b32-8a43-162f470b9d9f.png)
+
+
+</details>
 
 Prompts might go in the form of 
 
