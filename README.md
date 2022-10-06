@@ -15,9 +15,10 @@ notes for prompt engineering
   - music videos [video](https://www.youtube.com/watch?v=WJaxFbdjm8c), [colab](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
   - direct text2video project
     - https://twitter.com/_akhaliq/status/1575546841533497344
-    - https://makeavideo.studio/
+    - https://makeavideo.studio/ - explorer https://webvid.datasette.io/webvid/videos
     - https://phenaki.video/
     - https://github.com/THUDM/CogVideo
+    - https://imagen.research.google/video/
 - text-to-3d https://twitter.com/_akhaliq/status/1575541930905243652
   -  https://dreamfusion3d.github.io/
 - gpt3 applications
