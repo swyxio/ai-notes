@@ -45,6 +45,8 @@ notes for prompt engineering
   - and deploy GPT2 https://huggingface.co/gpt2
   - Prompt structure with extensive examples
     - review feedback extraction https://www.youtube.com/watch?v=3EjtHs_lXnk&t=1009s
+  - Ask Me Anything prompting
+    - https://twitter.com/_akhaliq/status/1577838951905247235
   - using gpt3 for text2image prompts https://twitter.com/fabianstelzer/status/1554229347506176001
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - write a blogpost with GPT3 https://www.youtube.com/watch?v=NC7990PmDfM
@@ -275,6 +277,7 @@ Other languages
 
 - Chinese: https://twitter.com/_akhaliq/status/1572580845785083906
 - Japanese: https://twitter.com/_akhaliq/status/1571977273489739781
+  - https://huggingface.co/blog/japanese-stable-diffusion
 
 ## SD Model values
 
@@ -325,3 +328,6 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
   - CodegeeX https://twitter.com/thukeg/status/1572218413694726144
   - https://github.com/salesforce/CodeGen https://joel.tools/codegen/
 - pdf to structured data https://www.impira.com/blog/hey-machine-whats-my-invoice-total
+- text to Human Motion diffusion https://twitter.com/GuyTvt/status/1577947409551851520
+  - abs: https://arxiv.org/abs/2209.14916 
+  - project page: https://guytevet.github.io/mdm-page/
