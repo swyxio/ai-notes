@@ -40,6 +40,8 @@ notes for prompt engineering
 - Intermediate
   - go through all the GPT3 examples https://beta.openai.com/examples
   - play with the smaller GPT3 models https://beta.openai.com/docs/models/gpt-3
+  - technique: self-asking, two step prompts https://twitter.com/OfirPress/status/1577302998136819713
+    - chain of thought prompting https://twitter.com/OfirPress/status/1577303423602790401
   - and deploy GPT2 https://huggingface.co/gpt2
   - Prompt structure with extensive examples
     - review feedback extraction https://www.youtube.com/watch?v=3EjtHs_lXnk&t=1009s
@@ -53,6 +55,7 @@ notes for prompt engineering
     - seed selection https://www.reddit.com/r/StableDiffusion/comments/x8szj9/tutorial_seed_selection_and_the_impact_on_your/
     - minor parameter parameter difference study (steps, clamp_max, ETA, cutn_batches, etc) https://twitter.com/KyrickYoung/status/1500196286930292742
 - Advanced
+  - integrating Google Search with GPT3: https://twitter.com/OfirPress/status/1577302733383925762
   - teach AI how to fish - You are X, you can do Y: https://github.com/nat/natbot/blob/main/natbot.py
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
