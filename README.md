@@ -60,6 +60,7 @@ notes for prompt engineering
 - Advanced
   - integrating Google Search with GPT3: https://twitter.com/OfirPress/status/1577302733383925762
   - teach AI how to fish - You are X, you can do Y: https://github.com/nat/natbot/blob/main/natbot.py
+  - play with gpt-neoX and gpt-j https://neox.labml.ai/playground
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
   - https://creator.nightcafe.studio/collection/8dMYgKm1eVXG7z9pV23W
@@ -159,6 +160,7 @@ Required reading:
   - https://www.mage.space/
   - https://dreamlike.art/ has img2img
   - https://inpainter.vercel.app/paint for inpainting
+  - https://promptart.labml.ai/feed
 - Twitter Bots
   - https://twitter.com/diffusionbot
   - https://twitter.com/m1guelpf/status/1569487042345861121
