@@ -276,6 +276,7 @@ Forks
 SD Tooling
 
 - SD's DreamStudio https://beta.dreamstudio.ai/dream
+- Stable Worlds: [colab](https://colab.research.google.com/drive/1RXRrkKUnpNiPCxTJg0Imq7sIM8ltYFz2?usp=sharing) for 3d stitched worlds via StableDiffusion https://twitter.com/NaxAlpha/status/1578685845099290624
 - Midjourney + SD: https://twitter.com/EMostaque/status/1561917541743841280
 - [Nightcafe Studio](https://creator.nightcafe.studio/stable-diffusion-image-generator)
 - misc
