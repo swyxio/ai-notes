@@ -141,7 +141,8 @@ Live updated list: https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list
   - [urania.ai](https://www.urania.ai/top-sd-artists): Top 500 Artists **gallery**, sorted by [image count](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/artists?_sort_desc=image_counts). With modifiers/styles.
   - [Generrated](https://generrated.com/): DALL•E 2 table **gallery** sorted by [visual arts media](https://en.wikipedia.org/wiki/Category:Visual_arts_media).
   - [Artist Studies by @remi_durant](https://remidurant.com/artists/): **gallery** and Search.
-  - [CLIP Ranked Artists](https://f000.backblazeb2.com/file/clip-artists/index.html): **gallery** sorted by weight/strength.Z
+  - [CLIP Ranked Artists](https://f000.backblazeb2.com/file/clip-artists/index.html): **gallery** sorted by weight/strength.
+  - https://publicprompts.art/ very basic/limited but some good prompts
 
 ## Stable Diffusion
 
@@ -164,6 +165,7 @@ Required reading:
   - https://dreamlike.art/ has img2img
   - https://inpainter.vercel.app/paint for inpainting
   - https://promptart.labml.ai/feed
+  - https://www.strmr.com/ dreambooth tuning for $3
 - Twitter Bots
   - https://twitter.com/diffusionbot
   - https://twitter.com/m1guelpf/status/1569487042345861121
