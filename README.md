@@ -40,6 +40,7 @@ notes for prompt engineering
   - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview
   - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
   - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
+  - https://andymatuschak.org/prompts/
 - Intermediate
   - go through all the GPT3 examples https://beta.openai.com/examples
   - play with the smaller GPT3 models https://beta.openai.com/docs/models/gpt-3
