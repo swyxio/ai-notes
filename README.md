@@ -4,6 +4,8 @@ notes for prompt engineering
 
 ## Motivational Use Cases
 
+- images
+  - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
 - video
   - img2img of famous movie scenes ([lalaland](https://twitter.com/TomLikesRobots/status/1565678995986911236))
   - virtual fashion ([karenxcheng](https://twitter.com/karenxcheng/status/1564626773001719813))
