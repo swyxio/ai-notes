@@ -65,6 +65,7 @@ notes for prompt engineering
   - teach AI how to fish - You are X, you can do Y: https://github.com/nat/natbot/blob/main/natbot.py
   - play with gpt-neoX and gpt-j https://neox.labml.ai/playground
   - defense against prompt injection https://twitter.com/goodside/status/1578278974526222336
+  - whatever the f this is https://twitter.com/goodside/status/1578614244290924545?s=20&t=UX2WDbF9c2ZgFNBcyYF2iQ
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
   - https://creator.nightcafe.studio/collection/8dMYgKm1eVXG7z9pV23W
