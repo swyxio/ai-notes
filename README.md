@@ -238,7 +238,7 @@ more: https://np.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engi
 
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) by [pharmapsychotic](https://www.reddit.com/user/pharmapsychosis)
 - [List of Stable Diffusion systems](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)
-- [Active GitHub SD Forks](https://techgaun.github.io/active-forks/index.html#CompVis/stable-diffusion): [hlky sd-webui](https://github.com/sd-webui/stable-diffusion-webui), [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [neonsecret](https://github.com/neonsecret/stable-diffusion), [basujindal](https://github.com/basujindal/stable-diffusion), [lstein](https://github.com/lstein/stable-diffusion), [Doggettx](https://github.com/Doggettx/stable-diffusion), [deforum video](https://github.com/deforum/stable-diffusion)
+- [Active GitHub SD Forks](https://techgaun.github.io/active-forks/index.html#CompVis/stable-diffusion): [hlky sd-webui](https://github.com/sd-webui/stable-diffusion-webui), [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui), [neonsecret](https://github.com/neonsecret/stable-diffusion), [basujindal](https://github.com/basujindal/stable-diffusion), [InvokeAI](https://github.com/invoke-ai/InvokeAI), [Doggettx](https://github.com/Doggettx/stable-diffusion), [deforum video](https://github.com/deforum/stable-diffusion)
 
 ### SD Major forks
 
