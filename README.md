@@ -23,6 +23,7 @@ notes for prompt engineering
     - https://imagen.research.google/video/
 - text-to-3d https://twitter.com/_akhaliq/status/1575541930905243652
   -  https://dreamfusion3d.github.io/
+  -  open source impl: https://github.com/ashawkey/stable-dreamfusion
 - gpt3 applications
   - text to graphviz https://twitter.com/goodside/status/1561549768987496449?s=21&t=rliacnWOIjJMiS37s8qCCw
   - suspedning to python for math   
@@ -109,7 +110,7 @@ misc
   - collage tool https://twitter.com/genekogan/status/1555184488606564353
 - Papers
   - 2015: [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf) founding paper of diffusion models
-  - Textual Inversion: https://arxiv.org/abs/2208.01618
+  - Textual Inversion: https://arxiv.org/abs/2208.01618 (impl: https://github.com/rinongal/textual_inversion)
   - 2017: Attention is all you need
   - https://dreambooth.github.io/
     - productized as dreambooth https://twitter.com/psuraj28/status/1575123562435956740
@@ -177,6 +178,7 @@ Main Stable Diffusion repo: https://github.com/CompVis/stable-diffusion
 | [Disco Diffusion](https://github.com/alembics/disco-diffusion) 	| 5600 	| A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations. 	|
 | [sd-webui](https://github.com/sd-webui/stable-diffusion-webui) (formerly hlky fork) 	| 5100 	| A fully-integrated and easy way to work with Stable Diffusion right from a browser window. Long list of UI and SD features (incl textual inversion, alternative samplers, prompt matrix): https://github.com/sd-webui/stable-diffusion-webui#project-features 	|
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) (formerly lstein fork) 	| 3400 	| This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. It runs on Windows, Mac and Linux machines, with GPU cards with as little as 4 GB of RAM.  	|
+| [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) 	| 2400 	| Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion. Dockerized: https://github.com/smy20011/dreambooth-docker 	|
 | [Basujindal: Optimized Stable Diffusion](https://github.com/basujindal/stable-diffusion) 	| 2100 	| This repo is a modified version of the Stable Diffusion repo, optimized to use less VRAM than the original by sacrificing inference speed. img2img and txt2img and inpainting under 2.4GB VRAM  	|
 | [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) 	| 1900 	| Outpainting with Stable Diffusion on an infinite canvas. This project mainly works as a proof of concept.  	|
 | [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) ([huggingface](https://huggingface.co/hakurei/waifu-diffusion), [replicate](https://replicate.com/cjwbw/waifu-diffusion)) 	| 1100 	| stable diffusion finetuned on weeb stuff. "A model trained on danbooru (anime/manga drawing site with also lewds and nsfw on it) over 56k images.Produces FAR BETTER results if you're interested in getting manga and anime stuff out of stable diffusion." 	|
