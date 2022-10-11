@@ -242,40 +242,36 @@ more: https://np.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engi
 
 ### SD Major forks
 
+| Name/Link 	| Stars 	| Description 	|
+|---	|---	|---	|
+| [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 	| 9700 	| The most well known fork. features: https://github.com/AUTOMATIC1111/stable-diffusion-webui#features launch announcement https://www.reddit.com/r/StableDiffusion/comments/x28a76/stable_diffusion_web_ui/. M1 mac instructions https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon 	|
+| [sd-webui](https://github.com/sd-webui/stable-diffusion-webui) (formerly hlky fork) 	| 5100 	| A fully-integrated and easy way to work with Stable Diffusion right from a browser window. Long list of UI and SD features (incl textual inversion, alternative samplers, prompt matrix): https://github.com/sd-webui/stable-diffusion-webui#project-features 	|
+| [InvokeAI](https://github.com/invoke-ai/InvokeAI) (formerly lstein fork) 	| 3400 	| This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. It runs on Windows, Mac and Linux machines, with GPU cards with as little as 4 GB of RAM.  	|
+| [Basujindal: Optimized Stable Diffusion](https://github.com/basujindal/stable-diffusion) 	| 2100 	| This repo is a modified version of the Stable Diffusion repo, optimized to use less VRAM than the original by sacrificing inference speed. img2img and txt2img and inpainting under 2.4GB VRAM  	|
+| [stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) 	| 1900 	| Outpainting with Stable Diffusion on an infinite canvas. This project mainly works as a proof of concept.  	|
+|  	|  	|  	|
+| [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion) ([huggingface](https://huggingface.co/hakurei/waifu-diffusion), [replicate](https://replicate.com/cjwbw/waifu-diffusion)) 	| 1100 	| stable diffusion finetuned on weeb stuff. inetuning Stable Diffusion on images and captions downloaded through Danbooru 	|
+| [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) 	| 929 	| Easy Docker setup for Stable Diffusion with both Automatic1111 and hlky UI included. HOWEVER - no mac support yet https://github.com/AbdBarho/stable-diffusion-webui-docker/issues/35 	|
+| [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) 	| 753 	|  +25-50% speed increase + memory efficient + DreamBooth 	|
+
+#### SD in Other languages
+
+- Chinese: https://twitter.com/_akhaliq/status/1572580845785083906
+- Japanese: https://twitter.com/_akhaliq/status/1571977273489739781
+  - https://huggingface.co/blog/japanese-stable-diffusion
+  
+#### Other Lists of Forks
+
 https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/
+https://www.reddit.com/r/StableDiffusion/comments/xcclmf/comment/io6u03s/?utm_source=reddit&utm_medium=web2x&context=3
 
-Forks 
+Dormant projects, for historical/research interest:
 
-- https://github.com/lkwq007/stablediffusion-infinity Outpainting with Stable Diffusion on an infinite canvas.
-- https://github.com/basujindal/stable-diffusion 
-  This repo is a modified version of the Stable Diffusion repo, optimized to use less VRAM than the original by sacrificing inference speed.
-- https://github.com/hlky/stable-diffusion ([here is](https://www.reddit.com/r/StableDiffusion/comments/x28a76/stable_diffusion_web_ui/) another fork that might be better)
-  - adds a bunch of features - GUI/webui, [textual inversion](https://textual-inversion.github.io/), [upscalers](https://github.com/hlky/stable-diffusion-webui/wiki/Upscalers), mask and crop, img2img editor, word seeds, prompt weighting
-    - doesn't work on Mac https://github.com/hlky/stable-diffusion/issues/173
-  - How to Fine-tune Stable Diffusion using Textual Inversion https://towardsdatascience.com/how-to-fine-tune-stable-diffusion-using-textual-inversion-b995d7ecc095
-  - https://github.com/AbdBarho/stable-diffusion-webui-docker
-    - Run Stable Diffusion on your machine with a nice UI without any hassle! This repository provides the WebUI as a docker image for easy setup and deployment. Please note that the WebUI is experimental and evolving quickly, so expect some bugs.
-    - doesnt work on m1 mac yet https://github.com/AbdBarho/stable-diffusion-webui-docker/issues/31
-- https://github.com/invoke-ai/InvokeAI (previously https://github.com/lstein/stable-diffusion) and https://github.com/magnusviri/stable-diffusion
-  - An interactive command-line interface that accepts the same prompt and switches as the Discord bot.
-  - A basic Web interface that allows you to run a local web server for generating images in your browser.
-  - A notebook for running the code on Google Colab.
-  - Support for img2img in which you provide a seed image to guide the image creation. (inpainting & masking coming soon)
-  - Upscaling and face fixing using the optional ESRGAN (standalone: https://news.ycombinator.com/item?id=32628761) and GFPGAN packages.
-  - Weighted subprompts for prompt tuning.
-  - Textual inversion for customization of the prompt language and images.
-  - fuller feature list https://www.reddit.com/r/StableDiffusion/comments/xcclmf/comment/io6u03s/?utm_source=reddit&utm_medium=web2x&context=3
-- https://github.com/bfirsh/stable-diffusion
-  - works on M1 Macs - [blog](https://replicate.com/blog/run-stable-diffusion-on-m1-mac), [tweet](https://twitter.com/levelsio/status/1565731907664478209)
-  - can also look at `environment-mac.yaml` from https://github.com/fragmede/stable-diffusion/blob/mps_consistent_seed/environment-mac.yaml
-- https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon
-  - another m1 mac compatible fork - only 2 samplers, Euler and DPM2, with real-ESRGAN upscaling
-  - https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl
-- https://github.com/harubaru/waifu-diffusion
-  - nicer GUI for img2img
-- fast-stable-diffusion colabs, +25% speed increase + memory efficient. https://github.com/TheLastBen/fast-stable-diffusion (be careful on gdrive security)
+- https://colab.research.google.com/drive/1AfAmwLMd_Vx33O9IwY2TmO9wKZ8ABRRa		
+- https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl		
+- [bfirsh/stable-diffusion](https://github.com/bfirsh/stable-diffusion)	No longer actively maintained byt was the first to work on M1 Macs - [blog](https://replicate.com/blog/run-stable-diffusion-on-m1-mac), [tweet](https://twitter.com/levelsio/status/1565731907664478209), can also look at `environment-mac.yaml` from https://github.com/fragmede/stable-diffusion/blob/mps_consistent_seed/environment-mac.yaml
 
-SD Tooling
+#### SD Tooling
 
 - SD's DreamStudio https://beta.dreamstudio.ai/dream
 - Stable Worlds: [colab](https://colab.research.google.com/drive/1RXRrkKUnpNiPCxTJg0Imq7sIM8ltYFz2?usp=sharing) for 3d stitched worlds via StableDiffusion https://twitter.com/NaxAlpha/status/1578685845099290624
@@ -284,11 +280,6 @@ SD Tooling
 - misc
   - (super super raw dont try yet) https://github.com/breadthe/sd-buddy
 
-Other languages
-
-- Chinese: https://twitter.com/_akhaliq/status/1572580845785083906
-- Japanese: https://twitter.com/_akhaliq/status/1571977273489739781
-  - https://huggingface.co/blog/japanese-stable-diffusion
 
 ## SD Model values
 
