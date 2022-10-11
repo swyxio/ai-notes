@@ -53,6 +53,8 @@ notes for prompt engineering
 
 ## Top Prompt Engineering Reads
 
+The more advanced GPT3 reads have been split out to https://github.com/sw-yx/prompt-eng/blob/main/GPT.md
+
 - https://www.gwern.net/GPT-3#prompts-as-programming
 - beginner
   - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
@@ -125,23 +127,12 @@ misc
 ## Communities
 
 - StableDiffusion Discord https://discord.com/invite/stablediffusion
+- https://reddit.com/r/stableDiffusion
+- Akhaliq Discord: https://discord.gg/nYqfg4gnBt
 - Deforum Discord https://discord.gg/upmXXsrwZc
 - Lexica Discord https://discord.com/invite/bMHBjJ9wRh
-- Midjourney
+- Midjourney's discord
 - https://stablehorde.net/
-- Prompt Galleries
-  - https://arthub.ai/
-  - 🌟 https://lexica.art/
-  - https://pagebrain.ai/promptsearch/
-  - https://avyn.com/
-  - https://dallery.gallery/
-  - [The Ai Art:](https://www.the-ai-art.com/modifiers) **gallery** for modifiers.
-  - [urania.ai](https://www.urania.ai/top-sd-artists): Top 500 Artists **gallery**, sorted by [image count](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/artists?_sort_desc=image_counts). With modifiers/styles.
-  - [Generrated](https://generrated.com/): DALL•E 2 table **gallery** sorted by [visual arts media](https://en.wikipedia.org/wiki/Category:Visual_arts_media).
-  - [Artist Studies by @remi_durant](https://remidurant.com/artists/): **gallery** and Search.
-  - [CLIP Ranked Artists](https://f000.backblazeb2.com/file/clip-artists/index.html): **gallery** sorted by weight/strength.
-  - https://promptbase.com/ Selling prompts that produce desirable results
-  - https://publicprompts.art/ very basic/limited but some good prompts. promptbase competitor
 
 ## Stable Diffusion
 
@@ -151,7 +142,7 @@ Required reading:
 - param intuitionhttps://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
 - CLI commands https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/#script-options
 
-### Distros
+### SD Distros
 
 - **Installer Distros**
   - [Diffusion Bee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui): Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
@@ -225,7 +216,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 
 ### SD Prompt galleries and search engines
 
-- [Lexica](https://lexica.art/): Content-based search powered by OpenAI's CLIP model. **Seed**, CFG, Dimensions.
+- 🌟 [Lexica](https://lexica.art/): Content-based search powered by OpenAI's CLIP model. **Seed**, CFG, Dimensions.
 - [OpenArt](https://openart.ai/discovery?dataSource=sd): Content-based search powered by OpenAI's CLIP model. Favorites.
 - [PromptHero](https://prompthero.com/): [Random wall](https://prompthero.com/random). **Seed**, CFG, Dimensions, Steps. Favorites.
 - [Libraire](https://libraire.ai/): **Seed**, CFG, Dimensions, Steps.
@@ -233,6 +224,17 @@ UI's that dont come with their own SD distro, just shelling out to one
 - [Avyn](http://avyn.com/): Search engine and generator.
 - [Pinegraph](https://pinegraph.com/): [discover](https://pinegraph.com/discover), [create](https://pinegraph.com/create) and edit with Stable/Disco/Waifu diffusion models.
 - [Phraser](https://phraser.tech/compare): text and image search.
+- https://arthub.ai/
+- https://pagebrain.ai/promptsearch/
+- https://avyn.com/
+- https://dallery.gallery/
+- [The Ai Art:](https://www.the-ai-art.com/modifiers) **gallery** for modifiers.
+- [urania.ai](https://www.urania.ai/top-sd-artists): Top 500 Artists **gallery**, sorted by [image count](https://laion-aesthetic.datasette.io/laion-aesthetic-6pls/artists?_sort_desc=image_counts). With modifiers/styles.
+- [Generrated](https://generrated.com/): DALL•E 2 table **gallery** sorted by [visual arts media](https://en.wikipedia.org/wiki/Category:Visual_arts_media).
+- [Artist Studies by @remi_durant](https://remidurant.com/artists/): **gallery** and Search.
+- [CLIP Ranked Artists](https://f000.backblazeb2.com/file/clip-artists/index.html): **gallery** sorted by weight/strength.
+- https://promptbase.com/ Selling prompts that produce desirable results
+- https://publicprompts.art/ very basic/limited but some good prompts. promptbase competitor
 
 ### SD Visual search
 
@@ -243,7 +245,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 - [Pinterest](https://www.pinterest.com/search/)
 - [dessant/search-by-image](https://github.com/dessant/search-by-image): Open-source browser extension for reverse image search.
 
-### Prompt generators
+### SD Prompt generators
 
 - [promptoMANIA](https://promptomania.com/prompt-builder/): **Visual** modifiers. Great selection. With weight setting.
 - [Phase.art](https://www.phase.art/): **Visual** modifiers. SD [Generator and share](https://www.phase.art/images/cl826cjsb000509mlwqbael1i).
@@ -254,7 +256,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 - [Prompt Parrot colab](https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing): Train and generate prompts.
 - [cmdr2](https://github.com/cmdr2/stable-diffusion-ui): 1-click SD installation with image modifiers selection.
 
-### Img2prompt
+### Img2prompt - Reverse Prompt Engineering
 
 - [img2prompt](https://replicate.com/methexis-inc/img2prompt) Replicate by [methexis-inc](https://replicate.com/methexis-inc): Optimized for SD (clip ViT-L/14).
 - [CLIP Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb) by [@pharmapsychotic](https://twitter.com/pharmapsychotic): select ViTL14 CLIP model.
@@ -262,6 +264,8 @@ UI's that dont come with their own SD distro, just shelling out to one
 - [BLIP](https://huggingface.co/spaces/Salesforce/BLIP)
 
 ### Explore Artists, styles, and modifiers
+
+See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details and notes
 
 - [Artist Style Studies](https://www.notion.so/e28a4f8d97724f14a784a538b8589e7d) & [Modifier Studies](https://www.notion.so/2b07d3195d5948c6a7e5836f9d535592) by [parrot zone](https://www.notion.so/74a5c04d4feb4f12b52a41fc8750b205): **[Gallery](https://www.notion.so/e28a4f8d97724f14a784a538b8589e7d)**, [Style](https://www.notion.so/e28a4f8d97724f14a784a538b8589e7d), [Spreadsheet](https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit#gid=0)
 - [Clip retrieval](https://knn5.laion.ai/): search [laion-5b](https://laion.ai/blog/laion-5b/) dataset.
@@ -285,7 +289,7 @@ UI's that dont come with their own SD distro, just shelling out to one
   - (super super raw dont try yet) https://github.com/breadthe/sd-buddy
 
 
-## SD Internals and Studies
+## How SD Works - Internals and Studies
 
 - How SD works
   - https://huggingface.co/blog/stable_diffusion
