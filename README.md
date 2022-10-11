@@ -2,6 +2,12 @@
 
 notes for prompt engineering
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Motivational Use Cases
 
 - images
@@ -24,12 +30,6 @@ notes for prompt engineering
 - text-to-3d https://twitter.com/_akhaliq/status/1575541930905243652
   -  https://dreamfusion3d.github.io/
   -  open source impl: https://github.com/ashawkey/stable-dreamfusion
-- gpt3 applications
-  - text to graphviz https://twitter.com/goodside/status/1561549768987496449?s=21&t=rliacnWOIjJMiS37s8qCCw
-  - suspedning to python for math   
-    - https://twitter.com/sharifshameem/status/1414029295043764226?lang=en
-    - https://twitter.com/amasad/status/1568824744367259648
-    - and API's https://twitter.com/sergeykarayev/status/1569377881440276481
 
 ## Top Prompt Engineering Reads
 
@@ -43,18 +43,7 @@ notes for prompt engineering
   - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
   - https://andymatuschak.org/prompts/
 - Intermediate
-  - go through all the GPT3 examples https://beta.openai.com/examples
-  - play with the smaller GPT3 models https://beta.openai.com/docs/models/gpt-3
-  - technique: self-asking, two step prompts https://twitter.com/OfirPress/status/1577302998136819713
-    - chain of thought prompting https://twitter.com/OfirPress/status/1577303423602790401
-  - and deploy GPT2 https://huggingface.co/gpt2
-  - Prompt structure with extensive examples
-    - review feedback extraction https://www.youtube.com/watch?v=3EjtHs_lXnk&t=1009s
-  - Ask Me Anything prompting
-    - https://twitter.com/_akhaliq/status/1577838951905247235
-  - using gpt3 for text2image prompts https://twitter.com/fabianstelzer/status/1554229347506176001
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
-  - write a blogpost with GPT3 https://www.youtube.com/watch?v=NC7990PmDfM
   - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
     - https://medium.com/merzazine/prompt-design-for-dall-e-photorealism-emulating-reality-6f478df6f186
@@ -62,11 +51,7 @@ notes for prompt engineering
     - seed selection https://www.reddit.com/r/StableDiffusion/comments/x8szj9/tutorial_seed_selection_and_the_impact_on_your/
     - minor parameter parameter difference study (steps, clamp_max, ETA, cutn_batches, etc) https://twitter.com/KyrickYoung/status/1500196286930292742
 - Advanced
-  - integrating Google Search with GPT3: https://twitter.com/OfirPress/status/1577302733383925762
-  - teach AI how to fish - You are X, you can do Y: https://github.com/nat/natbot/blob/main/natbot.py
-  - play with gpt-neoX and gpt-j https://neox.labml.ai/playground
-  - defense against prompt injection https://twitter.com/goodside/status/1578278974526222336
-  - whatever the f this is https://twitter.com/goodside/status/1578614244290924545?s=20&t=UX2WDbF9c2ZgFNBcyYF2iQ
+  - nothing yet
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
   - https://creator.nightcafe.studio/collection/8dMYgKm1eVXG7z9pV23W
