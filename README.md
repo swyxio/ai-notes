@@ -6,6 +6,26 @@ notes for prompt engineering
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Motivational Use Cases](#motivational-use-cases)
+- [Top Prompt Engineering Reads](#top-prompt-engineering-reads)
+- [Tooling](#tooling)
+- [Communities](#communities)
+- [Stable Diffusion](#stable-diffusion)
+  - [Distros](#distros)
+  - [SD Major forks](#sd-major-forks)
+  - [SD Prompt galleries and search engines](#sd-prompt-galleries-and-search-engines)
+  - [SD Visual search](#sd-visual-search)
+  - [Prompt generators](#prompt-generators)
+  - [Img2prompt](#img2prompt)
+  - [Explore Artists, styles, and modifiers](#explore-artists-styles-and-modifiers)
+  - [SD Prompt Tools directories and guides](#sd-prompt-tools-directories-and-guides)
+- [SD Internals and Studies](#sd-internals-and-studies)
+- [SD Results](#sd-results)
+  - [Img2Img](#img2img)
+- [Hardware requirements](#hardware-requirements)
+- [SD vs DallE vs MJ](#sd-vs-dalle-vs-mj)
+- [Misc](#misc)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Motivational Use Cases
