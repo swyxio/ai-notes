@@ -67,6 +67,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
 - Intermediate
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w
+  - composable diffusion - "AND" instead of "and" https://twitter.com/TomLikesRobots/status/1580293860902985728
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
     - https://medium.com/merzazine/prompt-design-for-dall-e-photorealism-emulating-reality-6f478df6f186
   - settings tweaking https://www.reddit.com/r/StableDiffusion/comments/x3k79h/the_feeling_of_discovery_sd_is_like_a_great_proc/
@@ -218,6 +219,8 @@ UI's that dont come with their own SD distro, just shelling out to one
 ### SD Prompt galleries and search engines
 
 - 🌟 [Lexica](https://lexica.art/): Content-based search powered by OpenAI's CLIP model. **Seed**, CFG, Dimensions.
+- https://synesthetic.ai/ SD focused
+- https://visualise.ai/ Create and share image prompts. DALL-E, Midjourney, Stable Diffusion
 - [OpenArt](https://openart.ai/discovery?dataSource=sd): Content-based search powered by OpenAI's CLIP model. Favorites.
 - [PromptHero](https://prompthero.com/): [Random wall](https://prompthero.com/random). **Seed**, CFG, Dimensions, Steps. Favorites.
 - [Libraire](https://libraire.ai/): **Seed**, CFG, Dimensions, Steps.
@@ -327,6 +330,8 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
 
 ## Misc
 
+- Imagen
+  - https://www.youtube.com/watch?v=R_f-v6prMqI
 - Whisper
   - https://huggingface.co/spaces/sensahin/YouWhisper YouWhisper converts Youtube videos to text using openai/whisper.
   - https://twitter.com/jeffistyping/status/1573145140205846528 youtube whipserer
