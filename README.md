@@ -221,6 +221,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 - 🌟 [Lexica](https://lexica.art/): Content-based search powered by OpenAI's CLIP model. **Seed**, CFG, Dimensions.
 - https://synesthetic.ai/ SD focused
 - https://visualise.ai/ Create and share image prompts. DALL-E, Midjourney, Stable Diffusion
+- https://nyx.gallery/
 - [OpenArt](https://openart.ai/discovery?dataSource=sd): Content-based search powered by OpenAI's CLIP model. Favorites.
 - [PromptHero](https://prompthero.com/): [Random wall](https://prompthero.com/random). **Seed**, CFG, Dimensions, Steps. Favorites.
 - [Libraire](https://libraire.ai/): **Seed**, CFG, Dimensions, Steps.
