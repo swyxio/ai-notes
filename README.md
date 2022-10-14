@@ -286,6 +286,7 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 
 #### SD Tooling
 
+- AI Dreamer iOS/macOS app https://apps.apple.com/us/app/ai-dreamer/id1608856807
 - SD's DreamStudio https://beta.dreamstudio.ai/dream
 - Stable Worlds: [colab](https://colab.research.google.com/drive/1RXRrkKUnpNiPCxTJg0Imq7sIM8ltYFz2?usp=sharing) for 3d stitched worlds via StableDiffusion https://twitter.com/NaxAlpha/status/1578685845099290624
 - Midjourney + SD: https://twitter.com/EMostaque/status/1561917541743841280
