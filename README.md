@@ -305,6 +305,8 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
     - https://jalammar.github.io/illustrated-stable-diffusion/
   - https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing
   - inside https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/#wait-how-does-this-even-work
+- Samplers studies
+  - https://twitter.com/iScienceLuvr/status/1564847717066559488
 - [Disco Diffusion Illustrated Settings](https://www.notion.so/cd4badf06e08440c99d8a93d4cd39f51)
 - [Understanding MidJourney (and SD) through teapots.](https://rexwang8.github.io/resource/ai/teapot)
 - [A Traveler’s Guide to the Latent Space](https://www.notion.so/85efba7e5e6a40e5bd3cae980f30235f)
