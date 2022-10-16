@@ -159,6 +159,8 @@ Required reading:
   - https://inpainter.vercel.app/paint for inpainting
   - https://promptart.labml.ai/feed
   - https://www.strmr.com/ dreambooth tuning for $3
+  - https://www.findanything.app browser extension that adds SD predictions alongside Google search
+  - https://www.drawanything.app 
 - **Twitter Bots**
   - https://twitter.com/diffusionbot
   - https://twitter.com/m1guelpf/status/1569487042345861121
