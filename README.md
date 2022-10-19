@@ -140,7 +140,7 @@ misc
 stable diffusion specific notes
 
 Required reading:
-- param intuitionhttps://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
+- param intuition https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
 - CLI commands https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/#script-options
 
 ### SD Distros
