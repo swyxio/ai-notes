@@ -100,8 +100,9 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
     - https://docs.google.com/spreadsheets/d/1oi0fwTNuJu5EYM2DIndyk0KeAY8tL6-Qd1BozFb9Zls/edit#gid=1567267935 
   - Prompt generator https://www.aiprompt.io/
 
-misc
+Misc
 
+- [prompt-engine](https://github.com/microsoft/prompt-engine): From Microsoft, NPM utility library for creating and maintaining prompts for LLMs
 - [Edsynth](https://www.youtube.com/watch?v=eghGQtQhY38) and [DAIN](https://twitter.com/karenxcheng/status/1564635828436885504) for coherence
 - [FILM: Frame Interpolation for Large Motion](https://film-net.github.io/) ([github](https://github.com/google-research/frame-interpolation))
 - [Depth Mapping](https://github.com/compphoto/BoostingMonocularDepth)
@@ -222,6 +223,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 ### SD Prompt galleries and search engines
 
 - 🌟 [Lexica](https://lexica.art/): Content-based search powered by OpenAI's CLIP model. **Seed**, CFG, Dimensions.
+- [PromptFlow](https://promptflow.co): Search engine that allows for on-demand generation of new results.
 - https://synesthetic.ai/ SD focused
 - https://visualise.ai/ Create and share image prompts. DALL-E, Midjourney, Stable Diffusion
 - https://nyx.gallery/
