@@ -40,7 +40,9 @@ notes for prompt engineering
   - webUI img2img collaboration https://twitter.com/_akhaliq/status/1563582621757898752
   - image to video with rotation https://twitter.com/TomLikesRobots/status/1571096804539912192
   - "prompt paint" https://twitter.com/1littlecoder/status/1572573152974372864
-  - music videos [video](https://www.youtube.com/watch?v=WJaxFbdjm8c), [colab](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb)
+  - music videos 
+    - [video killed the radio star](https://www.youtube.com/watch?v=WJaxFbdjm8c), [colab](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb) This uses OpenAI's Whisper speech-to-text, allowing you to take a YouTube video & create a Stable Diffusion animation prompted by the lyrics in the YouTube video
+    - [Stable Diffusion Videos](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/stable_diffusion_videos.ipynb) generates videos by interpolating between prompts and audio
   - direct text2video project
     - https://twitter.com/_akhaliq/status/1575546841533497344
     - https://makeavideo.studio/ - explorer https://webvid.datasette.io/webvid/videos
@@ -50,6 +52,12 @@ notes for prompt engineering
 - text-to-3d https://twitter.com/_akhaliq/status/1575541930905243652
   -  https://dreamfusion3d.github.io/
   -  open source impl: https://github.com/ashawkey/stable-dreamfusion
+    - demo https://twitter.com/_akhaliq/status/1578035919403503616
+-  text products
+  - Jasper
+  - gpt3 email https://github.com/sw-yx/gpt3-email
+  - https://www.summari.com/ Summari helps busy people read more
+- sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880?s=12&t=DEyWoA1Azh0Z5btVqoTY4g
 
 ## Top Prompt Engineering Reads
 
@@ -64,6 +72,8 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
   - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
   - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
   - https://andymatuschak.org/prompts/
+  - for nontechnical
+    - https://www.jonstokes.com/p/ai-content-generation-part-1-machine
 - Intermediate
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w
@@ -92,6 +102,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
     - This is a GPT-2 model fine-tuned on the succinctly/midjourney-prompts dataset, which contains 250k text prompts that users issued to the Midjourney text-to-image service over a month period. This prompt generator can be used to auto-complete prompts for any text-to-image model (including the DALL·E family)
   - Prompt Parrot https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing
     - This notebook is designed to train language model on a list of your prompts,generate prompts in your style, and synthesize wonderful surreal images! ✨
+    - https://twitter.com/KyrickYoung/status/1563962142633648129
   - https://twitter.com/stuhlmueller/status/1575187860063285248
     - The Interactive Composition Explorer (ICE), a Python library for writing and debugging compositional language model programs https://github.com/oughtinc/ice
   - The Factored Cognition Primer, a tutorial that shows using examples how to write such programs https://primer.ought.org
@@ -99,6 +110,13 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
     - https://twitter.com/fabianstelzer/status/1575088140234428416
     - https://docs.google.com/spreadsheets/d/1oi0fwTNuJu5EYM2DIndyk0KeAY8tL6-Qd1BozFb9Zls/edit#gid=1567267935 
   - Prompt generator https://www.aiprompt.io/
+- Stable Diffusion Interpolation
+  - https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing
+  - This notebook generates neat interpolations between two different prompts with Stable Diffusion.
+- Easy Diffusion by WASasquatch
+  - This super nifty notebook has tons of features, such as image upscaling and processing, interrogation with CLIP, and more! (depth output for 3D Facebook images, or post processing such as Depth of Field.)
+  - https://colab.research.google.com/github/WASasquatch/easydiffusion/blob/main/Stability_AI_Easy_Diffusion.ipynb
+- Craiyon + Stable Diffusion https://twitter.com/GeeveGeorge/status/1567130529392373761
 
 Misc
 
@@ -120,10 +138,13 @@ Misc
 - Papers
   - 2015: [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf) founding paper of diffusion models
   - Textual Inversion: https://arxiv.org/abs/2208.01618 (impl: https://github.com/rinongal/textual_inversion)
+    -  Stable Conceptualizer https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_conceptualizer_inference.ipynb
   - 2017: Attention is all you need
   - https://dreambooth.github.io/
     - productized as dreambooth https://twitter.com/psuraj28/status/1575123562435956740
     - https://github.com/JoePenna/Dreambooth-Stable-Diffusion
+    - from huggingface diffusers https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_dreambooth_training.ipynb
+    - https://twitter.com/rainisto/status/1584881850933456898
   - [very good BLOOM model overview](https://www.youtube.com/watch?v=3EjtHs_lXnk)
 
 ## Communities
@@ -162,6 +183,10 @@ Required reading:
   - https://www.strmr.com/ dreambooth tuning for $3
   - https://www.findanything.app browser extension that adds SD predictions alongside Google search
   - https://www.drawanything.app 
+- **Finetuned Distros**
+  - [Arcane Diffusion](https://huggingface.co/spaces/anzorq/arcane-diffusion) a fine-tuned Stable Diffusion model trained on images from the TV Show Arcane.
+  - [Spider-verse Diffusion](https://huggingface.co/nitrosocke/spider-verse-diffusion) rained on movie stills from Sony's Into the Spider-Verse. Use the tokens spiderverse style in your prompts for the effect.
+  - [Texture inpainting](https://twitter.com/StableDiffusion/status/1580840640501649408)
 - **Twitter Bots**
   - https://twitter.com/diffusionbot
   - https://twitter.com/m1guelpf/status/1569487042345861121
@@ -172,6 +197,9 @@ Required reading:
 ### SD Major forks
 
 Main Stable Diffusion repo: https://github.com/CompVis/stable-diffusion
+
+- Tensorflow/Keras impl: https://github.com/divamgupta/stable-diffusion-tensorflow
+- Diffusers library: https://github.com/huggingface/diffusers
 
 | Name/Link 	| Stars 	| Description 	|
 |---	|---	|---	|
@@ -187,8 +215,12 @@ Main Stable Diffusion repo: https://github.com/CompVis/stable-diffusion
 | [fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) 	| 753 	|  +25-50% speed increase + memory efficient + DreamBooth 	|
 | [imaginAIry 🤖🧠](https://github.com/brycedrennan/imaginAIry) | 639 | Pythonic generation of stable diffusion images with just `pip install imaginairy`. "just works" on Linux and macOS(M1) (and maybe windows). Memory efficiency improvements, prompt-based editing, face enhancement, upscaling, tiled images, img2img, prompt matrices, prompt variables, BLIP image captions, comes with dockerfile/colab.  Has unit tests. |
 | [neonsecret/stable-diffusion](https://github.com/neonsecret/stable-diffusion) 	| 546 	| This repo is a modified version of the Stable Diffusion repo, optimized to use less VRAM than the original by sacrificing inference speed. Also I invented the sliced atttention technique, which allows to push the model's abilities even further. It works by automatically determining the slice size from your vram and image size and then allocating it one by one accordingly. You can practically generate any image size, it just depends on the generation speed you are willing to sacrifice. 	|
-| [Deforum Stable Diffusion](https://github.com/deforum/stable-diffusion) 	| 347 	| Animating prompts with stable diffusion. replicate demo: https://replicate.com/deforum/deforum_stable_diffusion 	|
+| [Deforum Stable Diffusion](https://github.com/deforum/stable-diffusion) 	| 347 	| Animating prompts with stable diffusion.  Weighted Prompts,  Perspective 2D Flipping, Dynamic Video Masking, Custom MATH expressions, Waifu and Robo Diffusion Models. [twitter, changelog](https://twitter.com/deforum_art/status/1576330236194525184?s=20&t=36133FXROv0CMGHOoSxHyg). replicate demo: https://replicate.com/deforum/deforum_stable_diffusion 	|
+| [Maple Diffusion](https://github.com/madebyollin/maple-diffusion) 	| 264 	| Maple Diffusion runs Stable Diffusion models locally on macOS / iOS devices, in Swift, using the MPSGraph framework (not Python). [Matt Waller working on CoreML impl](https://twitter.com/divamgupta/status/1583482195192459264) 	|
 | [Doggettx/stable-diffusion](https://github.com/Doggettx/stable-diffusion) 	| 137 	| Allows to use resolutions that require up to 64x more VRAM than possible on the default CompVis build. 	|
+| [Doohickey Diffusion](https://twitter.com/StableDiffusion/status/1580840624206798848) 	| 29 	| CLIP guidance, perceptual guidance, Perlin initial noise, and other features.  	|
+
+https://github.com/Filarius/stable-diffusion-webui/blob/master/scripts/vid2vid.py with Vid2Vid
 
 #### SD in Other languages
 
@@ -223,7 +255,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 ### SD Prompt galleries and search engines
 
 - 🌟 [Lexica](https://lexica.art/): Content-based search powered by OpenAI's CLIP model. **Seed**, CFG, Dimensions.
-- [PromptFlow](https://promptflow.co): Search engine that allows for on-demand generation of new results.
+- [PromptFlow](https://promptflow.co): Search engine that allows for on-demand generation of new results. Search 10M+ of AI art and prompts generated by DALL·E 2, Midjourney, Stable Diffusion
 - https://synesthetic.ai/ SD focused
 - https://visualise.ai/ Create and share image prompts. DALL-E, Midjourney, Stable Diffusion
 - https://nyx.gallery/
@@ -270,6 +302,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 
 - [img2prompt](https://replicate.com/methexis-inc/img2prompt) Replicate by [methexis-inc](https://replicate.com/methexis-inc): Optimized for SD (clip ViT-L/14).
 - [CLIP Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb) by [@pharmapsychotic](https://twitter.com/pharmapsychotic): select ViTL14 CLIP model.
+  - https://huggingface.co/spaces/pharma/sd-prism Sends an image in to CLIP Interrogator to generate a text prompt which is then run through Stable Diffusion to generate new forms of the original!
 - [CLIP Artist Evaluator colab](https://colab.research.google.com/github/lowfuel/CLIP_artists/blob/main/CLIP_Evaluator.ipynb)
 - [BLIP](https://huggingface.co/spaces/Salesforce/BLIP)
 
@@ -327,11 +360,17 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 - A black and white photo of a young woman, studio lighting, realistic, Ilford HP5 400
   - https://twitter.com/TomLikesRobots/status/1566027217892671488
 
+### SD 1.4 vs 1.5 comparisons
+
+- https://twitter.com/TomLikesRobots/status/1583836870445670401
+
 ## Hardware requirements
 
 - https://news.ycombinator.com/item?id=32642255#32646761
   - For something like this, you ideally would want a powerful GPU with 12-24gb VRAM. 
   - A $500 RTX 3070 with 8GB of VRAM can generate 512x512 images with 50 steps in 7 seconds.
+- https://huggingface.co/blog/stable_diffusion_jax uper fast inference on Google TPUs, such as those available in Colab, Kaggle or Google Cloud Platform - 8 images in 8 seconds
+- Intel CPUs: https://github.com/bes-dev/stable_diffusion.openvino
 
 ## SD vs DallE vs MJ
 
@@ -356,3 +395,15 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
 - text to Human Motion diffusion https://twitter.com/GuyTvt/status/1577947409551851520
   - abs: https://arxiv.org/abs/2209.14916 
   - project page: https://guytevet.github.io/mdm-page/
+
+## Quotes, Reality & Demotivation
+
+- Narrow, tedium domain usecases https://twitter.com/WillManidis/status/1584900092615528448?s=20&t=aV0Np-2Sx-zq-TQNn2y5AQ
+- antihype https://twitter.com/alexandr_wang/status/1573302977418387457
+- New Google
+  -  https://twitter.com/alexandr_wang/status/1585022891594510336
+-  New Powerpoint
+
+## Infrastructure
+
+- bananadev cold boot problem https://twitter.com/erikdunteman/status/1584992679330426880?s=20&t=eUFvLqU_v10NTu65H8QMbg
