@@ -22,9 +22,12 @@ notes for prompt engineering
 - [How SD Works - Internals and Studies](#how-sd-works---internals-and-studies)
 - [SD Results](#sd-results)
   - [Img2Img](#img2img)
+  - [SD 1.4 vs 1.5 comparisons](#sd-14-vs-15-comparisons)
 - [Hardware requirements](#hardware-requirements)
 - [SD vs DallE vs MJ](#sd-vs-dalle-vs-mj)
 - [Misc](#misc)
+- [Quotes, Reality & Demotivation](#quotes-reality--demotivation)
+- [Infrastructure](#infrastructure)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
