@@ -148,6 +148,10 @@ Misc
     - https://github.com/JoePenna/Dreambooth-Stable-Diffusion
     - from huggingface diffusers https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_dreambooth_training.ipynb
     - https://twitter.com/rainisto/status/1584881850933456898
+      - Commercial offerings
+        - https://avatarai.me/
+        - https://www.astria.ai/ (formerly https://www.strmr.com/)
+        - https://twitter.com/rohanarora_/status/1580413809516511232?s=20&t=XxjfadtkVM8TOvg5EYFCrw
   - [very good BLOOM model overview](https://www.youtube.com/watch?v=3EjtHs_lXnk)
 
 ## Communities
