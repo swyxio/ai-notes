@@ -35,9 +35,13 @@ notes for prompt engineering
 
 - images
   - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
+  - [3D MRI synthetic brain images](https://twitter.com/Warvito/status/1570691960792580096?) - [positive reception from neuroimaging statistician](https://twitter.com/danCMDstat/status/1572312699853312000?s=20&t=x-ouUbWA5n0-PxTGZcy2iA)
+  - [multiplayer stable diffusion](https://huggingface.co/spaces/huggingface-projects/stable-diffusion-multiplayer?roomid=room-0)
 - video
   - img2img of famous movie scenes ([lalaland](https://twitter.com/TomLikesRobots/status/1565678995986911236))
+    - [img2img transforming actor](https://twitter.com/LighthiserScott/status/1567355079228887041?s=20&t=cBH4EGPC4r0Earm-mDbOKA) with ebsynth + koe_recast
   - virtual fashion ([karenxcheng](https://twitter.com/karenxcheng/status/1564626773001719813))
+  - [seamless tiling images](https://twitter.com/replicatehq/status/1568288903177859072?s=20&t=sRd3HRehPMcj1QfcOwDMKg)
   - evolution of scenes ([xander](https://twitter.com/xsteenbrugge/status/1558508866463219712))
   - outpainting https://twitter.com/orbamsterdam/status/1568200010747068417?s=21&t=rliacnWOIjJMiS37s8qCCw
   - webUI img2img collaboration https://twitter.com/_akhaliq/status/1563582621757898752
@@ -134,7 +138,7 @@ Misc
   - Photoshop: https://old.reddit.com/r/StableDiffusion/comments/wyduk1/show_rstablediffusion_integrating_sd_in_photoshop/
     - download: https://twitter.com/cantrell/status/1574432458501677058
     - https://www.getalpaca.io/
-    - demo: https://www.youtube.com/watch?v=t_4Y6SUs1cI
+    - demo: https://www.youtube.com/watch?v=t_4Y6SUs1cI and https://twitter.com/cantrell/status/1582086537163919360
     - tutorial https://odysee.com/@MaxChromaColor:2/how-to-install-the-free-stable-diffusion:1
   - Figma: https://twitter.com/RemitNotPaucity/status/1562319004563173376?s=20&t=fPSI5JhLzkuZLFB7fntzoA
   - collage tool https://twitter.com/genekogan/status/1555184488606564353
