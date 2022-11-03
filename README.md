@@ -200,6 +200,10 @@ Required reading:
   - [Arcane Diffusion](https://huggingface.co/spaces/anzorq/arcane-diffusion) a fine-tuned Stable Diffusion model trained on images from the TV Show Arcane.
   - [Spider-verse Diffusion](https://huggingface.co/nitrosocke/spider-verse-diffusion) rained on movie stills from Sony's Into the Spider-Verse. Use the tokens spiderverse style in your prompts for the effect.
   - [Texture inpainting](https://twitter.com/StableDiffusion/status/1580840640501649408)
+  - How to finetune your own
+    - Naruto version https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-naruto-character-edition
+    - Pokemon https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-how-we-made-the-text-to-pokemon-model-at-lambda
+    - https://towardsdatascience.com/how-to-fine-tune-stable-diffusion-using-textual-inversion-b995d7ecc095
 - **Twitter Bots**
   - https://twitter.com/diffusionbot
   - https://twitter.com/m1guelpf/status/1569487042345861121
