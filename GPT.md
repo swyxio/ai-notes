@@ -42,3 +42,9 @@ GPT3 applications:
   - play with gpt-neoX and gpt-j https://neox.labml.ai/playground
   - defense against prompt injection https://twitter.com/goodside/status/1578278974526222336
   - whatever the f this is https://twitter.com/goodside/status/1578614244290924545?s=20&t=UX2WDbF9c2ZgFNBcyYF2iQ
+
+
+## Don't call it generative
+
+- Reasoning: https://twitter.com/alexandr_wang/status/1588933553290870785
+- Understanding: https://twitter.com/EMostaque/status/1585903983180537856
