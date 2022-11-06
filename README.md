@@ -167,6 +167,7 @@ Misc
 - Deforum Discord https://discord.gg/upmXXsrwZc
 - Lexica Discord https://discord.com/invite/bMHBjJ9wRh
 - Midjourney's discord
+  - how to use midjourney v4 https://twitter.com/fabianstelzer/status/1588856386540417024?s=20&t=PlgLuGAEEds9HwfegVRrpg
 - https://stablehorde.net/
 
 ## Stable Diffusion
