@@ -424,6 +424,9 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
 - New Google
   -  https://twitter.com/alexandr_wang/status/1585022891594510336
 -  New Powerpoint
+  -  via emad
+-  Appending prompts by default in UI
+  -  DALLE: https://twitter.com/levelsio/status/1588588688115912705?s=20&t=0ojpGmH9k6MiEDyVG2I6gg
 
 ## Infrastructure
 
