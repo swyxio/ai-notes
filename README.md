@@ -189,6 +189,7 @@ Required reading:
   - [Fictiverse/Windows-GUI](https://github.com/Fictiverse/StableDiffusion-Windows-GUI): A windows interface for stable diffusion
   - https://github.com/razzorblade/stable-diffusion-gui: dormant now.
 - **Web Distros**
+  - https://playgroundai.com/create UI for DallE and Stable Diffusion
   - https://www.mage.space/
   - https://dreamlike.art/ has img2img
   - https://inpainter.vercel.app/paint for inpainting
