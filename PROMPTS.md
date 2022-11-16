@@ -1,3 +1,9 @@
+## Midjourney prompts
+
+- https://twitter.com/textfiles/status/1591583867835645958?s=20&t=NPVEYUcYgumQS9KNKwtuuQ
+
+## Stable Diffusion prompts
+
 The basic intuition of Stable Diffusion is that you have to add descriptors to get what you want. 
 
 From [here](https://news.ycombinator.com/item?id=33086085):
