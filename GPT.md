@@ -52,3 +52,7 @@ GPT3 applications:
 ## GPT3 versions
 
 - GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
+
+## Specialized langauge models
+
+- Scientific language models like Meta's Galactica exist. Commentary https://news.ycombinator.com/item?id=33614608
