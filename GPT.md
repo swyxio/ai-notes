@@ -48,3 +48,7 @@ GPT3 applications:
 
 - Reasoning: https://twitter.com/alexandr_wang/status/1588933553290870785
 - Understanding: https://twitter.com/EMostaque/status/1585903983180537856
+
+## GPT3 versions
+
+- GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
