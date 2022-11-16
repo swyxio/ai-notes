@@ -17,6 +17,7 @@ GPT3 applications:
     - implements and lets you easily compose many published LLM prompting techniques. Implements self-asking, web search, REPL math, and several of my own prompts.
     - All relevant chains now have a "verbose" option to highlight text according to the model or component (SQL DB, search engine, python REPL, etc) that it's from. 
   - https://dust.tt/ gives a collapsible tree UI for representing k-shot example datasets, prompt templates, and prompt chaining with intermediate JS code. Replaces a lot of code around prompt APIs. 
+  - playing chess??? https://twitter.com/Raza_Habib496/status/1591514638520311809
 
 ## Top GPT3 Prompt Engineering Reads
 
