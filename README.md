@@ -198,6 +198,9 @@ Required reading:
   - https://www.findanything.app browser extension that adds SD predictions alongside Google search
   - https://www.drawanything.app 
   - https://creator.nolibox.com/guest open source https://github.com/carefree0910/carefree-creator
+- **iPhone/iPad Distros**
+  - https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820
+  - another attempt that was paused https://www.cephalopod.studio/blog/on-creating-an-on-device-stable-diffusion-app-amp-deciding-not-to-release-it-adventures-in-ai-ethics
 - **Finetuned Distros**
   - [Arcane Diffusion](https://huggingface.co/spaces/anzorq/arcane-diffusion) a fine-tuned Stable Diffusion model trained on images from the TV Show Arcane.
   - [Spider-verse Diffusion](https://huggingface.co/nitrosocke/spider-verse-diffusion) rained on movie stills from Sony's Into the Spider-Verse. Use the tokens spiderverse style in your prompts for the effect.
