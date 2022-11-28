@@ -19,26 +19,12 @@ This Readme is just the high level overview of the space; you should see the mos
 
 - [Motivational Use Cases](#motivational-use-cases)
 - [Top Prompt Engineering Reads](#top-prompt-engineering-reads)
-- [Tooling](#tooling)
 - [Communities](#communities)
-- [Stable Diffusion](#stable-diffusion)
-  - [SD Distros](#sd-distros)
-  - [SD Major forks](#sd-major-forks)
-  - [SD Prompt galleries and search engines](#sd-prompt-galleries-and-search-engines)
-  - [SD Visual search](#sd-visual-search)
-  - [SD Prompt generators](#sd-prompt-generators)
-  - [Img2prompt - Reverse Prompt Engineering](#img2prompt---reverse-prompt-engineering)
-  - [Explore Artists, styles, and modifiers](#explore-artists-styles-and-modifiers)
-  - [SD Prompt Tools directories and guides](#sd-prompt-tools-directories-and-guides)
-- [How SD Works - Internals and Studies](#how-sd-works---internals-and-studies)
-- [SD Results](#sd-results)
-  - [Img2Img](#img2img)
-  - [SD 1.4 vs 1.5 comparisons](#sd-14-vs-15-comparisons)
-- [Hardware requirements](#hardware-requirements)
-- [SD vs DallE vs MJ](#sd-vs-dalle-vs-mj)
+- [People](#people)
 - [Misc](#misc)
 - [Quotes, Reality & Demotivation](#quotes-reality--demotivation)
 - [Infrastructure](#infrastructure)
+- [Legal, Ethics, and Privacy](#legal-ethics-and-privacy)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
