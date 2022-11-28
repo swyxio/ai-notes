@@ -11,6 +11,7 @@ GPT3 applications:
   - Amelia paragraph sumarizer https://twitter.com/Wattenberger/status/1412480516268437512
   - Karina Nguyen Synevyr https://twitter.com/karinanguyen_/status/1566884536054677506
   - Lex.page
+  - https://github.com/louis030195/obsidian-ava obsidian integration
   - https://humanloop.com/ Playground that brings variable interpolation to prompts and lets you turn them into API endpoints. Once you're deployed, it also lets you collect past generations along with user behavioral feedback for fine-tunes.
   - https://www.everyprompt.com/ extends Playground in a similar way: Putting variables in prompts and giving you a single button to go from prompt to API. Has nice developer-oriented touches in the UI too — e.g. displaying invisible chars as ghosts.
   - LangChain https://twitter.com/hwchase17/status/1588183981312180225
