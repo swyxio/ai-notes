@@ -57,3 +57,8 @@ GPT3 applications:
 ## Specialized langauge models
 
 - Scientific language models like Meta's Galactica exist. Commentary https://news.ycombinator.com/item?id=33614608
+
+## Ethical issues
+
+- Galactica fallout
+  - https://twitter.com/Michael_J_Black/status/1593133722316189696

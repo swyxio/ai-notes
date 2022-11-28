@@ -11,6 +11,7 @@ This Readme is just the high level overview of the space; you should see the mos
 - `CODE.md` - codegen models, like Copilot
 - stubs - very small/lightweight proto pages
   - `AGENTS.md` - tracking "agentic AI"
+  - `AUDIO.md` - tracking audio (transcription + generation)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -250,6 +251,6 @@ My live list of people to follow is at: https://twitter.com/i/lists/158543024576
 
 ## Legal, Ethics, and Privacy
 
-- 
+- NSFW filter https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/
 - On "AI Art Panic" https://opguides.info/posts/aiartpanic/
 - Yannick influencing OPENRAIL-M https://www.youtube.com/watch?v=W5M-dvzpzSQ
