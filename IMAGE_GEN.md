@@ -647,4 +647,5 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
   - Hugging Face Demo: https://huggingface.co/spaces/flax-community/dalle-mini
   - NYT article: https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html
 - Imagen
+  - https://www.assemblyai.com/blog/how-imagen-actually-works
   - https://www.youtube.com/watch?v=R_f-v6prMqI
