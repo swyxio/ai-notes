@@ -87,6 +87,7 @@ From [here](https://news.ycombinator.com/item?id=33086085):
 
 </details>
 
+
 Prompts might go in the form of 
 
 ```
@@ -96,6 +97,15 @@ Prompts might go in the form of
 Adding the right enhancers can really tweak the outcome:
 
 ![image](https://user-images.githubusercontent.com/6764957/188303877-4555e026-4da5-4f22-b7f5-2972425350ba.png)
+
+
+<details>
+	<summary>
+		
+		Examples
+		
+	</summary>
+
 
 - Prefixes
   - `A black and white photo of`
@@ -370,8 +380,10 @@ Other kinds of prompts are worth trying too!
   - https://www.popsugar.com/celebrities
   - https://celebanswers.com/celebrity-list/
 - [Celebrity] as [Character]
-  - 
 
+
+
+</details>
 
 
 ### SD 1.4 vs 1.5 comparisons
