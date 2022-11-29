@@ -8,12 +8,13 @@ GPT3 applications:
     - https://twitter.com/sharifshameem/status/1414029295043764226?lang=en
     - https://twitter.com/amasad/status/1568824744367259648
     - and API's https://twitter.com/sergeykarayev/status/1569377881440276481
-  - Amelia paragraph sumarizer https://twitter.com/Wattenberger/status/1412480516268437512
+  - Amelia paragraph sumarizer https://twitter.com/Wattenberger/status/1412480516268437512
   - Karina Nguyen Synevyr https://twitter.com/karinanguyen_/status/1566884536054677506
   - Lex.page
   - https://github.com/louis030195/obsidian-ava obsidian integration
   - https://humanloop.com/ Playground that brings variable interpolation to prompts and lets you turn them into API endpoints. Once you're deployed, it also lets you collect past generations along with user behavioral feedback for fine-tunes.
   - https://www.everyprompt.com/ extends Playground in a similar way: Putting variables in prompts and giving you a single button to go from prompt to API. Has nice developer-oriented touches in the UI too — e.g. displaying invisible chars as ghosts.
+  - explaining code diffs https://app.whatthediff.ai/dashboard
   - LangChain https://twitter.com/hwchase17/status/1588183981312180225
     - implements and lets you easily compose many published LLM prompting techniques. Implements self-asking, web search, REPL math, and several of my own prompts.
     - All relevant chains now have a "verbose" option to highlight text according to the model or component (SQL DB, search engine, python REPL, etc) that it's from. 
@@ -49,6 +50,11 @@ GPT3 applications:
   - defense against prompt injection https://twitter.com/goodside/status/1578278974526222336
   - whatever the f this is https://twitter.com/goodside/status/1578614244290924545?s=20&t=UX2WDbF9c2ZgFNBcyYF2iQ
 
+## How GPT works
+
+- https://github.com/karpathy/minGPT
+  - announcement https://twitter.com/karpathy/status/1295410274095095810  
+  - used in https://www.mosaicml.com/blog/gpt-3-quality-for-500k
 
 ## Don't call it generative
 
