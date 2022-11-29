@@ -19,6 +19,8 @@ GPT3 applications:
     - All relevant chains now have a "verbose" option to highlight text according to the model or component (SQL DB, search engine, python REPL, etc) that it's from. 
   - https://dust.tt/ gives a collapsible tree UI for representing k-shot example datasets, prompt templates, and prompt chaining with intermediate JS code. Replaces a lot of code around prompt APIs. 
   - playing chess??? https://twitter.com/Raza_Habib496/status/1591514638520311809
+  - simulating people
+    - https://jack-clark.net/2022/10/11/import-ai-305-gpt3-can-simulate-real-people-ai-discovers-better-matrix-multiplication-microsoft-worries-about-next-gen-deepfakes/
 
 ## Top GPT3 Prompt Engineering Reads
 
