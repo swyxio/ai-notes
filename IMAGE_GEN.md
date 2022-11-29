@@ -589,6 +589,16 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 - [Akashic Records](https://github.com/Maks-s/sd-akashic#prompts-toc)
 - [Awesome Stable-Diffusion](https://github.com/Maks-s/sd-akashic#prompts-toc)
 
+### Finetuning
+
+Dreambooth
+- https://bytexd.com/how-to-use-dreambooth-to-fine-tune-stable-diffusion-colab/
+
+Trained examples
+- Pixel art animation spritesheets
+	- https://ps.reddit.com/r/StableDiffusion/comments/yj1kbi/ive_trained_a_new_model_to_output_pixel_art/
+	- https://twitter.com/kylebrussell/status/1587477169474789378
+
 #### SD Tooling
 
 - AI Dreamer iOS/macOS app https://apps.apple.com/us/app/ai-dreamer/id1608856807
