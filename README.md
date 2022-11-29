@@ -92,6 +92,8 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
     - minor parameter parameter difference study (steps, clamp_max, ETA, cutn_batches, etc) https://twitter.com/KyrickYoung/status/1500196286930292742
 - Advanced
   - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
+  - 10 years of Image generation history https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
+  - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
   - negative prompting https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
