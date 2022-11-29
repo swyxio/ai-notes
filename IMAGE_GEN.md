@@ -100,11 +100,7 @@ Adding the right enhancers can really tweak the outcome:
 
 
 <details>
-	<summary>
-		
-		Examples
-		
-	</summary>
+	<summary>Prompt Examples</summary>
 
 
 	- Prefixes
