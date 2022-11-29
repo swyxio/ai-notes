@@ -385,6 +385,7 @@ Adding the right enhancers can really tweak the outcome:
 ### SD 1.4 vs 1.5 comparisons
 
 - https://twitter.com/TomLikesRobots/status/1583836870445670401
+- https://twitter.com/multimodalart/status/1583404683204648960
 
 ## SD2 vs SD1 user notes
 
