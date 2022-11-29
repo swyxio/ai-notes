@@ -89,7 +89,8 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
     - seed selection https://www.reddit.com/r/StableDiffusion/comments/x8szj9/tutorial_seed_selection_and_the_impact_on_your/
     - minor parameter parameter difference study (steps, clamp_max, ETA, cutn_batches, etc) https://twitter.com/KyrickYoung/status/1500196286930292742
 - Advanced
-  - nothing yet
+  - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
+  - negative prompting https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
   - https://creator.nightcafe.studio/collection/8dMYgKm1eVXG7z9pV23W
