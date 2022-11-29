@@ -5,6 +5,7 @@
   - the --initial_prompt CLI arg: For my use, I put a bunch of industry jargon and names that are commonly misspelled in there and that fixes 1/3 to 1/2 of the errors.
   - https://freesubtitles.ai/
   - https://github.com/mayeaux/generate-subtitles
+  - [theory](https://twitter.com/ethanCaballero/status/1572692314400628739?s=20&t=j_XtR82eEW6Vp28YvodqJQ): whisper is a way to get more tokens from youtube for gpt4
 - https://github.com/ggerganov/whisper.cpp
   High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model:
   - Plain C/C++ implementation without dependencies
