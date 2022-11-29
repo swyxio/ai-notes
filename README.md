@@ -62,7 +62,8 @@ This Readme is just the high level overview of the space; you should see the mos
   - gpt3 email https://github.com/sw-yx/gpt3-email
   - gpt3() in google sheet [2020](https://twitter.com/pavtalk/status/1285410751092416513?s=20&t=ppZhNO_OuQmXkjHQ7dl4wg), [2022](https://twitter.com/shubroski/status/1587136794797244417) - [sheet](https://docs.google.com/spreadsheets/d/1YzeQLG_JVqHKz5z4QE9wUsYbLoVZZxbGDnj7wCf_0QQ/edit)
   - https://www.summari.com/ Summari helps busy people read more
-- sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880?s=12&t=DEyWoA1Azh0Z5btVqoTY4g
+- sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880
+  - game assets - emad thread https://twitter.com/EMostaque/status/1591436813750906882
 
 ## Top Prompt Engineering Reads
 
