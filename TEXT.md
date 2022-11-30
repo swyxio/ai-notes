@@ -48,7 +48,14 @@ GPT3 applications:
   - teach AI how to fish - You are X, you can do Y: https://github.com/nat/natbot/blob/main/natbot.py
   - play with gpt-neoX and gpt-j https://neox.labml.ai/playground
   - defense against prompt injection https://twitter.com/goodside/status/1578278974526222336
-  - whatever the f this is https://twitter.com/goodside/status/1578614244290924545?s=20&t=UX2WDbF9c2ZgFNBcyYF2iQ
+  - whatever the f this is https://twitter.com/goodside/status/1578614244290924545
+- Academics
+  - P3: Public pool of prompts https://huggingface.co/datasets/bigscience/P3
+    - and Promptsource https://github.com/bigscience-workshop/promptsource
+  - Real-world Annotated Few-shot Tasks (RAFT) dataset https://huggingface.co/datasets/ought/raft
+  - Study chain of thought reasoning https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html
+    -  and UL2 20B https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html
+  - building GPT-JT: https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai
 
 ## How GPT works
 
@@ -64,6 +71,10 @@ GPT3 applications:
 ## GPT3 versions
 
 - GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
+- Eleuther's GPT-J-6B, GPT-NeoX
+- GPT-JT for classification
+  - https://news.ycombinator.com/item?id=33796158
+  - https://huggingface.co/spaces/togethercomputer/GPT-JT
 
 ## Specialized langauge models
 
