@@ -75,9 +75,13 @@ GPT3 applications:
 - GPT-JT for classification
   - https://news.ycombinator.com/item?id=33796158
   - https://huggingface.co/spaces/togethercomputer/GPT-JT
-- InstructGPT
-- ChatGPT: https://openai.com/blog/chatgpt/
-  - We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.  
+- GPT 3.5 (https://beta.openai.com/docs/model-index-for-researchers)
+  - code-davinci-002 is a base model, so good for pure code-completion tasks
+  - text-davinci-002 is an InstructGPT model based on code-davinci-002
+  - text-davinci-003 is an improvement on text-davinci-002
+  - InstructGPT https://openai.com/blog/instruction-following/
+  - ChatGPT: https://openai.com/blog/chatgpt/
+    - We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.  
 
 ## Specialized langauge models
 
