@@ -75,6 +75,9 @@ GPT3 applications:
 - GPT-JT for classification
   - https://news.ycombinator.com/item?id=33796158
   - https://huggingface.co/spaces/togethercomputer/GPT-JT
+- InstructGPT
+- ChatGPT: https://openai.com/blog/chatgpt/
+  - We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.  
 
 ## Specialized langauge models
 
