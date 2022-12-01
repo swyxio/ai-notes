@@ -442,6 +442,7 @@ Required reading:
   - https://www.findanything.app browser extension that adds SD predictions alongside Google search
   - https://www.drawanything.app 
   - https://creator.nolibox.com/guest open source https://github.com/carefree0910/carefree-creator
+  - https://synesthetic.ai remix engine
 - **iPhone/iPad Distros**
   - https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820
   - another attempt that was paused https://www.cephalopod.studio/blog/on-creating-an-on-device-stable-diffusion-app-amp-deciding-not-to-release-it-adventures-in-ai-ethics
@@ -544,6 +545,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 - [CLIP Ranked Artists](https://f000.backblazeb2.com/file/clip-artists/index.html): **gallery** sorted by weight/strength.
 - https://promptbase.com/ Selling prompts that produce desirable results
 - https://publicprompts.art/ very basic/limited but some good prompts. promptbase competitor
+- [Synesthetic](https://synesthetic.ai) integrated remix generator
 
 ### SD Visual search
 
