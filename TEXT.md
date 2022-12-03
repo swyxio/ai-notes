@@ -24,6 +24,8 @@ GPT3 applications:
     - https://github.com/giosilvi/GPT-Prompter https://www.reddit.com/r/GPT3/comments/wa2db1/new_chrome_extension_for_gpt3_for_fast_and_custom/
   - simulating people
     - https://jack-clark.net/2022/10/11/import-ai-305-gpt3-can-simulate-real-people-ai-discovers-better-matrix-multiplication-microsoft-worries-about-next-gen-deepfakes/
+  - Making stories with characters https://medium.com/@turc.raluca/introducing-rick-and-mortify-a14e56a8cb67
+
 
 ## Top GPT3 Prompt Engineering Reads
 
