@@ -7,3 +7,10 @@
 👉NeurIPS: https://neurips.cc/virtual/2022/poster/55737
 👉Arxiv: https://arxiv.org/abs/2206.08853
 👉Code, models, tools: https://github.com/MineDojo
+
+- Whatsapp + ChatGPT
+  - https://twitter.com/danielgross/status/1598735800497119232
+  - telegram port https://twitter.com/altryne/status/1598822052760195072
+  - "unofficial api" 
+    - https://twitter.com/taranjeetio/status/1598747137625333761?s=20
+    - https://twitter.com/transitive_bs/status/1598841144896417794  
