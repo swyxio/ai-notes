@@ -66,7 +66,7 @@ This Readme is just the high level overview of the space; you should see the mos
 - sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880
   - game assets - emad thread https://twitter.com/EMostaque/status/1591436813750906882
 
-## Top Prompt Engineering Reads
+## Top AI Reads
 
 The more advanced GPT3 reads have been split out to https://github.com/sw-yx/prompt-eng/blob/main/GPT.md
 
@@ -91,6 +91,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
   - settings tweaking https://www.reddit.com/r/StableDiffusion/comments/x3k79h/the_feeling_of_discovery_sd_is_like_a_great_proc/
     - seed selection https://www.reddit.com/r/StableDiffusion/comments/x8szj9/tutorial_seed_selection_and_the_impact_on_your/
     - minor parameter parameter difference study (steps, clamp_max, ETA, cutn_batches, etc) https://twitter.com/KyrickYoung/status/1500196286930292742
+    - Generative AI: Autocomplete for everything https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything?sd=pf
 - Advanced
   - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
   - 10 years of Image generation history https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
