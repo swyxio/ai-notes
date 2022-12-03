@@ -18,7 +18,7 @@ This Readme is just the high level overview of the space; you should see the mos
 **Table of Contents**
 
 - [Motivational Use Cases](#motivational-use-cases)
-- [Top Prompt Engineering Reads](#top-prompt-engineering-reads)
+- [Top AI Reads](#top-ai-reads)
 - [Communities](#communities)
 - [People](#people)
 - [Misc](#misc)
