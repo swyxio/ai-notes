@@ -246,3 +246,4 @@ My live list of people to follow is at: https://twitter.com/i/lists/158543024576
 - NSFW filter https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/
 - On "AI Art Panic" https://opguides.info/posts/aiartpanic/
 - Yannick influencing OPENRAIL-M https://www.youtube.com/watch?v=W5M-dvzpzSQ
+- art schools accepting AI art https://twitter.com/DaveRogenmoser/status/1597746558145265664
