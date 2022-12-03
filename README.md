@@ -44,6 +44,7 @@ This Readme is just the high level overview of the space; you should see the mos
   - webUI img2img collaboration https://twitter.com/_akhaliq/status/1563582621757898752
   - image to video with rotation https://twitter.com/TomLikesRobots/status/1571096804539912192
   - "prompt paint" https://twitter.com/1littlecoder/status/1572573152974372864
+  - audio2video animation of your face https://twitter.com/siavashg/status/1597588865665363969
   - music videos 
     - [video killed the radio star](https://www.youtube.com/watch?v=WJaxFbdjm8c), [colab](https://colab.research.google.com/github/dmarx/video-killed-the-radio-star/blob/main/Video_Killed_The_Radio_Star_Defusion.ipynb) This uses OpenAI's Whisper speech-to-text, allowing you to take a YouTube video & create a Stable Diffusion animation prompted by the lyrics in the YouTube video
     - [Stable Diffusion Videos](https://colab.research.google.com/github/nateraw/stable-diffusion-videos/blob/main/stable_diffusion_videos.ipynb) generates videos by interpolating between prompts and audio
