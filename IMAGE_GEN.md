@@ -12,6 +12,7 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
   - Prompt Parrot https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing
     - This notebook is designed to train language model on a list of your prompts,generate prompts in your style, and synthesize wonderful surreal images! ✨
     - https://twitter.com/KyrickYoung/status/1563962142633648129
+    - https://github.com/kyrick/cog-prompt-parrot
   - https://twitter.com/stuhlmueller/status/1575187860063285248
     - The Interactive Composition Explorer (ICE), a Python library for writing and debugging compositional language model programs https://github.com/oughtinc/ice
   - The Factored Cognition Primer, a tutorial that shows using examples how to write such programs https://primer.ought.org
@@ -435,6 +436,7 @@ Required reading:
   - https://playgroundai.com/create UI for DallE and Stable Diffusion
   - https://www.phantasmagoria.me/
   - https://www.mage.space/
+  - https://inpainter.vercel.app 
   - https://dreamlike.art/ has img2img
   - https://inpainter.vercel.app/paint for inpainting
   - https://promptart.labml.ai/feed
@@ -442,6 +444,8 @@ Required reading:
   - https://www.findanything.app browser extension that adds SD predictions alongside Google search
   - https://www.drawanything.app 
   - https://creator.nolibox.com/guest open source https://github.com/carefree0910/carefree-creator
+  - https://replicate.com/stability-ai/stable-diffusion Predictions run on Nvidia A100 GPU hardware. Predictions typically complete within 5 seconds.
+  - https://replicate.com/cjwbw/stable-diffusion-v2
 - **iPhone/iPad Distros**
   - https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820
   - another attempt that was paused https://www.cephalopod.studio/blog/on-creating-an-on-device-stable-diffusion-app-amp-deciding-not-to-release-it-adventures-in-ai-ethics
@@ -563,6 +567,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 - [Dynamic Prompt generator](https://rexwang8.github.io/resource/ai/generator)
 - [succinctly/text2image](https://huggingface.co/succinctly/text2image-prompt-generator): GPT-2 Midjourney trained text completion.
 - [Prompt Parrot colab](https://colab.research.google.com/drive/1GtyVgVCwnDfRvfsHbeU0AlG-SgQn1p8e?usp=sharing): Train and generate prompts.
+	- https://github.com/kyrick/cog-prompt-parrot
 - [cmdr2](https://github.com/cmdr2/stable-diffusion-ui): 1-click SD installation with image modifiers selection.
 
 ### Img2prompt - Reverse Prompt Engineering
@@ -593,6 +598,7 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 
 Dreambooth
 - https://bytexd.com/how-to-use-dreambooth-to-fine-tune-stable-diffusion-colab/
+- https://replicate.com/blog/dreambooth-api
 
 Trained examples
 - Pixel art animation spritesheets
