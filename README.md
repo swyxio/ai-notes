@@ -93,6 +93,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
     - minor parameter parameter difference study (steps, clamp_max, ETA, cutn_batches, etc) https://twitter.com/KyrickYoung/status/1500196286930292742
     - Generative AI: Autocomplete for everything https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything?sd=pf
 - Advanced
+  - Eugene Yan explanation of the Text to Image stack https://eugeneyan.com/writing/text-to-image/
   - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
   - 10 years of Image generation history https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
   - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
