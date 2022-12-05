@@ -1,3 +1,7 @@
+## good reads
+
+- Ten Years of Image Synthesis https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
+- Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
 
 ## SD vs DallE vs MJ
 
