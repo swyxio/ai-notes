@@ -131,6 +131,8 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 - chrome extension 
   - https://github.com/kazuki-sf/ChatGPT_Extension bringing up as a window
   - https://github.com/wong2/chat-gpt-google-extension sideloading with google
+  - https://github.com/liady/ChatGPT-pdf add the functionality of exporting it to an image, a PDF file, or create a sharable link
+  - https://sharegpt.com/ Share your wildest ChatGPT conversations with one click.
 
 ### Usecases
 
