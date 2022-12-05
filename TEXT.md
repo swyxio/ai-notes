@@ -128,7 +128,9 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 - telegram bot https://twitter.com/altryne/status/1598822052760195072
 - python https://github.com/taranjeet/chatgpt-api
 - nodejs https://github.com/transitive-bullshit/chatgpt-api
-- chrome extension https://github.com/kazuki-sf/ChatGPT_Extension
+- chrome extension 
+  - https://github.com/kazuki-sf/ChatGPT_Extension bringing up as a window
+  - https://github.com/wong2/chat-gpt-google-extension sideloading with google
 
 ### Usecases
 
