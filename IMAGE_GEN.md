@@ -388,6 +388,12 @@ Adding the right enhancers can really tweak the outcome:
 - https://twitter.com/TomLikesRobots/status/1583836870445670401
 - https://twitter.com/multimodalart/status/1583404683204648960
 
+## Distilled Stable Diffusion
+
+- https://twitter.com/EMostaque/status/1598131202044866560 20x speed up, convergence in 1-4 steps
+	- https://arxiv.org/abs/2210.03142
+	- "We already reduced time to gen 50 steps from 5.6s to 0.9s working with nvidia"
+
 ## SD2 vs SD1 user notes
 
 - Comparisons
@@ -431,6 +437,7 @@ Required reading:
     - Note: it goes a lot faster if you run it all inside the included aimg CLI, since then it doesn't have to reload the model from disk every time
   - [Fictiverse/Windows-GUI](https://github.com/Fictiverse/StableDiffusion-Windows-GUI): A windows interface for stable diffusion
   - https://github.com/razzorblade/stable-diffusion-gui: dormant now.
+  - SD from Apple Core ML https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon https://github.com/apple/ml-stable-diffusion
 - **Web Distros**
   - Gooey - https://app.gooey.ai/CompareText2Img/?example_id=1uONp1IBt0Y
   - https://playgroundai.com/create UI for DallE and Stable Diffusion
@@ -599,6 +606,7 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 Dreambooth
 - https://bytexd.com/how-to-use-dreambooth-to-fine-tune-stable-diffusion-colab/
 - https://replicate.com/blog/dreambooth-api
+- https://huggingface.co/spaces/multimodalart/dreambooth-training (tech notes https://twitter.com/multimodalart/status/1598260506460311557)
 
 Trained examples
 - Pixel art animation spritesheets
