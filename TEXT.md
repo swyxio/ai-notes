@@ -143,9 +143,9 @@ sorted in rough descending order of impact
   - [writing a podcast intro](https://twitter.com/gilbert/status/1598446084279652353)
 - Writing tutorials
   - starting with TOC and then section by section https://twitter.com/goodside/status/1598235521675038722
-- Education (takes from acedemia)
-  - answering essays https://twitter.com/ryancbriggs/status/1598125864536788993
-  - "you can no longer give take-home exams/homework." https://twitter.com/Afinetheorem/status/1598081835736891393?s=20&t=CM78YpCQAc4KzEvKWXJT1Q
+- Education (takes from acedemia/real professors)
+  - answering essays https://twitter.com/ryancbriggs/status/1598125864536788993 and https://twitter.com/corry_wang/status/1598176074604507136
+  - "you can no longer give take-home exams/homework." https://twitter.com/Afinetheorem/status/1598081835736891393
     - concurring https://twitter.com/TimKietzmann/status/1598230759118376960
   - research grant proposals https://twitter.com/MarkBoukes/status/1598298494024159232
 - information in creative formats
@@ -164,6 +164,7 @@ sorted in rough descending order of impact
   - "yes and" improv https://twitter.com/blessinvarkey/status/1598259226019008512
   - extending movie scenes https://twitter.com/bob_burrough/status/1598279507298787328
   - bible song about ducks https://twitter.com/drnelk/status/1598048054724423681
+  - song in different styles https://twitter.com/charles_irl/status/1598319027327307785
   - in the style of the king james bible https://twitter.com/tqbf/status/1598513757805858820
   - {{ popular song}} in the style of the canturbury tales https://twitter.com/jonathanstray/status/1598298680548794368
 - therapy/company
@@ -172,10 +173,14 @@ sorted in rough descending order of impact
 - code explaining and generation
   - [solving leetcode](https://news.ycombinator.com/item?id=33833420) - not that good
   - ⭐ debugging code https://twitter.com/jdjkelly/status/1598140764244299776 (note that [TS answer is wrong](https://twitter.com/SeaRyanC/status/1598515753942384640))
+  - fix code and explain fix https://twitter.com/amasad/status/1598042665375105024
+  - dynamic programming https://twitter.com/sokrypton/status/1598241703474888705
+  - AWS IAM policies https://twitter.com/iangcarroll/status/1598171507062022148
   - code that combines multiple cloud services https://twitter.com/amasad/status/1598089698534395924
   - solving a code problem https://twitter.com/rohan_mayya/status/1598188057894608897
   - explain computer networks homework https://twitter.com/abhnvx/status/1598258353196929024
   - rewriting code from elixir to PHP https://twitter.com/AlfredBaudisch/status/1598251795830444035
+  - build holy grail website and followup with framework, copy, repsonsiveness https://twitter.com/gabe_ragland/status/1598068207994429441
 - Misc
   -  "POV: You're a Senior Data Engineer at Twitter. Elon asks what you've done this week." https://twitter.com/goodside/status/1599082185402642432
   -  Defeating hallucination questions from the Economist https://twitter.com/goodside/status/1598053568422248448
@@ -278,6 +283,8 @@ threads that recap stuff above
 
 - https://twitter.com/zswitten/status/1598380220943593472
 - https://twitter.com/sytelus/status/1598523136177508356
+- https://twitter.com/bleedingedgeai/status/1598378564373471232
+- https://twitter.com/bentossell/status/1598269692082151424
 
 
 
