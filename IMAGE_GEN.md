@@ -504,6 +504,8 @@ Main Stable Diffusion repo: https://github.com/CompVis/stable-diffusion
 
 https://github.com/Filarius/stable-diffusion-webui/blob/master/scripts/vid2vid.py with Vid2Vid
 
+Future Diffusion  https://huggingface.co/nitrosocke/Future-Diffusion https://twitter.com/Nitrosocke/status/1599789199766716418
+
 #### SD in Other languages
 
 - Chinese: https://twitter.com/_akhaliq/status/1572580845785083906
