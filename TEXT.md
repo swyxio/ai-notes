@@ -314,6 +314,7 @@ This is a moving target - they patch it quickly. list of patches:
 - IQ 83 https://twitter.com/SergeyI49013776/status/1598430479878856737 (good long thread of fails)
 - "Minimum Turing Test": Yelling Poop makes us human https://twitter.com/emollick/status/1598516535038861313
 - leans libertarian-left https://twitter.com/DavidRozado/status/1599865724037922818
+- politiscale https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/
 
 ### recap threads
 
