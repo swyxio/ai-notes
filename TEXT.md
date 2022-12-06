@@ -32,6 +32,7 @@ GPT3 applications:
 - Overview
   - https://www.gwern.net/GPT-3#prompts-as-programming
   - https://andymatuschak.org/prompts/
+  - https://every.to/superorganizers/linus-lee-is-living-with-ai
 - Beginner
   - go through all the GPT3 examples https://beta.openai.com/examples
 - Intermediate
@@ -107,6 +108,9 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 - Langchain python package - implements many techniques
 - Dust.tt - tree UI for k-shot datasets, prompt templates, prompt chaining
 - Spellbook from Scale - automatically write k-shots, eval metrics for prompt varaints, prompts to spreadsheet functions
+- Linus/thesephist tools
+  - tree of branches https://twitter.com/thesephist/status/1590545448066252800
+  - scrubbing a text for length https://twitter.com/thesephist/status/1587929014848540673
 
 ## Ethical issues
 
