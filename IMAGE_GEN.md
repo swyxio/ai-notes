@@ -429,6 +429,9 @@ Required reading:
 - param intuition https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
 - CLI commands https://www.assemblyai.com/blog/how-to-run-stable-diffusion-locally-to-generate-images/#script-options
 
+
+
+
 ### SD Distros
 
 - **Installer Distros**: Programs that bundle Stable Diffusion in an installable program, no separate setup and the least amount of git/technical skill needed, usually bundling one or more UI
@@ -664,6 +667,10 @@ Trained examples
 ## Extremely detailed prompt examples
 
 - [dark skinned Johnny Storm young male superhero of the fantastic four, full body, flaming dreadlock hair, blue uniform with the number 4 on the chest in a round logo, cinematic, high detail, no imperfections, extreme realism, high detail, extremely symmetric facial features, no distortion, clean, also evil villians fighting in the background, by Stan Lee](https://lexica.art/prompt/d622e029-176d-42b7-a437-39ccf1952b71)
+
+### Solving Hands
+
+- Negative prompts: ugly, disfigured, too many fingers, too many arms, too many legs, too many hands
 
 ## Midjourney prompts
 
