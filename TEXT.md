@@ -158,6 +158,20 @@ sorted in rough descending order of impact
   - [writing a podcast intro](https://twitter.com/gilbert/status/1598446084279652353)
 - Writing tutorials
   - starting with TOC and then section by section https://twitter.com/goodside/status/1598235521675038722
+- code explaining and generation
+  - [solving leetcode](https://news.ycombinator.com/item?id=33833420) - not that good
+  - ⭐ debugging code https://twitter.com/jdjkelly/status/1598140764244299776 (note that [TS answer is wrong](https://twitter.com/SeaRyanC/status/1598515753942384640))
+  - fix code and explain fix https://twitter.com/amasad/status/1598042665375105024
+  - dynamic programming https://twitter.com/sokrypton/status/1598241703474888705
+  - AWS IAM policies https://twitter.com/iangcarroll/status/1598171507062022148
+  - code that combines multiple cloud services https://twitter.com/amasad/status/1598089698534395924
+  - solving a code problem https://twitter.com/rohan_mayya/status/1598188057894608897
+  - explain computer networks homework https://twitter.com/abhnvx/status/1598258353196929024
+  - rewriting code from elixir to PHP https://twitter.com/AlfredBaudisch/status/1598251795830444035
+  - turning ChatGPT into an interpreter for a custom language, and then generating code and executing it, and solving Advent of Code correctly https://news.ycombinator.com/item?id=33851586
+    - including getting #1 place https://news.ycombinator.com/item?id=33850999
+  - "I haven't done a single google search or consulted any external documentation to do it and I was able to progress faster than I have ever did before when learning a new thing." https://news.ycombinator.com/item?id=33854298
+  - build holy grail website and followup with framework, copy, repsonsiveness https://twitter.com/gabe_ragland/status/1598068207994429441
 - Education (takes from acedemia/real professors)
   - answering essays https://twitter.com/ryancbriggs/status/1598125864536788993 and https://twitter.com/corry_wang/status/1598176074604507136
   - "you can no longer give take-home exams/homework." https://twitter.com/Afinetheorem/status/1598081835736891393
@@ -188,38 +202,24 @@ sorted in rough descending order of impact
 - therapy/company
   - BF simulation https://twitter.com/michael_nielsen/status/1598476830272802816
   - ⭐ conversation about a book https://twitter.com/jdjkelly/status/1598143982630219776/photo/1
-- code explaining and generation
-  - [solving leetcode](https://news.ycombinator.com/item?id=33833420) - not that good
-  - ⭐ debugging code https://twitter.com/jdjkelly/status/1598140764244299776 (note that [TS answer is wrong](https://twitter.com/SeaRyanC/status/1598515753942384640))
-  - fix code and explain fix https://twitter.com/amasad/status/1598042665375105024
-  - dynamic programming https://twitter.com/sokrypton/status/1598241703474888705
-  - AWS IAM policies https://twitter.com/iangcarroll/status/1598171507062022148
-  - code that combines multiple cloud services https://twitter.com/amasad/status/1598089698534395924
-  - solving a code problem https://twitter.com/rohan_mayya/status/1598188057894608897
-  - explain computer networks homework https://twitter.com/abhnvx/status/1598258353196929024
-  - rewriting code from elixir to PHP https://twitter.com/AlfredBaudisch/status/1598251795830444035
-  - turning ChatGPT into an interpreter for a custom language, and then generating code and executing it, and solving Advent of Code correctly https://news.ycombinator.com/item?id=33851586
-    - including getting #1 place https://news.ycombinator.com/item?id=33850999
-  - "I haven't done a single google search or consulted any external documentation to do it and I was able to progress faster than I have ever did before when learning a new thing." https://news.ycombinator.com/item?id=33854298
-  - build holy grail website and followup with framework, copy, repsonsiveness https://twitter.com/gabe_ragland/status/1598068207994429441
 - Misc
   -  "POV: You're a Senior Data Engineer at Twitter. Elon asks what you've done this week." https://twitter.com/goodside/status/1599082185402642432
   -  Defeating hallucination questions from the Economist https://twitter.com/goodside/status/1598053568422248448
   -  other tests run https://news.ycombinator.com/item?id=33851460
-    - opengl raytracer with compilation instructions for macos
-    - tictactoe in 3D
-    - bitorrent peer handshake in Go from a paragraph in the RFC
-    - http server in go with /user, /session, and /status endpoints from an english description
-    - protocol buffer product configuration from a paragraph english description
-    - pytorch script for classifying credit card transactions into expense accounts and instructions to import the output into quickbooks
-    - quota management API implemented as a bidirectional streaming grpc service 
-    - pytorch neural network with a particular shape, number of input classes, output classes, activation function, etc.
-    - IO scheduler using token bucket rate limiting
-    - analyze the strengths/weaknesses of algorithms for 2 player zero sum games
-    - compare david hume and immanuel kant's thoughts on knowledge
-    - describe how critics received george orwell's work during his lifetime
-    - christmas present recommendations for a relative given a description of their interests
-    - poems about anything. love. cats. you name it.
+      - opengl raytracer with compilation instructions for macos
+      - tictactoe in 3D
+      - bitorrent peer handshake in Go from a paragraph in the RFC
+      - http server in go with /user, /session, and /status endpoints from an english description
+      - protocol buffer product configuration from a paragraph english description
+      - pytorch script for classifying credit card transactions into expense accounts and instructions to import the output into quickbooks
+      - quota management API implemented as a bidirectional streaming grpc service 
+      - pytorch neural network with a particular shape, number of input classes, output classes, activation function, etc.
+      - IO scheduler using token bucket rate limiting
+      - analyze the strengths/weaknesses of algorithms for 2 player zero sum games
+      - compare david hume and immanuel kant's thoughts on knowledge
+      - describe how critics received george orwell's work during his lifetime
+      - christmas present recommendations for a relative given a description of their interests
+      - poems about anything. love. cats. you name it.
 
 ## Fails
 
