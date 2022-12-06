@@ -133,13 +133,17 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 - whatsapp https://github.com/danielgross/whatsapp-gpt https://twitter.com/danielgross/status/1598735800497119232
 - telegram bot https://twitter.com/altryne/status/1598822052760195072
   - now with google access https://github.com/altryne/chatGPT-telegram-bot/releases/tag/0.1.0
+  - https://twitter.com/m1guelpf/status/1599254528800325632 https://github.com/m1guelpf/chatgpt-telegram
+- twitter bot https://github.com/transitive-bullshit/chatgpt-twitter-bot
 - python https://github.com/taranjeet/chatgpt-api
 - nodejs https://github.com/transitive-bullshit/chatgpt-api
+- vscode extension https://github.com/mpociot/chatgpt-vscode
 - chrome extension 
   - https://github.com/kazuki-sf/ChatGPT_Extension bringing up as a window
   - https://github.com/wong2/chat-gpt-google-extension sideloading with google
   - https://github.com/liady/ChatGPT-pdf add the functionality of exporting it to an image, a PDF file, or create a sharable link
   - https://sharegpt.com/ Share your wildest ChatGPT conversations with one click.
+  - https://github.com/clmnin/summarize.site ummarize web page content using ChatGPT
 
 ### Usecases
 
