@@ -111,6 +111,7 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 - Linus/thesephist tools
   - tree of branches https://twitter.com/thesephist/status/1590545448066252800
   - scrubbing a text for length https://twitter.com/thesephist/status/1587929014848540673
+- mozilla's readability-cli https://www.npmjs.com/package/readability-cli ([tip](https://twitter.com/scottleibrand/status/1599988038721212416?s=20&t=cmSnNOsSSvutmlWTZpzYCQ))
 
 ## Ethical issues
 
@@ -303,11 +304,12 @@ This is a moving target - they patch it quickly. list of patches:
 - https://twitter.com/sleepdensity/status/1598233414683197441
 
 
-### IQ tests
+### Tests
 
 - SAT 500/520 https://twitter.com/davidtsong/status/1598767389390573569
 - IQ 83 https://twitter.com/SergeyI49013776/status/1598430479878856737 (good long thread of fails)
 - "Minimum Turing Test": Yelling Poop makes us human https://twitter.com/emollick/status/1598516535038861313
+- leans libertarian-left https://twitter.com/DavidRozado/status/1599865724037922818
 
 ### recap threads
 
