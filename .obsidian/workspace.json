@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "92843d15347de81f",
+    "type": "split",
+    "children": [
+      {
+        "id": "989acf5e57d2876a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5acebfd250cd5240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IMAGE_GEN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "203de87adcfe2eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IMAGE_PROMPTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea1893bfe40cc932",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c79a21bba6db69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b588316921e879",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "626db07e6b7c7d72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "infra",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e552fefaac18f7f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "006017407293c83a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce208153ee111954",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bacd957983f4aeda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IMAGE_PROMPTS.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "816162ce16bc5ee5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IMAGE_PROMPTS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cf99335bc32d3ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8144b538fa5779e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IMAGE_PROMPTS.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "203de87adcfe2eef",
+  "lastOpenFiles": [
+    "TEXT.md",
+    "README.md",
+    "IMAGE_PROMPTS.md",
+    "IMAGE_GEN.md",
+    "stub notes/IMAGE2TEXT.md",
+    "stub notes/AGENTS.md",
+    "AUDIO.md",
+    "stub notes/TIMELINE.md",
+    "stub notes/CODE.md"
+  ]
+}

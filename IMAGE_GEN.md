@@ -326,12 +326,14 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 - [Akashic Records](https://github.com/Maks-s/sd-akashic#prompts-toc)
 - [Awesome Stable-Diffusion](https://github.com/Maks-s/sd-akashic#prompts-toc)
 
-### Finetuning
+### Finetuning/Dreambooth
 
 Dreambooth
 - https://bytexd.com/how-to-use-dreambooth-to-fine-tune-stable-diffusion-colab/
 - https://replicate.com/blog/dreambooth-api
 - https://huggingface.co/spaces/multimodalart/dreambooth-training (tech notes https://twitter.com/multimodalart/status/1598260506460311557)
+- https://github.com/ShivamShrirao/diffusers
+	- produces https://twitter.com/rainisto/status/1600563803912929280
 
 Trained examples
 - Pixel art animation spritesheets

@@ -71,6 +71,7 @@ This Readme is just the high level overview of the space; you should see the mos
 The more advanced GPT3 reads have been split out to https://github.com/sw-yx/prompt-eng/blob/main/GPT.md
 
 - https://www.gwern.net/GPT-3#prompts-as-programming
+- https://learnprompting.org/
 - beginner
   - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
   - DALLE2 prompt writing book http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
@@ -122,7 +123,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 
 ## People
 
-My live list of people to follow is at: https://twitter.com/i/lists/1585430245762441216
+This list will be out of date but will get you started. My live list of people to follow is at: https://twitter.com/i/lists/1585430245762441216
 
 - Researchers/Developers
   - https://twitter.com/_jasonwei
@@ -241,7 +242,14 @@ My live list of people to follow is at: https://twitter.com/i/lists/158543024576
 - huggingface.co
 - lambdalabs.com
 - astriaAI
-
+- cost of chatgpt - https://twitter.com/tomgoldsteincs/status/1600196981955100694
+	- A 3-billion parameter model can generate a token in about 6ms on an A100 GPU
+	- a 175b param it should take 350ms secs for an A100 GPU to print out a single word
+	- You would need 5 80Gb A100 GPUs just to load the model and text. ChatGPT cranks out about 15-20 words per second. If it uses A100s, that could be done on an 8-GPU server (a likely choice on Azure cloud)
+	- On Azure cloud, each A100 card costs about $3 an hour. That's $0.0003 per word generated.
+	- The model usually responds to my queries with ~30 words, which adds up to about 1 cent per query.
+	- If an average user has made 10 queries per day, I think it’s reasonable to estimate that ChatGPT serves ~10M queries per day.
+	- I estimate the cost of running ChatGPT is $100K per day, or $3M per month.
 
 ## Legal, Ethics, and Privacy
 

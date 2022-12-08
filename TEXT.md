@@ -226,7 +226,7 @@ sorted in rough descending order of impact
 - factually wrong info https://twitter.com/parafactual/status/1598212029479026689
 - failed spatial relationships https://twitter.com/paulharter/status/1598304656236875781
 - cant do math https://twitter.com/3blue1brown/status/1598256290765377537
-
+- LLM gaslighting vulnerability https://twitter.com/ESYudkowsky/status/1598663598490136576
 
 ### Jailbreaks
 
@@ -324,6 +324,7 @@ threads that recap stuff above
 - https://twitter.com/sytelus/status/1598523136177508356
 - https://twitter.com/bleedingedgeai/status/1598378564373471232
 - https://twitter.com/bentossell/status/1598269692082151424
+- https://twitter.com/omarsar0/status/1600149116369051649
 
 
 
