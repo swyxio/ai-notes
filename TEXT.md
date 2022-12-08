@@ -308,6 +308,19 @@ This is a moving target - they patch it quickly. list of patches:
 - https://twitter.com/sleepdensity/status/1598233414683197441
 
 
+### Block Content Policy Warning
+
+Blocking content policy warninng from Open AI
+
+https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+
+- Install Extension Ublock
+  -  Go to settings in Ublock
+  -  Go to My Filters
+  -  paste in: ||chat.openai.com/backend-api/moderations$domain=chat.openai.com
+  -  Apply Changes
+
+
 ### Tests
 
 - SAT 500/520 https://twitter.com/davidtsong/status/1598767389390573569
