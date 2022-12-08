@@ -31,6 +31,10 @@ https://news.ycombinator.com/item?id=33663486
 
 - https://github.com/words/syllable and ecosystem
 
+### Apps
+
+  - youtube whisper (large-v2 support) https://twitter.com/jeffistyping/status/1600549658949931008
+
 ### Translation
 
 - https://github.com/LibreTranslate/LibreTranslate
