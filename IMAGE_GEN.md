@@ -7,6 +7,7 @@
 - [good reads](#good-reads)
 - [SD vs DallE vs MJ](#sd-vs-dalle-vs-mj)
 - [Tooling](#tooling)
+- [Products](#products)
 - [Stable Diffusion prompts](#stable-diffusion-prompts)
   - [SD v2 prompts](#sd-v2-prompts)
   - [SD 1.4 vs 1.5 comparisons](#sd-14-vs-15-comparisons)

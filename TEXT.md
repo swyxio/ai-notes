@@ -9,17 +9,19 @@
 - [Don't call it generative](#dont-call-it-generative)
 - [GPT3 versions](#gpt3-versions)
 - [Specialized langauge models](#specialized-langauge-models)
+- [Products](#products)
 - [GPT tooling](#gpt-tooling)
 - [Ethical issues](#ethical-issues)
 - [ChatGPT](#chatgpt)
   - [Findings](#findings)
-  - [API](#api)
+  - [Products](#products-1)
   - [Usecases](#usecases)
-- [Fails](#fails)
+  - [Fails](#fails)
   - [Jailbreaks](#jailbreaks)
   - [Block Content Policy Warning](#block-content-policy-warning)
   - [Tests](#tests)
   - [recap threads](#recap-threads)
+- [Misc Text AI](#misc-text-ai)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
