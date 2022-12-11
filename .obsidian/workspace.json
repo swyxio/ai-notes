@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUDIO.md",
+                "file": "IMAGE_GEN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUDIO.md",
+                "file": "IMAGE_GEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUDIO.md",
+                "file": "IMAGE_GEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUDIO.md"
+                "file": "IMAGE_GEN.md"
               }
             }
           }
@@ -138,11 +138,11 @@
   },
   "active": "aeeb476d82f10c1d",
   "lastOpenFiles": [
+    "AUDIO.md",
     "IMAGE_GEN.md",
     "IMAGE_PROMPTS.md",
     "TEXT.md",
     "README.md",
-    "stub notes/IMAGE2TEXT.md",
-    "AUDIO.md"
+    "stub notes/IMAGE2TEXT.md"
   ]
 }
