@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "stub notes/AGENTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "706b07f8eb306ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "TEXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "TEXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAGE_GEN.md"
+                "file": "TEXT.md"
               }
             }
           }
@@ -136,13 +149,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "aeeb476d82f10c1d",
+  "active": "706b07f8eb306ace",
   "lastOpenFiles": [
-    "AUDIO.md",
     "IMAGE_GEN.md",
-    "IMAGE_PROMPTS.md",
     "TEXT.md",
+    "stub notes/RLHF.md",
+    "stub notes/AGENTS.md",
     "README.md",
+    "stub notes/CODE.md",
+    "AUDIO.md",
+    "IMAGE_PROMPTS.md",
     "stub notes/IMAGE2TEXT.md"
   ]
 }

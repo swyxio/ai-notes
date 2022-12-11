@@ -14,3 +14,8 @@
   - "unofficial api" 
     - https://twitter.com/taranjeetio/status/1598747137625333761?s=20
     - https://twitter.com/transitive_bs/status/1598841144896417794  
+
+https://twitter.com/realGeorgeHotz/status/1591181077292679168
+https://twitter.com/realbrendanb/status/1593414620928413696
+https://twitter.com/ai__pub/status/1593365765012434944
+	- https://blog.swift.vc/the-next-generation-of-large-language-models-will-blow-your-mind-and-disrupt-your-business-3b913d6dfa8a

@@ -37,6 +37,10 @@
 ## good reads
 
 - Ten Years of Image Synthesis https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
+	- 2014-2017 https://twitter.com/swyx/status/1049412858755264512
+	- 2014-2022 https://twitter.com/c_valenzuelab/status/1562579547404455936
+	- wolfenstein 1992 vs 2014 https://twitter.com/kevinroose/status/1557815883837255680
+	- midjourney progression in 2022 https://twitter.com/lopp/status/1595846677591904257
 - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
 - Stable Diffusion
 	- https://stability.ai/blog/stable-diffusion-v2-release
@@ -114,6 +118,11 @@ Misc
         - https://www.astria.ai/ (formerly https://www.strmr.com/)
         - https://twitter.com/rohanarora_/status/1580413809516511232?s=20&t=XxjfadtkVM8TOvg5EYFCrw
   - [very good BLOOM model overview](https://www.youtube.com/watch?v=3EjtHs_lXnk)
+
+## Products
+
+- Lexica (search + gen)
+- Pixelvibe (search + gen) https://twitter.com/lishali88/status/1595029444988649472
 
 
 ## Stable Diffusion prompts
@@ -389,6 +398,9 @@ https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-how-we-made-the-te
 
 Stable Diffusion + Midjourney
 - https://www.reddit.com/r/StableDiffusion/comments/z622mp/comment/ixyy2qz/?utm_source=share&utm_medium=web2x&context=3
+
+Embeddings
+- knollingcase https://huggingface.co/ProGamerGov/knollingcase-embeddings-sd-v2-0
 
 Dreambooth
 - https://bytexd.com/how-to-use-dreambooth-to-fine-tune-stable-diffusion-colab/
