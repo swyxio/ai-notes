@@ -1,4 +1,4 @@
-## GPT specific notes
+				## GPT specific notes
 
 My best timeline of GPT efforts is listed here: https://lspace.swyx.io/p/open-source-ai
 
@@ -163,6 +163,7 @@ sorted in rough descending order of impact
   - ⭐ debugging code https://twitter.com/jdjkelly/status/1598140764244299776 (note that [TS answer is wrong](https://twitter.com/SeaRyanC/status/1598515753942384640))
   - fix code and explain fix https://twitter.com/amasad/status/1598042665375105024
   - dynamic programming https://twitter.com/sokrypton/status/1598241703474888705
+  - translating/refactoring Wasplang DSL https://www.youtube.com/watch?v=HjUpqfEonow
   - AWS IAM policies https://twitter.com/iangcarroll/status/1598171507062022148
   - code that combines multiple cloud services https://twitter.com/amasad/status/1598089698534395924
   - solving a code problem https://twitter.com/rohan_mayya/status/1598188057894608897

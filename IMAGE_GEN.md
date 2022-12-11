@@ -2,6 +2,12 @@
 
 - Ten Years of Image Synthesis https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
 - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
+- Stable Diffusion
+	- https://stability.ai/blog/stable-diffusion-v2-release
+	- https://stability.ai/blog/stablediffusion2-1-release7-dec-2022
+		- Better people and less restrictions than v2.0
+		- Nonstandard resolutions
+		- Dreamstudio with negative prompts and weights
 
 ## SD vs DallE vs MJ
 

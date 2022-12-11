@@ -30,6 +30,10 @@ https://news.ycombinator.com/item?id=33663486
 ### misc tooling
 
 - https://github.com/words/syllable and ecosystem
+- speaker diaraization
+	- https://news.ycombinator.com/item?id=33892105
+	- [https://github.com/pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+	- [https://arxiv.org/abs/2012.00931](https://arxiv.org/abs/2012.00931)
 
 ### Apps
 
