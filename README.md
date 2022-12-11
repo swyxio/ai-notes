@@ -15,7 +15,8 @@ This Readme is just the high level overview of the space; you should see the mos
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+<details>
+<summary>Table of Contents</summary>
 
 - [Motivational Use Cases](#motivational-use-cases)
 - [Top AI Reads](#top-ai-reads)
@@ -26,6 +27,7 @@ This Readme is just the high level overview of the space; you should see the mos
 - [Infrastructure](#infrastructure)
 - [Legal, Ethics, and Privacy](#legal-ethics-and-privacy)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Motivational Use Cases

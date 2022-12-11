@@ -1,17 +1,16 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+<details>
+<summary>Table of Contents</summary>
 
-- [Motivational Use Cases](#motivational-use-cases)
-- [Top AI Reads](#top-ai-reads)
-- [Communities](#communities)
-- [People](#people)
-- [Misc](#misc)
-- [Quotes, Reality & Demotivation](#quotes-reality--demotivation)
-- [Infrastructure](#infrastructure)
-- [Legal, Ethics, and Privacy](#legal-ethics-and-privacy)
+- [Transcription](#transcription)
+  - [misc tooling](#misc-tooling)
+  - [Apps](#apps)
+  - [Translation](#translation)
+- [Music generation](#music-generation)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Transcription

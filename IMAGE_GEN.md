@@ -1,17 +1,37 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+<details>
+<summary>Table of Contents</summary>
 
-- [Motivational Use Cases](#motivational-use-cases)
-- [Top AI Reads](#top-ai-reads)
-- [Communities](#communities)
-- [People](#people)
+- [good reads](#good-reads)
+- [SD vs DallE vs MJ](#sd-vs-dalle-vs-mj)
+- [Tooling](#tooling)
+- [Stable Diffusion prompts](#stable-diffusion-prompts)
+  - [SD v2 prompts](#sd-v2-prompts)
+  - [SD 1.4 vs 1.5 comparisons](#sd-14-vs-15-comparisons)
+- [Distilled Stable Diffusion](#distilled-stable-diffusion)
+- [SD2 vs SD1 user notes](#sd2-vs-sd1-user-notes)
+- [Hardware requirements](#hardware-requirements)
+- [Stable Diffusion](#stable-diffusion)
+  - [SD Distros](#sd-distros)
+  - [SD Major forks](#sd-major-forks)
+  - [SD Prompt galleries and search engines](#sd-prompt-galleries-and-search-engines)
+  - [SD Visual search](#sd-visual-search)
+  - [SD Prompt generators](#sd-prompt-generators)
+  - [Img2prompt - Reverse Prompt Engineering](#img2prompt---reverse-prompt-engineering)
+  - [Explore Artists, styles, and modifiers](#explore-artists-styles-and-modifiers)
+  - [SD Prompt Tools directories and guides](#sd-prompt-tools-directories-and-guides)
+  - [Finetuning/Dreambooth](#finetuningdreambooth)
+- [How SD Works - Internals and Studies](#how-sd-works---internals-and-studies)
+- [SD Results](#sd-results)
+  - [Img2Img](#img2img)
+- [Extremely detailed prompt examples](#extremely-detailed-prompt-examples)
+  - [Solving Hands](#solving-hands)
+- [Midjourney prompts](#midjourney-prompts)
 - [Misc](#misc)
-- [Quotes, Reality & Demotivation](#quotes-reality--demotivation)
-- [Infrastructure](#infrastructure)
-- [Legal, Ethics, and Privacy](#legal-ethics-and-privacy)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## good reads
