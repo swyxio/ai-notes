@@ -8,3 +8,5 @@ jobs:
       - uses: technote-space/toc-generator@v2
         with:
           MAX_HEADER_LEVEL: 3
+          TARGET_PATHS: *.md
+          FOLDING: true
