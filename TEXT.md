@@ -1,17 +1,27 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
+<details>
+<summary>Table of Contents</summary>
 
-- [Motivational Use Cases](#motivational-use-cases)
-- [Top AI Reads](#top-ai-reads)
-- [Communities](#communities)
-- [People](#people)
-- [Misc](#misc)
-- [Quotes, Reality & Demotivation](#quotes-reality--demotivation)
-- [Infrastructure](#infrastructure)
-- [Legal, Ethics, and Privacy](#legal-ethics-and-privacy)
+- [Top GPT3 Prompt Engineering Reads](#top-gpt3-prompt-engineering-reads)
+- [How GPT works](#how-gpt-works)
+- [Don't call it generative](#dont-call-it-generative)
+- [GPT3 versions](#gpt3-versions)
+- [Specialized langauge models](#specialized-langauge-models)
+- [GPT tooling](#gpt-tooling)
+- [Ethical issues](#ethical-issues)
+- [ChatGPT](#chatgpt)
+  - [Findings](#findings)
+  - [API](#api)
+  - [Usecases](#usecases)
+- [Fails](#fails)
+  - [Jailbreaks](#jailbreaks)
+  - [Block Content Policy Warning](#block-content-policy-warning)
+  - [Tests](#tests)
+  - [recap threads](#recap-threads)
 
+</details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 My best timeline of GPT efforts is listed here: https://lspace.swyx.io/p/open-source-ai
