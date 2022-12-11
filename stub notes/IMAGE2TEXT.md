@@ -1,4 +1,8 @@
 
+CLIP retrieval
+- https://rom1504.github.io/clip-retrieval/?back=https%3A%2F%2Fknn5.laion.ai&index=laion5B&useMclip=false
+- have i been trained
+
 SalesforceBLIP
 - https://github.com/salesforce/BLIP
 - https://github.com/Nutlope/alt-text-generator

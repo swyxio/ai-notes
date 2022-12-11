@@ -1,4 +1,18 @@
-				## GPT specific notes
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Motivational Use Cases](#motivational-use-cases)
+- [Top AI Reads](#top-ai-reads)
+- [Communities](#communities)
+- [People](#people)
+- [Misc](#misc)
+- [Quotes, Reality & Demotivation](#quotes-reality--demotivation)
+- [Infrastructure](#infrastructure)
+- [Legal, Ethics, and Privacy](#legal-ethics-and-privacy)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 My best timeline of GPT efforts is listed here: https://lspace.swyx.io/p/open-source-ai
 

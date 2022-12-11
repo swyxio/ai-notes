@@ -1,9 +1,26 @@
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Motivational Use Cases](#motivational-use-cases)
+- [Top AI Reads](#top-ai-reads)
+- [Communities](#communities)
+- [People](#people)
+- [Misc](#misc)
+- [Quotes, Reality & Demotivation](#quotes-reality--demotivation)
+- [Infrastructure](#infrastructure)
+- [Legal, Ethics, and Privacy](#legal-ethics-and-privacy)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## good reads
 
 - Ten Years of Image Synthesis https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
 - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
 - Stable Diffusion
 	- https://stability.ai/blog/stable-diffusion-v2-release
+		- _Super-resolution Upscaler Diffusion Models_
 	- https://stability.ai/blog/stablediffusion2-1-release7-dec-2022
 		- Better people and less restrictions than v2.0
 		- Nonstandard resolutions
@@ -108,6 +125,10 @@ Prompts might go in the form of
 Adding the right enhancers can really tweak the outcome:
 
 ![image](https://user-images.githubusercontent.com/6764957/188303877-4555e026-4da5-4f22-b7f5-2972425350ba.png)
+
+### SD v2 prompts
+
+SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
 
 ### SD 1.4 vs 1.5 comparisons
 
@@ -256,6 +277,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 | UI Name/Link 	| Stars 	| Self-Description 	|
 |---	|---	|---	|
 | [ahrm/UnstableFusion](https://github.com/ahrm/UnstableFusion) 	| 815 	| UnstableFusion is a desktop frontend for Stable Diffusion which combines image generation, inpainting, img2img and other image editing operation into a seamless workflow.  https://www.youtube.com/watch?v=XLOhizAnSfQ&t=1s 	|
+| [stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui/) 	| 262 	| Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x. 	|
 | [breadthe/sd-buddy](https://github.com/breadthe/sd-buddy/) 	| 165 	| Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion, with Svelte and Tauri 	|
 | [leszekhanusz/diffusion-ui](https://github.com/leszekhanusz/diffusion-ui) 	| 65 	| This is a web interface frontend for the generation of images using diffusion models.<br><br>The goal is to provide an interface to online and offline backends doing image generation and inpainting like Stable Diffusion. 	|
 | [GenerationQ](https://github.com/westoncb/generation-q) 	| 21 	| GenerationQ (for "image generation queue") is a cross-platform desktop application (screens below) designed to provide a general purpose GUI for generating images via text2img and img2img models. Its primary target is Stable Diffusion but since there is such a variety of forked programs with their own particularities, the UI for configuring image generation tasks is designed to be generic enough to accommodate just about any script (even non-SD models). 	|
@@ -331,6 +353,7 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) by [pharmapsychotic](https://www.reddit.com/user/pharmapsychosis)
 - [Akashic Records](https://github.com/Maks-s/sd-akashic#prompts-toc)
 - [Awesome Stable-Diffusion](https://github.com/Maks-s/sd-akashic#prompts-toc)
+- Install Stable Diffusion 2.1 purely through the terminal https://medium.com/@diogo.ribeiro.ferreira/how-to-install-stable-diffusion-2-0-on-your-pc-f92b9051b367
 
 ### Finetuning/Dreambooth
 
