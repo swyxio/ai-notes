@@ -136,6 +136,9 @@
     "direction": "horizontal",
     "width": 300
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "aeeb476d82f10c1d",
   "lastOpenFiles": [
     "IMAGE_GEN.md",
