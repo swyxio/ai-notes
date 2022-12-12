@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stub notes/AGENTS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "706b07f8eb306ace",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEXT.md",
+                "file": "AUDIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +23,8 @@
             "id": "a915d08cb68f2ac0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -110,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TEXT.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "706b07f8eb306ace",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a915d08cb68f2ac0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "AUDIO.md",
     "IMAGE_GEN.md",
-    "TEXT.md",
-    "stub notes/RLHF.md",
-    "stub notes/AGENTS.md",
-    "README.md",
-    "stub notes/CODE.md",
-    "AUDIO.md",
     "IMAGE_PROMPTS.md",
+    "TEXT.md",
+    "README.md",
     "stub notes/IMAGE2TEXT.md"
   ]
 }
