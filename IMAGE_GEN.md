@@ -7,6 +7,7 @@
 - [good reads](#good-reads)
 - [SD vs DallE vs MJ](#sd-vs-dalle-vs-mj)
 - [Tooling](#tooling)
+- [Products](#products)
 - [Stable Diffusion prompts](#stable-diffusion-prompts)
   - [SD v2 prompts](#sd-v2-prompts)
   - [SD 1.4 vs 1.5 comparisons](#sd-14-vs-15-comparisons)
@@ -37,14 +38,25 @@
 ## good reads
 
 - Ten Years of Image Synthesis https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
+	- 2014-2017 https://twitter.com/swyx/status/1049412858755264512
+	- 2014-2022 https://twitter.com/c_valenzuelab/status/1562579547404455936
+	- wolfenstein 1992 vs 2014 https://twitter.com/kevinroose/status/1557815883837255680
+	- midjourney progression in 2022 https://twitter.com/lopp/status/1595846677591904257
 - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
 - Stable Diffusion
 	- https://stability.ai/blog/stable-diffusion-v2-release
+		- _New Text-to-Image Diffusion Models_
 		- _Super-resolution Upscaler Diffusion Models_
+		- _Depth-to-Image Diffusion Model_
+		- _Updated Inpainting Diffusion Model_
+		- https://news.ycombinator.com/item?id=33726816
+			- Seems the structure of UNet hasn't changed other than the text encoder input (768 to 1024). The biggest change is on the text encoder, switched from ViT-L14 to ViT-H14 and fine-tuned based on [https://arxiv.org/pdf/2109.01903.pdf](https://arxiv.org/pdf/2109.01903.pdf).
+			- the dataset it's trained on is ~240TB (5 billion pairs of text to 512x512 image.) and Stability has over ~4000 Nvidia A100
 	- https://stability.ai/blog/stablediffusion2-1-release7-dec-2022
 		- Better people and less restrictions than v2.0
 		- Nonstandard resolutions
 		- Dreamstudio with negative prompts and weights
+		- https://old.reddit.com/r/StableDiffusion/comments/zf21db/stable_diffusion_21_announcement/
 
 ## SD vs DallE vs MJ
 
@@ -107,6 +119,11 @@ Misc
         - https://www.astria.ai/ (formerly https://www.strmr.com/)
         - https://twitter.com/rohanarora_/status/1580413809516511232?s=20&t=XxjfadtkVM8TOvg5EYFCrw
   - [very good BLOOM model overview](https://www.youtube.com/watch?v=3EjtHs_lXnk)
+
+## Products
+
+- Lexica (search + gen)
+- Pixelvibe (search + gen) https://twitter.com/lishali88/status/1595029444988649472
 
 
 ## Stable Diffusion prompts
@@ -376,6 +393,15 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 - Install Stable Diffusion 2.1 purely through the terminal https://medium.com/@diogo.ribeiro.ferreira/how-to-install-stable-diffusion-2-0-on-your-pc-f92b9051b367
 
 ### Finetuning/Dreambooth
+
+How to
+https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-how-we-made-the-text-to-pokemon-model-at-lambda
+
+Stable Diffusion + Midjourney
+- https://www.reddit.com/r/StableDiffusion/comments/z622mp/comment/ixyy2qz/?utm_source=share&utm_medium=web2x&context=3
+
+Embeddings
+- knollingcase https://huggingface.co/ProGamerGov/knollingcase-embeddings-sd-v2-0
 
 Dreambooth
 - https://bytexd.com/how-to-use-dreambooth-to-fine-tune-stable-diffusion-colab/

@@ -9,17 +9,19 @@
 - [Don't call it generative](#dont-call-it-generative)
 - [GPT3 versions](#gpt3-versions)
 - [Specialized langauge models](#specialized-langauge-models)
+- [Products](#products)
 - [GPT tooling](#gpt-tooling)
 - [Ethical issues](#ethical-issues)
 - [ChatGPT](#chatgpt)
   - [Findings](#findings)
-  - [API](#api)
+  - [Products](#products-1)
   - [Usecases](#usecases)
-- [Fails](#fails)
+  - [Fails](#fails)
   - [Jailbreaks](#jailbreaks)
   - [Block Content Policy Warning](#block-content-policy-warning)
   - [Tests](#tests)
   - [recap threads](#recap-threads)
+- [Misc Text AI](#misc-text-ai)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -100,6 +102,8 @@ GPT3 applications:
 
 - GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
 - Eleuther's GPT-J-6B, GPT-NeoX
+- Yandex YaLM 100B https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6
+	- It took us 65 days to train the model on a pool of 800 A100 graphics cards and 1.7 TB of online texts, books, and countless other sources.
 - FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
 - GPT-JT for classification
   - https://news.ycombinator.com/item?id=33796158
@@ -123,6 +127,19 @@ GPT3 applications:
 
 - Scientific language models like Meta's Galactica exist. Commentary https://news.ycombinator.com/item?id=33614608
 
+## Products
+
+- Jasper
+- CopyAI
+- Features of exiting products
+	- NotionAI
+	- https://hashnode.com/neptune
+- Newer
+	- https://www.protocol.com/generative-ai-startup-landscape-map
+	- https://metaphor.systems/
+	- dust.tt
+	- BearlyAI https://twitter.com/TrungTPhan/status/1597623720239329280
+
 ## GPT tooling
 
 mostly from https://twitter.com/goodside/status/1588247865503010816
@@ -141,6 +158,8 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 
 - Galactica fallout
   - https://twitter.com/Michael_J_Black/status/1593133722316189696
+  - https://news.ycombinator.com/item?id=33611265
+  - https://www.youtube.com/watch?v=ZTs_mXwMCs8&t=19s
 
 
 ## ChatGPT
@@ -152,7 +171,7 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
   - https://twitter.com/goodside/status/1598874674204618753
 - it does know the current date https://twitter.com/goodside/status/1598890043975774208
 
-### API
+### Products
 
 - whatsapp https://github.com/danielgross/whatsapp-gpt https://twitter.com/danielgross/status/1598735800497119232
 - telegram bot https://twitter.com/altryne/status/1598822052760195072
@@ -168,6 +187,9 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
   - https://github.com/liady/ChatGPT-pdf add the functionality of exporting it to an image, a PDF file, or create a sharable link
   - https://sharegpt.com/ Share your wildest ChatGPT conversations with one click.
   - https://github.com/clmnin/summarize.site ummarize web page content using ChatGPT
+- Browse and share ChatGPT examples 
+	- https://www.learngpt.com/best
+	- gpt.com
 
 ### Usecases
 
@@ -246,7 +268,7 @@ sorted in rough descending order of impact
       - christmas present recommendations for a relative given a description of their interests
       - poems about anything. love. cats. you name it.
 
-## Fails
+### Fails
 
 - factually wrong info https://twitter.com/parafactual/status/1598212029479026689
 - failed spatial relationships https://twitter.com/paulharter/status/1598304656236875781
@@ -368,3 +390,7 @@ threads that recap stuff above
 
 
 
+
+## Misc Text AI
+
+- OpenAI NarrativeQA Summarizing books https://openai.com/blog/summarizing-books/
