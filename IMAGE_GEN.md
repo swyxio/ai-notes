@@ -189,6 +189,7 @@ SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
   - We supported @laion_ai in their creation of an OpenCLIP Vit-H14 https://twitter.com/wightmanr/status/1570503598538379264
   - We released two variants of the 512 model which I would recommend folk dig into, especially the -v model.. More on these soon. The 768 model I think will improve further from here as the first of its type, we will have far more regular updates, releases and variants from here
   - Elsewhere I would highly recommend folk dig into the depth2img model, fun things coming there. 3D maps will improve, particularly as we go onto 3D models and some other fun stuff to be announced in the new year. These models are best not zero-shot, but as part of a process  
+- Stable Diffusion 2.X was trained on LAION-5B as opposed to "laion-improved-aesthetics" (a subset of laion2B-en). for Stable Diffusion 1.X.
 
 
 
