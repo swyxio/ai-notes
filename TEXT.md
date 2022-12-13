@@ -187,6 +187,7 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
   - https://github.com/liady/ChatGPT-pdf add the functionality of exporting it to an image, a PDF file, or create a sharable link
   - https://sharegpt.com/ Share your wildest ChatGPT conversations with one click.
   - https://github.com/clmnin/summarize.site ummarize web page content using ChatGPT
+  - https://github.com/pshihn/gpt-search-helper add ChatGPT results to your search results
 - Browse and share ChatGPT examples 
 	- https://www.learngpt.com/best
 	- gpt.com
