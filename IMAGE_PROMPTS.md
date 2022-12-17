@@ -5,6 +5,7 @@
 <summary>Table of Contents</summary>
 
 - [prompt tooling](#prompt-tooling)
+- [negative prompts](#negative-prompts)
 - [prompt inspo](#prompt-inspo)
   - [Example subjects to try](#example-subjects-to-try)
 
