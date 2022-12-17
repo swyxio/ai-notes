@@ -20,6 +20,17 @@
 	- https://twitter.com/proximasan/status/1596983786792632320
 
 
+## negative prompts
+
+- low quality, low pixel, unsharp, super bright, super dark
+- name, tiled, frame, border, lowres, signs, memes, labels, text, error, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+- 1.  ((((ugly)))), (((duplicate))), ((morbid)), ((mutilated)), [out of frame], extra fingers, mutated hands, ((poorly drawn hands)),
+2.  ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))),
+3.  ((extra limbs)), cloned face, (((disfigured))). (((more than 2 nipples))). out of frame,
+4.  ugly, extra limbs, gross proportions, (malformed limbs), ((missing arms)), ((missing legs)),
+5.  (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), (cross-eyed),
+6.  body out of frame, , (closed eyes), (mutated), (bad body)
+
 ## prompt inspo
 
 - Prefixes

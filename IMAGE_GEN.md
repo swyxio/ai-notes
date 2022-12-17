@@ -63,6 +63,12 @@
 DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025?s=20&t=GCU5prherJvKebRrv9urdw
 
 
+Lexica Aperture - finetuned version of SD https://lexica.art/aperture
+	- fast
+	- focused on photorealistic portraits and landscapes
+	- negative prompting
+	- dimensions
+
 ## Tooling
 
 - Prompt Generators: 
@@ -387,6 +393,7 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 
 ### SD Prompt Tools directories and guides
 
+- https://diffusiondb.com/ 543 Stable Diffusion systems
 - Useful Prompt Engineering tools and resources https://np.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/
 - [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html) by [pharmapsychotic](https://www.reddit.com/user/pharmapsychosis)
 - [Akashic Records](https://github.com/Maks-s/sd-akashic#prompts-toc)
@@ -430,6 +437,7 @@ Trained examples
 ## How SD Works - Internals and Studies
 
 - How SD works
+  - SD quickstart https://www.reddit.com/r/StableDiffusion/comments/xvhavo/made_an_easy_quickstart_guide_for_stable_diffusion/   
   - https://huggingface.co/blog/stable_diffusion
   - https://github.com/ekagra-ranjan/huggingface-blog/blob/main/stable_diffusion.md
     - tinygrad impl https://github.com/geohot/tinygrad/blob/master/examples/stable_diffusion.py
