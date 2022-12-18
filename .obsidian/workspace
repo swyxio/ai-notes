@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "f954cbf28afa7452",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4132f4ae84124e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "stub notes/CODE.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2824c0b3688b90bc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1d29bf76615c153e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "fdc8a6e79f6b71fe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f058d367dba6112e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e640ff7b2f389962",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "030f17de79757769",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "efc4d93156d9433e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "stub notes/CODE.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d963eb9e18f1c68b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "stub notes/CODE.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7ff155d9877d0d6f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "stub notes/CODE.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b4132f4ae84124e9",
+  "lastOpenFiles": []
+}

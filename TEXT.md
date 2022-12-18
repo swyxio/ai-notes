@@ -92,6 +92,25 @@ GPT3 applications:
 - https://github.com/karpathy/minGPT
   - announcement https://twitter.com/karpathy/status/1295410274095095810  
   - used in https://www.mosaicml.com/blog/gpt-3-quality-for-500k
+- https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1
+	- There are three important abilities that the initial GPT-3 exhibit: Language generation, In-context learning, World knowledge
+	- to pretrain the 175B parameters model on 300B tokens (60% [2016 - 2019 C4](https://stanford-cs324.github.io/winter2022/lectures/data/) + 22% WebText2 + 16% Books + 3% Wikipedia).
+	- **Language generation** comes from **training objective**
+	- **World knowldge** comes from **300b token corpus** and **stored in 175b model**
+	- The ability of complex reasoning with chain-of-thought is likely to be a magical side product of training on code
+	- We have concluded:
+		-   The language generation ability + basic world knowledge + in-context learning are from pretraining (`davinci`)
+		-   The ability to store a large amount of knowledge is from the 175B scale.
+		-   The ability to follow instructions and generalizing to new tasks are from scaling instruction tuning (`davinci-instruct-beta`)
+		-   The ability to perform complex reasoning is likely to be from training on code (`code-davinci-002`)
+		-   The ability to generate neutral, objective, safe, and informative answers are from alignment with human. Specifically:
+		    -   If supervised tuning, the resulting model is `text-davinci-002`
+		    -   If RLHF, the resulting model is `text-davinci-003`
+		    -   Either supervised or RLHF, the models cannot outperform code-davinci-002 on many tasks, which is called the alignment tax.
+		-   The dialog ability is also from RLHF (`ChatGPT`), specifically it tradeoffs in-context learning for:
+		    -   Modeling dialog history
+		    -   Increased informativeness
+		    -   Rejecting questions outside the model’s knowledge scope
 
 ## Don't call it generative
 
@@ -131,14 +150,17 @@ GPT3 applications:
 
 - Jasper
 - CopyAI
-- Features of exiting products
+- Features of existing products
 	- NotionAI
 	- https://hashnode.com/neptune
+- Email
+	- Ellie email https://twitter.com/JamesIvings/status/1602855048148500480
+	- Everyprompt mail
 - Newer
 	- https://www.protocol.com/generative-ai-startup-landscape-map
 	- https://metaphor.systems/
 	- dust.tt
-	- BearlyAI https://twitter.com/TrungTPhan/status/1597623720239329280
+	- BearlyAI https://twitter.com/TrungTPhan/status/1597623720239329280f
 
 ## GPT tooling
 

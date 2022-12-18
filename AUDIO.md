@@ -57,9 +57,14 @@ https://news.ycombinator.com/item?id=33663486
 
 - https://github.com/LibreTranslate/LibreTranslate
 
+## Stem separation
+
+- https://github.com/deezer/spleeter (and bpm detection)
+
 ## Music generation
 
 general consensus is that it's just not very good right now
 
 - disco diffusion?
 - https://soundraw.io/ https://news.ycombinator.com/item?id=33727550
+- Riffusion https://news.ycombinator.com/item?id=33999162
