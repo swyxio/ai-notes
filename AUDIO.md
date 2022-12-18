@@ -8,6 +8,7 @@
   - [misc tooling](#misc-tooling)
   - [Apps](#apps)
   - [Translation](#translation)
+- [Stem separation](#stem-separation)
 - [Music generation](#music-generation)
 
 </details>
