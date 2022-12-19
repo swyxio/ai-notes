@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stub notes/CODE.md",
+                "file": "TEXT.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stub notes/CODE.md",
+                "file": "TEXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stub notes/CODE.md",
+                "file": "TEXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stub notes/CODE.md"
+                "file": "TEXT.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "a915d08cb68f2ac0",
   "lastOpenFiles": [
-    "AUDIO.md",
     "stub notes/CODE.md",
+    "AUDIO.md",
     "TEXT.md",
     "README.md",
     "conflict-files-obsidian-git.md",

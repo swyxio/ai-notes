@@ -156,6 +156,7 @@ GPT3 applications:
 - Email
 	- Ellie email https://twitter.com/JamesIvings/status/1602855048148500480
 	- Everyprompt mail
+	- https://merlin.foyer.work/ 
 - Newer
 	- https://www.protocol.com/generative-ai-startup-landscape-map
 	- https://metaphor.systems/
