@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stub notes/CODE.md",
+                "file": "TEXT.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stub notes/CODE.md",
+                "file": "TEXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stub notes/CODE.md",
+                "file": "TEXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stub notes/CODE.md"
+                "file": "TEXT.md"
               }
             }
           }
@@ -148,15 +148,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "a915d08cb68f2ac0",
   "lastOpenFiles": [
+    "IMAGE_GEN.md",
+    "stub notes/CODE.md",
     "AUDIO.md",
     "TEXT.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "IMAGE_GEN.md",
     "IMAGE_PROMPTS.md",
     "stub notes/IMAGE2TEXT.md"
   ]

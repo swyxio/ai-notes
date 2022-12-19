@@ -489,3 +489,5 @@ Trained examples
 - Imagen
   - https://www.assemblyai.com/blog/how-imagen-actually-works
   - https://www.youtube.com/watch?v=R_f-v6prMqI
+- Artist protests
+	- https://vmst.io/@selzero/109512557990367884
