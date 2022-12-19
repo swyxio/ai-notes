@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEXT.md",
+                "file": "AUDIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5,
-    "collapsed": true
+    "width": 210.5
   },
   "right": {
     "id": "559eb82df1441b5e",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEXT.md",
+                "file": "AUDIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEXT.md",
+                "file": "AUDIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEXT.md"
+                "file": "AUDIO.md"
               }
             }
           }
@@ -148,17 +147,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a915d08cb68f2ac0",
   "lastOpenFiles": [
-    "IMAGE_GEN.md",
     "stub notes/CODE.md",
     "AUDIO.md",
     "TEXT.md",
     "README.md",
     "conflict-files-obsidian-git.md",
+    "IMAGE_GEN.md",
     "IMAGE_PROMPTS.md",
     "stub notes/IMAGE2TEXT.md"
   ]

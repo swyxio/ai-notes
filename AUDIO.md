@@ -49,6 +49,8 @@ https://news.ycombinator.com/item?id=33663486
 	- https://news.ycombinator.com/item?id=33892105
 	- [https://github.com/pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
 	- [https://arxiv.org/abs/2012.00931](https://arxiv.org/abs/2012.00931)
+- noise cleaning
+	- adobe filter https://news.ycombinator.com/item?id=34047976
 
 ### Apps
 
