@@ -69,6 +69,10 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 	- negative prompting
 	- dimensions
 
+### DallE
+
+- dallery gallery + prompt book https://news.ycombinator.com/item?id=32322329
+
 ## Tooling
 
 - Prompt Generators: 
