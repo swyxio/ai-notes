@@ -6,6 +6,7 @@
 
 - [good reads](#good-reads)
 - [SD vs DallE vs MJ](#sd-vs-dalle-vs-mj)
+  - [DallE](#dalle)
 - [Tooling](#tooling)
 - [Products](#products)
 - [Stable Diffusion prompts](#stable-diffusion-prompts)
