@@ -161,6 +161,7 @@ GPT3 applications:
 	- https://www.protocol.com/generative-ai-startup-landscape-map
 	- https://metaphor.systems/
 	- dust.tt
+	- tools that make tools (toolbot.ai)
 - Writing
 	- Verb (fiction) https://twitter.com/verbforwriters/status/1603051444134895616
 	- BearlyAI https://twitter.com/TrungTPhan/status/1597623720239329280f
