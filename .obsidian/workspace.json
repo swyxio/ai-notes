@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d7292c48411ebdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IMAGE_PROMPTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b88a03411c7fee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "IMAGE_GEN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,23 +159,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "aeeb476d82f10c1d",
+  "active": "8b88a03411c7fee8",
   "lastOpenFiles": [
-    "AUDIO.md",
     "stub notes/AGENTS.md",
     "IMAGE_GEN.md",
-    "README.md",
+    "TEXT_SEARCH.md",
+    "IMAGE_PROMPTS.md",
+    "AUDIO.md",
+    "TEXT_CHAT.md",
     "TEXT.md",
+    "README.md",
     "TEXT 2.md",
-    "README 2.md",
-    "IMAGE_GEN 2.md",
-    "stub notes/CODE.md",
-    "conflict-files-obsidian-git.md"
+    "README 2.md"
   ]
 }

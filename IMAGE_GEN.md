@@ -310,6 +310,7 @@ Future Diffusion  https://huggingface.co/nitrosocke/Future-Diffusion https://twi
 - Chinese: https://twitter.com/_akhaliq/status/1572580845785083906
 - Japanese: https://twitter.com/_akhaliq/status/1571977273489739781
   - https://huggingface.co/blog/japanese-stable-diffusion
+- DALL-E's inherent multilingualness https://twitter.com/Merzmensch/status/1551179292704399360 (we dont know the CLIP Vit-H embeddings details)
   
 #### Other Lists of Forks
 
@@ -451,6 +452,7 @@ Trained examples
   - https://github.com/ekagra-ranjan/huggingface-blog/blob/main/stable_diffusion.md
     - tinygrad impl https://github.com/geohot/tinygrad/blob/master/examples/stable_diffusion.py
   - https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing
+  - FastAI course https://www.fast.ai/posts/part2-2022-preview.html
   - https://twitter.com/johnowhitaker/status/1565710033463156739
   - https://twitter.com/ai__pub/status/1561362542487695360
   - https://twitter.com/JayAlammar/status/1572297768693006337
@@ -500,5 +502,8 @@ Trained examples
 - Imagen
   - https://www.assemblyai.com/blog/how-imagen-actually-works
   - https://www.youtube.com/watch?v=R_f-v6prMqI
+- Nvidia eDiffi (unreleased)
+	- https://deepimagination.cc/eDiff-I/
+	- https://twitter.com/search?q=https%3A%2F%2Ftwitter.com%2F_akhaliq%2Fstatus%2F1587971650007564289&src=typed_query
 - Artist protests
 	- https://vmst.io/@selzero/109512557990367884

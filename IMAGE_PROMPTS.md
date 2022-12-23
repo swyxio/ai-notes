@@ -16,6 +16,7 @@
 
 - MagicPrompt enhancer https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion
 	- in use: https://huggingface.co/spaces/huggingface-projects/magic-diffusion
+- Prompt extender - [HF space](https://huggingface.co/spaces/daspartho/prompt-extend), [Github](https://github.com/daspartho/prompt-extend), [tweet](https://twitter.com/_akhaliq/status/1588182331508264960)
 - Stable Diffusion 2 style studies 
 	- https://proximacentaurib.notion.site/28e037176b58439785ee04af6b0ae4ea
 	- https://twitter.com/proximasan/status/1596983786792632320

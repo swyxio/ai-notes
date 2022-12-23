@@ -1,4 +1,7 @@
 
+- OpenAI WebGPT https://openai.com/blog/webgpt/
+	- The variant is called WebGPT and can ask search queries, follow links, scroll up and down web pages, and prove the sources of the answers it finds.
+	- [dust.tt reproduction](https://twitter.com/dust4ai/status/1587104029712203778)
 - Adept ACT-1  https://www.adept.ai/act
 	- ACT-1 is a large-scale Transformer trained to use digital tools — among other things, we recently taught it how to use a web browser. Right now, it’s hooked up to a Chrome extension which allows ACT-1 to observe what’s happening in the browser and take certain actions, like clicking, typing, and scrolling, etc. The observation is a custom “rendering” of the browser viewport that’s meant to generalize across websites, and the action space is the UI elements available on the page.
 	- Features demoed:

@@ -100,8 +100,9 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
     - seed selection https://www.reddit.com/r/StableDiffusion/comments/x8szj9/tutorial_seed_selection_and_the_impact_on_your/
     - minor parameter parameter difference study (steps, clamp_max, ETA, cutn_batches, etc) https://twitter.com/KyrickYoung/status/1500196286930292742
     - Generative AI: Autocomplete for everything https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything?sd=pf
+    - [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)  good paper with the development history of the GPT family of models and how the capabilities developed
 - Advanced
-	- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) 
+	- Transformers from scratch https://e2eml.school/transformers.html
 	- karpathy on transformers
 		- https://twitter.com/karpathy/status/1582807367988654081
   - Eugene Yan explanation of the Text to Image stack https://eugeneyan.com/writing/text-to-image/
