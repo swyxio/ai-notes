@@ -250,6 +250,11 @@ Required reading:
   - https://www.findanything.app browser extension that adds SD predictions alongside Google search
   - https://www.drawanything.app 
   - https://creator.nolibox.com/guest open source https://github.com/carefree0910/carefree-creator
+	-  An **infinite draw board** for you to save, review and edit all your creations.
+	- Almost EVERY feature about Stable Diffusion (txt2img, img2img, sketch2img, **variations**, outpainting, circular/tiling textures, sharing, ...).
+	- Many useful image editing methods (**super resolution**, inpainting, ...).
+	- Integrations of different Stable Diffusion versions (waifu diffusion, ...).
+	- GPU RAM optimizations, which makes it possible to enjoy these features with an NVIDIA GeForce GTX 1080 Ti
   - https://replicate.com/stability-ai/stable-diffusion Predictions run on Nvidia A100 GPU hardware. Predictions typically complete within 5 seconds.
   - https://replicate.com/cjwbw/stable-diffusion-v2
 - **iPhone/iPad Distros**

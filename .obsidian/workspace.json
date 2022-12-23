@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEXT.md",
+                "file": "IMAGE_GEN.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEXT.md",
+                "file": "IMAGE_GEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEXT.md",
+                "file": "IMAGE_GEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEXT.md"
+                "file": "IMAGE_GEN.md"
               }
             }
           }
@@ -156,11 +156,11 @@
   },
   "active": "aeeb476d82f10c1d",
   "lastOpenFiles": [
-    "TEXT 2.md",
-    "TEXT.md",
     "README.md",
-    "README 2.md",
     "IMAGE_GEN.md",
+    "TEXT.md",
+    "TEXT 2.md",
+    "README 2.md",
     "IMAGE_GEN 2.md",
     "AUDIO.md",
     "stub notes/CODE.md",
