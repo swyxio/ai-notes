@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "stub notes/AGENTS.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "stub notes/AGENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "stub notes/AGENTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAGE_GEN.md"
+                "file": "stub notes/AGENTS.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "aeeb476d82f10c1d",
   "lastOpenFiles": [
-    "README.md",
     "IMAGE_GEN.md",
+    "README.md",
     "TEXT.md",
     "TEXT 2.md",
     "README 2.md",
