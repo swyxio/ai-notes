@@ -44,6 +44,7 @@
 	- wolfenstein 1992 vs 2014 https://twitter.com/kevinroose/status/1557815883837255680
 	- midjourney progression in 2022 https://twitter.com/lopp/status/1595846677591904257
 - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
+- CLIP (_Contrastive Language–Image Pre-training_) https://openai.com/blog/clip/
 - Stable Diffusion
 	- https://stability.ai/blog/stable-diffusion-v2-release
 		- _New Text-to-Image Diffusion Models_
@@ -58,6 +59,12 @@
 		- Nonstandard resolutions
 		- Dreamstudio with negative prompts and weights
 		- https://old.reddit.com/r/StableDiffusion/comments/zf21db/stable_diffusion_21_announcement/
+- important papers
+	- 2019 Razavi, Oord, Vinyals, [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446)
+	- 2020 Esser, Rombach, Ommer, [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
+		- ([summary](https://twitter.com/sedielem/status/1339929984836788228)) To synthesise realistic megapixel images, learn a high-level discrete representation with a conditional GAN, then train a transformer on top. Likelihood-based models like transformers do better at capturing diversity compared to GANs, but tend to get lost in the details. Likelihood is mode-covering; not mode-seeking, like adversarial losses are. By measuring the likelihood in a space where texture details have been abstracted away, the transformer is forced to capture larger-scale structure, and we get great compositions as a result. Replacing the VQ-VAE with a VQ-GAN enables more aggressive downsampling.
+	- 2021 Dhariwal & Nichol, [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233)
+	- 2021 Nichol et al, [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741)
 
 ## SD vs DallE vs MJ
 

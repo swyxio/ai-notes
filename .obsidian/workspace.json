@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nolibox",
+                "query": "thesephist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAGE_GEN.md"
+                "file": "README.md"
               }
             }
           }
@@ -166,14 +166,14 @@
   },
   "active": "8b88a03411c7fee8",
   "lastOpenFiles": [
-    "stub notes/AGENTS.md",
-    "IMAGE_GEN.md",
+    "TEXT.md",
+    "TEXT_CHAT.md",
     "TEXT_SEARCH.md",
+    "IMAGE_GEN.md",
+    "README.md",
+    "stub notes/AGENTS.md",
     "IMAGE_PROMPTS.md",
     "AUDIO.md",
-    "TEXT_CHAT.md",
-    "TEXT.md",
-    "README.md",
     "TEXT 2.md",
     "README 2.md"
   ]

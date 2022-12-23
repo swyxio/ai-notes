@@ -171,6 +171,7 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 - Linus/thesephist tools
   - tree of branches https://twitter.com/thesephist/status/1590545448066252800
   - scrubbing a text for length https://twitter.com/thesephist/status/1587929014848540673
+  - Most knowledge work isn't a text-generation task, and your product shouldn't ship an implementation detail of LLMs as the end-user interface https://twitter.com/thesephist/status/1592924891208372224
 - mozilla's readability-cli https://www.npmjs.com/package/readability-cli ([tip](https://twitter.com/scottleibrand/status/1599988038721212416?s=20&t=cmSnNOsSSvutmlWTZpzYCQ))
 
 ## Ethical issues

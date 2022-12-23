@@ -24,6 +24,8 @@ a subset of the TEXT.md file focused on chat usecases
 ## Chat Products
 
 - YouChat https://twitter.com/RichardSocher/status/1606350406765842432
+- Meta BlenderBot 3 https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/
+- Google LaMDA https://blog.google/technology/ai/lamda/
 
 ## Chat Tools
 

@@ -105,6 +105,21 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
 	- Transformers from scratch https://e2eml.school/transformers.html
 	- karpathy on transformers
 		- https://twitter.com/karpathy/status/1582807367988654081
+	- [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
+		- Emergent few-shot prompted tasks: BIG-Bench and MMLU benchmarks
+		- Emergent prompting strategies
+			- [Instruction-following](https://openreview.net/forum?id=gEZrGCozdqR)
+			- [Scratchpad](https://openreview.net/forum?id=iedYJm92o0a)
+			- [Using open-book knowledge for fact checking](https://arxiv.org/abs/2112.11446)
+			- [Chain-of-thought prompting](https://arxiv.org/abs/2201.11903)
+			- [Differentiable search index](https://arxiv.org/abs/2202.06991)
+			- [Self-consistency](https://arxiv.org/abs/2203.11171)
+			- [Leveraging explanations in prompting](https://arxiv.org/abs/2204.02329)
+			- [Least-to-most prompting](https://arxiv.org/abs/2205.10625)
+			- [Zero-shot chain-of-thought](https://arxiv.org/abs/2205.11916)
+			- [Calibration via P(True)](https://arxiv.org/abs/2207.05221)
+			- [Multilingual chain-of-thought](https://arxiv.org/abs/2210.03057)
+			- [Ask-me-anything prompting](https://arxiv.org/abs/2210.02441)
   - Eugene Yan explanation of the Text to Image stack https://eugeneyan.com/writing/text-to-image/
   - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
   - 10 years of Image generation history https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
@@ -237,6 +252,8 @@ This list will be out of date but will get you started. My live list of people t
 
 - Narrow, tedium domain usecases https://twitter.com/WillManidis/status/1584900092615528448 and https://twitter.com/WillManidis/status/1584900100480192516
 - antihype https://twitter.com/alexandr_wang/status/1573302977418387457
+- prompt eng memes
+	- https://twitter.com/_jasonwei/status/1516844920367054848
 - things stablediffusion struggles with https://opguides.info/posts/aiartpanic/
 - New Google
   -  https://twitter.com/alexandr_wang/status/1585022891594510336
