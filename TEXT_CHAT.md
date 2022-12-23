@@ -1,3 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Chat Products](#chat-products)
+- [Chat Tools](#chat-tools)
+- [ChatGPT notes](#chatgpt-notes)
+  - [Findings](#findings)
+  - [Products](#products)
+  - [Usecases](#usecases)
+  - [Fails](#fails)
+  - [Jailbreaks](#jailbreaks)
+  - [Block Content Policy Warning](#block-content-policy-warning)
+  - [Tests](#tests)
+  - [recap threads](#recap-threads)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 a subset of the TEXT.md file focused on chat usecases
 
 
