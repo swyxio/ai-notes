@@ -122,7 +122,7 @@ Misc
   - 2017: Attention is all you need
   - https://dreambooth.github.io/
     - productized as dreambooth https://twitter.com/psuraj28/status/1575123562435956740
-    - https://github.com/JoePenna/Dreambooth-Stable-Diffusion
+    - https://github.com/JoePenna/Dreambooth-Stable-Diffusion ([examples](https://twitter.com/rainisto/status/1584881850933456898))
     - from huggingface diffusers https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_dreambooth_training.ipynb
     - https://twitter.com/rainisto/status/1584881850933456898
       - Commercial offerings

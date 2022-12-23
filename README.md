@@ -233,7 +233,7 @@ This list will be out of date but will get you started. My live list of people t
 
 ## Quotes, Reality & Demotivation
 
-- Narrow, tedium domain usecases https://twitter.com/WillManidis/status/1584900092615528448?s=20&t=aV0Np-2Sx-zq-TQNn2y5AQ
+- Narrow, tedium domain usecases https://twitter.com/WillManidis/status/1584900092615528448 and https://twitter.com/WillManidis/status/1584900100480192516
 - antihype https://twitter.com/alexandr_wang/status/1573302977418387457
 - things stablediffusion struggles with https://opguides.info/posts/aiartpanic/
 - New Google
