@@ -101,6 +101,8 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
     - Generative AI: Autocomplete for everything https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything?sd=pf
 - Advanced
 	- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1) 
+	- karpathy on transformers
+		- https://twitter.com/karpathy/status/1582807367988654081
   - Eugene Yan explanation of the Text to Image stack https://eugeneyan.com/writing/text-to-image/
   - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
   - 10 years of Image generation history https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
@@ -231,7 +233,7 @@ This list will be out of date but will get you started. My live list of people t
 
 ## Quotes, Reality & Demotivation
 
-- Narrow, tedium domain usecases https://twitter.com/WillManidis/status/1584900092615528448?s=20&t=aV0Np-2Sx-zq-TQNn2y5AQ
+- Narrow, tedium domain usecases https://twitter.com/WillManidis/status/1584900092615528448 and https://twitter.com/WillManidis/status/1584900100480192516
 - antihype https://twitter.com/alexandr_wang/status/1573302977418387457
 - things stablediffusion struggles with https://opguides.info/posts/aiartpanic/
 - New Google

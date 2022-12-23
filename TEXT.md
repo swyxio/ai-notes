@@ -21,6 +21,7 @@
   - [Block Content Policy Warning](#block-content-policy-warning)
   - [Tests](#tests)
   - [recap threads](#recap-threads)
+- [Flan-T5](#flan-t5)
 - [Misc Text AI](#misc-text-ai)
 
 </details>
@@ -415,6 +416,11 @@ threads that recap stuff above
 - https://twitter.com/omarsar0/status/1600149116369051649
 
 
+## Flan-T5
+
+- https://twitter.com/quocleix/status/1583523186376785921
+- Flan-T5 is instruction-finetuned on 1,800+ language tasks, leading to dramatically improved prompting and multi-step reasoning abilities.
+	- 7 min summary video https://www.youtube.com/watch?v=oqi0QrbdgdI
 
 
 
