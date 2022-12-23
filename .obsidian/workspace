@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "stub notes/CODE.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +64,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "030f17de79757769",
@@ -76,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "stub notes/CODE.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "stub notes/CODE.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -105,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "stub notes/CODE.md"
+            "file": "README.md"
           }
         }
       }
@@ -113,5 +114,7 @@
     "currentTab": 0
   },
   "active": "b4132f4ae84124e9",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "stub notes/CODE.md"
+  ]
 }
