@@ -21,6 +21,7 @@
   - [Block Content Policy Warning](#block-content-policy-warning)
   - [Tests](#tests)
   - [recap threads](#recap-threads)
+- [Flan-T5](#flan-t5)
 - [Misc Text AI](#misc-text-ai)
 
 </details>
