@@ -13,26 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUDIO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a915d08cb68f2ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "TEXT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8d8d29acfff1f013",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "460569b18500f533",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nolibox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TEXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "TEXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TEXT.md"
               }
             }
           }
@@ -153,15 +154,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a915d08cb68f2ac0",
+  "active": "aeeb476d82f10c1d",
   "lastOpenFiles": [
-    "IMAGE_GEN.md",
-    "README.md",
+    "TEXT 2.md",
     "TEXT.md",
-    "stub notes/CODE.md",
+    "README.md",
+    "README 2.md",
+    "IMAGE_GEN.md",
+    "IMAGE_GEN 2.md",
     "AUDIO.md",
+    "stub notes/CODE.md",
     "conflict-files-obsidian-git.md",
-    "IMAGE_PROMPTS.md",
-    "stub notes/IMAGE2TEXT.md"
+    "IMAGE_PROMPTS.md"
   ]
 }
