@@ -77,6 +77,8 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
 - https://learnprompting.org/
 - beginner
   - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
+  - google LAMDA intro https://aitestkitchen.withgoogle.com/how-lamda-works
+  - humanloop prolpt engineering 101 https://website-olo3k29b2-humanloopml.vercel.app/blog/prompt-engineering-101
   - DALLE2 prompt writing book http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
   - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview
