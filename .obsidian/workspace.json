@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stub notes/AGENTS.md",
+                "file": "AUDIO.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stub notes/AGENTS.md",
+                "file": "AUDIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stub notes/AGENTS.md",
+                "file": "AUDIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stub notes/AGENTS.md"
+                "file": "AUDIO.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "aeeb476d82f10c1d",
   "lastOpenFiles": [
+    "stub notes/AGENTS.md",
     "IMAGE_GEN.md",
     "README.md",
     "TEXT.md",
@@ -164,7 +165,6 @@
     "IMAGE_GEN 2.md",
     "AUDIO.md",
     "stub notes/CODE.md",
-    "conflict-files-obsidian-git.md",
-    "IMAGE_PROMPTS.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

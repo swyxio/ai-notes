@@ -51,6 +51,16 @@ https://news.ycombinator.com/item?id=33663486
 	- [https://arxiv.org/abs/2012.00931](https://arxiv.org/abs/2012.00931)
 - noise cleaning
 	- adobe filter https://news.ycombinator.com/item?id=34047976
+- https://github.com/elanmart/cbp-translate
+	-   Process short video clips (e.g. a single scene)
+	-   Work with multiple characters / speakers
+	-   Detect and transcribe speech in both English and Polish
+	-   Translate the speech to any language
+	-   Assign each phrase to a speaker
+	-   Show the speaker on the screen
+	-   Add subtitles to the original video in a way mimicking the Cyberpunk example
+	-   Have a nice frontend
+	-   Run remotely in the cloud
 
 ### Apps
 
