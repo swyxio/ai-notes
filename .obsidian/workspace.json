@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "stub notes/IMAGE2TEXT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c74b3c6ea98337e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IMAGE_GEN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thesephist",
+                "query": "mask",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "IMAGE_GEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "IMAGE_GEN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "IMAGE_GEN.md"
               }
             }
           }
@@ -164,17 +176,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8b88a03411c7fee8",
+  "active": "c74b3c6ea98337e1",
   "lastOpenFiles": [
+    "stub notes/IMAGE_3D.md",
+    "stub notes/IMAGE2TEXT.md",
+    "IMAGE_GEN.md",
     "TEXT.md",
+    "README.md",
     "TEXT_CHAT.md",
     "TEXT_SEARCH.md",
-    "IMAGE_GEN.md",
-    "README.md",
     "stub notes/AGENTS.md",
     "IMAGE_PROMPTS.md",
-    "AUDIO.md",
-    "TEXT 2.md",
-    "README 2.md"
+    "AUDIO.md"
   ]
 }

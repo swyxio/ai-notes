@@ -45,6 +45,7 @@
 	- midjourney progression in 2022 https://twitter.com/lopp/status/1595846677591904257
 - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
 - CLIP (_Contrastive Language–Image Pre-training_) https://openai.com/blog/clip/
+	- CLIPSeg https://huggingface.co/docs/transformers/main/en/model_doc/clipseg (for Image segmentation)
 - Stable Diffusion
 	- https://stability.ai/blog/stable-diffusion-v2-release
 		- _New Text-to-Image Diffusion Models_
@@ -256,6 +257,7 @@ Required reading:
   - https://www.strmr.com/ dreambooth tuning for $3
   - https://www.findanything.app browser extension that adds SD predictions alongside Google search
   - https://www.drawanything.app 
+  - https://huggingface.co/spaces/huggingface-projects/diffuse-the-rest draw a thing, diffuse the rest! 
   - https://creator.nolibox.com/guest open source https://github.com/carefree0910/carefree-creator
 	-  An **infinite draw board** for you to save, review and edit all your creations.
 	- Almost EVERY feature about Stable Diffusion (txt2img, img2img, sketch2img, **variations**, outpainting, circular/tiling textures, sharing, ...).
@@ -396,6 +398,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 - [img2prompt](https://replicate.com/methexis-inc/img2prompt) Replicate by [methexis-inc](https://replicate.com/methexis-inc): Optimized for SD (clip ViT-L/14).
 - [CLIP Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb) by [@pharmapsychotic](https://twitter.com/pharmapsychotic): select ViTL14 CLIP model.
   - https://huggingface.co/spaces/pharma/sd-prism Sends an image in to CLIP Interrogator to generate a text prompt which is then run through Stable Diffusion to generate new forms of the original!
+- CLIPSeg -> image segmentation
 - [CLIP Artist Evaluator colab](https://colab.research.google.com/github/lowfuel/CLIP_artists/blob/main/CLIP_Evaluator.ipynb)
 - [BLIP](https://huggingface.co/spaces/Salesforce/BLIP)
 
@@ -448,7 +451,7 @@ Trained examples
 - Midjourney + SD: https://twitter.com/EMostaque/status/1561917541743841280
 - [Nightcafe Studio](https://creator.nightcafe.studio/stable-diffusion-image-generator)
 - misc
-  - (super super raw dont try yet) https://github.com/breadthe/sd-buddy
+  - words -> mask -> replacement. utomatic mask generation with CLIPSeg https://twitter.com/NielsRogge/status/1593645630412402688
 
 
 ## How SD Works - Internals and Studies
