@@ -282,6 +282,7 @@ This list will be out of date but will get you started. My live list of people t
 
 hardware issues
 - https://hardwarelottery.github.io ML will run into an asymptote because matrix multiplication and full forward/backprop passes are ridiculously expensive. What hardware improvements do we need to enable new architectures?
+- related: https://www.wired.com/2017/04/building-ai-chip-saved-google-building-dozen-new-data-centers/
 - transformers won because they were more scalable https://arxiv.org/pdf/2010.11929.pdf
 
 
