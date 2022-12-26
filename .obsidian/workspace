@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TEXT_CHAT.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TEXT_CHAT.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TEXT_CHAT.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,15 +106,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TEXT_CHAT.md"
+            "file": "README.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
-  "active": "b4132f4ae84124e9",
+  "active": "7ff155d9877d0d6f",
   "lastOpenFiles": [
+    "TEXT_CHAT.md",
     "README.md",
     "stub notes/CODE.md"
   ]
