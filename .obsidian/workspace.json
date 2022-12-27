@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "1da8d948791acdce",
+        "id": "57f1631230b1d213",
         "type": "tabs",
         "children": [
           {
-            "id": "5f38ecf2d7b78518",
+            "id": "aeeb476d82f10c1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFRA.md",
+                "file": "AUDIO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a915d08cb68f2ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "694ebf1a74ad21eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b3e23c8d6859f455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dreambooth",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFRA.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFRA.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFRA.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -136,20 +169,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "5f38ecf2d7b78518",
+  "active": "b3e23c8d6859f455",
   "lastOpenFiles": [
-    "blog ideas/misc blog ideas.md",
-    "blog ideas/What is Instruction Tuning?.md",
-    "stub notes/MISC PRODUCTS.md",
-    "README.md",
-    "TEXT_CHAT.md",
-    "INFRA.md",
-    "IMAGE_PROMPTS.md",
+    "conflict-files-obsidian-git.md",
     "TEXT.md",
-    "stub notes/RLHF.md",
-    "TEXT_SEARCH.md"
+    "stub notes/CODE.md",
+    "AUDIO.md",
+    "README.md",
+    "IMAGE_GEN.md",
+    "IMAGE_PROMPTS.md",
+    "stub notes/IMAGE2TEXT.md"
   ]
 }

@@ -9,7 +9,7 @@
 - [Top GPT3 Prompt Engineering Reads](#top-gpt3-prompt-engineering-reads)
 - [How GPT works](#how-gpt-works)
 - [Don't call it generative](#dont-call-it-generative)
-- [Specialized language models](#specialized-language-models)
+- [Specialized langauge models](#specialized-langauge-models)
 - [GPT Products](#gpt-products)
 - [GPT tooling](#gpt-tooling)
 - [Ethical issues](#ethical-issues)
@@ -147,7 +147,7 @@ GPT3 applications:
 - Understanding: https://twitter.com/EMostaque/status/1585903983180537856
 
 
-## Specialized language models
+## Specialized langauge models
 
 - Scientific language models like Meta's Galactica exist. Commentary https://news.ycombinator.com/item?id=33614608
 
@@ -162,21 +162,14 @@ GPT3 applications:
 	- Ellie email https://twitter.com/JamesIvings/status/1602855048148500480
 	- Everyprompt mail
 	- https://merlin.foyer.work/ 
-- SQL
-	- preplexity.ai/sql
-		- https://twitter.com/perplexity_ai/status/1605250295780773889
 - Newer
 	- https://www.protocol.com/generative-ai-startup-landscape-map
 	- https://metaphor.systems/
 	- dust.tt
 	- tools that make tools (toolbot.ai)
 	- https://lex.page ([announcement](https://twitter.com/nbashaw/status/1581673516360876032))
-	- CLI https://twitter.com/KevinAFischer/status/1601883697061380096?s=20
 - Writing
 	- Verb (fiction) https://twitter.com/verbforwriters/status/1603051444134895616
-	- Orchard https://www.orchard.ink/doc/201a7f63-731e-4487-926a-fdf348f1b00c
-		- https://twitter.com/alexjkwang/status/1603408050005557249?s=20
-	- Deepmind Dramatron https://deepmind.github.io/dramatron/details.html for **co-writing** theatre scripts and screenplays. Starting from a log line, Dramatron interactively generates character descriptions, plot points, location descriptions and dialogue. These generations provide human authors with material for compilation, editing, and rewriting.
 	- BearlyAI https://twitter.com/TrungTPhan/status/1597623720239329280f
 
 ## GPT tooling

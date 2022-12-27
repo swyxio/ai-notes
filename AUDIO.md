@@ -45,13 +45,10 @@ https://news.ycombinator.com/item?id=33663486
 ### misc tooling
 
 - https://github.com/words/syllable and ecosystem
-- speaker diarization
+- speaker diaraization
 	- https://news.ycombinator.com/item?id=33892105
 	- [https://github.com/pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
 	- [https://arxiv.org/abs/2012.00931](https://arxiv.org/abs/2012.00931)
-	- example diarization impl https://colab.research.google.com/drive/1V-Bt5Hm2kjaDb4P1RyMSswsDKyrzc2-3?usp=sharing
-		- from pyannote.audio.pipelines.speaker_verification import PretrainedSpeakerEmbedding
-	- https://lablab.ai/t/whisper-transcription-and-speaker-identification
 - noise cleaning
 	- adobe filter https://news.ycombinator.com/item?id=34047976
 - https://github.com/elanmart/cbp-translate
