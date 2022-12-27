@@ -54,9 +54,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c0d1f1f25f843df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dd716d80093b595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e05226a89a48dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXT_CHAT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "606ef618ea4b26f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog ideas/What is Instruction Tuning?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "054da7e849dc4904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INFRA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -85,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mask",
+                "query": "fails",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "INFRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "INFRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAGE_GEN.md"
+                "file": "INFRA.md"
               }
             }
           }
@@ -171,22 +231,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c74b3c6ea98337e1",
+  "active": "054da7e849dc4904",
   "lastOpenFiles": [
-    "stub notes/IMAGE_3D.md",
-    "stub notes/IMAGE2TEXT.md",
-    "IMAGE_GEN.md",
-    "TEXT.md",
-    "README.md",
+    "blog ideas/What is Instruction Tuning?.md",
+    "blog ideas/misc blog ideas.md",
     "TEXT_CHAT.md",
-    "TEXT_SEARCH.md",
+    "TEXT.md",
+    "stub notes/Google vs AI.md",
+    "INFRA.md",
+    "README.md",
     "stub notes/AGENTS.md",
-    "IMAGE_PROMPTS.md",
-    "AUDIO.md"
+    "stub notes/MISC PRODUCTS.md",
+    "IMAGE_GEN.md"
   ]
 }

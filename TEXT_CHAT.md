@@ -26,6 +26,9 @@ a subset of the TEXT.md file focused on chat usecases
 - YouChat https://twitter.com/RichardSocher/status/1606350406765842432
 - Meta BlenderBot 3 https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/
 - Google LaMDA https://blog.google/technology/ai/lamda/
+	- LaMDA is trained on dialogue and can engage in a free-flowing way about a seemingly endless number of topics.
+	- LaMDA was trained on dialogue to learn nuances that distinguish open-ended conversation from other forms of language.
+	- Google is exploring dimensions like “interestingness” and “factuality” to ensure LaMDA’s responses are compelling, correct and adhere to the AI Principles.
 - Quora Poe: poe.com
 - Jasper Chat: jasper.ai/chat
 - replit ghostwriter chat
@@ -151,7 +154,9 @@ sorted in rough descending order of impact
 
 - factually wrong info https://twitter.com/parafactual/status/1598212029479026689
 - failed spatial relationships https://twitter.com/paulharter/status/1598304656236875781
-- cant do math https://twitter.com/3blue1brown/status/1598256290765377537
+- cant do math 
+	- https://twitter.com/3blue1brown/status/1598256290765377537
+	- counting up from 64 to 47 https://twitter.com/djstrouse/status/1605963129220841473?s=20
 - LLM gaslighting vulnerability https://twitter.com/ESYudkowsky/status/1598663598490136576
 
 ### Jailbreaks

@@ -262,29 +262,6 @@ This list will be out of date but will get you started. My live list of people t
 -  Appending prompts by default in UI
   -  DALLE: https://twitter.com/levelsio/status/1588588688115912705?s=20&t=0ojpGmH9k6MiEDyVG2I6gg
 
-## Infrastructure
-
-- bananadev cold boot problem https://twitter.com/erikdunteman/status/1584992679330426880?s=20&t=eUFvLqU_v10NTu65H8QMbg
-- replicate.com
-- banana.dev
-- huggingface.co
-- lambdalabs.com
-- astriaAI
-- cost of chatgpt - https://twitter.com/tomgoldsteincs/status/1600196981955100694
-	- A 3-billion parameter model can generate a token in about 6ms on an A100 GPU
-	- a 175b param it should take 350ms secs for an A100 GPU to print out a single word
-	- You would need 5 80Gb A100 GPUs just to load the model and text. ChatGPT cranks out about 15-20 words per second. If it uses A100s, that could be done on an 8-GPU server (a likely choice on Azure cloud)
-	- On Azure cloud, each A100 card costs about $3 an hour. That's $0.0003 per word generated.
-	- The model usually responds to my queries with ~30 words, which adds up to about 1 cent per query.
-	- If an average user has made 10 queries per day, I think it’s reasonable to estimate that ChatGPT serves ~10M queries per day.
-	- I estimate the cost of running ChatGPT is $100K per day, or $3M per month.
-
-
-hardware issues
-- https://hardwarelottery.github.io ML will run into an asymptote because matrix multiplication and full forward/backprop passes are ridiculously expensive. What hardware improvements do we need to enable new architectures?
-- related: https://www.wired.com/2017/04/building-ai-chip-saved-google-building-dozen-new-data-centers/
-- transformers won because they were more scalable https://arxiv.org/pdf/2010.11929.pdf
-
 
 
 ## Legal, Ethics, and Privacy

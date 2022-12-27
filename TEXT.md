@@ -20,6 +20,42 @@
 
 My best timeline of GPT efforts is listed here: https://lspace.swyx.io/p/open-source-ai
 
+## Language Models
+
+<img src="https://pbs.twimg.com/media/FkwdJnEXgAAoteg?format=png&name=small" height=300 />
+
+- GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
+- Eleuther's GPT-J-6B, GPT-NeoX
+- Google PaLM 570B
+	- https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
+- Yandex YaLM 100B https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6
+	- It took us 65 days to train the model on a pool of 800 A100 graphics cards and 1.7 TB of online texts, books, and countless other sources.
+- Meta 
+	- OPT-175B https://opt.alpa.ai/ (bad reviews)
+	- OPT-IML (Instruction Meta-Learning): **instruction tuned** https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML
+		- a new language model from Meta AI with 175B parameters, fine-tuned on 2,000 language tasks — openly available soon under a noncommercial license for research use cases.
+		- https://twitter.com/MetaAI/status/1605991218953191424
+- FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
+- GPT-JT for classification
+  - https://news.ycombinator.com/item?id=33796158
+  - https://twitter.com/togethercompute/status/1597611474771668997
+  - https://huggingface.co/spaces/togethercomputer/GPT-JT
+- GPT 3.5 (https://beta.openai.com/docs/model-index-for-researchers)
+  - code-davinci-002 is a base model, so good for pure code-completion tasks
+  - text-davinci-002 is an InstructGPT model based on code-davinci-002
+  - text-davinci-003 is an improvement on text-davinci-002
+    - https://scale.com/blog/gpt-3-davinci-003-comparison
+      - 003 is 30% better at classifying, can rhyme, output iambic pentameter, is more verbose (42 words per sentence vs 23).
+    - https://twitter.com/amix3k/status/1597504050852859904
+    - https://twitter.com/_brivael_/status/1597625080418533377
+  - InstructGPT https://openai.com/blog/instruction-following/
+  - ChatGPT: https://openai.com/blog/chatgpt/
+    - We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.  
+
+![https://pbs.twimg.com/media/Fknc4rkX0AMY5RF?format=jpg&name=large](https://pbs.twimg.com/media/Fknc4rkX0AMY5RF?format=jpg&name=large)
+
+## Applications
+
 GPT3 applications:
   - text to graphviz https://twitter.com/goodside/status/1561549768987496449?s=21&t=rliacnWOIjJMiS37s8qCCw
   - suspending to python for math   
@@ -108,30 +144,6 @@ GPT3 applications:
 
 - Reasoning: https://twitter.com/alexandr_wang/status/1588933553290870785
 - Understanding: https://twitter.com/EMostaque/status/1585903983180537856
-
-## GPT3 versions
-
-- GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
-- Eleuther's GPT-J-6B, GPT-NeoX
-- Yandex YaLM 100B https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6
-	- It took us 65 days to train the model on a pool of 800 A100 graphics cards and 1.7 TB of online texts, books, and countless other sources.
-- FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
-- GPT-JT for classification
-  - https://news.ycombinator.com/item?id=33796158
-  - https://twitter.com/togethercompute/status/1597611474771668997
-  - https://huggingface.co/spaces/togethercomputer/GPT-JT
-- GPT 3.5 (https://beta.openai.com/docs/model-index-for-researchers)
-  - code-davinci-002 is a base model, so good for pure code-completion tasks
-  - text-davinci-002 is an InstructGPT model based on code-davinci-002
-  - text-davinci-003 is an improvement on text-davinci-002
-    - https://scale.com/blog/gpt-3-davinci-003-comparison
-      - 003 is 30% better at classifying, can rhyme, output iambic pentameter, is more verbose (42 words per sentence vs 23).
-    - https://twitter.com/amix3k/status/1597504050852859904
-    - https://twitter.com/_brivael_/status/1597625080418533377
-  - InstructGPT https://openai.com/blog/instruction-following/
-  - ChatGPT: https://openai.com/blog/chatgpt/
-    - We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.  
-
 
 
 ## Specialized langauge models

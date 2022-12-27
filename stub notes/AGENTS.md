@@ -1,7 +1,10 @@
 
 - OpenAI WebGPT https://openai.com/blog/webgpt/
 	- The variant is called WebGPT and can ask search queries, follow links, scroll up and down web pages, and prove the sources of the answers it finds.
-	- [dust.tt reproduction](https://twitter.com/dust4ai/status/1587104029712203778)
+- Dust XP1  (WebGPT [clone](https://twitter.com/dust4ai/status/1587104029712203778) chrome extension)
+	- announcement https://twitter.com/spolu/status/1602692992191676416
+	- https://xp1.dust.tt/
+	- **XP1** is an assistant based on GPT (text-davinci-003) with access to your browser tabs content. It is geared (prompted) towards productivity and can be used to help you with your daily tasks (such as answering emails, summarizing documents, extracting structured data from unstructured text, ...)
 - Adept ACT-1  https://www.adept.ai/act
 	- ACT-1 is a large-scale Transformer trained to use digital tools — among other things, we recently taught it how to use a web browser. Right now, it’s hooked up to a Chrome extension which allows ACT-1 to observe what’s happening in the browser and take certain actions, like clicking, typing, and scrolling, etc. The observation is a custom “rendering” of the browser viewport that’s meant to generalize across websites, and the action space is the UI elements available on the page.
 	- Features demoed:
