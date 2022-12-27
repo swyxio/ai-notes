@@ -9,7 +9,7 @@
 - [Top GPT3 Prompt Engineering Reads](#top-gpt3-prompt-engineering-reads)
 - [How GPT works](#how-gpt-works)
 - [Don't call it generative](#dont-call-it-generative)
-- [Specialized langauge models](#specialized-langauge-models)
+- [Specialized language models](#specialized-language-models)
 - [GPT Products](#gpt-products)
 - [GPT tooling](#gpt-tooling)
 - [Ethical issues](#ethical-issues)
