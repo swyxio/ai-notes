@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog ideas/misc blog ideas.md",
+                "file": "INFRA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog ideas/misc blog ideas.md",
+                "file": "INFRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog ideas/misc blog ideas.md",
+                "file": "INFRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog ideas/misc blog ideas.md"
+                "file": "INFRA.md"
               }
             }
           }
@@ -141,6 +141,7 @@
   },
   "active": "5f38ecf2d7b78518",
   "lastOpenFiles": [
+    "blog ideas/misc blog ideas.md",
     "blog ideas/What is Instruction Tuning?.md",
     "stub notes/MISC PRODUCTS.md",
     "README.md",
@@ -149,7 +150,6 @@
     "IMAGE_PROMPTS.md",
     "TEXT.md",
     "stub notes/RLHF.md",
-    "TEXT_SEARCH.md",
-    "stub notes/AGENTS.md"
+    "TEXT_SEARCH.md"
   ]
 }

@@ -64,3 +64,5 @@ stack example
 
 - We believe the cost to train a neural net will fall 2.5x per year through 2030. AND we expect budgets to continue to balloon, doubling annually at least through 2025. Combine the two: Neural net capability should increase by ~5,000x by 2025
 - https://twitter.com/wintonARK/status/1557768036169314304?s=20
+- https://ark-invest.com/wrights-law
+	- Moore’s Law – named after Gordon Moore for his work in 1965 – focuses on cost as a function of time. Specifically, it states that the number of transistors on a chip would double every two years. Wright’s Law on the other hand forecasts cost as a function of units produced.
