@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "TEXT_CHAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TEXT_CHAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "TEXT_CHAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TEXT_CHAT.md"
               }
             }
           }
@@ -140,14 +139,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3c266f82ab6bc4d0",
+  "active": "6cc2c6925ea8a775",
   "lastOpenFiles": [
+    "README.md",
     "stub notes/Google vs AI.md",
     "INFRA.md",
     "Untitled.md",
     "stub notes/CODE.md",
     "blog ideas/What is Instruction Tuning?.md",
-    "README.md",
     "TEXT.md",
     "blog ideas/misc blog ideas.md",
     "stub notes/MISC PRODUCTS.md",

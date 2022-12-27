@@ -311,6 +311,7 @@ threads that recap stuff above
 
 - https://twitter.com/zswitten/status/1598380220943593472
 - https://twitter.com/sytelus/status/1598523136177508356
+- https://twitter.com/volodarik/status/1600854935515844610
 - https://twitter.com/bleedingedgeai/status/1598378564373471232
 - https://twitter.com/bentossell/status/1598269692082151424
 - https://twitter.com/omarsar0/status/1600149116369051649
