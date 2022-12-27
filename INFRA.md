@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<details>
+<summary>Table of Contents</summary>
+
+- [Infrastructure](#infrastructure)
+- [Optimization](#optimization)
+- [hardware issues](#hardware-issues)
+
+</details>
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Infrastructure
 
 - bananadev cold boot problem https://twitter.com/erikdunteman/status/1584992679330426880?s=20&t=eUFvLqU_v10NTu65H8QMbg

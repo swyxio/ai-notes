@@ -4,10 +4,11 @@
 <details>
 <summary>Table of Contents</summary>
 
+- [Language Models](#language-models)
+- [Applications](#applications)
 - [Top GPT3 Prompt Engineering Reads](#top-gpt3-prompt-engineering-reads)
 - [How GPT works](#how-gpt-works)
 - [Don't call it generative](#dont-call-it-generative)
-- [GPT3 versions](#gpt3-versions)
 - [Specialized langauge models](#specialized-langauge-models)
 - [GPT Products](#gpt-products)
 - [GPT tooling](#gpt-tooling)

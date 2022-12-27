@@ -24,7 +24,6 @@ This Readme is just the high level overview of the space; you should see the mos
 - [People](#people)
 - [Misc](#misc)
 - [Quotes, Reality & Demotivation](#quotes-reality--demotivation)
-- [Infrastructure](#infrastructure)
 - [Legal, Ethics, and Privacy](#legal-ethics-and-privacy)
 
 </details>
