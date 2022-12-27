@@ -3,6 +3,7 @@
 <details>
 <summary>Table of Contents</summary>
 
+- [Chat Papers](#chat-papers)
 - [Chat Products](#chat-products)
 - [Chat Tools](#chat-tools)
 - [ChatGPT notes](#chatgpt-notes)
