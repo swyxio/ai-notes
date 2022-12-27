@@ -147,7 +147,7 @@ GPT3 applications:
 - Understanding: https://twitter.com/EMostaque/status/1585903983180537856
 
 
-## Specialized langauge models
+## Specialized language models
 
 - Scientific language models like Meta's Galactica exist. Commentary https://news.ycombinator.com/item?id=33614608
 
@@ -171,11 +171,12 @@ GPT3 applications:
 	- dust.tt
 	- tools that make tools (toolbot.ai)
 	- https://lex.page ([announcement](https://twitter.com/nbashaw/status/1581673516360876032))
+	- CLI https://twitter.com/KevinAFischer/status/1601883697061380096?s=20
 - Writing
 	- Verb (fiction) https://twitter.com/verbforwriters/status/1603051444134895616
 	- Orchard https://www.orchard.ink/doc/201a7f63-731e-4487-926a-fdf348f1b00c
 		- https://twitter.com/alexjkwang/status/1603408050005557249?s=20
-	- 
+	- Deepmind Dramatron https://deepmind.github.io/dramatron/details.html for **co-writing** theatre scripts and screenplays. Starting from a log line, Dramatron interactively generates character descriptions, plot points, location descriptions and dialogue. These generations provide human authors with material for compilation, editing, and rewriting.
 	- BearlyAI https://twitter.com/TrungTPhan/status/1597623720239329280f
 
 ## GPT tooling

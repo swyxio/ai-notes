@@ -28,6 +28,12 @@ a subset of the TEXT.md file focused on chat usecases
 	- we break down the requirements for good dialogue into natural language rules the agent should follow, and ask raters about each rule separately. We demonstrate that this breakdown enables us to collect more targeted human judgements of agent behaviour and allows for more efficient rule-conditional reward models.
 	- our agent provides evidence from sources supporting factual claims when collecting preference judgements over model statements. For factual questions, evidence provided by Sparrow supports the sampled response 78% of the time.
 
+"A new episode of the “bitter lesson”: almost none of the research from ~2 decades of dialogue publications, conferences and workshops lead to [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click). 
+- Slot filling
+- intent modeling 
+- hybrid symbolic approaches (KGs) 
+
+
 ## Chat Products
 
 - YouChat https://twitter.com/RichardSocher/status/1606350406765842432
@@ -58,6 +64,13 @@ a subset of the TEXT.md file focused on chat usecases
 - Context window of 8192 tokens https://twitter.com/goodside/status/1598968124698550277
   - https://twitter.com/goodside/status/1598874674204618753
 - it does know the current date https://twitter.com/goodside/status/1598890043975774208
+- you can kinda replicate ChatGPT with text-davinci-003 and LangChain:
+	- https://twitter.com/sjwhitmore/status/1601254826947784705?s=20
+	- https://colab.research.google.com/drive/172JX06y24tF9v3ii25Gu2e72V05Ky_8z#scrollTo=Zv0ceS_xvQTg
+- Testing humanity (with GPT2 Output Detector) and injecting humanity
+	- https://twitter.com/fatjoedavies/status/1600092966810316802?s=20
+	- can also use originality.ai, contentatscale.ai for ai detectors
+
 
 ### Products
 
@@ -84,6 +97,9 @@ a subset of the TEXT.md file focused on chat usecases
 
 lists
 - https://cookup.ai/chatgpt/usecases/
+- learngpt https://news.ycombinator.com/item?id=33923907
+- sharegpt as well
+- thread of wins https://twitter.com/sytelus/status/1600250786025308162?s=20
 
 sorted in rough descending order of impact
 
@@ -104,6 +120,7 @@ sorted in rough descending order of impact
   - translating/refactoring Wasplang DSL https://www.youtube.com/watch?v=HjUpqfEonow
   - AWS IAM policies https://twitter.com/iangcarroll/status/1598171507062022148
   - code that combines multiple cloud services https://twitter.com/amasad/status/1598089698534395924
+  - sudoku solver (from leetcode) https://twitter.com/debarghya_das/status/1598741735005294592?s=20
   - solving a code problem https://twitter.com/rohan_mayya/status/1598188057894608897
   - explain computer networks homework https://twitter.com/abhnvx/status/1598258353196929024
   - rewriting code from elixir to PHP https://twitter.com/AlfredBaudisch/status/1598251795830444035
@@ -270,6 +287,7 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 
 - SAT 500/520 https://twitter.com/davidtsong/status/1598767389390573569
 - IQ 83 https://twitter.com/SergeyI49013776/status/1598430479878856737 (good long thread of fails)
+- MBTI test - ISTJ https://twitter.com/Aella_Girl/status/1601378034317111296?s=20
 - "Minimum Turing Test": Yelling Poop makes us human https://twitter.com/emollick/status/1598516535038861313
 - Law
 	- 70% on Practice Bar Exam https://twitter.com/pythonprimes/status/1601664776194912256?s=20
@@ -279,6 +297,7 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 - teaching exams
 	- New York State Aug 2022 English regent, 22/24 (91.6%) https://twitter.com/pythonprimes/status/1601965894682427394?s=20
 	- New York State Aug 2022 Chemistry regent, 35/45 (77.7%) on MC portion (excl 5 questions that depend on photos) [https://nysedregents.org/Chemistry/](https://t.co/DCozXlmQzN)
+- AWS Cloud Practioner 800/1000 https://twitter.com/StephaneMaarek/status/1600864604220964871?s=20
 - Politics: Politiscale https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/ scores Lib-Left 
 	- https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/
 	- leans libertarian-left https://twitter.com/DavidRozado/status/1599865724037922818
@@ -295,4 +314,5 @@ threads that recap stuff above
 - https://twitter.com/bleedingedgeai/status/1598378564373471232
 - https://twitter.com/bentossell/status/1598269692082151424
 - https://twitter.com/omarsar0/status/1600149116369051649
+- https://twitter.com/sytelus/status/1600250786025308162?s=20
 

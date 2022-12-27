@@ -141,6 +141,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Akhaliq Discord: https://discord.gg/nYqfg4gnBt
 - Deforum Discord https://discord.gg/upmXXsrwZc
 - Lexica Discord https://discord.com/invite/bMHBjJ9wRh
+- Perplexity Discord https://discord.com/invite/kWJZsxPDuX
 - Midjourney's discord
   - how to use midjourney v4 https://twitter.com/fabianstelzer/status/1588856386540417024?s=20&t=PlgLuGAEEds9HwfegVRrpg
 - https://stablehorde.net/
@@ -202,6 +203,7 @@ This list will be out of date but will get you started. My live list of people t
   - https://twitter.com/alexandr_wang
   - https://twitter.com/rameerez
   - https://twitter.com/scottastevenson
+  - https://twitter.com/denisyarats
 - Stability
   - https://twitter.com/StabilityAI
   - https://twitter.com/StableDiffusion
