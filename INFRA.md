@@ -6,6 +6,7 @@
 - [Infrastructure](#infrastructure)
 - [Optimization](#optimization)
 - [hardware issues](#hardware-issues)
+- [cost trends - wright's law](#cost-trends---wrights-law)
 
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
