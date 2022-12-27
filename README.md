@@ -67,7 +67,9 @@ This Readme is just the high level overview of the space; you should see the mos
   - https://www.summari.com/ Summari helps busy people read more
 - sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880
 - base10 market map https://twitter.com/letsenhance_io/status/1594826383305449491
-  - game assets - emad thread https://twitter.com/EMostaque/status/1591436813750906882
+- game assets - 
+	- emad thread https://twitter.com/EMostaque/status/1591436813750906882
+	- scenario.gg https://twitter.com/emmanuel_2m/status/1593356241283125251
 
 ## Top AI Reads
 
@@ -88,6 +90,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
   - for nontechnical
     - https://www.jonstokes.com/p/ai-content-generation-part-1-machine
     - https://www.protocol.com/generative-ai-startup-landscape-map
+    - https://twitter.com/saranormous/status/1572791179636518913
 - Intermediate
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w

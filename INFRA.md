@@ -65,3 +65,8 @@ stack example
 - https://twitter.com/wintonARK/status/1557768036169314304?s=20
 - https://ark-invest.com/wrights-law
 	- Moore’s Law – named after Gordon Moore for his work in 1965 – focuses on cost as a function of time. Specifically, it states that the number of transistors on a chip would double every two years. Wright’s Law on the other hand forecasts cost as a function of units produced.
+- OpenAI scaling on compute https://openai.com/blog/ai-and-compute/
+	-   Before 2012: It was uncommon to use GPUs for ML, making any of the results in the graph difficult to achieve.
+	-   2012 to 2014: Infrastructure to train on many GPUs was uncommon, so most results used 1-8 GPUs rated at 1-2 TFLOPS for a total of 0.001-0.1 pfs-days.
+	-   2014 to 2016: Large-scale results used 10-100 GPUs rated at 5-10 TFLOPS, resulting in 0.1-10 pfs-days. Diminishing returns on data parallelism meant that larger training runs had limited value.
+	-   2016 to 2017: Approaches that allow greater algorithmic parallelism such as [huge batch sizes](https://arxiv.org/abs/1711.04325), [architecture search](https://arxiv.org/abs/1611.01578), and [expert iteration](https://arxiv.org/pdf/1705.08439.pdf), along with specialized hardware such as TPU’s and faster interconnects, have greatly increased these limits, at least for some applications.

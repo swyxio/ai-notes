@@ -11,8 +11,14 @@
 - https://github.com/fauxpilot/fauxpilot This is an attempt to build a locally hosted version of [GitHub Copilot](https://copilot.github.com/). It uses the [SalesForce CodeGen](https://github.com/salesforce/CodeGen) models inside of NVIDIA's [Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) with the [FasterTransformer backend](https://github.com/triton-inference-server/fastertransformer_backend/).
 - Dec 2022: alphacode evaluation https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb
 
-## Ethical Issues
+
+## Known Issues
 
 - Ryan Salva on how Copilot works + how to gain developer trust https://news.ycombinator.com/item?id=33226515
+- https://medium.com/@enoch3712/github-copilot-is-under-the-hood-how-it-works-and-getting-the-best-out-of-it-4699d4dc3cd8
+	- cushman - 2048 tokens
+	- davinci - 4k tokens
 - vulnerabilities https://www.spiceworks.com/it-security/security-general/news/40-of-code-produced-by-github-copilot-vulnerable-to-threats-research/
+	- codex-davinci-002 [Do Users Write More Insecure Code with AI Assistants](https://arxiv.org/abs/2211.03622) some vulns found in C code with 75 participants - [media report](https://www.theregister.com/2022/12/21/ai_assistants_bad_code/)
+	- codex-cushman-001 https://arxiv.org/abs/2208.09727
 - Github Copilot investigation https://news.ycombinator.com/item?id=33240341

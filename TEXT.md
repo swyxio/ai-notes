@@ -95,6 +95,7 @@ GPT3 applications:
   - play with the smaller GPT3 models https://beta.openai.com/docs/models/gpt-3
   - technique: self-asking, two step prompts https://twitter.com/OfirPress/status/1577302998136819713
     - chain of thought prompting https://twitter.com/OfirPress/status/1577303423602790401
+    - https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html (emerges at around 100B params)
   - Prompt structure with extensive examples
     - review feedback extraction https://www.youtube.com/watch?v=3EjtHs_lXnk&t=1009s
   - Ask Me Anything prompting
@@ -113,6 +114,7 @@ GPT3 applications:
     - and Promptsource https://github.com/bigscience-workshop/promptsource
   - Real-world Annotated Few-shot Tasks (RAFT) dataset https://huggingface.co/datasets/ought/raft
   - Study chain of thought reasoning https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html
+	  - and self-consistency (Sample a diverse set of reasoning paths on the *same* model) to improve it https://arxiv.org/abs/2203.11171
     -  and UL2 20B https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html
   - building GPT-JT: https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai
 

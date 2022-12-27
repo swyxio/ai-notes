@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1da8d948791acdce",
+        "id": "0d57394fcda9a2e7",
         "type": "tabs",
         "children": [
           {
-            "id": "5f38ecf2d7b78518",
+            "id": "3c266f82ab6bc4d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dreambooth",
+                "query": "landscape",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -131,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5f38ecf2d7b78518",
+  "active": "3c266f82ab6bc4d0",
   "lastOpenFiles": [
+    "stub notes/Google vs AI.md",
     "INFRA.md",
-    "blog ideas/misc blog ideas.md",
+    "Untitled.md",
+    "stub notes/CODE.md",
     "blog ideas/What is Instruction Tuning?.md",
-    "stub notes/MISC PRODUCTS.md",
     "README.md",
-    "TEXT_CHAT.md",
-    "IMAGE_PROMPTS.md",
     "TEXT.md",
-    "stub notes/RLHF.md",
-    "TEXT_SEARCH.md"
+    "blog ideas/misc blog ideas.md",
+    "stub notes/MISC PRODUCTS.md",
+    "TEXT_CHAT.md"
   ]
 }

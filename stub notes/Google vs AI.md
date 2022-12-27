@@ -16,3 +16,6 @@ Pro Google
 - PageRank origins ([tweet](https://twitter.com/mmitchell_ai/status/1605013368560943105?s=20)) 
 	- pre pagerank was gpt-retrieval like
 	- With PageRank, the fact that websites link to one another could be used to identify which websites were *the most* linked to. The *most linked* sites are the ones people tend to want.
+- link vs answer? [ben evans tweet](https://twitter.com/benedictevans/status/1607547804108431362)
+	- When you were given a link did you really want an answer? Or did you, in fact, want a link?
+	- I would like to see a matrix of query volume versus search ad revenue versus susceptibility to an answer-based response. The respond to "give me a personal injury lawyer" can still have ads even if it's delivered by GPT...
