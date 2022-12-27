@@ -1,0 +1,12 @@
+
+- [TL;DR: Mining Reddit to Learn Automatic Summarization, 2017](https://aclanthology.org/W17-4508.pdf)
+	- After filtering, we are left with approximately 1.6 million submissions and 2.4 million comments for a total of 4 million content-summary pairs.
+- [Learning to summarize from human feedback, OpenAI 2020](https://proceedings.neurips.cc/paper/2020/file/1f89885d556929e98d3ef9b86448f951-Paper.pdf)
+	- In this work, we show that it is possible to significantly improve summary quality by training a model to optimize for human preferences. We collect a large, high-quality dataset of human comparisons between summaries, train a model to predict the human-preferred summary, and use that model as a reward function to fine-tune a summarization policy using reinforcement learning. We apply our method to a version of the TL;DR dataset of Reddit posts [63] and find that our models significantly outperform both human reference summaries and much larger models fine-tuned with supervised learning alone.
+- ROUGE- https://www.freecodecamp.org/news/what-is-rouge-and-how-it-works-for-evaluation-of-summaries-e059fb8ac840/
+	- ROUGE stands for Recall-Oriented Understudy for Gisting Evaluation
+	- It works by comparing an **automatically produced summary** or **translation** against a set of **reference summaries** (typically human-produced).
+	- ROUGE-N — measures **unigram**, **bigram**, **trigram** and higher order n-gram overlap
+	- ROUGE-L — measures **longest matching sequence** of words using LCS. Since it automatically includes longest in-sequence common n-grams, you don’t need a predefined n-gram length.
+	-   ROUGE-S — Is any pair of words in a sentence in order, allowing for arbitrary gaps. This can also be called skip-gram concurrence.
+	- it is always best to compute both the **precision** and **recall** and then report the **F-Measure**.
