@@ -243,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
@@ -251,14 +252,14 @@
   "active": "647f7da1a067ed70",
   "lastOpenFiles": [
     "blog ideas/misc blog ideas.md",
+    "TEXT_CHAT.md",
+    "stub notes/RLHF.md",
+    "stub notes/TEXT_SUMMARIZATION.md",
     "blog ideas/What is Instruction Tuning?.md",
     "TEXT.md",
     "AUDIO.md",
     "TEXT_SEARCH.md",
-    "TEXT_CHAT.md",
     "stub notes/Google vs AI.md",
-    "stub notes/TEXT_SUMMARIZATION.md",
-    "INFRA.md",
-    "README.md"
+    "INFRA.md"
   ]
 }

@@ -2,6 +2,8 @@
 ## simple ai projects to start
 
 - reproduce the causality benchmark https://github.com/amit-sharma/chatgpt-causality-pairs
+- make up your own tests?
+	- LSAT, Chemistry, real estate, medical boards...
 - make your own search engine
 	- https://twitter.com/rileytomasek/status/1603854647575384067?s=20
 

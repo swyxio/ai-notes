@@ -271,10 +271,12 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 - SAT 500/520 https://twitter.com/davidtsong/status/1598767389390573569
 - IQ 83 https://twitter.com/SergeyI49013776/status/1598430479878856737 (good long thread of fails)
 - "Minimum Turing Test": Yelling Poop makes us human https://twitter.com/emollick/status/1598516535038861313
-- 70% on Practice Bar Exam
-	- https://twitter.com/pythonprimes/status/1601664776194912256?s=20
+- Law
+	- 70% on Practice Bar Exam https://twitter.com/pythonprimes/status/1601664776194912256?s=20
+	- 149 (40th pctile on LSATs) https://twitter.com/pythonprimes/status/1599875927625764864?s=20
 	- MPRE (Multistate Professional Responsibility Examination) exam https://twitter.com/pythonprimes/status/1601819196882501633?s=20
-- teaching exames
+- Medical exams https://twitter.com/pythonprimes/status/1601785791931240449?s=20
+- teaching exams
 	- New York State Aug 2022 English regent, 22/24 (91.6%) https://twitter.com/pythonprimes/status/1601965894682427394?s=20
 	- New York State Aug 2022 Chemistry regent, 35/45 (77.7%) on MC portion (excl 5 questions that depend on photos) [https://nysedregents.org/Chemistry/](https://t.co/DCozXlmQzN)
 - Politics: Politiscale https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/ scores Lib-Left 
