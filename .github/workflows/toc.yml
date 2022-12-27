@@ -1,11 +1,4 @@
-# on: push # too active
-
-on:
-  schedule:
-    # Runs at 12:00 UTC daily
-    - cron: '0 12 * * *'
-  workflow_dispatch:
-  
+on: push
 name: TOC Generator
 jobs:
   generateTOC:
