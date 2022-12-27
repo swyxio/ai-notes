@@ -162,6 +162,9 @@ GPT3 applications:
 	- Ellie email https://twitter.com/JamesIvings/status/1602855048148500480
 	- Everyprompt mail
 	- https://merlin.foyer.work/ 
+- SQL
+	- preplexity.ai/sql
+		- https://twitter.com/perplexity_ai/status/1605250295780773889
 - Newer
 	- https://www.protocol.com/generative-ai-startup-landscape-map
 	- https://metaphor.systems/
@@ -170,6 +173,9 @@ GPT3 applications:
 	- https://lex.page ([announcement](https://twitter.com/nbashaw/status/1581673516360876032))
 - Writing
 	- Verb (fiction) https://twitter.com/verbforwriters/status/1603051444134895616
+	- Orchard https://www.orchard.ink/doc/201a7f63-731e-4487-926a-fdf348f1b00c
+		- https://twitter.com/alexjkwang/status/1603408050005557249?s=20
+	- 
 	- BearlyAI https://twitter.com/TrungTPhan/status/1597623720239329280f
 
 ## GPT tooling

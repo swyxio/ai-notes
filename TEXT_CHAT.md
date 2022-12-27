@@ -21,6 +21,12 @@
 a subset of the TEXT.md file focused on chat usecases
 
 
+## Chat Papers
+
+- [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375) - DeepMind Sparrow agent
+	- we break down the requirements for good dialogue into natural language rules the agent should follow, and ask raters about each rule separately. We demonstrate that this breakdown enables us to collect more targeted human judgements of agent behaviour and allows for more efficient rule-conditional reward models.
+	- our agent provides evidence from sources supporting factual claims when collecting preference judgements over model statements. For factual questions, evidence provided by Sparrow supports the sampled response 78% of the time.
+
 ## Chat Products
 
 - YouChat https://twitter.com/RichardSocher/status/1606350406765842432
@@ -74,6 +80,9 @@ a subset of the TEXT.md file focused on chat usecases
 	- gpt.com
 
 ### Usecases
+
+lists
+- https://cookup.ai/chatgpt/usecases/
 
 sorted in rough descending order of impact
 
@@ -158,6 +167,9 @@ sorted in rough descending order of impact
 	- https://twitter.com/3blue1brown/status/1598256290765377537
 	- counting up from 64 to 47 https://twitter.com/djstrouse/status/1605963129220841473?s=20
 - LLM gaslighting vulnerability https://twitter.com/ESYudkowsky/status/1598663598490136576
+- comparisons
+	- Andrew Ng - abacus faster than GPU https://twitter.com/AndrewYNg/status/1600284752258686976
+		- [vulnerable to presuppositions in the prompt](https://twitter.com/MasonMMcGough/status/1600287990239985664?s=20)
 
 ### Jailbreaks
 
@@ -258,8 +270,18 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 - SAT 500/520 https://twitter.com/davidtsong/status/1598767389390573569
 - IQ 83 https://twitter.com/SergeyI49013776/status/1598430479878856737 (good long thread of fails)
 - "Minimum Turing Test": Yelling Poop makes us human https://twitter.com/emollick/status/1598516535038861313
-- leans libertarian-left https://twitter.com/DavidRozado/status/1599865724037922818
-- politiscale https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/
+- 70% on Practice Bar Exam
+	- https://twitter.com/pythonprimes/status/1601664776194912256?s=20
+	- MPRE (Multistate Professional Responsibility Examination) exam https://twitter.com/pythonprimes/status/1601819196882501633?s=20
+- teaching exames
+	- New York State Aug 2022 English regent, 22/24 (91.6%) https://twitter.com/pythonprimes/status/1601965894682427394?s=20
+	- New York State Aug 2022 Chemistry regent, 35/45 (77.7%) on MC portion (excl 5 questions that depend on photos) [https://nysedregents.org/Chemistry/](https://t.co/DCozXlmQzN)
+- Politics: Politiscale https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/ scores Lib-Left 
+	- https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/
+	- leans libertarian-left https://twitter.com/DavidRozado/status/1599865724037922818
+- Deciding Cause-Effect pairs: obtains SoTA accuracy on the Tuebingen causal discovery benchmark, spanning cause-effect pairs across physics, biology, engineering and geology. Zero-shot, no training involved. https://twitter.com/amt_shrma/status/1605240883149799424
+	- The benchmark contains 108 pairs of variables and the task is to infer which one causes the other. Best accuracy using causal discovery methods is 70-80%. On 75 pairs we've evaluated, ChatGPT obtains 92.5%.
+	- https://github.com/amit-sharma/chatgpt-causality-pairs
 
 ### recap threads
 

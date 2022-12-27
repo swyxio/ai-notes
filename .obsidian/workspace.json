@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFRA.md",
+                "file": "TEXT_SEARCH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "647f7da1a067ed70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXT_CHAT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -145,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fails",
+                "query": "naturalquestion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INFRA.md",
+                "file": "TEXT_CHAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INFRA.md",
+                "file": "TEXT_CHAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INFRA.md"
+                "file": "TEXT_CHAT.md"
               }
             }
           }
@@ -231,23 +243,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "054da7e849dc4904",
+  "active": "647f7da1a067ed70",
   "lastOpenFiles": [
-    "blog ideas/What is Instruction Tuning?.md",
     "blog ideas/misc blog ideas.md",
-    "TEXT_CHAT.md",
+    "blog ideas/What is Instruction Tuning?.md",
     "TEXT.md",
+    "AUDIO.md",
+    "TEXT_SEARCH.md",
+    "TEXT_CHAT.md",
     "stub notes/Google vs AI.md",
+    "stub notes/TEXT_SUMMARIZATION.md",
     "INFRA.md",
-    "README.md",
-    "stub notes/AGENTS.md",
-    "stub notes/MISC PRODUCTS.md",
-    "IMAGE_GEN.md"
+    "README.md"
   ]
 }
