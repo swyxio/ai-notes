@@ -1,4 +1,6 @@
-A full list of Notion AI's prompt source (our best guess) as of Dec 28 2022
+A full list of Notion AI's prompt source (our best guess) as of Dec 28 2022.
+
+Explanation and techniques used described on the blog: https://lspace.swyx.io/p/reverse-prompt-eng
 
 - Help Me Write
 	- ```
