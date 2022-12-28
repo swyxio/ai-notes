@@ -236,15 +236,17 @@ Required reading:
 
 - **Installer Distros**: Programs that bundle Stable Diffusion in an installable program, no separate setup and the least amount of git/technical skill needed, usually bundling one or more UI
   - iPad: [Draw Things App](https://apps.apple.com/app/id6444050820)
-  - [Diffusion Bee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui): Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
-  - https://www.charl-e.com/: Stable Diffusion on your Mac in 1 click. ([tweet](https://twitter.com/charliebholtz/status/1571138577744138240))
+  - [Diffusion Bee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) (open source): Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
   - https://github.com/cmdr2/stable-diffusion-ui: Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image. (Linux, Windows, no Mac). 
   - https://nmkd.itch.io/t2i-gui: A basic (for now) Windows 10/11 64-bit GUI to run Stable Diffusion, a machine learning toolkit to generate images from text, locally on your own hardware. As of right now, this program only works on Nvidia GPUs! AMD GPUs are not supported. In the future this might change. 
   - [imaginAIry 🤖🧠](https://github.com/brycedrennan/imaginAIry) (SUPPORTS SD 2.0!): Pythonic generation of stable diffusion images with just `pip install imaginairy`. "just works" on Linux and macOS(M1) (and maybe windows). Memory efficiency improvements, prompt-based editing, face enhancement, upscaling, tiled images, img2img, prompt matrices, prompt variables, BLIP image captions, comes with dockerfile/colab.  Has unit tests.
     - Note: it goes a lot faster if you run it all inside the included aimg CLI, since then it doesn't have to reload the model from disk every time
   - [Fictiverse/Windows-GUI](https://github.com/Fictiverse/StableDiffusion-Windows-GUI): A windows interface for stable diffusion
-  - https://github.com/razzorblade/stable-diffusion-gui: dormant now.
   - SD from Apple Core ML https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon https://github.com/apple/ml-stable-diffusion
+	  - [Gauss macOS native app](https://github.com/justjake/Gauss) (open source)
+	  - https://sindresorhus.com/amazing-ai SindreSorhus exclusive for M1/M2
+  - https://www.charl-e.com/ (open source): Stable Diffusion on your Mac in 1 click. ([tweet](https://twitter.com/charliebholtz/status/1571138577744138240))
+  - https://github.com/razzorblade/stable-diffusion-gui: dormant now.
 - **Web Distros**
   - Gooey - https://app.gooey.ai/CompareText2Img/?example_id=1uONp1IBt0Y
   - https://playgroundai.com/create UI for DallE and Stable Diffusion
