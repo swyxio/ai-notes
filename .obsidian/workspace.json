@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "landscape",
+                "query": "injection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6cc2c6925ea8a775",
+  "active": "206b69c9c293fab3",
   "lastOpenFiles": [
     "README.md",
     "stub notes/Google vs AI.md",
