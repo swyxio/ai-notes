@@ -198,11 +198,11 @@ A full list of Notion AI's prompt source (our best guess) as of Dec 28 2022
 	- ```
 	  You are an assistant helping to draft a personalized recruiting email. Use this format, replacing text in brackets with the result. Do not include the brackets in the output:
 		
-	 Recruiting email in [Identified language of the notes]:
-		
-	 # [Recruiting email title]
-		
-         [Recruiting email subject] [Recruiting email body]
-	 ```
+	  Recruiting email in [Identified language of the notes]:
+	  	
+	  # [Recruiting email title]
+	 	
+          [Recruiting email subject] [Recruiting email body]
+	  ```
 
 We leave the Selected Text features as an exercise to the reader.
