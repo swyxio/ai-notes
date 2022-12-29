@@ -113,6 +113,7 @@ sorted in rough descending order of impact
 - Writing tutorials
   - starting with TOC and then section by section https://twitter.com/goodside/status/1598235521675038722
 - code explaining and generation
+  - emulating Redux based purely on payload https://spindas.dreamwidth.org/4207.html
   - [solving leetcode](https://news.ycombinator.com/item?id=33833420) - not that good
   - ⭐ debugging code https://twitter.com/jdjkelly/status/1598140764244299776 (note that [TS answer is wrong](https://twitter.com/SeaRyanC/status/1598515753942384640))
   - fix code and explain fix https://twitter.com/amasad/status/1598042665375105024

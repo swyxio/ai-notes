@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stub notes/MISC PRODUCTS.md",
+                "file": "TEXT_CHAT.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stub notes/MISC PRODUCTS.md",
+                "file": "TEXT_CHAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stub notes/MISC PRODUCTS.md",
+                "file": "TEXT_CHAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stub notes/MISC PRODUCTS.md"
+                "file": "TEXT_CHAT.md"
               }
             }
           }
@@ -179,11 +179,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "ca8f70604a34d70a",
   "lastOpenFiles": [
+    "stub notes/MISC PRODUCTS.md",
     "IMAGE_GEN.md",
     "Resources/Notion AI Prompts.md",
     "stub notes/Untitled.md",
@@ -192,7 +192,6 @@
     "stub notes/CODE.md",
     "AUDIO.md",
     "README.md",
-    "IMAGE_PROMPTS.md",
-    "stub notes/IMAGE2TEXT.md"
+    "IMAGE_PROMPTS.md"
   ]
 }
