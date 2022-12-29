@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "stub notes/MISC PRODUCTS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "stub notes/MISC PRODUCTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IMAGE_GEN.md",
+                "file": "stub notes/MISC PRODUCTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IMAGE_GEN.md"
+                "file": "stub notes/MISC PRODUCTS.md"
               }
             }
           }
@@ -185,9 +184,9 @@
   },
   "active": "ca8f70604a34d70a",
   "lastOpenFiles": [
+    "IMAGE_GEN.md",
     "Resources/Notion AI Prompts.md",
     "stub notes/Untitled.md",
-    "IMAGE_GEN.md",
     "conflict-files-obsidian-git.md",
     "TEXT.md",
     "stub notes/CODE.md",
