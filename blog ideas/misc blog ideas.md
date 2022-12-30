@@ -1,4 +1,11 @@
 
+## transofmrers are eating the world
+
+- karpathy observation
+- tayml model architecture chart
+
+
+
 ## simple ai projects to start
 
 - reproduce the causality benchmark https://github.com/amit-sharma/chatgpt-causality-pairs
