@@ -62,9 +62,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b10f22689bbc2f9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ca8f70604a34d70a",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b10f22689bbc2f9",
   "lastOpenFiles": [
     "stub notes/MISC PRODUCTS.md",
     "IMAGE_GEN.md",
