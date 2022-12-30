@@ -42,7 +42,7 @@ a subset of the TEXT.md file focused on chat usecases
 	- LaMDA is trained on dialogue and can engage in a free-flowing way about a seemingly endless number of topics.
 	- LaMDA was trained on dialogue to learn nuances that distinguish open-ended conversation from other forms of language.
 	- Google is exploring dimensions like “interestingness” and “factuality” to ensure LaMDA’s responses are compelling, correct and adhere to the AI Principles.
-- Quora Poe: poe.com
+- Quora Poe: poe.com https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt
 - Jasper Chat: jasper.ai/chat
 - replit ghostwriter chat
 

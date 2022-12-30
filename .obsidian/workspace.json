@@ -4,55 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57f1631230b1d213",
+        "id": "0d57394fcda9a2e7",
         "type": "tabs",
         "children": [
           {
-            "id": "aeeb476d82f10c1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AUDIO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a915d08cb68f2ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEXT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "694ebf1a74ad21eb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b3e23c8d6859f455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IMAGE_GEN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca8f70604a34d70a",
+            "id": "3c266f82ab6bc4d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4b10f22689bbc2f9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clip retrieval",
+                "query": "diarization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,27 +136,20 @@
     "direction": "horizontal",
     "width": 300
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
-    }
+  "ribbon": {
+    "mostRecentAction": ""
   },
-  "active": "4b10f22689bbc2f9",
+  "active": "3c266f82ab6bc4d0",
   "lastOpenFiles": [
-    "stub notes/MISC PRODUCTS.md",
-    "IMAGE_GEN.md",
-    "Resources/Notion AI Prompts.md",
-    "stub notes/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "TEXT.md",
-    "stub notes/CODE.md",
     "AUDIO.md",
+    "TEXT_CHAT.md",
     "README.md",
-    "IMAGE_PROMPTS.md"
+    "stub notes/Google vs AI.md",
+    "INFRA.md",
+    "Untitled.md",
+    "stub notes/CODE.md",
+    "blog ideas/What is Instruction Tuning?.md",
+    "TEXT.md",
+    "blog ideas/misc blog ideas.md"
   ]
 }
