@@ -511,6 +511,8 @@ Trained examples
   - GitHub: https://github.com/borisdayma/dalle-mini
   - Hugging Face Demo: https://huggingface.co/spaces/flax-community/dalle-mini
   - NYT article: https://www.nytimes.com/2022/04/06/technology/openai-images-dall-e.html
+- Structured Diffusion https://twitter.com/WilliamWangNLP/status/1602722552312262656
+	- great examples better than StableDiffusion
 - Imagen
   - https://www.assemblyai.com/blog/how-imagen-actually-works
   - https://www.youtube.com/watch?v=R_f-v6prMqI

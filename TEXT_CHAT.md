@@ -78,6 +78,7 @@ a subset of the TEXT.md file focused on chat usecases
 - telegram bot https://twitter.com/altryne/status/1598822052760195072
   - now with google access https://github.com/altryne/chatGPT-telegram-bot/releases/tag/0.1.0
   - https://twitter.com/m1guelpf/status/1599254528800325632 https://github.com/m1guelpf/chatgpt-telegram
+- Desktop app https://github.com/lencx/ChatGPT
 - twitter bot https://github.com/transitive-bullshit/chatgpt-twitter-bot
 - python https://github.com/taranjeet/chatgpt-api
 - nodejs https://github.com/transitive-bullshit/chatgpt-api
@@ -100,6 +101,7 @@ lists
 - learngpt https://news.ycombinator.com/item?id=33923907
 - sharegpt as well
 - thread of wins https://twitter.com/sytelus/status/1600250786025308162?s=20
+- 🌟 https://github.com/f/awesome-chatgpt-prompts
 
 sorted in rough descending order of impact
 
@@ -110,6 +112,7 @@ sorted in rough descending order of impact
 - Brainstorming
   - podcast interview questions https://twitter.com/sethbannon/status/1598036175285276672
   - [writing a podcast intro](https://twitter.com/gilbert/status/1598446084279652353)
+  - inventing words https://mobile.twitter.com/tobiasjolly/status/1603083739852046337
 - Writing tutorials
   - starting with TOC and then section by section https://twitter.com/goodside/status/1598235521675038722
 - code explaining and generation

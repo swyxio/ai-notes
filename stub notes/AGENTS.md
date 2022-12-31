@@ -1,6 +1,7 @@
 
 - OpenAI WebGPT https://openai.com/blog/webgpt/
 	- The variant is called WebGPT and can ask search queries, follow links, scroll up and down web pages, and prove the sources of the answers it finds.
+	- 3rd party clone https://cut-hardhat-23a.notion.site/code-for-webGPT-44485e5c97bd403ba4e1c2d5197af71d
 - Dust XP1  (WebGPT [clone](https://twitter.com/dust4ai/status/1587104029712203778) chrome extension)
 	- announcement https://twitter.com/spolu/status/1602692992191676416
 	- https://xp1.dust.tt/

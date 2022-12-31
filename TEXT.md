@@ -109,6 +109,26 @@ GPT3 applications:
   - play with gpt-neoX and gpt-j https://neox.labml.ai/playground
   - defense against prompt injection https://twitter.com/goodside/status/1578278974526222336
   - whatever the f this is https://twitter.com/goodside/status/1578614244290924545
+  - https://github.com/dair-ai/Prompt-Engineering-Guide
+	  - Surveys / Overviews:
+	    -   [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586)
+	    -   [A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988)
+	    -   [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
+	-   Applications:
+	    -   [Legal Prompt Engineering for Multilingual Legal Judgement Prediction](https://arxiv.org/abs/2212.02199)
+	    -   [Investigating Prompt Engineering in Diffusion Models](https://arxiv.org/abs/2211.15462)
+	    -   [Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language](https://arxiv.org/abs/2210.15157)
+	    -   [Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic?](https://arxiv.org/abs/2210.14699)
+	-   Approaches/Techniques:
+	    -   [Ask Me Anything: A simple strategy for prompting language models](https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for)
+	    -   [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786)
+	    -   [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
+	    -   [Large Language Models Are Human-Level Prompt Engineers](https://sites.google.com/view/automatic-prompt-engineer?pli=1)
+	    -   [Structured Prompting: Scaling In-Context Learning to 1,000 Examples](https://arxiv.org/abs/2212.06713)
+	    -   [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/abs/2109.07830)
+	    -   [Promptagator: Few-shot Dense Retrieval From 8 Examples](https://arxiv.org/abs/2209.11755)
+	    -   [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://www.arxiv-vanity.com/papers/2102.07350/)
+	    -   [PromptChainer: Chaining Large Language Model Prompts through Visual Programming](https://arxiv.org/abs/2203.06566)
 - Academics
   - P3: Public pool of prompts https://huggingface.co/datasets/bigscience/P3
     - and Promptsource https://github.com/bigscience-workshop/promptsource
@@ -195,6 +215,12 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
   - scrubbing a text for length https://twitter.com/thesephist/status/1587929014848540673
   - Most knowledge work isn't a text-generation task, and your product shouldn't ship an implementation detail of LLMs as the end-user interface https://twitter.com/thesephist/status/1592924891208372224
 - mozilla's readability-cli https://www.npmjs.com/package/readability-cli ([tip](https://twitter.com/scottleibrand/status/1599988038721212416?s=20&t=cmSnNOsSSvutmlWTZpzYCQ))
+
+### dealing with GPT context size
+
+- https://github.com/jerryjliu/gpt_index
+	- Current state: LLM’s have made phenomenal progress in encoding knowledge as well as reasoning. BUT a big limitation of LLM’s is context size (4096 in Davinci), and if you want to feed an LLM custom knowledge it will either need to fit in the prompt or be finetuned (expensive)!
+	- 
 
 ## Ethical issues
 

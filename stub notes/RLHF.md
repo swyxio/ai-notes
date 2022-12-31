@@ -11,3 +11,8 @@
 - WebGPT paper dataset
 	- https://huggingface.co/datasets/openai/webgpt_comparisons
 	- This is the dataset of all comparisons that were marked as suitable for reward modeling by the end of the WebGPT project. There are 19,578 comparisons in total.
+
+
+## Quotes
+
+- Human Instrumentality Project https://twitter.com/goodside/status/1603356265391890432
