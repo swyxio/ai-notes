@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,10 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
-  "active": "3c266f82ab6bc4d0",
+  "active": "b6a3c1ed1cef6a75",
   "lastOpenFiles": [
     "stub notes/RLHF.md",
     "TEXT_CHAT.md",
