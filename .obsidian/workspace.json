@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "TEXT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e04064b6e397c731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXT_PROMPTS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "TEXT_PROMPTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "TEXT_PROMPTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "TEXT_PROMPTS.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6a3c1ed1cef6a75",
+  "active": "e04064b6e397c731",
   "lastOpenFiles": [
-    "stub notes/RLHF.md",
     "TEXT_CHAT.md",
-    "IMAGE_GEN.md",
+    "TEXT_PROMPTS.md",
     "stub notes/AGENTS.md",
     "TEXT.md",
-    "AUDIO.md",
-    "README.md",
+    "stub notes/CODE.md",
     "stub notes/Google vs AI.md",
-    "INFRA.md",
-    "Untitled.md"
+    "README.md",
+    "stub notes/RLHF.md",
+    "IMAGE_GEN.md",
+    "AUDIO.md"
   ]
 }

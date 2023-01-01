@@ -128,6 +128,7 @@ sorted in rough descending order of impact
   - solving a code problem https://twitter.com/rohan_mayya/status/1598188057894608897
   - explain computer networks homework https://twitter.com/abhnvx/status/1598258353196929024
   - rewriting code from elixir to PHP https://twitter.com/AlfredBaudisch/status/1598251795830444035
+  - doing pseudorandom number generation by externalising state https://twitter.com/GrantSlatton/status/1600583953530122240?s=20
   - turning ChatGPT into an interpreter for a custom language, and then generating code and executing it, and solving Advent of Code correctly https://news.ycombinator.com/item?id=33851586
     - including getting #1 place https://news.ycombinator.com/item?id=33850999
   - "I haven't done a single google search or consulted any external documentation to do it and I was able to progress faster than I have ever did before when learning a new thing." https://news.ycombinator.com/item?id=33854298

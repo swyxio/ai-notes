@@ -3,6 +3,10 @@
 
 ## Data/Timeline
 
+- Oct 2021: Github Copilot technical preview - [team of 6 working on it](https://twitter.com/alexgraveley/status/1607897474965839872) 
+- Dec 2021: Github Copilot [for businesses](https://www.theregister.com/2022/06/21/githubs_ai_code_assistant_copilot/)
+- Jun 2022: Github Copilot GA
+- Sep 2022: Github Copilot [productivity survey](https://visualstudiomagazine.com/articles/2022/09/13/copilot-impact.aspx)
 - Oct 2022: The Stack: 3 TB of permissively licensed source code in 30 programming languages https://huggingface.co/datasets/bigcode/the-stack
 - Nov 2022: Kite.com public failure https://www.kite.com/blog/product/kite-is-saying-farewell/
   - Our diagnosis is that individual developers do not pay for tools. Their manager might, but engineering managers only want to pay for discrete new capabilities, i.e. making their developers 18% faster when writing code did not resonate strongly enough.
