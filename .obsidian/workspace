@@ -7,8 +7,12 @@
         "id": "055c93b19f533701",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "TEXT.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,7 +77,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "collapseAll": false,
+            "file": "TEXT.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -89,6 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "TEXT.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -99,12 +105,16 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "TEXT.md"
+          }
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
-  "active": "055c93b19f533701",
-  "lastOpenFiles": []
+  "active": "be3408fcc4443e20",
+  "lastOpenFiles": [
+    "blog ideas/misc blog ideas.md"
+  ]
 }

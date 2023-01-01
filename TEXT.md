@@ -220,7 +220,7 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 
 - https://github.com/jerryjliu/gpt_index
 	- Current state: LLM’s have made phenomenal progress in encoding knowledge as well as reasoning. BUT a big limitation of LLM’s is context size (4096 in Davinci), and if you want to feed an LLM custom knowledge it will either need to fit in the prompt or be finetuned (expensive)!
-	- 
+	- https://twitter.com/mathemagic1an/status/1609225733934616577?s=46&t=DgrykKeTlGWgdxRkv2_tKw
 
 ## Ethical issues
 
