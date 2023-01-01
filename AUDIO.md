@@ -14,7 +14,7 @@
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Transcription
+## Transcription (Speech to Text)
 
 - https://github.com/openai/whisper
   - the --initial_prompt CLI arg: For my use, I put a bunch of industry jargon and names that are commonly misspelled in there and that fixes 1/3 to 1/2 of the errors.
@@ -41,6 +41,21 @@ https://news.ycombinator.com/item?id=33663486
 - https://freesubtitles.ai/
 - Read.ai - https://www.read.ai/transcription Provides transcription & diarization and the bot integrates into your calendar. It joins all your meetings for zoom, teams, meet, webex, tracks talk time, gives recommendations, etc.
 - https://news.ycombinator.com/item?id=33665692
+
+### Text to Speech
+
+- services
+	- Play.ht or Podcast.ai - https://arstechnica.com/information-technology/2022/10/fake-joe-rogan-interviews-fake-steve-jobs-in-an-ai-powered-podcast/
+	- mycroft [https://mycroft.ai/mimic-3/](https://mycroft.ai/mimic-3/)
+	- 
+- OSS
+	- pyttsx3  [https://pyttsx3.readthedocs.io/en/latest/engine.html](https://pyttsx3.readthedocs.io/en/latest/engine.html)
+	- tortoise  [https://github.com/neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts)
+		-  [https://nonint.com/static/tortoise_v2_examples.html](https://nonint.com/static/tortoise_v2_examples.html)
+		- used in scribepod https://twitter.com/yacinemtb/status/1608993955835957248?s=46&t=ikA-et-is_MNr-8HTO8e1A
+	- [https://github.com/rhasspy/larynx](https://github.com/rhasspy/larynx)
+	- pico2wave with the -l=en-GB flag to get the British lady voice is not too bad for offline free TTS. You can hear it in this video: [https://www.youtube.com/watch?v=tfcme7maygw&t=45s](https://www.youtube.com/watch?v=tfcme7maygw&t=45s)
+	- [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) (for very specific non-english purposes, and I was willing to wrangle IPA)
 
 ### misc tooling
 

@@ -6,4 +6,9 @@
 - Tome.app
 	- demo https://twitter.com/keithpeiris/status/1602755280529281024?s=20
 - https://www.chatbcg.com/
-	- 
+
+
+## roleplaying, stories
+
+- character.ai
+- [Hidden Door](https://www.hiddendoor.co/) (hillary mason)

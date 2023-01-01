@@ -22,6 +22,20 @@
 a subset of the TEXT.md file focused on chat usecases
 
 
+## Chat Timeline
+
+- 1964 - Eliza Chatbot https://corecursive.com/eliza-with-jeff-shrager/
+- Second Chatbot wave
+	- 
+	- Jun 2016 - Conversational Economy https://news.greylock.com/the-conversational-economy-whats-causing-the-bot-craze-4dd8f1b44ba1
+		- **March**: Microsoft released a bot [framework](http://www.bloomberg.com/features/2016-microsoft-future-ai-chatbots/) at BUILD
+		-   **April**: Facebook opened up its [Messenger platform](http://newsroom.fb.com/news/2016/04/messenger-platform-at-f8/) at F8 and Telegram announced a [prize](https://telegram.org/blog/botprize) for bot developers
+		-   **May**: Google announced its own Allo Messenger and voice-enabled home speaker at [I/O](http://www.theverge.com/2016/5/18/11701030/google-io-2016-keynote-highlights-announcements-recap), and Amazon made the sneakily-successful Alexa [accessible in a browser](https://arc.applause.com/2016/05/31/amazon-echo-web-browser/), without Echo hardware
+		-   **June**: Today at [WWDC](http://www.wired.com/2016/06/heres-everything-apple-announced-wwdc-2016/), Apple _finally_ opened up iMessage to 3rd-party integrations and announced the Siri SDK
+- Third Chatbot wave
+	- Mar 2022 - Inflection AI https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/
+	- Dec 2022 - ChatGPT
+
 ## Chat Papers
 
 - [Improving alignment of dialogue agents via targeted human judgements](https://arxiv.org/abs/2209.14375) - DeepMind Sparrow agent
