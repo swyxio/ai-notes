@@ -42,8 +42,16 @@
 	- 2014-2017 https://twitter.com/swyx/status/1049412858755264512
 	- 2014-2022 https://twitter.com/c_valenzuelab/status/1562579547404455936
 	- wolfenstein 1992 vs 2014 https://twitter.com/kevinroose/status/1557815883837255680
+	- april 2022 dalle 2
+	- july 2022 craiyon/dailee mini
+	- aug 2022 stable diffusion
+	- getty, shutterstock, canva incorporated
 	- midjourney progression in 2022 https://twitter.com/lopp/status/1595846677591904257
 - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
+	- team at Google Brain introduced [vision transformers](https://arxiv.org/abs/2010.11929?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXG-ZkwAj82Nv49uUrBwOHz4zUj3mkyjIfEd5lU7h3JHZR0pEG5OpkUCPPqwWvqMbjWl) (ViTs) in 2020, and the architecture has undergone nonstop refinement since then. The latest efforts adapt ViTs to new tasks and address their shortcomings.
+	-   ViTs learn best from immense quantities of data, so researchers at Meta and Sorbonne University concentrated on [improving performance on datasets of (merely) millions of examples](https://www.deeplearning.ai/the-batch/a-formula-for-training-vision-transformers/). They boosted performance using transformer-specific adaptations of established procedures such as data augmentation and model regularization.
+	-   Researchers at Inha University modified two key components to make ViTs [more like convolutional neural networks](https://www.deeplearning.ai/the-batch/less-data-for-vision-transformers/). First, they divided images into patches with more overlap. Second, they modified self-attention to focus on a patch's neighbors rather than on the patch itself, and enabled it to learn whether to weigh neighboring patches more evenly or more selectively. These modifications brought a significant boost in accuracy.
+	-   Researchers at the Indian Institute of Technology Bombay [outfitted ViTs with convolutional layers](https://www.deeplearning.ai/the-batch/upgrade-for-vision-transformers/). Convolution brings benefits like local processing of pixels and smaller memory footprints due to weight sharing. With respect to accuracy and speed, their convolutional ViT outperformed the usual version as well as runtime optimizations of transformers such as Performer, Nyströformer, and Linear Transformer. Other teams took [similar](https://arxiv.org/abs/2201.09792?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXG-ZkwAj82Nv49uUrBwOHz4zUj3mkyjIfEd5lU7h3JHZR0pEG5OpkUCPPqwWvqMbjWl) [approaches](https://arxiv.org/abs/2202.06709?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXG-ZkwAj82Nv49uUrBwOHz4zUj3mkyjIfEd5lU7h3JHZR0pEG5OpkUCPPqwWvqMbjWl).
 - CLIP (_Contrastive Language–Image Pre-training_) https://openai.com/blog/clip/
 	- CLIPSeg https://huggingface.co/docs/transformers/main/en/model_doc/clipseg (for Image segmentation)
 - Stable Diffusion

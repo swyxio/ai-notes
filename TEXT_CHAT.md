@@ -34,6 +34,7 @@ a subset of the TEXT.md file focused on chat usecases
 		-   **June**: Today at [WWDC](http://www.wired.com/2016/06/heres-everything-apple-announced-wwdc-2016/), Apple _finally_ opened up iMessage to 3rd-party integrations and announced the Siri SDK
 - Third Chatbot wave
 	- Mar 2022 - Inflection AI https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/
+	- Aug 2022 - [Meta Blenderbot 3](https://www.blenderbot.ai/) - open sourced https://www.vox.com/platform/amp/future-perfect/23307252/meta-facebook-bad-ai-chatbot-blenderbot 
 	- Dec 2022 - ChatGPT
 	- jan 2023 - openassistant - chatgpt clone https://youtu.be/QkhPrdJEqgA
 
@@ -52,6 +53,7 @@ a subset of the TEXT.md file focused on chat usecases
 ## Chat Products
 
 - YouChat https://twitter.com/RichardSocher/status/1606350406765842432
+	- jailbreakable https://twitter.com/RexDouglass/status/1606355477146632192
 - Meta BlenderBot 3 https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/
 - Google LaMDA https://blog.google/technology/ai/lamda/
 	- LaMDA is trained on dialogue and can engage in a free-flowing way about a seemingly endless number of topics.
