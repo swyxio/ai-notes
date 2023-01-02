@@ -37,6 +37,10 @@ stack example
 	4. Semantic Search - Free to start vector DBs (eg: pinecone .io) 
 	5. Deployment - Vercel + Supabase
 
+## Distributed work
+
+- Petals "Swarm" network - https://github.com/bigscience-workshop/petals
+
 
 ## Optimization
 
