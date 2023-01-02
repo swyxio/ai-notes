@@ -1,4 +1,8 @@
 
+memes
+- https://twitter.com/jordnb/status/1609501943889534977?s=46&t=oDskJuMscryc9UxtfIfsNg
+
+
 - https://huggingface.co/blog/rlhf
 	- progression
 		- Basic: Cross Entropy
