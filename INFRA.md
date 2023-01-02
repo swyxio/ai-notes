@@ -39,7 +39,7 @@ stack example
 
 ## Distributed work
 
-- Petals "Swarm" network - https://github.com/bigscience-workshop/petals
+- Petals "Swarm" network - https://github.com/bigscience-workshop/petals Run 100B+ language models at home, BitTorrent-style.  Fine-tuning and inference up to 10x faster than offloading
 
 
 ## Optimization
