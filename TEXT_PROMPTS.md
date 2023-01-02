@@ -6,6 +6,7 @@ prompt engineering techniques
 - generate csv, test code, and readme https://twitter.com/goodside/status/1563989550808154113
 - Rewrite regex + examples + unit tests https://twitter.com/goodside/status/1562233738863452160
 - convert object to schemas, type assertions, and table conversion parsing https://twitter.com/goodside/status/1513265657944678401?s=20
+- extracting embedded knowledge https://twitter.com/goodside/status/1609720551504748547
 
 ## Programmatic
 

@@ -1,4 +1,18 @@
 
+## language models as wizard of oz 
+
+- prototyping
+- product specs -> product
+	- api specs are easier
+- redux thing
+- development workflow
+	- PRD
+	- api prototype
+	- frontend prototype?
+	- generate code and tests
+	- tweak code
+	- commit and deploy
+
 ## transofmrers are eating the world
 
 - karpathy observation
