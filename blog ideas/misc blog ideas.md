@@ -1,6 +1,8 @@
 
 ## language models as wizard of oz 
 
+languagemodels help you do things that dont scale
+ youtu.be/4RMjQal_c4U
 - prototyping
 - product specs -> product
 	- api specs are easier
