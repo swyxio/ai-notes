@@ -35,6 +35,7 @@ a subset of the TEXT.md file focused on chat usecases
 - Third Chatbot wave
 	- Mar 2022 - Inflection AI https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/
 	- Dec 2022 - ChatGPT
+	- jan 2023 - openassistant - chatgpt clone https://youtu.be/QkhPrdJEqgA
 
 ## Chat Papers
 
@@ -106,7 +107,9 @@ a subset of the TEXT.md file focused on chat usecases
   - https://github.com/pshihn/gpt-search-helper add ChatGPT results to your search results
 - Browse and share ChatGPT examples 
 	- https://www.learngpt.com/best
-	- gpt.com
+	- sharegpt.com
+- open source clones
+	- https://youtu.be/QkhPrdJEqgA
 
 ### Usecases
 
@@ -311,6 +314,7 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 - "Minimum Turing Test": Yelling Poop makes us human https://twitter.com/emollick/status/1598516535038861313
 - Law
 	- 70% on Practice Bar Exam https://twitter.com/pythonprimes/status/1601664776194912256?s=20
+	- 50% on this one https://arxiv.org/abs/2212.14402
 	- 149 (40th pctile on LSATs) https://twitter.com/pythonprimes/status/1599875927625764864?s=20
 	- MPRE (Multistate Professional Responsibility Examination) exam https://twitter.com/pythonprimes/status/1601819196882501633?s=20
 - Medical exams https://twitter.com/pythonprimes/status/1601785791931240449?s=20
