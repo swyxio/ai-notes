@@ -27,3 +27,8 @@
 	- codex-davinci-002 [Do Users Write More Insecure Code with AI Assistants](https://arxiv.org/abs/2211.03622) some vulns found in C code with 75 participants - [media report](https://www.theregister.com/2022/12/21/ai_assistants_bad_code/)
 	- codex-cushman-001 https://arxiv.org/abs/2208.09727
 - Github Copilot investigation https://news.ycombinator.com/item?id=33240341
+
+
+## products
+
+- tensai refactor pr codegen https://twitter.com/mathemagic1an/status/1610023513334878208?s=46&t=HZzqUlCKP3qldVBoBwEzZg
