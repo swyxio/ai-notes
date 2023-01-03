@@ -1,4 +1,9 @@
 
+### legal
+
+-  https://detangle.ai/ Detangle gives you AI-generated summaries of your legal docs so you can actually understand them.
+
+
 ### presentations
 
 - https://www.deckrobot.com/
