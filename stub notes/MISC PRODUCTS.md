@@ -4,6 +4,12 @@
 -  https://detangle.ai/ Detangle gives you AI-generated summaries of your legal docs so you can actually understand them.
 
 
+## email
+
+- [http://draftlab.ai](http://draftlab.ai/)
+- every prompt mail
+- ellieai.com
+
 ### presentations
 
 - https://www.deckrobot.com/
