@@ -32,6 +32,8 @@
 4.  ugly, extra limbs, gross proportions, (malformed limbs), ((missing arms)), ((missing legs)),
 5.  (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), (cross-eyed),
 6.  body out of frame, , (closed eyes), (mutated), (bad body)
+7. (ugly, cartoon, bad anatomy, bad art, frame, deformed, disfigured, extra limbs, text, meme, low quality, mutated, ordinary, overexposed, pixelated, poorly drawn, signature, thumbnail, too dark, too light, unattractive, useless, watermark, writing, cropped:1.1) [source](https://www.reddit.com/r/StableDiffusion/comments/zfmvfs/artists_are_back_in_sd_21/)
+8. lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, body out of frame, out of frame, poorly drawn, deformed, disproportionate, blurry, ugly, extra nipples, third nipple, asymmetrical, multiple heads, genshin, fedora, ugly face, deformed face, uncanny, blurry face, touhou, futa, dickgirl, shemale, futanari, blurred, steam ([source](https://www.reddit.com/r/StableDiffusion/comments/101g8in/_/))
 
 ## prompt inspo
 
