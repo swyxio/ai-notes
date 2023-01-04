@@ -9,6 +9,7 @@
 - [http://draftlab.ai](http://draftlab.ai/)
 - every prompt mail
 - ellieai.com
+- emailtriager https://twitter.com/RealKevinYang/status/1607390074857226241?s=20
 
 ### presentations
 
