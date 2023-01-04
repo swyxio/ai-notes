@@ -3,6 +3,9 @@ memes
 - https://twitter.com/jordnb/status/1609501943889534977?s=46&t=oDskJuMscryc9UxtfIfsNg
 
 
+- https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/
+- https://openai.com/blog/instruction-following/
+	- The resulting InstructGPT models are much better at following instructions than GPT-3. They also make up facts less often, and show small decreases in toxic output generation. Our labelers prefer outputs from our 1.3B InstructGPT model over outputs from a 175B GPT-3 model, despite having more than 100x fewer parameters.
 - https://huggingface.co/blog/rlhf
 	- progression
 		- Basic: Cross Entropy
