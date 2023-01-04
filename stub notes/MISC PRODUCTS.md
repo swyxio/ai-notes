@@ -23,3 +23,7 @@
 
 - character.ai
 - [Hidden Door](https://www.hiddendoor.co/) (hillary mason)
+
+## ai detection
+
+- gptzero https://twitter.com/edward_the6/status/1610067688449007618?s=46&t=4T9fbP0VXiePXx7J1Wx88A

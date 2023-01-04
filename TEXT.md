@@ -55,6 +55,9 @@ My best timeline of GPT efforts is listed here: https://lspace.swyx.io/p/open-so
 
 ![https://pbs.twimg.com/media/Fknc4rkX0AMY5RF?format=jpg&name=large](https://pbs.twimg.com/media/Fknc4rkX0AMY5RF?format=jpg&name=large)
 
+- gpt4 speculations and improvement directions https://mobile.twitter.com/mayfer/status/1607816595065409536
+
+
 ## Applications
 
 GPT3 applications:

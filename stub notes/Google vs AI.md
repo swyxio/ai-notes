@@ -3,6 +3,8 @@ Pro Google
 - Google has insane AI expertise
 	- Google BERT has been running billions of times a day
 		- https://twitter.com/sterlingcrispin/status/1606064294663069696?s=20
+		- replaced by MUM in 2021 https://towardsdatascience.com/rip-bert-googles-mum-is-coming-cb3becd9670f 
+		- nice diagram https://searchengineland.com/google-mum-update-seo-future-383551
 	- Google PaLM (Pathways Language Model) in 2021
 		- Pathways will enable us to train a single model to do thousands or millions of tasks.
 			- We want a model to have different capabilities that can be called upon as needed, and stitched together to perform new, more complex tasks – a bit closer to the way the mammalian brain generalizes across tasks.
@@ -13,6 +15,8 @@ Pro Google
 		- PaLM 540B beats GPT3 175B on all categories https://twitter.com/sterlingcrispin/status/1606309065730170880/photo/1
 	- Google LaMDA
 		- https://blog.google/technology/ai/lamda/
+	- agreement from emad
+		- https://twitter.com/EMostaque/status/1610609874743738370
 - PageRank origins ([tweet](https://twitter.com/mmitchell_ai/status/1605013368560943105?s=20)) 
 	- pre pagerank was gpt-retrieval like
 	- With PageRank, the fact that websites link to one another could be used to identify which websites were *the most* linked to. The *most linked* sites are the ones people tend to want.
