@@ -85,6 +85,8 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
 
 another comparison https://www.reddit.com/r/StableDiffusion/comments/zevuw2/a_simple_comparison_between_sd_15_20_21_and/
 
+comparisons with other models https://www.reddit.com/r/StableDiffusion/comments/zlvrl6/i_tried_various_models_with_the_same_settings/
+
 Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 	- fast
 	- focused on photorealistic portraits and landscapes

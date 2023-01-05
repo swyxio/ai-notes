@@ -36,7 +36,8 @@ a subset of the TEXT.md file focused on chat usecases
 	- Mar 2022 - Inflection AI https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/
 	- Aug 2022 - [Meta Blenderbot 3](https://www.blenderbot.ai/) - open sourced https://www.vox.com/platform/amp/future-perfect/23307252/meta-facebook-bad-ai-chatbot-blenderbot 
 	- Dec 2022 - ChatGPT
-	- jan 2023 - openassistant - chatgpt clone https://youtu.be/QkhPrdJEqgA
+	- jan 2023 - openassistant - chatgpt clone https://youtu.be/QkhPrdJEqgA 
+	- PaLM + RLHF open clone https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/
 
 ## Chat Papers
 
