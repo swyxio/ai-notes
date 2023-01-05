@@ -31,3 +31,4 @@
 	- https://rom1504.medium.com/semantic-search-at-billions-scale-95f21695689a
 - https://www.deepmind.com/blog/gophercite-teaching-language-models-to-support-answers-with-verified-quotes
 - https://haystack.deepset.ai/overview/intro 
+- 3) [Transformer Memory as a Differentiable Search Index (“DSI”)](https://arxiv.org/abs/2202.06991)

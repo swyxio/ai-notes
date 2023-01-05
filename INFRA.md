@@ -30,7 +30,8 @@
 
 - the top-performing GPT-175B model has 175 billion parameters, which total at least 320GB (counting multiples of 1024) of storage in half-precision (FP16) format, leading it to require at least five A100 GPUs with 80GB of memory each for inference. https://arxiv.org/pdf/2301.00774.pdf
 
-
+7) [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
+8) 2) [Transcending Scaling Laws with 0.1% Extra Compute](https://arxiv.org/abs/2210.11399)
 
 stack example
 - https://twitter.com/ramsri_goutham/status/1604763395798204416?s=20
