@@ -28,6 +28,10 @@
 	- If an average user has made 10 queries per day, I think it’s reasonable to estimate that ChatGPT serves ~10M queries per day.
 	- I estimate the cost of running ChatGPT is $100K per day, or $3M per month.
 
+- the top-performing GPT-175B model has 175 billion parameters, which total at least 320GB (counting multiples of 1024) of storage in half-precision (FP16) format, leading it to require at least five A100 GPUs with 80GB of memory each for inference. https://arxiv.org/pdf/2301.00774.pdf
+
+
+
 stack example
 - https://twitter.com/ramsri_goutham/status/1604763395798204416?s=20
 	- Here is how we bootstrapped 3 AI startups with positive unit economics - 
