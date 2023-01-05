@@ -100,6 +100,7 @@ a subset of the TEXT.md file focused on chat usecases
 - python https://github.com/taranjeet/chatgpt-api
 - nodejs https://github.com/transitive-bullshit/chatgpt-api
 - vscode extension https://github.com/mpociot/chatgpt-vscode
+	- qqbot https://twitter.com/danlovesproofs/status/1610073694222848007
 - chrome extension 
   - https://github.com/kazuki-sf/ChatGPT_Extension bringing up as a window
   - https://github.com/wong2/chat-gpt-google-extension sideloading with google
