@@ -83,6 +83,8 @@ DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025
 
 [![https://i.redd.it/fqgv82ihav9a1.png](https://i.redd.it/fqgv82ihav9a1.png)](https://www.reddit.com/r/dalle2/comments/102eov5/who_did_it_better_dalle_2_midjourney_and_stable/?s=8) but keep in mind that Dalle2 [doesnt respond well](https://www.reddit.com/r/dalle2/comments/waax7p/realistic_and_photorealistic_keywords_give/) to "photorealistic"
 
+another comparison https://www.reddit.com/r/StableDiffusion/comments/zevuw2/a_simple_comparison_between_sd_15_20_21_and/
+
 Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 	- fast
 	- focused on photorealistic portraits and landscapes
@@ -116,6 +118,11 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
   - This super nifty notebook has tons of features, such as image upscaling and processing, interrogation with CLIP, and more! (depth output for 3D Facebook images, or post processing such as Depth of Field.)
   - https://colab.research.google.com/github/WASasquatch/easydiffusion/blob/main/Stability_AI_Easy_Diffusion.ipynb
 - Craiyon + Stable Diffusion https://twitter.com/GeeveGeorge/status/1567130529392373761
+- Breadboard: https://www.reddit.com/r/StableDiffusion/comments/102ca1u/breadboard_a_stablediffusion_browser_version_010/
+	-  a browser for effortlessly searching and managing all your Stablediffusion generated files.
+	- 1.  Full fledged browser UI: You can literally “surf” your local Stablediffusion generated files, home, back, forward buttons, search bar, and even bookmarks.
+	2.  Tagging: You can organize your files into tags, making it easy to filter them. Tags can be used to filter files in addition to prompt text searches.
+	3.  Bookmarking: You can now bookmark files. And you can bookmark search queries and tags. The UX is very similar to ordinary web browsers, where you simply click a star or a heart to favorite items.
 
 Misc
 
@@ -132,6 +139,7 @@ Misc
     - https://www.getalpaca.io/
     - demo: https://www.youtube.com/watch?v=t_4Y6SUs1cI and https://twitter.com/cantrell/status/1582086537163919360
     - tutorial https://odysee.com/@MaxChromaColor:2/how-to-install-the-free-stable-diffusion:1
+    - Photoshop with A1111 https://www.reddit.com/r/StableDiffusion/comments/zrdk60/great_news_automatic1111_photoshop_stable/
   - Figma: https://twitter.com/RemitNotPaucity/status/1562319004563173376?s=20&t=fPSI5JhLzkuZLFB7fntzoA
   - collage tool https://twitter.com/genekogan/status/1555184488606564353
 - Papers
@@ -214,6 +222,7 @@ SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
   - https://twitter.com/dannypostmaa/status/1595612366770954242?s=46
   - https://www.reddit.com/r/StableDiffusion/comments/z3ferx/xy_plot_comparisons_of_sd_v15_ema_vs_sd_20_x768/
   - compare it yourself https://app.gooey.ai/CompareText2Img/?example_id=1uONp1IBt0Y
+  - depth2img produces more coherence for animations https://www.reddit.com/r/StableDiffusion/comments/zk32dg/a_quick_demo_to_show_how_structurally_coherent/
 - https://twitter.com/EMostaque/status/1595731398450634755
   - V2 prompts different and will take a while for folk to get used to. V2 is trained on two models, a generator model and a image-to-text model (CLIP).
   - We supported @laion_ai in their creation of an OpenCLIP Vit-H14 https://twitter.com/wightmanr/status/1570503598538379264
@@ -285,6 +294,14 @@ Required reading:
 - **Finetuned Distros**
   - [Arcane Diffusion](https://huggingface.co/spaces/anzorq/arcane-diffusion) a fine-tuned Stable Diffusion model trained on images from the TV Show Arcane.
   - [Spider-verse Diffusion](https://huggingface.co/nitrosocke/spider-verse-diffusion) rained on movie stills from Sony's Into the Spider-Verse. Use the tokens spiderverse style in your prompts for the effect.
+  - [Simpsons Dreambooth](https://www.reddit.com/r/StableDiffusion/comments/zghkj0/new_dreambooth_model_the_simpsons/)
+  - https://huggingface.co/ItsJayQz 
+	  - Roy PopArt Diffusion 2 🐢
+	  - GTA5 Artwork Diffusion 😻
+	  - Firewatch Diffusion 1 💻 
+	  - Civilizations 6 Diffusion 1 🔥 
+	  - Classic Telltale Diffusion 3 😻 
+	  - Marvel WhatIf Diffusion
   - [Texture inpainting](https://twitter.com/StableDiffusion/status/1580840640501649408)
   - How to finetune your own
     - Naruto version https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-naruto-character-edition
@@ -340,6 +357,8 @@ Future Diffusion  https://huggingface.co/nitrosocke/Future-Diffusion https://twi
 - https://www.reddit.com/r/StableDiffusion/comments/xcclmf/comment/io6u03s/?utm_source=reddit&utm_medium=web2x&context=3
 - https://techgaun.github.io/active-forks/index.html#CompVis/stable-diffusion
 
+SD Model search and ratings: https://civitai.com/
+
 Dormant projects, for historical/research interest:
 
 - https://colab.research.google.com/drive/1AfAmwLMd_Vx33O9IwY2TmO9wKZ8ABRRa		
@@ -370,6 +389,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 - [PromptHero](https://prompthero.com/): [Random wall](https://prompthero.com/random). **Seed**, CFG, Dimensions, Steps. Favorites.
 - [Libraire](https://libraire.ai/): **Seed**, CFG, Dimensions, Steps.
 - [Krea](https://www.krea.ai/): modifiers focused UI. Favorites. Gives prompt suggestions and allows to create prompts over Stable diffusion, Waifu Diffusion and Disco diffusion. Really quick and useful
+	- browse https://atlas.nomic.ai/map/809ef16a-5b2d-4291-b772-a913f4c8ee61/9ed7d171-650b-4526-85bf-3592ee51ea31
 - [Avyn](http://avyn.com/): Search engine and generator.
 - [Pinegraph](https://pinegraph.com/): [discover](https://pinegraph.com/discover), [create](https://pinegraph.com/create) and edit with Stable/Disco/Waifu diffusion models.
 - [Phraser](https://phraser.tech/compare): text and image search.
@@ -435,14 +455,21 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 
 ### Finetuning/Dreambooth
 
-How to
-https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-how-we-made-the-text-to-pokemon-model-at-lambda
+How to finetune
+- https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-how-we-made-the-text-to-pokemon-model-at-lambda
+
 
 Stable Diffusion + Midjourney
 - https://www.reddit.com/r/StableDiffusion/comments/z622mp/comment/ixyy2qz/?utm_source=share&utm_medium=web2x&context=3
 
-Embeddings
+Embeddings/Textual Inversion
 - knollingcase https://huggingface.co/ProGamerGov/knollingcase-embeddings-sd-v2-0
+- https://www.reddit.com/r/StableDiffusion/comments/zxkukk/detailed_guide_on_training_embeddings_on_a/
+	- -   A model is a 2GB+ file that can do basically anything. It takes a lot of VRAM to train and has a large file size.
+	-   A hypernetwork is an 80MB+ file that sits on top of a model and can learn new things not present in the base model. It is relatively easy to train, but is typically less flexible than an embedding when using it in other models.	    
+	-   An embedding is a 4KB+ file (yes, 4 kilobytes, it's very small) that can be applied to any model that uses the same base model, which is typically the base stable diffusion model. It cannot learn new content, rather it creates magical keywords behind the scenes that tricks the model into creating what you want.
+- textual inversion https://www.reddit.com/r/StableDiffusion/comments/zpcutz/breakdown_of_how_i_make_embeddings_for_my/
+- hypernetworks https://www.reddit.com/r/StableDiffusion/comments/zntxoz/invisible_hypernetwork/
 
 Dreambooth
 - https://bytexd.com/how-to-use-dreambooth-to-fine-tune-stable-diffusion-colab/
@@ -450,11 +477,21 @@ Dreambooth
 - https://huggingface.co/spaces/multimodalart/dreambooth-training (tech notes https://twitter.com/multimodalart/status/1598260506460311557)
 - https://github.com/ShivamShrirao/diffusers
 	- produces https://twitter.com/rainisto/status/1600563803912929280
+- Art project - faking entire instagram profile for a month using dreambooth https://www.reddit.com/r/StableDiffusion/comments/zkvnyx/using_stablediffusion_and_dreambooth_i_faked_my/
 
 Trained examples
 - Pixel art animation spritesheets
 	- https://ps.reddit.com/r/StableDiffusion/comments/yj1kbi/ive_trained_a_new_model_to_output_pixel_art/
 	- https://twitter.com/kylebrussell/status/1587477169474789378
+- [Dreambooth 2D 3D icons](https://www.reddit.com/r/StableDiffusion/comments/zmomeu/creating_a_stable_diffusion_dreambooth_2d_to_3d/) (https://pixelpoint.io/blog/ms-fluent-emoji-style-fine-tune-on-stable-diffusion/)
+- Analog Diffusion https://www.reddit.com/r/StableDiffusion/comments/zi3g5x/new_15_dreambooth_model_analog_diffusion_link_in/ and [more exampels](https://www.reddit.com/r/StableDiffusion/comments/zkqtqb/im_in_love_with_the_analog_diffusion_10_model/)
+	- This is a dreambooth model trained on a diverse set of analog photographs.
+	- comparison with other photoreal models https://www.reddit.com/r/StableDiffusion/comments/102ljfh/comment/j2tuw2p/?utm_source=reddit&utm_medium=web2x&context=3
+		- dreamlike photoreal https://www.reddit.com/r/StableDiffusion/comments/102t0av/new_photorealistic_model_dreamlike_photoreal_20/
+- Protogen
+	- https://civitai.com/models/3627/protogen-v22-official-release
+	- https://www.reddit.com/r/StableDiffusion/comments/1003bsv/protogen_v22_official_release/
+	- https://www.reddit.com/r/StableDiffusion/comments/100fmx6/protogen_x34_official_release/
 
 #### SD Tooling
 
@@ -508,6 +545,8 @@ Trained examples
 ## Extremely detailed prompt examples
 
 - [dark skinned Johnny Storm young male superhero of the fantastic four, full body, flaming dreadlock hair, blue uniform with the number 4 on the chest in a round logo, cinematic, high detail, no imperfections, extreme realism, high detail, extremely symmetric facial features, no distortion, clean, also evil villians fighting in the background, by Stan Lee](https://lexica.art/prompt/d622e029-176d-42b7-a437-39ccf1952b71)
+- [(extremely detailed CG unity 8k wallpaper), full shot body photo of a (((beautiful badass woman soldier))) with ((white hair)), ((wearing an advanced futuristic fight suit)), ((standing on a battlefield)), scorched trees and plants in background, sexy, professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, by midjourney and greg rutkowski, realism, beautiful and detailed lighting, shadows, by Jeremy Lipking, by Antonio J. Manzanedo, by Frederic Remington, by HW Hansen, by Charles Marion Russell, by William Herbert Dunton](https://www.reddit.com/r/StableDiffusion/comments/100tp0v/protogenx34_has_absolutely_amazing_detail/)
+- [dark and gloomy full body 8k unity render, female teen cyborg, Blue yonder hair, wearing broken battle armor, at cluttered and messy shack , action shot, tattered torn shirt, porcelain cracked skin, skin pores, detailed intricate iris, very dark lighting, heavy shadows, detailed, detailed face, (vibrant, photo realistic, realistic, dramatic, dark, sharp focus, 8k)](https://www.reddit.com/r/StableDiffusion/comments/102nn3s/closest_i_can_get_to_midjourney_style_no_artists/)
 
 ### Solving Hands
 

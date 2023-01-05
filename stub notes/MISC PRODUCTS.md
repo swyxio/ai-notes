@@ -35,3 +35,7 @@
 
 - Video edited by [@pictoryAI](https://twitter.com/pictoryai) https://pictory.ai/
 - AI video and voice by [@synthesiaIO](https://twitter.com/synthesiaIO) https://www.synthesia.io/
+- examples
+	- https://twitter.com/levelsio/status/1606352344404328449?s=20
+	- https://twitter.com/SamRo/status/1605919856808714240?s=20
+- img2img https://www.reddit.com/r/StableDiffusion/comments/zl6bco/a_quick_demonstration_of_how_i_accomplished_this/
