@@ -79,6 +79,7 @@
 
 DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025?s=20&t=GCU5prherJvKebRrv9urdw
 
+[![https://i.redd.it/fqgv82ihav9a1.png](https://i.redd.it/fqgv82ihav9a1.png)](https://www.reddit.com/r/dalle2/comments/102eov5/who_did_it_better_dalle_2_midjourney_and_stable/?s=8) but keep in mind that Dalle2 [doesnt respond well](https://www.reddit.com/r/dalle2/comments/waax7p/realistic_and_photorealistic_keywords_give/) to "photorealistic"
 
 Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 	- fast

@@ -1,7 +1,7 @@
 
 ### legal
 
--  https://detangle.ai/ Detangle gives you AI-generated summaries of your legal docs so you can actually understand them.
+-  https://detangle.ai/ Detangle gives you AI-generated summaries of your legal docs so you can actually understand them. flopped https://twitter.com/shpigford/status/1610682378040770560?s=46&t=oSlB9-Vj36cKz7uEudTuFQ
 
 
 ## email
