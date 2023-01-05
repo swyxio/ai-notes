@@ -28,3 +28,9 @@
 ## ai detection
 
 - gptzero https://twitter.com/edward_the6/status/1610067688449007618?s=46&t=4T9fbP0VXiePXx7J1Wx88A
+
+## video generation
+
+
+- Video edited by [@pictoryAI](https://twitter.com/pictoryai) https://pictory.ai/
+- AI video and voice by [@synthesiaIO](https://twitter.com/synthesiaIO) https://www.synthesia.io/
