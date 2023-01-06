@@ -470,6 +470,9 @@ Embeddings/Textual Inversion
 	- -   A model is a 2GB+ file that can do basically anything. It takes a lot of VRAM to train and has a large file size.
 	-   A hypernetwork is an 80MB+ file that sits on top of a model and can learn new things not present in the base model. It is relatively easy to train, but is typically less flexible than an embedding when using it in other models.	    
 	-   An embedding is a 4KB+ file (yes, 4 kilobytes, it's very small) that can be applied to any model that uses the same base model, which is typically the base stable diffusion model. It cannot learn new content, rather it creates magical keywords behind the scenes that tricks the model into creating what you want.
+- "hyper models" 
+	- https://twitter.com/zhansheng/status/1595456793068568581?s=46&t=Nd874xTjwniEuGu2d1toQQ
+	- Introducing HyperTuning: Using a hypermodel to generate parameters for frozen downstream models. This allows us to adapt models to new tasks *without* back-prop! Paper: arxiv.org/abs/2211.12485
 - textual inversion https://www.reddit.com/r/StableDiffusion/comments/zpcutz/breakdown_of_how_i_make_embeddings_for_my/
 - hypernetworks https://www.reddit.com/r/StableDiffusion/comments/zntxoz/invisible_hypernetwork/
 
