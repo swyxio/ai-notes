@@ -1,6 +1,8 @@
 
 Pro Google
 - Google has insane AI expertise
+	- you can try it right now
+		- 
 	- Google BERT has been running billions of times a day
 		- https://twitter.com/sterlingcrispin/status/1606064294663069696?s=20
 		- replaced by MUM in 2021 https://towardsdatascience.com/rip-bert-googles-mum-is-coming-cb3becd9670f 
