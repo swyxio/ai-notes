@@ -15,6 +15,7 @@
 - Dec 2022: reverse engineering copilot https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html#other-random-tidbits
 - https://github.com/fauxpilot/fauxpilot This is an attempt to build a locally hosted version of [GitHub Copilot](https://copilot.github.com/). It uses the [SalesForce CodeGen](https://github.com/salesforce/CodeGen) models inside of NVIDIA's [Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) with the [FasterTransformer backend](https://github.com/triton-inference-server/fastertransformer_backend/).
 - Dec 2022: alphacode evaluation https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb
+- Jan 2023: Copilot Labs https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs
 
 
 ## Known Issues
