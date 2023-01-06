@@ -148,7 +148,7 @@ GPT3 applications:
   - used in https://www.mosaicml.com/blog/gpt-3-quality-for-500k
 - https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1
 	- There are three important abilities that the initial GPT-3 exhibit: Language generation, In-context learning, World knowledge
-	- to pretrain the 175B parameters model on 300B tokens (60% [2016 - 2019 C4](https://stanford-cs324.github.io/winter2022/lectures/data/) + 22% WebText2 + 16% Books + 3% Wikipedia).
+	- to pretrain the 175B parameters model on 300B tokens (60% [2016 - 2019 C4](https://stanford-cs324.github.io/winter2022/lectures/data/) https://www.tensorflow.org/datasets/catalog/c4 + 22% WebText2 + 16% Books + 3% Wikipedia).
 	- **Language generation** comes from **training objective**
 	- **World knowldge** comes from **300b token corpus** and **stored in 175b model**
 	- The ability of complex reasoning with chain-of-thought is likely to be a magical side product of training on code
