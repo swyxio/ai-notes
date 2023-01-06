@@ -47,6 +47,10 @@ https://twitter.com/saranormous/status/1601388294461218821?s=20
 	- Crossing valleys of "cool demo but unusable in prod"
 
 
+## why radiologists didnt go away
+
+https://twitter.com/bengoldhaber/status/1611074716927922177?s=46&t=fAgqJB7GXbFmnqQPe7ss6w
+
 
 ### prompt engineering techniques
 
