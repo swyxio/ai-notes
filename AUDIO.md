@@ -56,6 +56,7 @@ https://news.ycombinator.com/item?id=33663486
 	- [https://github.com/rhasspy/larynx](https://github.com/rhasspy/larynx)
 	- pico2wave with the -l=en-GB flag to get the British lady voice is not too bad for offline free TTS. You can hear it in this video: [https://www.youtube.com/watch?v=tfcme7maygw&t=45s](https://www.youtube.com/watch?v=tfcme7maygw&t=45s)
 	- [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) (for very specific non-english purposes, and I was willing to wrangle IPA)
+	- research paper from very short voice sample https://valle-demo.github.io/
 
 ### misc tooling
 
