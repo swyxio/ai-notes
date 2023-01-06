@@ -44,6 +44,8 @@ Alternatively, if run in the cloud, GPT-3 would require something like Amazon’
 7) [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
 8) 2) [Transcending Scaling Laws with 0.1% Extra Compute](https://arxiv.org/abs/2210.11399)
 
+training is syncrhonous (centralized) and is just a matter of exaflops https://twitter.com/AliYeysides/status/1605258835974823954?s=20 nuclear fusion accelerates exaflops
+
 stack example
 - https://twitter.com/ramsri_goutham/status/1604763395798204416?s=20
 	- Here is how we bootstrapped 3 AI startups with positive unit economics - 

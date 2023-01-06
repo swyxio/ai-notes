@@ -10,3 +10,4 @@ https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
 - https://simonwillison.net/2022/Aug/29/stable-diffusion/
 - https://multimodal.art/news/1-week-of-stable-diffusion
 
+[![https://pbs.twimg.com/media/FjWOspWXoAIHDGM?format=png&name=900x900](https://pbs.twimg.com/media/FjWOspWXoAIHDGM?format=png&name=900x900)](https://twitter.com/nabeelqu/status/1600345086683774977?s=20)
