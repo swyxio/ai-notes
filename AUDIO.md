@@ -21,6 +21,7 @@
   - https://freesubtitles.ai/
   - https://github.com/mayeaux/generate-subtitles
   - [theory](https://twitter.com/ethanCaballero/status/1572692314400628739?s=20&t=j_XtR82eEW6Vp28YvodqJQ): whisper is a way to get more tokens from youtube for gpt4
+  - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. 
 - https://github.com/ggerganov/whisper.cpp
   High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model:
   - Plain C/C++ implementation without dependencies
