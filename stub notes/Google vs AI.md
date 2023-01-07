@@ -2,7 +2,7 @@
 Pro Google
 - Google has insane AI expertise
 	- you can try it right now
-		- 
+		- you dot com and neeva https://twitter.com/debarghya_das/status/1611555488776458242?s=46&t=fMwE5qHjZ29z2Apm-SG4mQ
 	- Google BERT has been running billions of times a day
 		- https://twitter.com/sterlingcrispin/status/1606064294663069696?s=20
 		- replaced by MUM in 2021 https://towardsdatascience.com/rip-bert-googles-mum-is-coming-cb3becd9670f 
@@ -25,3 +25,4 @@ Pro Google
 - link vs answer? [ben evans tweet](https://twitter.com/benedictevans/status/1607547804108431362)
 	- When you were given a link did you really want an answer? Or did you, in fact, want a link?
 	- I would like to see a matrix of query volume versus search ad revenue versus susceptibility to an answer-based response. The respond to "give me a personal injury lawyer" can still have ads even if it's delivered by GPT...
+	- 
