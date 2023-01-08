@@ -15,5 +15,10 @@ SalesforceBLIP
 - https://github.com/Nutlope/alt-text-generator
 
 
+
+GIT: A Generative Image-to-text Transformer for Vision and Language 
+- https://twitter.com/natolambert/status/1612119135701303302?s=46&t=NcVvYe4-zKXX2KBHOi_C4w
+- 
+
 Other langages
 - Chinese CLIP https://twitter.com/JustinLin610/status/1600524228201095169
