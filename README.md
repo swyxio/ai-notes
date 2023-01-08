@@ -70,6 +70,7 @@ This Readme is just the high level overview of the space; you should see the mos
 - game assets - 
 	- emad thread https://twitter.com/EMostaque/status/1591436813750906882
 	- scenario.gg https://twitter.com/emmanuel_2m/status/1593356241283125251
+	- [3d game character modeling example](https://www.traffickinggame.com/ai-assisted-graphics/)
 
 ## Top AI Reads
 

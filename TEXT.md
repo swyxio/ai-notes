@@ -55,7 +55,16 @@ My best timeline of GPT efforts is listed here: https://lspace.swyx.io/p/open-so
 
 ![https://pbs.twimg.com/media/Fknc4rkX0AMY5RF?format=jpg&name=large](https://pbs.twimg.com/media/Fknc4rkX0AMY5RF?format=jpg&name=large)
 
+
+## GPT4
+
 - gpt4 speculations and improvement directions https://mobile.twitter.com/mayfer/status/1607816595065409536
+- https://twitter.com/RamaswmySridhar/status/1605603050403483652?s=20&t=0zl_ZGLHLxjgJ-FLk-m-Fg
+	- Biggest model size for GPT-4 will be 1T parameters. Up 6x. Not 100T - The reason is simple: instruction fine tuning achieves same quality with 100x smaller models.
+	- GPT-4 will use 10T tokens. Up 33x, and putting them on the Chinchilla scaling curve.
+	- We expect 16384 tokens
+	- Biggest pre-training modeling change? A loss function that looks like UL2
+	- Put together, at least 800x more compute for the pre-trained model.
 
 
 ## Applications

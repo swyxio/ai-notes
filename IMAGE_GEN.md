@@ -97,6 +97,9 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 
 - dallery gallery + prompt book https://news.ycombinator.com/item?id=32322329
 
+DallE vs Imagen vs Parti  architecture
+- https://twitter.com/savvyRL/status/1540555792331378688
+
 ## Tooling
 
 - Prompt Generators: 
