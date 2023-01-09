@@ -61,6 +61,7 @@ stack example
 ## Distributed work
 
 - Petals "Swarm" network - https://github.com/bigscience-workshop/petals Run 100B+ language models at home, BitTorrent-style.  Fine-tuning and inference up to 10x faster than offloading
+- https://github.com/hpcaitech/ColossalAI  Colossal-AI provides a collection of parallel components for you. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training and inference in a few lines.
 
 
 ## Optimization

@@ -114,7 +114,8 @@ a subset of the TEXT.md file focused on chat usecases
 	- https://www.learngpt.com/best
 	- sharegpt.com
 - open source clones
-	- https://youtu.be/QkhPrdJEqgA
+	- https://youtu.be/QkhPrdJEqgA yannic clone
+	- Petals distributed chat clone https://github.com/borzunov/chat.petals.ml
 
 ### Usecases
 

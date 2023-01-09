@@ -44,6 +44,7 @@
 - try `(selective color red dress) (black and white)` https://www.reddit.com/r/StableDiffusion/comments/zub94f/comment/j1i06qe/?utm_source=reddit&utm_medium=web2x&context=3
 - hyper detailed photo of a beautiful (((dragon like))) a goose,intricate details,RAW candid cinema,((remarkable color)),ultra realistic https://www.reddit.com/r/StableDiffusion/comments/zpjz1p/turning_swans_and_geese_into_dragons_sd21/
 - analog style portrait of a man on a train, volumetric lighting, skin moles nevi, very detailed, realistic skin texture, 85mm lens, 4k, Canon 5D, ZEISS lens, high quality, sharp focus, photorealistic, photorealism, elegant, intricate details https://www.reddit.com/r/StableDiffusion/comments/102ljfh/comment/j2wxrvg/?utm_source=reddit&utm_medium=web2x&context=3
+- face closeup, social media avatar, for a researcher named "${name}" in a professional digital art drawing style https://www.scholarstream.ai/
 
 - Prefixes
 	- `A black and white photo of`

@@ -244,7 +244,7 @@ SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
   - A $500 RTX 3070 with 8GB of VRAM can generate 512x512 images with 50 steps in 7 seconds.
 - https://huggingface.co/blog/stable_diffusion_jax uper fast inference on Google TPUs, such as those available in Colab, Kaggle or Google Cloud Platform - 8 images in 8 seconds
 - Intel CPUs: https://github.com/bes-dev/stable_diffusion.openvino
-
+- aws ec2 guide https://aws.amazon.com/blogs/architecture/an-elastic-deployment-of-stable-diffusion-with-discord-on-aws/
 
 ## Stable Diffusion
 
