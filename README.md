@@ -260,6 +260,7 @@ This list will be out of date but will get you started. My live list of people t
 
 - Narrow, tedium domain usecases https://twitter.com/WillManidis/status/1584900092615528448 and https://twitter.com/WillManidis/status/1584900100480192516
 - antihype https://twitter.com/alexandr_wang/status/1573302977418387457
+- antihype https://twitter.com/fchollet/status/1612142423425138688?s=46&t=pLCNW9pF-co4bn08QQVaUg
 - prompt eng memes
 	- https://twitter.com/_jasonwei/status/1516844920367054848
 - things stablediffusion struggles with https://opguides.info/posts/aiartpanic/

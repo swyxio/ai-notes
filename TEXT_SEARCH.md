@@ -33,3 +33,5 @@
 - https://www.deepmind.com/blog/gophercite-teaching-language-models-to-support-answers-with-verified-quotes
 - https://haystack.deepset.ai/overview/intro 
 - 3) [Transformer Memory as a Differentiable Search Index (“DSI”)](https://arxiv.org/abs/2202.06991)
+- openai embeddings and pinecone 
+	- arxiv search https://twitter.com/tomtumiel/status/1611729847700570118?s=20&t=esNCMGOrghGYObzQee1Hzg
