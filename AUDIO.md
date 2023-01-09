@@ -55,10 +55,18 @@ https://news.ycombinator.com/item?id=33663486
 	- tortoise  [https://github.com/neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts)
 		-  [https://nonint.com/static/tortoise_v2_examples.html](https://nonint.com/static/tortoise_v2_examples.html)
 		- used in scribepod https://twitter.com/yacinemtb/status/1608993955835957248?s=46&t=ikA-et-is_MNr-8HTO8e1A
+	- custom voices
+		- https://github.com/neonbjb/tortoise-tts#voice-customization-guide
+		- microsoft and google cloud have apis
+		- twilio maybe
+		- VallE when it comes out
+	- research papers
+		- https://speechresearch.github.io/naturalspeech/
+		- research paper from very short voice sample https://valle-demo.github.io/
 	- [https://github.com/rhasspy/larynx](https://github.com/rhasspy/larynx)
 	- pico2wave with the -l=en-GB flag to get the British lady voice is not too bad for offline free TTS. You can hear it in this video: [https://www.youtube.com/watch?v=tfcme7maygw&t=45s](https://www.youtube.com/watch?v=tfcme7maygw&t=45s)
 	- [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) (for very specific non-english purposes, and I was willing to wrangle IPA)
-	- research paper from very short voice sample https://valle-demo.github.io/
+	- 
 
 ### misc tooling
 

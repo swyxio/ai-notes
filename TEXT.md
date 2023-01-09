@@ -220,6 +220,7 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 - [Humanloop.com](https://humanloop.com) Playground - variable interpolations + api endpoints, collect generations with feedback
 - [Everyprompt.com]( https://everyprompt.com) Playground - similar to above with ux improvements
 - [Langchain](https://github.com/hwchase17/langchain) python package - implements many techniques
+- https://gpt-index.readthedocs.io/en/latest/ GPT Index is a project consisting of a set of data structures designed to make it easier to use large external knowledge bases with LLMs.
 - [Dust.tt](http://dust.tt) - tree UI for k-shot datasets, prompt templates, prompt chaining
 - [Spellbook](https://scale.com/spellbook) from ScaleAI - automatically write k-shots, eval metrics for prompt varaints, prompts to spreadsheet functions
 - Linus/thesephist tools
