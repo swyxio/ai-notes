@@ -55,6 +55,7 @@ a subset of the TEXT.md file focused on chat usecases
 
 - YouChat https://twitter.com/RichardSocher/status/1606350406765842432
 	- jailbreakable https://twitter.com/RexDouglass/status/1606355477146632192
+- ChatGPT vs WolframAlpha https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/
 - Meta BlenderBot 3 https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/
 - Google LaMDA https://blog.google/technology/ai/lamda/
 	- LaMDA is trained on dialogue and can engage in a free-flowing way about a seemingly endless number of topics.
