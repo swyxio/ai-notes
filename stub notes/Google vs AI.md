@@ -25,4 +25,12 @@ Pro Google
 - link vs answer? [ben evans tweet](https://twitter.com/benedictevans/status/1607547804108431362)
 	- When you were given a link did you really want an answer? Or did you, in fact, want a link?
 	- I would like to see a matrix of query volume versus search ad revenue versus susceptibility to an answer-based response. The respond to "give me a personal injury lawyer" can still have ads even if it's delivered by GPT...
-	- 
+
+
+
+
+
+
+
+ai is feafure not product
+https://twitter.com/yacinemtb/status/1612997351659945986?s=46&t=J346-y4Gcs8C5beSeKYreA
