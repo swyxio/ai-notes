@@ -20,10 +20,12 @@
 - https://www.chatbcg.com/
 
 
-## roleplaying, stories
+## roleplaying, stories, fiction
 
 - character.ai
 - [Hidden Door](https://www.hiddendoor.co/) (hillary mason)
+- jani evaakallios thing
+- sudowrite https://twitter.com/superamit/status/1613364405923905537?s=46&t=gHkbPbXdPAauDYbWo7d0PA
 
 ## ai detection
 

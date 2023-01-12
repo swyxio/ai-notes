@@ -93,6 +93,7 @@ GPT3 applications:
     - https://jack-clark.net/2022/10/11/import-ai-305-gpt3-can-simulate-real-people-ai-discovers-better-matrix-multiplication-microsoft-worries-about-next-gen-deepfakes/
   - Making stories with characters https://medium.com/@turc.raluca/introducing-rick-and-mortify-a14e56a8cb67
 
+wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930?s=20&t=2ra2Yfz0NFSbfJ_IGixNjA
 
 ## Top GPT3 Prompt Engineering Reads
 
