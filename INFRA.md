@@ -46,6 +46,7 @@ Alternatively, if run in the cloud, GPT-3 would require something like Amazon’
 
 training is syncrhonous (centralized) and is just a matter of exaflops https://twitter.com/AliYeysides/status/1605258835974823954?s=20 nuclear fusion accelerates exaflops
 
+human brain math https://twitter.com/txhf/status/1613239816770191361?s=20
 
 computer used to train https://twitter.com/matthewjbar/status/1605328925789278209?s=46&t=fAgqJB7GXbFmnqQPe7ss6w
 
