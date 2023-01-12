@@ -31,6 +31,7 @@
 
 - gptzero https://twitter.com/edward_the6/status/1610067688449007618?s=46&t=4T9fbP0VXiePXx7J1Wx88A
 - scott aaronson at openai watermarking https://twitter.com/jeremyphoward/status/1610932164190949378
+- originality.ai https://originality.ai/?lmref=KAmPVQ
 
 ## video generation
 

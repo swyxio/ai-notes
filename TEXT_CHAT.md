@@ -38,6 +38,7 @@ a subset of the TEXT.md file focused on chat usecases
 	- Dec 2022 - ChatGPT
 	- jan 2023 - openassistant - chatgpt clone https://youtu.be/QkhPrdJEqgA 
 	- PaLM + RLHF open clone https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/
+	- Jan 2023 - chatbot on whatsapp with voiceflow https://twitter.com/dnaijatechguy/status/1613542500463181825?s=20
 
 ## Chat Papers
 

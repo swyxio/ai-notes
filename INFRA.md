@@ -66,6 +66,15 @@ stack example
 	4. Semantic Search - Free to start vector DBs (eg: pinecone .io) 
 	5. Deployment - Vercel + Supabase
 
+### microsoft openai cluster
+
+- https://twitter.com/AndyChenML/status/1611529311390949376
+- “The supercomputer developed for OpenAI is a single system with more than 285,000 CPU cores, 10,000 GPUs and 400 gigabits per second of network connectivity for each GPU server.” training the original GPT3
+	- To put this in context some of the new clusters coming are over 10x more powerful, even more so when you consider scaling. Our original supercomputer from AWS last year is > 2x more poweful https://twitter.com/EMostaque/status/1612660862627762179?s=20
+	- [ @foldingathome](https://twitter.com/foldingathome)exceeded 2.4 exaFLOPS (faster than the top 500 supercomputers combined)!
+- https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
+
+
 ## Distributed work
 
 - Petals "Swarm" network - https://github.com/bigscience-workshop/petals Run 100B+ language models at home, BitTorrent-style.  Fine-tuning and inference up to 10x faster than offloading
@@ -91,6 +100,8 @@ stack example
 - "bitter lessons" - http://incompleteideas.net/IncIdeas/BitterLesson.html https://twitter.com/drjwrae/status/1601044625447301120?s=20
 - related: https://www.wired.com/2017/04/building-ai-chip-saved-google-building-dozen-new-data-centers/
 - transformers won because they were more scalable https://arxiv.org/pdf/2010.11929.pdf
+
+see also asionometry youtube video
 
 
 ## cost trends - wright's law

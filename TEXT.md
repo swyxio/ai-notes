@@ -55,10 +55,15 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	- https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
 - Yandex YaLM 100B https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6
 	- It took us 65 days to train the model on a pool of 800 A100 graphics cards and 1.7 TB of online texts, books, and countless other sources.
+- Tsinghua GLM-130B
+	- outperforms OpenAI's GPT-3 175B and Google's PALM 540B on critical benchmarks. AND it's open sourced, which means — you can run this model on your own machine, for free.
+	- only trained on 400B tokens (compared to 1.2T tokens for Chinchilla's 70B parameters)
+	- https://twitter.com/AndyChenML/status/1611529311390949376?s=20
 - Meta 
 	- OPT-175B https://opt.alpa.ai/ (bad reviews)
 	- OPT-IML (Instruction Meta-Learning): **instruction tuned** https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML
 		- a new language model from Meta AI with 175B parameters, fine-tuned on 2,000 language tasks — openly available soon under a noncommercial license for research use cases.
+		- instruction-finetuned, leverages Chinchilla scaling laws, and has bells and whistles like 4-bit quantization and bidirectional attention. With 4-bit quantization, the model can run on 1 x 80 GB A100 or a consumer GPU rig.
 		- https://twitter.com/MetaAI/status/1605991218953191424
 - FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
 - GPT-JT for classification
