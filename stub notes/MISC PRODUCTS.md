@@ -24,7 +24,7 @@
 
 - character.ai
 - [Hidden Door](https://www.hiddendoor.co/) (hillary mason)
-- jani evaakallios thing
+- jani evaakallios Verb (fiction) https://twitter.com/verbforwriters/status/1603051444134895616
 - sudowrite https://twitter.com/superamit/status/1613364405923905537?s=46&t=gHkbPbXdPAauDYbWo7d0PA
 
 ## ai detection
