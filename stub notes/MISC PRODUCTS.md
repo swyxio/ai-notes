@@ -46,3 +46,7 @@
 
 - https://www.futuretools.io/
 - https://theresanaiforthat.com/ 
+
+## music
+
+ai playlists https://twitter.com/playlist_ai https://twitter.com/brettunhandled/status/1613179511218278401

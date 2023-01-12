@@ -146,6 +146,8 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - StableDiffusion Discord https://discord.com/invite/stablediffusion
 - https://reddit.com/r/stableDiffusion
 - Akhaliq Discord: https://discord.gg/nYqfg4gnBt
+- Karpathy Discord: https://discord.gg/3zy8kqD9Cp
+- HuggingFace Discord: https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263
 - Deforum Discord https://discord.gg/upmXXsrwZc
 - Lexica Discord https://discord.com/invite/bMHBjJ9wRh
 - Perplexity Discord https://discord.com/invite/kWJZsxPDuX
