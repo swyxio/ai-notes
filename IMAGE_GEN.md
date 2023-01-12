@@ -169,6 +169,8 @@ Misc
 - Pixelvibe (search + gen) https://twitter.com/lishali88/status/1595029444988649472
 
 
+- Pebbley -  inpainting for product placement https://twitter.com/alfred_lua/status/1610641101265981440?s=46&t=RMPT1jJedELVkL2Aby-40g
+
 ## Stable Diffusion prompts
 
 The basic intuition of Stable Diffusion is that you have to add descriptors to get what you want. 
