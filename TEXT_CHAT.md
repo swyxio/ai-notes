@@ -208,6 +208,9 @@ sorted in rough descending order of impact
 
 ### Fails
 
+
+more longform recap of fails https://garymarcus.substack.com/p/large-language-models-like-chatgpt together with corpus of ChatGPT errors
+
 - factually wrong info https://twitter.com/parafactual/status/1598212029479026689
 - failed spatial relationships https://twitter.com/paulharter/status/1598304656236875781
 - cant do math 
@@ -217,6 +220,7 @@ sorted in rough descending order of impact
 - comparisons
 	- Andrew Ng - abacus faster than GPU https://twitter.com/AndrewYNg/status/1600284752258686976
 		- [vulnerable to presuppositions in the prompt](https://twitter.com/MasonMMcGough/status/1600287990239985664?s=20)
+-
 
 ### Jailbreaks
 

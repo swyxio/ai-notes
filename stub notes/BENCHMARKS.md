@@ -1,5 +1,12 @@
 text
 - Answering the call, more than 130 institutions collaborated on [BIG-bench](https://www.deeplearning.ai/the-batch/toward-next-gen-language-models/), which includes tasks like deducing a movie title from emojis, participating in mock trials, and detecting logical fallacies.
+- https://cs.nyu.edu/~davise/Benchmarks/
+	-  [Text](https://cs.nyu.edu/~davise/Benchmarks/Text.html)
+	-   [BIG-bench](https://cs.nyu.edu/~davise/Benchmarks/BIG-bench.html)
+	-   [Images](https://cs.nyu.edu/~davise/Benchmarks/Images.html)
+	-   [Videos](https://cs.nyu.edu/~davise/Benchmarks/Videos.html)
+	-   [Simulated Physical Worlds](https://cs.nyu.edu/~davise/Benchmarks/Physical.html)
+	-   [Symbolic/Knowledge Graphs](https://cs.nyu.edu/~davise/Benchmarks/Symbolic.html)
 
 
 HELM by Stanformd CRFM
