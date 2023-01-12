@@ -20,6 +20,8 @@
 - https://www.hebbia.ai/
 	- https://hebbia.medium.com/hebbia-raises-30-million-led-by-index-ventures-to-launch-the-future-of-search-e80038c05852
 - Huberman search
+- seekai
+	- Seek falls into the category of enterprise search engines known as “cognitive search.” Rivals include [Amazon Kendra](https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/) and Microsoft SharePoint Syntex, which draw on knowledge bases to cobble together answers to company-specific questions. Startups like [Hebbia](https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/), Kagi, [Andi](https://techcrunch.com/2022/09/13/y-combinator-backed-andi-taps-ai-to-built-a-better-search-engine/) and [You.com](https://techcrunch.com/2022/07/14/you-com-raises-25m-to-fuel-its-ai-powered-search-engine/) also leverage AI models to return specific content in response to queries as opposed to straightforward lists of results.
 - productized [https://addcontext.xyz](https://addcontext.xyz/)
 	- https://twitter.com/rileytomasek/status/1603854647575384067?s=20
 		- How does it work? Transcriptions are generated using Whisper and then embedded using the text-embedding-ada-002 model. The vectors are then stored in a pinecone vector database. A user's query is embedded and then used to find similar vectors in the database.

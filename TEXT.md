@@ -21,6 +21,15 @@
 
 My best timeline of GPT efforts is listed here: https://lspace.swyx.io/p/open-source-ai
 
+## Datasets
+
+- Common Crawl: https://commoncrawl.org/
+	- We build and maintain an open repository of **web crawl data** that can be **accessed and analyzed by anyone**.
+- C4: https://paperswithcode.com/dataset/c4
+	- **C4** is a colossal, cleaned version of Common Crawl's web crawl corpus. It was based on Common Crawl dataset: https://commoncrawl.org. It was used to train the T5 text-to-text Transformer models.
+- The Pile: https://arxiv.org/abs/2101.00027
+	- an 825 GiB English text corpus targeted at training large-scale language models. The Pile is constructed from 22 diverse high-quality subsets -- both existing and newly constructed -- many of which derive from academic or professional sources
+
 ## Language Models
 
 <img src="https://pbs.twimg.com/media/FkwdJnEXgAAoteg?format=png&name=small" height=300 />

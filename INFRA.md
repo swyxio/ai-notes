@@ -11,6 +11,13 @@
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## model size and requirements
+
+- https://github.com/amirgholami/ai_and_memory_wall We report the number of paramters, feature size, as well as the total FLOPs for inference/training for SOTA models in CV, Speech Learning, and NLP.
+	- https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/ai_and_compute.png?raw=true
+	- https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/hw_scaling.png?raw=true
+	- analysis https://www.youtube.com/watch?v=5tmGKTNW8DQ
+
 ## Infrastructure
 
 - bananadev cold boot problem https://twitter.com/erikdunteman/status/1584992679330426880?s=20&t=eUFvLqU_v10NTu65H8QMbg
