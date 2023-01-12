@@ -170,6 +170,7 @@ Misc
 
 
 - Pebbley -  inpainting for product placement https://twitter.com/alfred_lua/status/1610641101265981440?s=46&t=RMPT1jJedELVkL2Aby-40g
+- Flair AI https://twitter.com/mickeyxfriedman/status/1613251965634465792
 
 ## Stable Diffusion prompts
 

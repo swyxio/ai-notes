@@ -1,4 +1,17 @@
 
+## waves in AI products
+
+- text
+	- first it was headlines
+	- then it was copywriting/product description
+	- then its fiction
+- first it was architecture
+- then it was dreambooth pfps
+- then it was settings (levelsio)
+- then it was products
+	- Pebbley -  inpainting for product placement https://twitter.com/alfred_lua/status/1610641101265981440?s=46&t=RMPT1jJedELVkL2Aby-40g
+	- Flair AI https://twitter.com/mickeyxfriedman/status/1613251965634465792
+
 ## best ai newsletters
 
 - andrew ng https://www.deeplearning.ai/the-batch/
