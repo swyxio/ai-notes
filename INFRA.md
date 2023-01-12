@@ -53,18 +53,14 @@ Alternatively, if run in the cloud, GPT-3 would require something like Amazon’
 
 training is syncrhonous (centralized) and is just a matter of exaflops https://twitter.com/AliYeysides/status/1605258835974823954?s=20 nuclear fusion accelerates exaflops
 
+
+computer requirements to train gpt4 https://twitter.com/matthewjbar/status/1605328925789278209?s=46&t=fAgqJB7GXbFmnqQPe7ss6w
+
+### human equivalent
+
 human brain math https://twitter.com/txhf/status/1613239816770191361?s=20
 
-computer used to train https://twitter.com/matthewjbar/status/1605328925789278209?s=46&t=fAgqJB7GXbFmnqQPe7ss6w
 
-stack example
-- https://twitter.com/ramsri_goutham/status/1604763395798204416?s=20
-	- Here is how we bootstrapped 3 AI startups with positive unit economics - 
-	1. Development - Google Colab 
-	2. Inference - serverless GPU providers (Tiyaro .ai, modal .com and nlpcloud)
-	3. AI Backend logic - AWS Lambdas 
-	4. Semantic Search - Free to start vector DBs (eg: pinecone .io) 
-	5. Deployment - Vercel + Supabase
 
 ### microsoft openai cluster
 
@@ -115,3 +111,15 @@ see also asionometry youtube video
 	-   2012 to 2014: Infrastructure to train on many GPUs was uncommon, so most results used 1-8 GPUs rated at 1-2 TFLOPS for a total of 0.001-0.1 pfs-days.
 	-   2014 to 2016: Large-scale results used 10-100 GPUs rated at 5-10 TFLOPS, resulting in 0.1-10 pfs-days. Diminishing returns on data parallelism meant that larger training runs had limited value.
 	-   2016 to 2017: Approaches that allow greater algorithmic parallelism such as [huge batch sizes](https://arxiv.org/abs/1711.04325), [architecture search](https://arxiv.org/abs/1611.01578), and [expert iteration](https://arxiv.org/pdf/1705.08439.pdf), along with specialized hardware such as TPU’s and faster interconnects, have greatly increased these limits, at least for some applications.
+
+
+### ai product stacks
+
+example
+- https://twitter.com/ramsri_goutham/status/1604763395798204416?s=20
+	- Here is how we bootstrapped 3 AI startups with positive unit economics - 
+	1. Development - Google Colab 
+	2. Inference - serverless GPU providers (Tiyaro .ai, modal .com and nlpcloud)
+	3. AI Backend logic - AWS Lambdas 
+	4. Semantic Search - Free to start vector DBs (eg: pinecone .io) 
+	5. Deployment - Vercel + Supabase
