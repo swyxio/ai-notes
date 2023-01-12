@@ -1,4 +1,9 @@
 
+## best ai newsletters
+
+- andrew ng https://www.deeplearning.ai/the-batch/
+
+
 ## language models as wizard of oz 
 
 languagemodels help you do things that dont scale
