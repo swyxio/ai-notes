@@ -267,6 +267,7 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 
 ## Ethical issues
 
+- tokens are more 16x expensive for other languages https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc
 - Galactica fallout
   - https://twitter.com/Michael_J_Black/status/1593133722316189696
   - https://news.ycombinator.com/item?id=33611265
