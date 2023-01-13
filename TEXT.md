@@ -40,6 +40,7 @@ My best timeline of GPT efforts is listed here: https://lspace.swyx.io/p/open-so
 		-   `realnewslike`: 15GB in JSON format
 - The Pile: https://arxiv.org/abs/2101.00027
 	- an 825 GiB English text corpus targeted at training large-scale language models. The Pile is constructed from 22 diverse high-quality subsets -- both existing and newly constructed -- many of which derive from academic or professional sources
+	- behind the scenes of the collection https://news.ycombinator.com/item?id=34359453
 	- ![https://stanford-cs324.github.io/winter2022/lectures/images/the-pile.png](https://stanford-cs324.github.io/winter2022/lectures/images/the-pile.png)
 
 GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-dataset
