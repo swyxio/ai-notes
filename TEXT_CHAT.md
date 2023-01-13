@@ -107,10 +107,10 @@ a subset of the TEXT.md file focused on chat usecases
 - chrome extension 
   - https://github.com/kazuki-sf/ChatGPT_Extension bringing up as a window
   - https://github.com/wong2/chat-gpt-google-extension sideloading with google
-  - https://github.com/liady/ChatGPT-pdf add the functionality of exporting it to an image, a PDF file, or create a sharable link
-  - https://sharegpt.com/ Share your wildest ChatGPT conversations with one click.
-  - https://github.com/clmnin/summarize.site ummarize web page content using ChatGPT
   - https://github.com/pshihn/gpt-search-helper add ChatGPT results to your search results
+- https://github.com/liady/ChatGPT-pdf add the functionality of exporting it to an image, a PDF file, or create a sharable link
+- https://sharegpt.com/ Share your wildest ChatGPT conversations with one click.
+- https://github.com/clmnin/summarize.site ummarize web page content using ChatGPT
   - webchatgpt augment chatgpt with info from internet https://twitter.com/DataChaz/status/1610556519531089921?s=20&t=lWEhFea8VL1jJvbBNVoFcQ
 - Browse and share ChatGPT examples 
 	- https://www.learngpt.com/best
