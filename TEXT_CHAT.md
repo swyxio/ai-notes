@@ -212,7 +212,7 @@ sorted in rough descending order of impact
 
 more longform recap of fails https://garymarcus.substack.com/p/large-language-models-like-chatgpt together with corpus of ChatGPT errors
 
-- factually wrong info https://twitter.com/parafactual/status/1598212029479026689
+- switching roles in converation https://twitter.com/parafactual/status/1598212029479026689
 - failed spatial relationships https://twitter.com/paulharter/status/1598304656236875781
 - cant do math 
 	- https://twitter.com/3blue1brown/status/1598256290765377537
