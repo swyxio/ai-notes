@@ -182,10 +182,12 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
   - building GPT-JT: https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai
 
 ## How GPT works
-
+ 
+- original paper Improving Language Understanding by Generative Pre-Training Radford et al 2018 https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 - https://github.com/karpathy/minGPT
   - announcement https://twitter.com/karpathy/status/1295410274095095810  
   - used in https://www.mosaicml.com/blog/gpt-3-quality-for-500k
+  - check out nanoGPT too
 - https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1
 	- There are three important abilities that the initial GPT-3 exhibit: Language generation, In-context learning, World knowledge
 	- to pretrain the 175B parameters model on 300B tokens (60% [2016 - 2019 C4](https://stanford-cs324.github.io/winter2022/lectures/data/) https://www.tensorflow.org/datasets/catalog/c4 + 22% WebText2 + 16% Books + 3% Wikipedia).
