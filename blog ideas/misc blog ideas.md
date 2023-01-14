@@ -1,4 +1,12 @@
 
+
+## perplexity
+
+ai cheating detection
+perplexity with gptzero
+
+
+
 ## waves in AI products
 
 - text
