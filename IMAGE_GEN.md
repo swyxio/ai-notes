@@ -93,6 +93,10 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 	- negative prompting
 	- dimensions
 
+## midjourney
+
+nice trick to mix images https://twitter.com/javilopen/status/1613107083959738369
+
 ### DallE
 
 - dallery gallery + prompt book https://news.ycombinator.com/item?id=32322329
