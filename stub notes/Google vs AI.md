@@ -34,3 +34,9 @@ Pro Google
 
 ai is feafure not product
 https://twitter.com/yacinemtb/status/1612997351659945986?s=46&t=J346-y4Gcs8C5beSeKYreA
+
+
+openai was spending 70m  with google cloud before msft investment https://twitter.com/amir/status/1590015635765219336
+
+
+ai substack clone https://twitter.com/kantrowitz/status/1613924005064462336?s=46&t=d1UrpSjJB1LHnxU9IP9CZQ
