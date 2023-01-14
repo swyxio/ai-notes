@@ -1,4 +1,9 @@
 
+published! https://twitter.com/swyx/status/1614278842356731910
+
+
+---
+
 Pro Google
 - Google has insane AI expertise
 	- you can try it right now
