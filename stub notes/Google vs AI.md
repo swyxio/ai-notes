@@ -40,3 +40,6 @@ openai was spending 70m  with google cloud before msft investment https://twitte
 
 
 ai substack clone https://twitter.com/kantrowitz/status/1613924005064462336?s=46&t=d1UrpSjJB1LHnxU9IP9CZQ
+
+hardware
+cerebras and graphcore
