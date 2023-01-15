@@ -32,6 +32,7 @@
   - Zero memory allocations at runtime
   - Runs on the CPU
   - C-style API
+- Whisper.cpp small model is best traadeoff of performance vs accuracy https://blog.lopp.net/open-source-transcription-software-comparisons/
 
 
 https://news.ycombinator.com/item?id=33663486
