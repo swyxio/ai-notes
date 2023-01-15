@@ -281,3 +281,4 @@ This list will be out of date but will get you started. My live list of people t
 - On "AI Art Panic" https://opguides.info/posts/aiartpanic/
 - Yannick influencing OPENRAIL-M https://www.youtube.com/watch?v=W5M-dvzpzSQ
 - art schools accepting AI art https://twitter.com/DaveRogenmoser/status/1597746558145265664
+- stealing art [https://stablediffusionlitigation.com](https://stablediffusionlitigation.com/)

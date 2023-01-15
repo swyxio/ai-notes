@@ -70,6 +70,7 @@
 		- Dreamstudio with negative prompts and weights
 		- https://old.reddit.com/r/StableDiffusion/comments/zf21db/stable_diffusion_21_announcement/
 	- Stability 2022 recap https://twitter.com/StableDiffusion/status/1608661612776550401
+	- https://stablediffusionlitigation.com
 - important papers
 	- 2019 Razavi, Oord, Vinyals, [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446)
 	- 2020 Esser, Rombach, Ommer, [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)
