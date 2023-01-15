@@ -48,13 +48,20 @@ https://news.ycombinator.com/item?id=33663486
 - services
 	- Play.ht or Podcast.ai - https://arstechnica.com/information-technology/2022/10/fake-joe-rogan-interviews-fake-steve-jobs-in-an-ai-powered-podcast/
 	- mycroft [https://mycroft.ai/mimic-3/](https://mycroft.ai/mimic-3/)
-	- 
+	- https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/ 
+		- https://news.ycombinator.com/item?id=34361651
+	- bigclouds
+		- [ https://aws.amazon.com/polly/](https://aws.amazon.com/polly/)
+		- [https://cloud.google.com/text-to-speech](https://cloud.google.com/text-to-speech)
+		- [https://azure.microsoft.com/en-us/products/cognitive-service...](https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech/)
 - OSS
 	- pyttsx3  [https://pyttsx3.readthedocs.io/en/latest/engine.html](https://pyttsx3.readthedocs.io/en/latest/engine.html)
 	- https://github.com/lucidrains/audiolm-pytorch Implementation of [AudioLM](https://google-research.github.io/seanet/audiolm/examples/), a Language Modeling Approach to Audio Generation out of Google Research, in Pytorch It also extends the work for conditioning with classifier free guidance with T5. This allows for one to do text-to-audio or TTS, not offered in the paper.
 	- tortoise  [https://github.com/neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts)
 		- [https://nonint.com/static/tortoise_v2_examples.html](https://nonint.com/static/tortoise_v2_examples.html)
 		- used in scribepod https://twitter.com/yacinemtb/status/1608993955835957248?s=46&t=ikA-et-is_MNr-8HTO8e1A
+	- https://github.com/coqui-ai/TTS
+		- previously mozilla TTS
 	- custom voices
 		- https://github.com/neonbjb/tortoise-tts#voice-customization-guide
 		- microsoft and google cloud have apis
