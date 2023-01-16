@@ -88,7 +88,7 @@ https://news.ycombinator.com/item?id=33663486
 		- from pyannote.audio.pipelines.speaker_verification import PretrainedSpeakerEmbedding
 	- https://lablab.ai/t/whisper-transcription-and-speaker-identification
 - noise cleaning
-	- adobe filter https://news.ycombinator.com/item?id=34047976
+	- adobe enhance speech for cleaning up spoken audio https://news.ycombinator.com/item?id=34047976 https://podcast.adobe.com/enhance
 - https://github.com/elanmart/cbp-translate
 	-   Process short video clips (e.g. a single scene)
 	-   Work with multiple characters / speakers

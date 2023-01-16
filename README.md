@@ -144,6 +144,8 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 ## Communities
 
 - StableDiffusion Discord https://discord.com/invite/stablediffusion
+- LAION discord https://discord.gg/xBPBXfcFHd
+- Eleuther discord: https://www.eleuther.ai/get-involved/
 - https://reddit.com/r/stableDiffusion
 - Akhaliq Discord: https://discord.gg/nYqfg4gnBt
 - Karpathy Discord: https://discord.gg/3zy8kqD9Cp
