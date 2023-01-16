@@ -33,6 +33,7 @@
   - Runs on the CPU
   - C-style API
 - Whisper.cpp small model is best traadeoff of performance vs accuracy https://blog.lopp.net/open-source-transcription-software-comparisons/
+- whisper openai api https://twitter.com/calumbirdo/status/1614826199527690240?s=46&t=-lurfKb2OVOpdzSMz0juIw
 
 
 https://news.ycombinator.com/item?id=33663486
