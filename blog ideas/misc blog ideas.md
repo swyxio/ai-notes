@@ -1,4 +1,37 @@
 
+## FLOPS is all you need
+
+gpt3 data - The training dataset is something like 500B tokens and not all of that is used (common crawl is processed less than once),
+
+https://news.ycombinator.com/item?id=34400693
+The human brain only consumes around 20W [1], but for numerical calculations it is massively outclassed by an ARM chip consuming a tenth of that. Conversely, digital models of neural networks need a huge power budget to get anywhere close to a brain; this estimate [2] puts training GPT-3 at about a TWh, which is about six million years' of power for a single brain. 
+
+TWh = 10^12Wh which means a trillion-watt for 1 hour.
+
+10^12 / 20 (power of brain) / 24 (hours in a day) / 365 (days in a year) = 5 707 762 years.
+
+https://blog.scaleway.com/doing-ai-without-breaking-the-bank-yours-or-the-planets/
+AlexNet (61m) for 1000 classifications
+GPT2 (1.7b)
+GPT3 (175b) took 3.14x1023 FLOPS
+GPT3 took 10,000 [V100 Nvidia GPUs](https://www.nvidia.com/en-us/data-center/v100/)
+V100 can handle 14 TFLOPS when using single precision
+28 TFLOPS for the half-precision format
+3.14x1023 -> 10k GPUs -> 13 days
+
+full training - 10x-100x of a single run
+
+energy
+- 1 V100 GPU - 300W per day
+- 10k V100 GPUs x 13 days = 936 MWh
+- Power Usage Effectiveness - 1.5 datacenter (as low as 1.15)
+	- so true cost 936 * 1.5 = 1404 MWh
+- 1 MW = 2k homes
+- another GPT3 estimate 190,000 kWh
+	- https://www.theregister.com/2020/11/04/gpt3_carbon_footprint_estimate/
+	- 85,000 kg of CO2 equivalents, the same amount produced by a new car in Europe driving 700,000 km, or 435,000 miles, which is about twice the distance between Earth and the Moon
+
+
 
 ## perplexity
 
