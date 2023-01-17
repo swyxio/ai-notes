@@ -10,6 +10,9 @@ TWh = 10^12Wh which means a trillion-watt for 1 hour.
 
 10^12 / 20 (power of brain) / 24 (hours in a day) / 365 (days in a year) = 5 707 762 years.
 
+https://venturebeat.com/ai/openai-launches-an-api-to-commercialize-its-research/
+GPT3 - 12m  to train, 350GB memory
+
 https://blog.scaleway.com/doing-ai-without-breaking-the-bank-yours-or-the-planets/
 AlexNet (61m) for 1000 classifications
 GPT2 (1.7b)

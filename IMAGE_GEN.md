@@ -54,6 +54,11 @@
 	-   Researchers at Inha University modified two key components to make ViTs [more like convolutional neural networks](https://www.deeplearning.ai/the-batch/less-data-for-vision-transformers/). First, they divided images into patches with more overlap. Second, they modified self-attention to focus on a patch's neighbors rather than on the patch itself, and enabled it to learn whether to weigh neighboring patches more evenly or more selectively. These modifications brought a significant boost in accuracy.
 	-   Researchers at the Indian Institute of Technology Bombay [outfitted ViTs with convolutional layers](https://www.deeplearning.ai/the-batch/upgrade-for-vision-transformers/). Convolution brings benefits like local processing of pixels and smaller memory footprints due to weight sharing. With respect to accuracy and speed, their convolutional ViT outperformed the usual version as well as runtime optimizations of transformers such as Performer, Nyströformer, and Linear Transformer. Other teams took [similar](https://arxiv.org/abs/2201.09792?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXG-ZkwAj82Nv49uUrBwOHz4zUj3mkyjIfEd5lU7h3JHZR0pEG5OpkUCPPqwWvqMbjWl) [approaches](https://arxiv.org/abs/2202.06709?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXG-ZkwAj82Nv49uUrBwOHz4zUj3mkyjIfEd5lU7h3JHZR0pEG5OpkUCPPqwWvqMbjWl).
 - CLIP (_Contrastive Language–Image Pre-training_) https://openai.com/blog/clip/
+	- https://ml.berkeley.edu/blog/posts/clip-art/
+		- jan 2021 
+			- On January 5th 2021, OpenAI released the model-weights and code for [CLIP](https://openai.com/blog/clip/): a model trained to determine which caption from a set of captions best fits with a given image.
+			- The Big Sleep: a CLIP based text-to-image technique ([source](https://twitter.com/advadnoun/status/1351038053033406468))
+		- may 2021: [the unreal engine trick](https://ml.berkeley.edu/blog/posts/clip-art/#the-joys-of-prompt-programming-the-unreal-engine-trick)
 	- CLIPSeg https://huggingface.co/docs/transformers/main/en/model_doc/clipseg (for Image segmentation)
 - Stable Diffusion
 	- https://stability.ai/blog/stable-diffusion-v2-release
