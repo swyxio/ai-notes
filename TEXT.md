@@ -270,6 +270,9 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 	- Current state: LLM’s have made phenomenal progress in encoding knowledge as well as reasoning. BUT a big limitation of LLM’s is context size (4096 in Davinci), and if you want to feed an LLM custom knowledge it will either need to fit in the prompt or be finetuned (expensive)!
 	- https://twitter.com/mathemagic1an/status/1609225733934616577?s=46&t=DgrykKeTlGWgdxRkv2_tKw
 - godly ai https://godly.ai
+- HyDE: Hypothetical Document Embeddings
+	- https://twitter.com/mathemagic1an/status/1615378778863157248
+	- Take your query => create *hypothetical* answer => embed hypothetical answer => use this to search through doc embeddings
 
 ## Ethical issues
 

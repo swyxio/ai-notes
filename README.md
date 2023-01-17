@@ -110,6 +110,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
 	- Transformers from scratch https://e2eml.school/transformers.html
 	- karpathy on transformers
 		- https://twitter.com/karpathy/status/1582807367988654081
+		- Build GPT from scratch https://www.youtube.com/watch?v=kCc8FmEb1nY
 	- [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 		- Emergent few-shot prompted tasks: BIG-Bench and MMLU benchmarks
 		- Emergent prompting strategies

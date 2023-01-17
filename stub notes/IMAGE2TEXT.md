@@ -22,3 +22,6 @@ GIT: A Generative Image-to-text Transformer for Vision and Language
 
 Other langages
 - Chinese CLIP https://twitter.com/JustinLin610/status/1600524228201095169
+
+Lip reading!
+- https://huggingface.co/spaces/vumichien/lip_movement_reading
