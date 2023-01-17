@@ -71,6 +71,11 @@ human brain math https://twitter.com/txhf/status/1613239816770191361?s=20
 - https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
 
 
+### openai triton vs nvidia cuda
+
+https://twitter.com/pommedeterre33/status/1614927584030081025?s=46&t=HS-dlJsERZX6hEyAlfF5sw
+
+
 ## Distributed work
 
 - Petals "Swarm" network - https://github.com/bigscience-workshop/petals Run 100B+ language models at home, BitTorrent-style.  Fine-tuning and inference up to 10x faster than offloading
