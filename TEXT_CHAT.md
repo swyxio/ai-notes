@@ -77,6 +77,13 @@ a subset of the TEXT.md file focused on chat usecases
 	-   [**Topically**](https://github.com/cohere-ai/sandbox-topically)**:** A suite of tools that help you use the best of topic modeling to make sense of text collections (messages, articles, emails, news headlines, etc.) using large language models.
 	-   [**Toy Semantic Search**](https://github.com/cohere-ai/sandbox-toy-semantic-search)**:** A simple semantic search engine built with the Cohere API. The search algorithm here is fairly straightforward; it uses embeddings to find the paragraph that matches the question's representation. In text sources, a concrete paragraph containing the answer is most likely to produce the best results.
 
+## Anthropic Claude notes
+
+- built on "Constitutional AI" - AnthropicLM v4-23 https://www.anthropic.com/constitutional.pdf
+- https://scale.com/blog/chatgpt-vs-claude
+	- https://twitter.com/goodside/status/1615531071319441408
+- https://github.com/taranjeet/awesome-claude
+
 
 ## ChatGPT notes
 

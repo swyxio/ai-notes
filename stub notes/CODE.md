@@ -33,3 +33,10 @@
 ## products
 
 - tensai refactor pr codegen https://twitter.com/mathemagic1an/status/1610023513334878208?s=46&t=HZzqUlCKP3qldVBoBwEzZg
+- unmaintained
+	- https://github.com/CodedotAl/gpt-code-clippy
+	- https://github.com/samrawal/emacs-secondmate
+- Cursor IDE https://twitter.com/amanrsanger/status/1615539968772050946
+- the pandas extension thing - lambdaprompt
+- copilot labs
+	- https://redmonk.com/jgovernor/2023/01/06/the-future-just-happened-developer-experience-and-ai-are-now-inextricably-linked/

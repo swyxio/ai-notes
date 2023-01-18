@@ -8,6 +8,9 @@ text
 	-   [Simulated Physical Worlds](https://cs.nyu.edu/~davise/Benchmarks/Physical.html)
 	-   [Symbolic/Knowledge Graphs](https://cs.nyu.edu/~davise/Benchmarks/Symbolic.html)
 
+- riley goodside benchmark questions
+	- https://scale.com/blog/chatgpt-vs-claude#Calculation
+	- Overall, Claude is a serious competitor to ChatGPT, with improvements in many areas. While conceived as a demonstration of “constitutional” principles, Claude feels not only safer but more fun than ChatGPT. Claude’s writing is more verbose, but also more naturalistic. Its ability to write coherently about itself, its limitations, and its goals seem to also allow it to more naturally answer questions on other subjects.
 
 HELM by Stanformd CRFM
 - https://twitter.com/nathanbenaich/status/1610385056618663936?s=20&t=fBOWt8NvTwGGnwJ92tybAQ
