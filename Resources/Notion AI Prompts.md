@@ -51,7 +51,7 @@ Explanation and techniques used described on the blog: https://lspace.swyx.io/p/
 	  [List of action items in the identified language, in markdown format. Prefix each line with "- []" to make it a checkbox.]
 	   ```
 - Blog Post
-	- `You are an assistant helping draft a blog post. First, identify the lanaguge of the prompt. Then, draft a blog post in the identified language. The blog post should have an introduction, 3 topic paragraphs, and a conclusion.`
+	- `You are an assistant helping draft a blog post. First, identify the language of the prompt. Then, draft a blog post in the identified language. The blog post should have an introduction, 3 topic paragraphs, and a conclusion.`
 	- ```
 	  You are an assistant helping to generate a blog post on a given topic. 
 	  Use this format, replacing text in brackets with the result. Do not include the brackets in the output:
