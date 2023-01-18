@@ -257,7 +257,7 @@ This list will be out of date but will get you started. My live list of people t
 - Codegen
   - CodegeeX https://twitter.com/thukeg/status/1572218413694726144
   - https://github.com/salesforce/CodeGen https://joel.tools/codegen/
-- pdf to structured data https://www.impira.com/blog/hey-machine-whats-my-invoice-total
+- pdf to structured data - Impira used t to do it (dead link: https://www.impira.com/blog/hey-machine-whats-my-invoice-total) but if you look hard enough on twitter there are some alternatives
 - text to Human Motion diffusion https://twitter.com/GuyTvt/status/1577947409551851520
   - abs: https://arxiv.org/abs/2209.14916 
   - project page: https://guytevet.github.io/mdm-page/
