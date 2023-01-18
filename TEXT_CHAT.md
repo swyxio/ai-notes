@@ -140,6 +140,9 @@ sorted in rough descending order of impact
   - podcast interview questions https://twitter.com/sethbannon/status/1598036175285276672
   - [writing a podcast intro](https://twitter.com/gilbert/status/1598446084279652353)
   - inventing words https://mobile.twitter.com/tobiasjolly/status/1603083739852046337
+- generating career advice
+	- https://youtu.be/QmA7S2iGBjk
+	- You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
 - Writing tutorials
   - starting with TOC and then section by section https://twitter.com/goodside/status/1598235521675038722
 - code explaining and generation
