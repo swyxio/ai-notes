@@ -40,3 +40,4 @@
 - openai embeddings and pinecone 
 	- arxiv search https://twitter.com/tomtumiel/status/1611729847700570118?s=20&t=esNCMGOrghGYObzQee1Hzg
 - weaviate vecot rsearch https://twitter.com/CShorten30/status/1612081726041518080?s=20
+- simple semantic search https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1
