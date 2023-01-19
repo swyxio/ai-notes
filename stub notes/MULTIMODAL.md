@@ -2,3 +2,6 @@
 -   As the year drew to a close, researchers at Google brought a similar range of abilities to robotics. [RT-1](https://ai.googleblog.com/2022/12/rt-1-robotics-transformer-for-real.html?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXG-ZkwAj82Nv49uUrBwOHz4zUj3mkyjIfEd5lU7h3JHZR0pEG5OpkUCPPqwWvqMbjWl) is a transformer that enables robots to perform over 700 tasks. The system, which tokenizes actions as well as images, learned from a dataset of 130,000 episodes collected from a fleet of robots over nearly a year and a half. It achieved outstanding zero-shot performance in new tasks, environments, and objects compared to prior techniques.
 - google MUM https://blog.google/products/search/introducing-mum/
 - "this is not a pipe" really is a pipe
+
+
+google multimodal researchc https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1
