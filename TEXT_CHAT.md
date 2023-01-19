@@ -366,3 +366,8 @@ threads that recap stuff above
 - https://twitter.com/omarsar0/status/1600149116369051649
 - https://twitter.com/sytelus/status/1600250786025308162?s=20
 
+
+## Misc Competing OSS Chat stuff
+
+- https://github.com/BlinkDL/ChatRWKV
+- https://dagster.io/blog/chatgpt-langchain
