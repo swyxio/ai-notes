@@ -32,6 +32,8 @@
 
 ## products
 
+(alessio's blogpost https://evcrevolution.com/p/evc-10-llm-for-developers)
+
 - tensai refactor pr codegen https://twitter.com/mathemagic1an/status/1610023513334878208?s=46&t=HZzqUlCKP3qldVBoBwEzZg
 - unmaintained
 	- https://github.com/CodedotAl/gpt-code-clippy
@@ -40,3 +42,4 @@
 - the pandas extension thing - lambdaprompt
 - copilot labs
 	- https://redmonk.com/jgovernor/2023/01/06/the-future-just-happened-developer-experience-and-ai-are-now-inextricably-linked/
+- http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds
