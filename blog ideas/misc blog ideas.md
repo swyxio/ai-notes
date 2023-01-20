@@ -29,6 +29,8 @@ _ChatGPT’s predecessor GPT-3 has 175 billion parameters. Using 16-bit, floatin
 _In comparison, Wikipedia occupies about 150GB (50GB for text, 100GB for images)_ _While the comparison is far from apples to apples, the fact that an LLM has more memory than is needed to store Wikipedia suggests its potential to store knowledge._
 _Wikipedia contains a minuscule fraction of the knowledge available on the internet, which by some estimates amounts to 5 billion GB._
 
+ pubmedgpt story https://overcast.fm/+Jy_x31W5I/10:00 50b tokens of data - all published journals
+
 full training - 10x-100x of a single run
 
 energy
