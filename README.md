@@ -288,3 +288,4 @@ This list will be out of date but will get you started. My live list of people t
 - Yannick influencing OPENRAIL-M https://www.youtube.com/watch?v=W5M-dvzpzSQ
 - art schools accepting AI art https://twitter.com/DaveRogenmoser/status/1597746558145265664
 - stealing art [https://stablediffusionlitigation.com](https://stablediffusionlitigation.com/)
+- coutner argument for disney https://twitter.com/jonst0kes/status/1616219435492163584?s=46&t=HqQqDH1yEwhWUSQxYTmF8w
