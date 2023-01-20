@@ -110,6 +110,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
     - [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)  good paper with the development history of the GPT family of models and how the capabilities developed
 - Advanced
 	- Transformers from scratch https://e2eml.school/transformers.html
+		- transformers vs LSTM https://medium.com/analytics-vidhya/why-are-lstms-struggling-to-matchup-with-transformers-a1cc5b2557e3
 	- karpathy on transformers
 		- https://twitter.com/karpathy/status/1582807367988654081
 		- Build GPT from scratch https://www.youtube.com/watch?v=kCc8FmEb1nY
