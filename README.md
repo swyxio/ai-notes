@@ -88,6 +88,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
   - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
   - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
   - https://andymatuschak.org/prompts/
+  - https://ourworldindata.org/brief-history-of-ai ai progress overview with nice charts
   - for nontechnical
     - https://www.jonstokes.com/p/ai-content-generation-part-1-machine
     - https://www.protocol.com/generative-ai-startup-landscape-map

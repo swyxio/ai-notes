@@ -1,6 +1,8 @@
 
 ## FLOPS is all you need
 
+nice chart of flops https://ourworldindata.org/brief-history-of-ai
+
 gpt3 data - The training dataset is something like 500B tokens and not all of that is used (common crawl is processed less than once),
 
 https://news.ycombinator.com/item?id=34400693
@@ -21,6 +23,11 @@ GPT3 took 10,000 [V100 Nvidia GPUs](https://www.nvidia.com/en-us/data-center/v1
 V100 can handle 14 TFLOPS when using single precision
 28 TFLOPS for the half-precision format
 3.14x1023 -> 10k GPUs -> 13 days
+
+https://info.deeplearning.ai/generated-code-makes-overconfident-programmers-chinas-autonomous-drone-carrier-does-bot-therapy-require-informed-consent-mining-for-green-tech-1?ecid=ACsprvuGDgDT6KPrs7TEv1tHiMmOJ3ZifowbdON1zkA-JQ4G4-Nk-3DgGfZMBYUSIMQxgzVFMReI
+_ChatGPT’s predecessor GPT-3 has 175 billion parameters. Using 16-bit, floating-point bytes, it would take around 350GB to store its parameters (many reports say 800GB)_
+_In comparison, Wikipedia occupies about 150GB (50GB for text, 100GB for images)_ _While the comparison is far from apples to apples, the fact that an LLM has more memory than is needed to store Wikipedia suggests its potential to store knowledge._
+_Wikipedia contains a minuscule fraction of the knowledge available on the internet, which by some estimates amounts to 5 billion GB._
 
 full training - 10x-100x of a single run
 
