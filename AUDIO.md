@@ -100,6 +100,29 @@ https://news.ycombinator.com/item?id=33663486
 	-   Add subtitles to the original video in a way mimicking the Cyberpunk example
 	-   Have a nice frontend
 	-   Run remotely in the cloud
+- https://essentia.upf.edu/
+	- Extensive collection of reusable algorithms
+	- Cross-platform
+	- Fast prototyping
+	- Industrial applications
+	- Similarity
+	- Classification
+	- Deep learning inference
+	- Mood detection
+	- Key detection
+	- Onset detection
+	- Segmentation
+	- Beat tracking
+	- Melody extraction
+	- Audio fingerprinting
+	- Cover song detection
+	- Spectral analysis
+	- Loudness metering
+	- Audio problems detection
+	- Voice analysis
+	- Synthesis
+- https://github.com/regorxxx/Music-Graph An open source graph representation of most genres and styles found on popular, classical and folk music. Usually used to compute similarity (by distance) between 2 sets of genres/styles.
+- https://github.com/regorxxx/Camelot-Wheel-Notation Javascript implementation of the Camelot Wheel, ready to use "harmonic mixing" rules and translations for standard key notations.
 
 ### Apps
 

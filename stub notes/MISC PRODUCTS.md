@@ -55,3 +55,4 @@
 ai playlists
 - https://twitter.com/playlist_ai https://twitter.com/brettunhandled/status/1613179511218278401
 - naturallanguageplaylist.com https://news.ycombinator.com/item?id=34444286
+- https://news.ycombinator.com/item?id=34448334 Show HN: Music Audio Search Engine Using OpenAI's Embeddings on GPT Descriptions

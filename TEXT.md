@@ -119,6 +119,8 @@ GPT3 applications:
   - playing chess??? https://twitter.com/Raza_Habib496/status/1591514638520311809
   - chrome extension
     - https://github.com/giosilvi/GPT-Prompter https://www.reddit.com/r/GPT3/comments/wa2db1/new_chrome_extension_for_gpt3_for_fast_and_custom/
+    - summarizer https://summate.it/?v2
+    - [https://quillbot.com/summarize](https://quillbot.com/summarize)
   - simulating people
     - https://jack-clark.net/2022/10/11/import-ai-305-gpt3-can-simulate-real-people-ai-discovers-better-matrix-multiplication-microsoft-worries-about-next-gen-deepfakes/
   - Making stories with characters https://medium.com/@turc.raluca/introducing-rick-and-mortify-a14e56a8cb67
@@ -266,6 +268,7 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 
 ### dealing with GPT context size
 
+- there is actually a paper by OpenAI themselves on summarizing long document. essentially, break a longer text into smaller chunks, and run a multi-stage sequential summarization. each chunk uses a trailing window of previous chunk as context, and run this recursively. [https://arxiv.org/abs/2109.10862](https://arxiv.org/abs/2109.10862). more: https://news.ycombinator.com/item?id=34423822
 - https://github.com/jerryjliu/gpt_index
 	- Current state: LLM’s have made phenomenal progress in encoding knowledge as well as reasoning. BUT a big limitation of LLM’s is context size (4096 in Davinci), and if you want to feed an LLM custom knowledge it will either need to fit in the prompt or be finetuned (expensive)!
 	- https://twitter.com/mathemagic1an/status/1609225733934616577?s=46&t=DgrykKeTlGWgdxRkv2_tKw
