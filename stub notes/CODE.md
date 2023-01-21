@@ -40,8 +40,14 @@
 	- https://github.com/CodedotAl/gpt-code-clippy
 	- https://github.com/samrawal/emacs-secondmate
 - Cursor IDE https://twitter.com/amanrsanger/status/1615539968772050946
+	- why is this not a vscode extension
 - the pandas extension thing - lambdaprompt
 - copilot labs
 	- https://redmonk.com/jgovernor/2023/01/06/the-future-just-happened-developer-experience-and-ai-are-now-inextricably-linked/
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds
 - [Gptcommit: Never write a commit message again (with the help of GPT-3)](https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/)
+
+
+- grid.io
+- qqbot - dan robinson?
+- ??

@@ -1,6 +1,59 @@
 
 ## FLOPS is all you need
 
+
+varun 
+- a100 - 3.3k flops
+- fp8 compute - 2 petaflops
+- in a 2.5 year span, nvidia has 6x compute 
+- cost of training a bert model is probably down 1-2 orders of magnitude
+- chinchilla - fixed compute budget, hold capability set (emergent - 20b chain of thought)- 
+	- x a100 for y hours -> gives budget of flops
+	- gives you n billion parameters 
+	- 20n tokens
+	- computing perplexity - probability of model having gnereated validation set
+		- lower perplexity (negative log sum) = learning more
+		- other types of proxy/eval
+			- for code - perplexity doesnt matter - humaneval - but just run the code
+			- not easy to validate - pubmedgpt 2.7b param -> 22% MFU, can get up to 40-50%
+				- mosaic -> not that great
+				- mosaic paper had another model that was 5-6x smaller 360m. 
+				- google came in and fked all these guys up
+- but chinchilla not end all be all - SERVING time also matters
+	- param count up, model capability up, but serving slowly
+	- makes sense to train a smaller model, spend more on training it
+	- bigger models are more beta efficient
+	- 10b param -> 5b
+	- burn more on training to serve
+	- larger model means higher latency
+- model parallel running
+	- multi nvlink - connecting multiple gpus together
+	- double the memory bandwidth and flops and cost
+	- latency roughly the same
+- MFU - model flop utilization
+	- you can lose utilization
+	- what is the util of this hardware
+	- for traiining MFU matters
+	- but for inference - 
+		- for every entire inference loop
+		- you care about memory bandwidth
+		- I/O bound
+		- yoy, compute getting much faster compared to memory
+	- 80gb a100 2TB/s, h100 3TB/s - 50% more
+	- to satureate compute, need to keep things in registers
+	- random reasons why you cant do batching
+	- some users take on much higher latency
+		- midjourney workload - minutes
+			- take 30s chunk, batch as much as posisble
+		- codeium - inference every keystroke
+		- jasper lives in between - seconds
+	- depends
+		- once the output is generated - if amount is yes, low latency , fast iteration loop
+- if you build on a LLM API
+	- should the sharding live in the app layer or in the api layer
+- read hjeff dean efficintly scaling https://www.reddit.com/r/mlscaling/comments/yrx6w6/efficiently_scaling_transformer_inference_jeff/
+- 
+
 nice chart of flops https://ourworldindata.org/brief-history-of-ai
 
 gpt3 data - The training dataset is something like 500B tokens and not all of that is used (common crawl is processed less than once),
