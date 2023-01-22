@@ -241,6 +241,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 	- tools that make tools (toolbot.ai)
 	- https://lex.page ([announcement](https://twitter.com/nbashaw/status/1581673516360876032))
 	- CLI https://twitter.com/KevinAFischer/status/1601883697061380096?s=20
+	- got3discord moderator https://github.com/Kav-K/GPT3Discord
 - Writing
 	- Verb (fiction) https://twitter.com/verbforwriters/status/1603051444134895616
 	- Orchard https://www.orchard.ink/doc/201a7f63-731e-4487-926a-fdf348f1b00c
