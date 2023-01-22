@@ -1,6 +1,12 @@
 
 ## FLOPS is all you need
 
+https://simonwillison.net/2023/Jan/13/semantic-search-answers/
+The OpenAI embedding model lets you take any string of text (up to a ~8,000 word length limit) and turn that into a list of 1,536 floating point numbers. We’ll call this list the “embedding” for the text.
+
+These numbers are derived from a sophisticated language model. They take a vast amount of knowledge of human language and flatten that down to a list of floating point numbers—at 4 bytes per floating point number that’s 4*1,536 = 6,144 bytes per embedding—6KiB.
+
+The distance between two embeddings represents how semantically similar the text is to each other.
 
 varun 
 - a100 - 3.3k flops
