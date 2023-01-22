@@ -1,8 +1,18 @@
 
 prompt engineering techniques
 
+## chain of thought prompting
+
+[Source: _Chain of Thought Prompting Elicits Reasoning in Large Language Models_ Jason Wei and Denny Zhou et al. (2022)](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)
+
+authors found `Let's think step by step` quadrupled the accuracy, from 18% to 79%!
+
+ [![zero-shot reasoning example](https://github.com/openai/openai-cookbook/raw/main/images/zero-shot_reasoners_tab5.png)   
+Source: _Large Language Models are Zero-Shot Reasoners_ by Takeshi Kojima et al. (2022).](https://arxiv.org/abs/2205.11916)
+
 ## Code related prompts
 
+- program aided prompting https://github.com/reasoning-machines/pal
 - generate csv, test code, and readme https://twitter.com/goodside/status/1563989550808154113
 - Rewrite regex + examples + unit tests https://twitter.com/goodside/status/1562233738863452160
 - convert object to schemas, type assertions, and table conversion parsing https://twitter.com/goodside/status/1513265657944678401?s=20
