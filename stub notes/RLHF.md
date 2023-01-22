@@ -29,6 +29,16 @@ memes
 	- This is the dataset of all comparisons that were marked as suitable for reward modeling by the end of the WebGPT project. There are 19,578 comparisons in total.
 
 
+## synthetic/model written feedback
+
+https://twitter.com/cwolferesearch/status/1616896611828830208?s=46&t=_aRhLI2212sARkuArtTutQ
+
+Recently, researchers used LLMs to generate 154 evaluation datasets and even created an interactive demo for the data!
+
+evals.anthropic.com/model-written/
+
+This synthetic data was used to study LLM behavior and uncover a couple of really interesting results. [4/9]
+
 ## Quotes
 
 - Human Instrumentality Project https://twitter.com/goodside/status/1603356265391890432

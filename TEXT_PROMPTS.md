@@ -23,6 +23,13 @@ The halter models brings a couple of advantages:
  [![Faithful reasoning](https://github.com/openai/openai-cookbook/raw/main/images/faithful-reasoning_fig3.png)   
 Source: _Faithful Reasoning Using Large Language Models_ by Antonia Creswell et al. (2022)](https://arxiv.org/abs/2208.14271)
 
+### least to most
+
+Least-to-most prompting is another technique that splits up reasoning tasks into smaller, more reliable subtasks. The idea is to elicit a subtask from the model by prompting it with something like `To solve {question}, we need to first solve: "`. Then, with that subtask in hand, the model can generate a solution. The solution is appended to the original question and the process is repeated until a final answer is produced.
+
+ [![Least-to-most prompting](https://github.com/openai/openai-cookbook/raw/main/images/least-to-most_fig1.png)   
+Source: _Least-to-most Prompting Enables Complex Reasoning in Large Language Models_ by Denny Zhou et al. (2022)](https://arxiv.org/abs/2205.10625)
+
 ## Code related prompts
 
 - program aided prompting https://github.com/reasoning-machines/pal
