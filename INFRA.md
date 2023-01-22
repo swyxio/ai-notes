@@ -20,6 +20,7 @@
 
 ## Infrastructure
 
+- dan jeffries ai infra landscape https://ai-infrastructure.org/why-we-started-the-aiia-and-what-it-means-for-the-rapid-evolution-of-the-canonical-stack-of-machine-learning/
 - bananadev cold boot problem https://twitter.com/erikdunteman/status/1584992679330426880?s=20&t=eUFvLqU_v10NTu65H8QMbg
 - replicate.com
 - banana.dev
