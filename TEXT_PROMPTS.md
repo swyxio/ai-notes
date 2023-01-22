@@ -10,6 +10,19 @@ authors found `Let's think step by step` quadrupled the accuracy, from 18% to 
  [![zero-shot reasoning example](https://github.com/openai/openai-cookbook/raw/main/images/zero-shot_reasoners_tab5.png)   
 Source: _Large Language Models are Zero-Shot Reasoners_ by Takeshi Kojima et al. (2022).](https://arxiv.org/abs/2205.11916)
 
+
+### halter methods
+
+First, the authors add a 'halter' model that, after each inference step, is asked whether the inferences thus far are sufficient to answer the question. If yes, then the model generates a final answer.
+
+The halter models brings a couple of advantages:
+
+-   it can tell the selection-inference process to stop or keep going, as necessary.
+-   if the process never halts, you'll get no answer, which is often preferable to a hallucinated guess
+
+ [![Faithful reasoning](https://github.com/openai/openai-cookbook/raw/main/images/faithful-reasoning_fig3.png)   
+Source: _Faithful Reasoning Using Large Language Models_ by Antonia Creswell et al. (2022)](https://arxiv.org/abs/2208.14271)
+
 ## Code related prompts
 
 - program aided prompting https://github.com/reasoning-machines/pal

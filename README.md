@@ -94,6 +94,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
     - https://www.protocol.com/generative-ai-startup-landscape-map
     - https://twitter.com/saranormous/status/1572791179636518913
 - Intermediate
+  - openai prompt eng cookbook https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
   - Recap of 2022's major AI developments https://www.deeplearning.ai/the-batch/issue-176/
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w

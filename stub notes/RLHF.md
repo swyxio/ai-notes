@@ -3,7 +3,9 @@ memes
 - https://twitter.com/jordnb/status/1609501943889534977?s=46&t=oDskJuMscryc9UxtfIfsNg
 
 
+
 - https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/
+- "rlhf wont scale" https://twitter.com/janleike/status/1615455144816291843?s=46&t=_aRhLI2212sARkuArtTutQ
 - https://openai.com/blog/instruction-following/
 	- The resulting InstructGPT models are much better at following instructions than GPT-3. They also make up facts less often, and show small decreases in toxic output generation. Our labelers prefer outputs from our 1.3B InstructGPT model over outputs from a 175B GPT-3 model, despite having more than 100x fewer parameters.
 	- https://twitter.com/drjimfan/status/1600884409355227137?s=46&t=ZLDRV15juDMP7a5lkxr88g
@@ -18,7 +20,9 @@ memes
 			- ppo - policy optimization
 	- The first [code](https://github.com/openai/lm-human-preferences) released to perform RLHF on LMs was from OpenAI in TensorFlow in 2019.
 	- Today, there are already a few active repositories for RLHF in PyTorch that grew out of this. The primary repositories are Transformers Reinforcement Learning ([TRL](https://github.com/lvwerra/trl)), [TRLX](https://github.com/CarperAI/trlx) which originated as a fork of TRL, and Reinforcement Learning for Language models ([RL4LMs](https://github.com/allenai/RL4LMs)).
+	- https://twitter.com/voidful_stack/status/1615032172632735747?s=46&t=_aRhLI2212sARkuArtTutQ Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on small scale model (any generation model in hugging face's transformers)
 - https://twitter.com/carperai/status/1582891780931874819
+	- trlx walkthru https://twitter.com/carperai/status/1613645352514768897?s=46&t=_aRhLI2212sARkuArtTutQ
 - https://carper.ai/instruct-gpt-announcement/
 - WebGPT paper dataset
 	- https://huggingface.co/datasets/openai/webgpt_comparisons
