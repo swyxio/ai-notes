@@ -27,7 +27,10 @@
 - You AI
 - Ought Elicit
 	- elicit.org, "The AI research Assistant". In short: 1. ask a question in natural language (orange), get relevant papers, 2. ask further precisions (e.g. methodology used; blue), get extracted answers
-	- 
+	- https://twitter.com/Charlie43375818/status/1612569402129678336 We trained our new summarization model using reinforcement learning from AI feedback (RLAIF) similar to [@AnthropicAI](https://twitter.com/AnthropicAI) constitutional AI method.
+	- 2/ When using Reinforcement Learning with Human Feedback (RLHF), human annotators are presented with 2 options and asked to select the best one. In this project, we replaced the human annotator with another LLM which decides based on the rules in our constitution.
+	- 3/ We then distil those preferences into a reward model and apply reinforcement learning to Google's Flan T5 (11B). Our final model performs similarly to fine-tuned GPT-3 Davinci (175B) and reduces egregious failure by 66% compared to a fine-tuned GPT-3 Curie model.
+	- 4/ Constitution
 - seekai
 	- Seek falls into the category of enterprise search engines known as “cognitive search.” Rivals include [Amazon Kendra](https://techcrunch.com/2020/05/11/amazon-releases-kendra-to-solve-enterprise-search-with-ai-and-machine-learning/) and Microsoft SharePoint Syntex, which draw on knowledge bases to cobble together answers to company-specific questions. Startups like [Hebbia](https://techcrunch.com/2022/09/07/hebbia-raises-30m-to-launch-an-ai-powered-document-search-tool/), Kagi, [Andi](https://techcrunch.com/2022/09/13/y-combinator-backed-andi-taps-ai-to-built-a-better-search-engine/) and [You.com](https://techcrunch.com/2022/07/14/you-com-raises-25m-to-fuel-its-ai-powered-search-engine/) also leverage AI models to return specific content in response to queries as opposed to straightforward lists of results.
 - productized [https://addcontext.xyz](https://addcontext.xyz/)

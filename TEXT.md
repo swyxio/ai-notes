@@ -276,6 +276,8 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 - HyDE: Hypothetical Document Embeddings
 	- https://twitter.com/mathemagic1an/status/1615378778863157248
 	- Take your query => create *hypothetical* answer => embed hypothetical answer => use this to search through doc embeddings
+-  [Structured Prompting: Scaling In-Context Learning to 1,000 Examples](https://arxiv.org/abs/2212.06713)
+
 
 ## Ethical issues
 
