@@ -67,6 +67,7 @@ a subset of the TEXT.md file focused on chat usecases
 - Quora Poe: poe.com https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt
 - Jasper Chat: jasper.ai/chat
 - replit ghostwriter chat
+- deepmind sparrow (unreleased)
 
 ## Chat Tools
 

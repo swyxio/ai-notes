@@ -132,6 +132,8 @@ perplexity with gptzero
 
 ## language models as wizard of oz 
 
+
+- https://spindas.dreamwidth.org/4207.html redux prototypers
 languagemodels help you do things that dont scale
  youtu.be/4RMjQal_c4U
 - prototyping
