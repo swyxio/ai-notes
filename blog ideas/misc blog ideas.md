@@ -1,4 +1,15 @@
 
+## irresponsible foomerism
+
+- big circle small circle
+- https://twitter.com/emollick/status/1617270215154323457?s=46&t=f3zHInVHRlkYqdRRaMrRbw
+
+
+### SCALE IS NOT all you need
+
+we dont know what optimal param size for all these models
+https://overcast.fm/+34A2VOlx0/11:51
+
 ## FLOPS is all you need
 
 https://simonwillison.net/2023/Jan/13/semantic-search-answers/
@@ -61,6 +72,16 @@ varun
 - 
 
 nice chart of flops https://ourworldindata.org/brief-history-of-ai
+
+
+compression
+- stable diffusion - 100k gb compressed to 1.2gb https://www.listennotes.com/podcasts/the-logan-bartlett/ep-46-stability-ai-ceo-emad-8PQIYcR3r2i/ 21mins in
+- https://en.wikipedia.org/wiki/Hutter_Prize
+
+
+"Chinchilla's Wild Implications" [https://lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications](https://t.co/fgyyHePwZ8)
+- to train PaLM 540B optimally you need 6.7T tokens (5x chinchilla)
+- https://twitter.com/ethanCaballero/status/1554153812432240643?s=20
 
 gpt3 data - The training dataset is something like 500B tokens and not all of that is used (common crawl is processed less than once),
 
@@ -132,6 +153,8 @@ perplexity with gptzero
 
 ## language models as wizard of oz 
 
+
+- https://spindas.dreamwidth.org/4207.html redux prototypers
 languagemodels help you do things that dont scale
  youtu.be/4RMjQal_c4U
 - prototyping

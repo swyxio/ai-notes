@@ -1,4 +1,4 @@
-reference [[RLHF]]
+reference [[RLHF_RLAIF]]
 
 
 https://twitter.com/zhansheng/status/1583158989889540096?s=46&t=Nd874xTjwniEuGu2d1toQQ

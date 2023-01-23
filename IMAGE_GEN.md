@@ -53,6 +53,7 @@
 	-   ViTs learn best from immense quantities of data, so researchers at Meta and Sorbonne University concentrated on [improving performance on datasets of (merely) millions of examples](https://www.deeplearning.ai/the-batch/a-formula-for-training-vision-transformers/). They boosted performance using transformer-specific adaptations of established procedures such as data augmentation and model regularization.
 	-   Researchers at Inha University modified two key components to make ViTs [more like convolutional neural networks](https://www.deeplearning.ai/the-batch/less-data-for-vision-transformers/). First, they divided images into patches with more overlap. Second, they modified self-attention to focus on a patch's neighbors rather than on the patch itself, and enabled it to learn whether to weigh neighboring patches more evenly or more selectively. These modifications brought a significant boost in accuracy.
 	-   Researchers at the Indian Institute of Technology Bombay [outfitted ViTs with convolutional layers](https://www.deeplearning.ai/the-batch/upgrade-for-vision-transformers/). Convolution brings benefits like local processing of pixels and smaller memory footprints due to weight sharing. With respect to accuracy and speed, their convolutional ViT outperformed the usual version as well as runtime optimizations of transformers such as Performer, Nyströformer, and Linear Transformer. Other teams took [similar](https://arxiv.org/abs/2201.09792?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXG-ZkwAj82Nv49uUrBwOHz4zUj3mkyjIfEd5lU7h3JHZR0pEG5OpkUCPPqwWvqMbjWl) [approaches](https://arxiv.org/abs/2202.06709?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8HbXG-ZkwAj82Nv49uUrBwOHz4zUj3mkyjIfEd5lU7h3JHZR0pEG5OpkUCPPqwWvqMbjWl).
+	- more from fchollet: https://keras.io/examples/vision/probing_vits/
 - CLIP (_Contrastive Language–Image Pre-training_) https://openai.com/blog/clip/
 	- https://ml.berkeley.edu/blog/posts/clip-art/
 		- jan 2021 
@@ -102,6 +103,10 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 ## midjourney
 
 nice trick to mix images https://twitter.com/javilopen/status/1613107083959738369
+
+"midjourney style" - just feed "prompt" to it https://twitter.com/rainisto/status/1606221760189317122
+
+or emojis: https://twitter.com/LinusEkenstam/status/1616841985599365120
 
 ### DallE
 
@@ -235,8 +240,15 @@ SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
 - https://twitter.com/EMostaque/status/1598131202044866560 20x speed up, convergence in 1-4 steps
 	- https://arxiv.org/abs/2210.03142
 	- "We already reduced time to gen 50 steps from 5.6s to 0.9s working with nvidia"
+	- https://arxiv.org/abs/2210.03142
+		- For diffusion models trained on the latent-space (e.g., Stable Diffusion), our approach is able to generate high-fidelity images using as few as 1 to 4 denoising steps, accelerating inference by at least 10-fold compared to existing methods on ImageNet 256x256 and LAION datasets. We further demonstrate the effectiveness of our approach on text-guided image editing and inpainting, where our distilled model is able to generate high-quality results using as few as 2-4 denoising steps.
+- Stable diffusion speed progress  https://www.listennotes.com/podcasts/the-logan-bartlett/ep-46-stability-ai-ceo-emad-8PQIYcR3r2i/
+	- Aug 2022 - 5.6s/image
+	- Dec 2022 - 0.9s/image
+	- Jan 2022 - 30 images/s (100x speed increase)
 
 ## SD2 vs SD1 user notes
+
 
 - Comparisons
   - https://twitter.com/dannypostmaa/status/1595612366770954242?s=46

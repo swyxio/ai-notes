@@ -1,4 +1,6 @@
 
+Sequoia - jess lee image - [Almost every new social network has begun with an innovation in creation.](https://twitter.com/jesskah/status/1615759018999545857/photo/1) Funnily enough, the seminal Dreambooth paper actually has a great consumer social pitch embedded in it: It's like a photo booth, but once the subject is captured, it can be synethsized wherever your dreams take you.
+
 ### legal
 
 -  https://detangle.ai/ Detangle gives you AI-generated summaries of your legal docs so you can actually understand them. flopped https://twitter.com/shpigford/status/1610682378040770560?s=46&t=oSlB9-Vj36cKz7uEudTuFQ

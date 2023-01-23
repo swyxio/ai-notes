@@ -14,11 +14,11 @@
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Transcription (Speech to Text)
+## Transcription (Speech to Text or ASR)
 
 - https://github.com/openai/whisper
   - the --initial_prompt CLI arg: For my use, I put a bunch of industry jargon and names that are commonly misspelled in there and that fixes 1/3 to 1/2 of the errors.
-  - https://freesubtitles.ai/
+  - https://freesubtitles.ai/ (hangs my browser when i try it)
   - https://github.com/mayeaux/generate-subtitles
   - [theory](https://twitter.com/ethanCaballero/status/1572692314400628739?s=20&t=j_XtR82eEW6Vp28YvodqJQ): whisper is a way to get more tokens from youtube for gpt4
   - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. 
@@ -40,12 +40,26 @@
 https://news.ycombinator.com/item?id=33663486
 -  https://whispermemos.com pressing button on my Lock Screen and getting a perfect transcription in my inbox.
 - whisper on AWS - the g4dn machines are the sweet spot of price/performance.
-- simonsaysai.com to generate subtitles and they had the functionality to input specialized vocabulary,
+- https://simonsaysai.com to generate subtitles and they had the functionality to input specialized vocabulary,
 - https://skyscraper.ai/ using assemblyai
-- https://freesubtitles.ai/
 - Read.ai - https://www.read.ai/transcription Provides transcription & diarization and the bot integrates into your calendar. It joins all your meetings for zoom, teams, meet, webex, tracks talk time, gives recommendations, etc.
 	- https://huggingface.co/spaces/vumichien/whisper-speaker-diarization This space uses Whisper models from [**OpenAI**](https://github.com/openai/whisper) to recoginze the speech and ECAPA-TDNN model from [**SpeechBrain**](https://github.com/speechbrain/speechbrain) to encode and clasify speakers
+	- https://github.com/Majdoddin/nlp pyannote diarization
 - https://news.ycombinator.com/item?id=33665692
+
+### Products
+
+- Podcast summarization
+	- feather ai https://twitter.com/joshcadorette/status/1605361535454351362
+	- sumly ai https://twitter.com/dvainrub/status/1608175955733798913
+- Teleprompter
+	- https://github.com/danielgross/teleprompter
+		- Everything happens privately on your computer. In order to achieve fast latency locally, we use embeddings or a small fine-tuned model.
+		- The data is from Kaggle's quotes database, and the embeddings were computed using SentenceTransformer, which then runs locally on ASR. I also finetuned a small T5 model that sorta works (but goes crazy a lot).
+	- https://twitter.com/ggerganov/status/1605322535930941441
+- language teacher
+	- quazel https://news.ycombinator.com/item?id=32993130
+	- https://twitter.com/JavaFXpert/status/1617296705975906306?s=20
 
 ## Text to Speech
 
