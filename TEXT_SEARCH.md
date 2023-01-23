@@ -12,6 +12,19 @@
 
 ## Search Products
 
+- Atlas: finds the exact time a topic in a video was mentioned, even if the word itself wasn't said.
+    - https://atlas.atila.ca
+    - Examples:
+        - ["what shoes should i wear" -> videos about clothing with specific timestamp where they talk about shoes](https://atlas.atila.ca/?q=what%20shoes%20should%20i%20wear)
+        - ["city in california" -> convo about Berkeley](https://atlas.atila.ca/?q=city%20in%20california&url=https://www.youtube.com/watch?v=BrK7X_XlGB8)
+        - ["basketball" -> convo about Lebron and Michael Jordan](https://atlas.atila.ca/?q=basketball&url=https://www.youtube.com/watch?v=bGk8qcHc1A0)
+
+    - how it works: https://atila.ca/blog/tomiwa/atlas
+    - frontend is open-source: https://github.com/atilatech/atlas-ui
+    - backend is open-source: https://github.com/atilatech/atila-core-service
+
+
+
 - Metaphor https://metaphor.systems/
 - https://perplexity.ai Ask
 	- new search interface that uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
