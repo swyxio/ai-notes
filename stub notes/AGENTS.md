@@ -29,9 +29,6 @@
 	- The key contribution of DreamerV3 is an algorithm that works out of the box on new application domains, without having to adjust hyperparameters. This reduces the need for expert knowledge and computational resources, making reinforcement learning broadly applicable.
 	- They train 3 separate models that work together: - world model: predicts future outcomes of actions - critic: judges the value of situations - actor: learns to reach valuable situations
 	- compare to previous work Gato, we are seeing exciting advancements in RL. (Gato learned to do over 600 different tasks in the *same set of parameters*, although it used behavior modeling - not pure RL - to get there.) https://deepmind.com/publications/a-generalist-agent 
-- Langchain Agent
-	- https://twitter.com/nickscamara_/status/1614119040263360512?s=20
-	- https://langchain.readthedocs.io/en/latest/modules/agents/implementations/mrkl.html
 
 
 - Whatsapp + ChatGPT

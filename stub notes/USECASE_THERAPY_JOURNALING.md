@@ -1,1 +1,0 @@
-https://twitter.com/danshipper/status/1610316360315273217?s=20&t=zlZmISp8CY_IhODQKuShhw

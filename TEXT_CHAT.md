@@ -36,7 +36,7 @@ a subset of the TEXT.md file focused on chat usecases
 	- Mar 2022 - Inflection AI https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/
 	- Aug 2022 - [Meta Blenderbot 3](https://www.blenderbot.ai/) - open sourced https://www.vox.com/platform/amp/future-perfect/23307252/meta-facebook-bad-ai-chatbot-blenderbot 
 	- Dec 2022 - ChatGPT
-	- jan 2023 - openassistant - chatgpt clone https://youtu.be/QkhPrdJEqgA https://github.com/LAION-AI/Open-Assistant
+	- jan 2023 - openassistant - chatgpt clone https://youtu.be/QkhPrdJEqgA 
 	- PaLM + RLHF open clone https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/
 		- https://github.com/lucidrains/PaLM-rlhf-pytorch
 		- 
@@ -66,9 +66,7 @@ a subset of the TEXT.md file focused on chat usecases
 	- Google is exploring dimensions like “interestingness” and “factuality” to ensure LaMDA’s responses are compelling, correct and adhere to the AI Principles.
 - Quora Poe: poe.com https://techcrunch.com/2022/12/21/quora-launches-poe-a-way-to-talk-to-ai-chatbots-like-chatgpt
 - Jasper Chat: jasper.ai/chat
-- https://trysentient.com/ Sentient reads and learns your documentation, wherever it is. Powerful admin controls ensure that Sentient only has access to the documents you want it to see.
 - replit ghostwriter chat
-- deepmind sparrow (unreleased)
 
 ## Chat Tools
 
@@ -82,13 +80,9 @@ a subset of the TEXT.md file focused on chat usecases
 ## Anthropic Claude notes
 
 - built on "Constitutional AI" - AnthropicLM v4-23 https://www.anthropic.com/constitutional.pdf
-	- reinforcement learning from AI feedback (RLAIF) 
-	- cloned in Elicit https://twitter.com/Charlie43375818/status/1612569402129678336
 - https://scale.com/blog/chatgpt-vs-claude
 	- https://twitter.com/goodside/status/1615531071319441408
 - https://github.com/taranjeet/awesome-claude
-- funny 
-	- fast and furious convo (beats chatgpt) https://mobile.twitter.com/jayelmnop/status/1612243602633068549
 
 
 ## ChatGPT notes
@@ -349,8 +343,6 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 	- 149 (40th pctile on LSATs) https://twitter.com/pythonprimes/status/1599875927625764864?s=20
 	- MPRE (Multistate Professional Responsibility Examination) exam https://twitter.com/pythonprimes/status/1601819196882501633?s=20
 - Medical exams https://twitter.com/pythonprimes/status/1601785791931240449?s=20
-	- passed USMLE https://twitter.com/noor_siddiqui_/status/1617194845810077697?s=20
-	- Today, it takes 4 years of med school and 2+ years of clinical rotations to pass. It tests ambiguous scenarios & closely-related differential diagnoses
 - teaching exams
 	- New York State Aug 2022 English regent, 22/24 (91.6%) https://twitter.com/pythonprimes/status/1601965894682427394?s=20
 	- New York State Aug 2022 Chemistry regent, 35/45 (77.7%) on MC portion (excl 5 questions that depend on photos) [https://nysedregents.org/Chemistry/](https://t.co/DCozXlmQzN)

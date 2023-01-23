@@ -38,7 +38,6 @@ This Readme is just the high level overview of the space; you should see the mos
 - video
   - img2img of famous movie scenes ([lalaland](https://twitter.com/TomLikesRobots/status/1565678995986911236))
     - [img2img transforming actor](https://twitter.com/LighthiserScott/status/1567355079228887041?s=20&t=cBH4EGPC4r0Earm-mDbOKA) with ebsynth + koe_recast
-    - how ebsynth works https://twitter.com/TomLikesRobots/status/1612047103806545923?s=20
   - virtual fashion ([karenxcheng](https://twitter.com/karenxcheng/status/1564626773001719813))
   - [seamless tiling images](https://twitter.com/replicatehq/status/1568288903177859072?s=20&t=sRd3HRehPMcj1QfcOwDMKg)
   - evolution of scenes ([xander](https://twitter.com/xsteenbrugge/status/1558508866463219712))
@@ -79,9 +78,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
 
 - https://www.gwern.net/GPT-3#prompts-as-programming
 - https://learnprompting.org/
-
-### Beginner Reads
-
+- beginner
   - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
   - google LAMDA intro https://aitestkitchen.withgoogle.com/how-lamda-works
   - humanloop prolpt engineering 101 https://website-olo3k29b2-humanloopml.vercel.app/blog/prompt-engineering-101
@@ -96,9 +93,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
     - https://www.jonstokes.com/p/ai-content-generation-part-1-machine
     - https://www.protocol.com/generative-ai-startup-landscape-map
     - https://twitter.com/saranormous/status/1572791179636518913
-
-### Intermediate Reads
-
+- Intermediate
   - openai prompt eng cookbook https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
   - Recap of 2022's major AI developments https://www.deeplearning.ai/the-batch/issue-176/
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
@@ -114,31 +109,27 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
     - minor parameter parameter difference study (steps, clamp_max, ETA, cutn_batches, etc) https://twitter.com/KyrickYoung/status/1500196286930292742
     - Generative AI: Autocomplete for everything https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything?sd=pf
     - [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)  good paper with the development history of the GPT family of models and how the capabilities developed
-
-
-### Advanced Reads
-
-- Transformers from scratch https://e2eml.school/transformers.html
-	- transformers vs LSTM https://medium.com/analytics-vidhya/why-are-lstms-struggling-to-matchup-with-transformers-a1cc5b2557e3
-	- transformer code walkthru https://twitter.com/mark_riedl/status/1555188022534176768
-- karpathy on transformers
-	- https://twitter.com/karpathy/status/1582807367988654081
-	- Build GPT from scratch https://www.youtube.com/watch?v=kCc8FmEb1nY
-- [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
-	- Emergent few-shot prompted tasks: BIG-Bench and MMLU benchmarks
-	- Emergent prompting strategies
-		- [Instruction-following](https://openreview.net/forum?id=gEZrGCozdqR)
-		- [Scratchpad](https://openreview.net/forum?id=iedYJm92o0a)
-		- [Using open-book knowledge for fact checking](https://arxiv.org/abs/2112.11446)
-		- [Chain-of-thought prompting](https://arxiv.org/abs/2201.11903)
-		- [Differentiable search index](https://arxiv.org/abs/2202.06991)
-		- [Self-consistency](https://arxiv.org/abs/2203.11171)
-		- [Leveraging explanations in prompting](https://arxiv.org/abs/2204.02329)
-		- [Least-to-most prompting](https://arxiv.org/abs/2205.10625)
-		- [Zero-shot chain-of-thought](https://arxiv.org/abs/2205.11916)
-		- [Calibration via P(True)](https://arxiv.org/abs/2207.05221)
-		- [Multilingual chain-of-thought](https://arxiv.org/abs/2210.03057)
-		- [Ask-me-anything prompting](https://arxiv.org/abs/2210.02441)
+- Advanced
+	- Transformers from scratch https://e2eml.school/transformers.html
+		- transformers vs LSTM https://medium.com/analytics-vidhya/why-are-lstms-struggling-to-matchup-with-transformers-a1cc5b2557e3
+	- karpathy on transformers
+		- https://twitter.com/karpathy/status/1582807367988654081
+		- Build GPT from scratch https://www.youtube.com/watch?v=kCc8FmEb1nY
+	- [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
+		- Emergent few-shot prompted tasks: BIG-Bench and MMLU benchmarks
+		- Emergent prompting strategies
+			- [Instruction-following](https://openreview.net/forum?id=gEZrGCozdqR)
+			- [Scratchpad](https://openreview.net/forum?id=iedYJm92o0a)
+			- [Using open-book knowledge for fact checking](https://arxiv.org/abs/2112.11446)
+			- [Chain-of-thought prompting](https://arxiv.org/abs/2201.11903)
+			- [Differentiable search index](https://arxiv.org/abs/2202.06991)
+			- [Self-consistency](https://arxiv.org/abs/2203.11171)
+			- [Leveraging explanations in prompting](https://arxiv.org/abs/2204.02329)
+			- [Least-to-most prompting](https://arxiv.org/abs/2205.10625)
+			- [Zero-shot chain-of-thought](https://arxiv.org/abs/2205.11916)
+			- [Calibration via P(True)](https://arxiv.org/abs/2207.05221)
+			- [Multilingual chain-of-thought](https://arxiv.org/abs/2210.03057)
+			- [Ask-me-anything prompting](https://arxiv.org/abs/2210.02441)
   - Eugene Yan explanation of the Text to Image stack https://eugeneyan.com/writing/text-to-image/
   - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
   - 10 years of Image generation history https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
@@ -151,16 +142,9 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Google released PartiPrompts as a benchmark: https://parti.research.google/ "PartiPrompts (P2) is a rich set of over 1600 prompts in English that we release as part of this work. P2 can be used to measure model capabilities across various categories and challenge aspects."
 - Video tutorials
   - Pixel art https://www.youtube.com/watch?v=UvJkQPtr-8s&feature=youtu.be
-- History of papers
-	- 2008: Unified Architecture for NLP (Collobert-Weston) https://twitter.com/ylecun/status/1611921657802768384
-	- 2015: [Semi-supervised sequence learning](https://arxiv.org/abs/1511.01432) https://twitter.com/deliprao/status/1611896130589057025?s=20
-	- 2017: Transformers (Vaswani et al)
-	- 2018: GPT (Radford et al)
-	- 
 - Misc
   - StabilityAI CIO perspective https://danieljeffries.substack.com/p/the-turning-point-for-truly-open?sd=pf
   - https://github.com/awesome-stable-diffusion/awesome-stable-diffusion
-  - https://github.com/microsoft/LMOps guide to msft prompt research
 
 ## Communities
 
