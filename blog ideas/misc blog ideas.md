@@ -1,4 +1,10 @@
 
+## irresponsible foomerism
+
+- big circle small circle
+- https://twitter.com/emollick/status/1617270215154323457?s=46&t=f3zHInVHRlkYqdRRaMrRbw
+
+
 ## FLOPS is all you need
 
 https://simonwillison.net/2023/Jan/13/semantic-search-answers/
