@@ -104,6 +104,10 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 
 nice trick to mix images https://twitter.com/javilopen/status/1613107083959738369
 
+"midjourney style" - just feed "prompt" to it https://twitter.com/rainisto/status/1606221760189317122
+
+or emojis: https://twitter.com/LinusEkenstam/status/1616841985599365120
+
 ### DallE
 
 - dallery gallery + prompt book https://news.ycombinator.com/item?id=32322329

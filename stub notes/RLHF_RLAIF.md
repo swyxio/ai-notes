@@ -41,9 +41,10 @@ https://twitter.com/cwolferesearch/status/1616896611828830208?s=46&t=_aRhLI2212s
 
 Recently, researchers used LLMs to generate 154 evaluation datasets and even created an interactive demo for the data!
 
-evals.anthropic.com/model-written/
+evals.anthropic.com/model-written/ (thread https://twitter.com/AnthropicAI/status/1604883576218341376?s=20, evals https://github.com/anthropics/evals)
 
 This synthetic data was used to study LLM behavior and uncover a couple of really interesting results. [4/9]
+- larger LMs are more sycophantic, repeating back a user’s views as their own in 75-98% of conversations. https://twitter.com/AnthropicAI/status/1604883586103926784?s=20
 
 ## Quotes
 

@@ -241,6 +241,8 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 	- tools that make tools (toolbot.ai)
 	- https://lex.page ([announcement](https://twitter.com/nbashaw/status/1581673516360876032))
 	- CLI https://twitter.com/KevinAFischer/status/1601883697061380096?s=20
+	- Zapier OpenAI integrations https://zapier.com/apps/openai/integrations
+	- SlackGPT https://zapier.com/shared/query-gpt-3-via-a-slack-channel/a7551c53beda75b3bf65c315f027de04a4b323ef
 - Writing
 	- Verb (fiction) https://twitter.com/verbforwriters/status/1603051444134895616
 	- Orchard https://www.orchard.ink/doc/201a7f63-731e-4487-926a-fdf348f1b00c
@@ -254,6 +256,10 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 
 - [Humanloop.com](https://humanloop.com) Playground - variable interpolations + api endpoints, collect generations with feedback
 - [Everyprompt.com]( https://everyprompt.com) Playground - similar to above with ux improvements
+- Introducing [http://Promptable.ai](https://t.co/xbYN1gYHs7) The Ultimate Workspace for Prompt Engineering
+	- 1) A Delightful Prompt Editor - Organize Prompts in Folders. - Stream completions. - Add variables. - Change Model Parameters (even custom models!)
+	- 2) Batch Testing! We built a table that you can run completions on to evaluate your prompts How? - Add multiple inputs that your prompt needs to handle - Click run and process them in batch. - Add annotation columns (MultiSelect, Markdown) to keep track of the status of Inputs
+	- 3) Version and Deploy. You're happy with your completions, You added some test cases. It's time to ship! Deploy your prompt and fetch the latest version from our API. Simple storage. No added latency between you and your LLM.
 - [Langchain](https://github.com/hwchase17/langchain) python package - implements many techniques
 - Lamdaprompt https://github.com/approximatelabs/lambdaprompt 
 	- used in pandas extension https://github.com/approximatelabs/sketch
