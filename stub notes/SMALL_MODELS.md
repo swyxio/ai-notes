@@ -11,3 +11,6 @@ Massive Language Models Can Be Accurately Pruned in One-Shot
 https://arxiv.org/abs/2202.08906 [**ST-MoE: Designing Stable and Transferable Sparse Expert Models**](https://arxiv.org/abs/2202.08906)
 
 Best sparse model paper. Meticulous experiments, comprehensive evals and the goto reference for all sparse modeling
+
+
+H3 state space models https://twitter.com/mathemagic1an/status/1617620133182332928?s=46&t=I3QXnpdfF5CXpszIYkv4pQ
