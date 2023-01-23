@@ -79,6 +79,12 @@ compression
 - https://en.wikipedia.org/wiki/Hutter_Prize
 
 
+stable diffusion costs
+- https://overcast.fm/+34A2VOlx0/32:33
+- sd1 took 200,000 A100 hours to... Like 600k retail
+- openclip 5m
+- We had a machine learning ops team of four people managing 4,000 A100s. Now we're up to nearly 6,000. 
+
 "Chinchilla's Wild Implications" [https://lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications](https://t.co/fgyyHePwZ8)
 - to train PaLM 540B optimally you need 6.7T tokens (5x chinchilla)
 - https://twitter.com/ethanCaballero/status/1554153812432240643?s=20
