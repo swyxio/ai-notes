@@ -247,6 +247,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
     - https://twitter.com/alexjkwang/status/1603408050005557249?s=20
   - Deepmind Dramatron https://deepmind.github.io/dramatron/details.html for **co-writing** theatre scripts and screenplays. Starting from a log line, Dramatron interactively generates character descriptions, plot points, location descriptions and dialogue. These generations provide human authors with material for compilation, editing, and rewriting.
   - BearlyAI https://twitter.com/TrungTPhan/status/1597623720239329280f
+- google sheets https://twitter.com/mehran__jalali/status/1608159307513618433
 
 ## GPT tooling
 

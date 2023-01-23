@@ -64,7 +64,7 @@ This Readme is just the high level overview of the space; you should see the mos
 -  text products
   - Jasper
   - gpt3 email https://github.com/sw-yx/gpt3-email
-  - gpt3() in google sheet [2020](https://twitter.com/pavtalk/status/1285410751092416513?s=20&t=ppZhNO_OuQmXkjHQ7dl4wg), [2022](https://twitter.com/shubroski/status/1587136794797244417) - [sheet](https://docs.google.com/spreadsheets/d/1YzeQLG_JVqHKz5z4QE9wUsYbLoVZZxbGDnj7wCf_0QQ/edit)
+  - gpt3() in google sheet [2020](https://twitter.com/pavtalk/status/1285410751092416513?s=20&t=ppZhNO_OuQmXkjHQ7dl4wg), [2022](https://twitter.com/shubroski/status/1587136794797244417) - [sheet](https://docs.google.com/spreadsheets/d/1YzeQLG_JVqHKz5z4QE9wUsYbLoVZZxbGDnj7wCf_0QQ/edit) google sheets https://twitter.com/mehran__jalali/status/1608159307513618433
   - https://www.summari.com/ Summari helps busy people read more
 - sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880
 - base10 market map https://twitter.com/letsenhance_io/status/1594826383305449491

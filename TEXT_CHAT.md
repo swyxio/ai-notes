@@ -200,6 +200,7 @@ sorted in rough descending order of impact
   - song in different styles https://twitter.com/charles_irl/status/1598319027327307785
   - in the style of the king james bible https://twitter.com/tqbf/status/1598513757805858820
   - {{ popular song}} in the style of the canturbury tales https://twitter.com/jonathanstray/status/1598298680548794368
+  - rpg space game emulation https://techhub.social/@alexrudloff/109543080987029751
 - emulating machines and systems
   - "a virtual machine" - creating files, browsing the internet etc https://twitter.com/317070/status/1599152176344928256
   - boot up a BBS into DOS5.0 and open chatrooms https://twitter.com/gfodor/status/1599220837999345664
