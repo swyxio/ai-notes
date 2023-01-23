@@ -56,6 +56,9 @@ https://news.ycombinator.com/item?id=33663486
 		- Everything happens privately on your computer. In order to achieve fast latency locally, we use embeddings or a small fine-tuned model.
 		- The data is from Kaggle's quotes database, and the embeddings were computed using SentenceTransformer, which then runs locally on ASR. I also finetuned a small T5 model that sorta works (but goes crazy a lot).
 	- https://twitter.com/ggerganov/status/1605322535930941441
+- language teacher
+	- quazel https://news.ycombinator.com/item?id=32993130
+	- https://twitter.com/JavaFXpert/status/1617296705975906306?s=20
 
 ## Text to Speech
 
