@@ -240,13 +240,16 @@ SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
 - https://twitter.com/EMostaque/status/1598131202044866560 20x speed up, convergence in 1-4 steps
 	- https://arxiv.org/abs/2210.03142
 	- "We already reduced time to gen 50 steps from 5.6s to 0.9s working with nvidia"
-
-## SD2 vs SD1 user notes
-
+	- https://arxiv.org/abs/2210.03142
+		- For diffusion models trained on the latent-space (e.g., Stable Diffusion), our approach is able to generate high-fidelity images using as few as 1 to 4 denoising steps, accelerating inference by at least 10-fold compared to existing methods on ImageNet 256x256 and LAION datasets. We further demonstrate the effectiveness of our approach on text-guided image editing and inpainting, where our distilled model is able to generate high-quality results using as few as 2-4 denoising steps.
 - Stable diffusion speed progress  https://www.listennotes.com/podcasts/the-logan-bartlett/ep-46-stability-ai-ceo-emad-8PQIYcR3r2i/
 	- Aug 2022 - 5.6s/image
 	- Dec 2022 - 0.9s/image
 	- Jan 2022 - 30 images/s (100x speed increase)
+
+## SD2 vs SD1 user notes
+
+
 - Comparisons
   - https://twitter.com/dannypostmaa/status/1595612366770954242?s=46
   - https://www.reddit.com/r/StableDiffusion/comments/z3ferx/xy_plot_comparisons_of_sd_v15_ema_vs_sd_20_x768/

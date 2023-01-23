@@ -17,7 +17,11 @@
 	- https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/ai_and_compute.png?raw=true
 	- https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/hw_scaling.png?raw=true
 	- analysis https://www.youtube.com/watch?v=5tmGKTNW8DQ
+- you can run GLM-130B on a local machine https://twitter.com/alexjc/status/1617152800571416577?s=20
+- chinchilla 67b outperforms GPT3 175b - better data and longer training
+- instructgpt 1.3b outperforms GPT3 175b - with same performance
 - 2020 https://huggingface.co/calculator/  How Big Should My Language Model Be?  ## There is an optimal time to stop training (and it's earlier than you think)
+
 
 ## Infrastructure
 
