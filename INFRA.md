@@ -17,6 +17,7 @@
 	- https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/ai_and_compute.png?raw=true
 	- https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/hw_scaling.png?raw=true
 	- analysis https://www.youtube.com/watch?v=5tmGKTNW8DQ
+- 2020 https://huggingface.co/calculator/  How Big Should My Language Model Be?  ## There is an optimal time to stop training (and it's earlier than you think)
 
 ## Infrastructure
 
@@ -88,6 +89,7 @@ https://twitter.com/pommedeterre33/status/1614927584030081025?s=46&t=HS-dlJsERZX
 - 30b params can beat GPT175B - 5x cheaper to hose, 2x cheaper to train https://twitter.com/calumbirdo/status/1615440420648935445
 	- https://howmanyparams.com/
 	- Scaling Laws for Generative Mixed-Modal Language Models - Aghajanyan et. al
+- [ @BigscienceW](https://twitter.com/BigscienceW)'s first model (T0pp) is out! Highlights: 1/16th the size of GPT-3 but outperforms GPT-3 when prompted correctly
 - sparseGPT https://arxiv.org/abs/2301.00774 When executing SparseGPT on the largest available open-source models, OPT-175B and BLOOM-176B, we can reach 60% sparsity with negligible increase in perplexity: remarkably, more than 100 billion weights from these models can be ignored at inference time.
 - For single-GPU performance, there are 3 main areas your model might be bottlenecked by. Those are: 1. Compute, 2. Memory-Bandwidth, and 3. Overhead. Correspondingly, the optimizations that matter *also* depend on which regime you're in. https://horace.io/brrr_intro.html ([tweet](https://twitter.com/cHHillee/status/1503803015941160961))
 	- [![https://pbs.twimg.com/media/FjkqgJ8VUAAN4oA?format=jpg&name=medium](https://pbs.twimg.com/media/FjkqgJ8VUAAN4oA?format=jpg&name=medium)](https://twitter.com/cHHillee/status/1601371646756933632?s=20)

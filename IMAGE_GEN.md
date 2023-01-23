@@ -243,6 +243,10 @@ SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
 
 ## SD2 vs SD1 user notes
 
+- Stable diffusion speed progress  https://www.listennotes.com/podcasts/the-logan-bartlett/ep-46-stability-ai-ceo-emad-8PQIYcR3r2i/
+	- Aug 2022 - 5.6s/image
+	- Dec 2022 - 0.9s/image
+	- Jan 2022 - 30 images/s (100x speed increase)
 - Comparisons
   - https://twitter.com/dannypostmaa/status/1595612366770954242?s=46
   - https://www.reddit.com/r/StableDiffusion/comments/z3ferx/xy_plot_comparisons_of_sd_v15_ema_vs_sd_20_x768/

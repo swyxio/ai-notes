@@ -44,6 +44,7 @@ https://news.ycombinator.com/item?id=33663486
 - https://skyscraper.ai/ using assemblyai
 - Read.ai - https://www.read.ai/transcription Provides transcription & diarization and the bot integrates into your calendar. It joins all your meetings for zoom, teams, meet, webex, tracks talk time, gives recommendations, etc.
 	- https://huggingface.co/spaces/vumichien/whisper-speaker-diarization This space uses Whisper models from [**OpenAI**](https://github.com/openai/whisper) to recoginze the speech and ECAPA-TDNN model from [**SpeechBrain**](https://github.com/speechbrain/speechbrain) to encode and clasify speakers
+	- https://github.com/Majdoddin/nlp pyannote diarization
 - https://news.ycombinator.com/item?id=33665692
 
 ### Products

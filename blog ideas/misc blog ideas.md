@@ -68,6 +68,16 @@ varun
 
 nice chart of flops https://ourworldindata.org/brief-history-of-ai
 
+
+compression
+- stable diffusion - 100k gb compressed to 1.2gb https://www.listennotes.com/podcasts/the-logan-bartlett/ep-46-stability-ai-ceo-emad-8PQIYcR3r2i/ 21mins in
+- https://en.wikipedia.org/wiki/Hutter_Prize
+
+
+"Chinchilla's Wild Implications" [https://lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications](https://t.co/fgyyHePwZ8)
+- to train PaLM 540B optimally you need 6.7T tokens (5x chinchilla)
+- https://twitter.com/ethanCaballero/status/1554153812432240643?s=20
+
 gpt3 data - The training dataset is something like 500B tokens and not all of that is used (common crawl is processed less than once),
 
 https://news.ycombinator.com/item?id=34400693
