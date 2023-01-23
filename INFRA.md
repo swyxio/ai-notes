@@ -88,6 +88,7 @@ https://twitter.com/pommedeterre33/status/1614927584030081025?s=46&t=HS-dlJsERZX
 - https://github.com/hpcaitech/ColossalAI  Colossal-AI provides a collection of parallel components for you. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training and inference in a few lines.
 
 
+
 ## Optimization
 
 - 30b params can beat GPT175B - 5x cheaper to hose, 2x cheaper to train https://twitter.com/calumbirdo/status/1615440420648935445
@@ -106,6 +107,11 @@ https://twitter.com/pommedeterre33/status/1614927584030081025?s=46&t=HS-dlJsERZX
 		- All of our experiments use public APIs from OpenAI on a moderate budget of just $50-200 per task. The code is already on GitHub
 - mlperf optimization and mosaicml composer https://twitter.com/davisblalock/status/1542276800218247168?s=46&t=_aRhLI2212sARkuArtTutQ
 - Google deep learning tuning playbook https://github.com/google-research/tuning_playbook
+
+### inference
+
+https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
+scaling up inference
 
 ## hardware issues
 

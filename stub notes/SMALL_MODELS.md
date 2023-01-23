@@ -1,3 +1,10 @@
+## opinions
+
+large models are demoralizing https://www.reddit.com/r/MachineLearning/comments/wiqjxv/d_the_current_and_future_state_of_aiml_is/
+
+## directions
+
+
 CRAMMING: TRAINING A LANGUAGE MODEL ON A SINGLE GPU IN ONE DAY https://arxiv.org/pdf/2212.14034v1.pdf
 
 

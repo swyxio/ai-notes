@@ -12,6 +12,7 @@ https://overcast.fm/+34A2VOlx0/11:51
 
 ## FLOPS is all you need
 
+
 https://simonwillison.net/2023/Jan/13/semantic-search-answers/
 The OpenAI embedding model lets you take any string of text (up to a ~8,000 word length limit) and turn that into a list of 1,536 floating point numbers. We’ll call this list the “embedding” for the text.
 
@@ -90,6 +91,7 @@ stable diffusion costs
 - https://twitter.com/ethanCaballero/status/1554153812432240643?s=20
 
 gpt3 data - The training dataset is something like 500B tokens and not all of that is used (common crawl is processed less than once),
+
 
 https://news.ycombinator.com/item?id=34400693
 The human brain only consumes around 20W [1], but for numerical calculations it is massively outclassed by an ARM chip consuming a tenth of that. Conversely, digital models of neural networks need a huge power budget to get anywhere close to a brain; this estimate [2] puts training GPT-3 at about a TWh, which is about six million years' of power for a single brain. 
