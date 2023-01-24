@@ -47,6 +47,7 @@
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds
 - [Gptcommit: Never write a commit message again (with the help of GPT-3)](https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/)
 
+- santacoder typosaurus https://twitter.com/corbtt/status/1616270918774575105?s=46&t=ZSeI0ovGBee8JBeXEe20Mg semantic linter that spots errors in code
 
 - grid.io
 - qqbot - dan robinson?
