@@ -12,6 +12,10 @@
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+
+stable diffusion and automatic1111 guide https://www.reddit.com/r/StableDiffusion/comments/109h9sy/i_made_a_somewhat_long_tutorial_on_automatic1111s/?s=8
+
+
 ## prompt tooling
 
 - MagicPrompt enhancer https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion

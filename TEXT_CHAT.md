@@ -363,6 +363,7 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 - Deciding Cause-Effect pairs: obtains SoTA accuracy on the Tuebingen causal discovery benchmark, spanning cause-effect pairs across physics, biology, engineering and geology. Zero-shot, no training involved. https://twitter.com/amt_shrma/status/1605240883149799424
 	- The benchmark contains 108 pairs of variables and the task is to infer which one causes the other. Best accuracy using causal discovery methods is 70-80%. On 75 pairs we've evaluated, ChatGPT obtains 92.5%.
 	- https://github.com/amit-sharma/chatgpt-causality-pairs
+- We call the collected dataset the Human ChatGPT Comparison Corpus (HC3). Based on the HC3 dataset, we study the characteristics of ChatGPT's responses, the differences and gaps from human experts, and future directions for LLMs. [arxiv.org/pdf/2301.07597v1.pdf](https://arxiv.org/pdf/2301.07597v1.pdf)
 
 ### recap threads
 
