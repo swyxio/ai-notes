@@ -10,6 +10,11 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
+## what is semantic search?
+
+https://txt.cohere.ai/future-of-semantic-search-nils-reimers/
+
+
 ## Search Products
 
 - Metaphor https://metaphor.systems/
