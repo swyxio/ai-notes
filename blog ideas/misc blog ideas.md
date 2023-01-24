@@ -191,7 +191,9 @@ languagemodels help you do things that dont scale
 	- LSAT, Chemistry, real estate, medical boards...
 - make your own search engine
 	- https://twitter.com/rileytomasek/status/1603854647575384067?s=20
-
+- sahil lavignia book author question
+	- https://github.com/slavingia/askmybook
+	- https://m.youtube.com/watch?v=V3RTA9ZbEPw&feature=youtu.be
 
 ## what's needed in 2023
 

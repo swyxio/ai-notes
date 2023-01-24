@@ -3,3 +3,6 @@
 - dagster blogpost
 - simonw blogpost
 - https://twitter.com/jzlegion/status/1607915336044785664 nothing disclosed but can ask
+- sahil lavignia book author question
+	- https://github.com/slavingia/askmybook
+	- https://m.youtube.com/watch?v=V3RTA9ZbEPw&feature=youtu.be
