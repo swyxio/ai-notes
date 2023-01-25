@@ -378,6 +378,8 @@ threads that recap stuff above
 - https://twitter.com/sytelus/status/1600250786025308162?s=20
 
 
+"ChatGPT cant kill anything worth preserving" https://biblioracle.substack.com/p/chatgpt-cant-kill-anything-worth?sd=pf
+
 ## Misc Competing OSS Chat stuff
 
 - https://github.com/BlinkDL/ChatRWKV

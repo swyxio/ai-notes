@@ -60,3 +60,16 @@ ai playlists
 - https://twitter.com/playlist_ai https://twitter.com/brettunhandled/status/1613179511218278401
 - naturallanguageplaylist.com https://news.ycombinator.com/item?id=34444286
 - https://news.ycombinator.com/item?id=34448334 Show HN: Music Audio Search Engine Using OpenAI's Embeddings on GPT Descriptions
+
+## support chatbots
+
+-   **Chatbot/support agent assist**
+
+Tools like LaMDA, Rasa, Cohere, Forethought, and Cresta can be used to power chatbots or enhance the productivity of customer care personnel.
+https://www.marktechpost.com/2022/11/29/what-are-large-language-models-llms-applications-and-types-of-llms/
+
+### educaiton
+
+-   **Personalized tutoring**
+
+Korbit is supplementing massive open online courses, while Replit is aiding in the comprehension of computer code.
