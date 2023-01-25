@@ -37,6 +37,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 	- apparently still good https://twitter.com/irenesolaiman/status/1613558565079244802?s=46&t=v8V8gcsF4CnnTo8_3SnG_Q
 - gptzero https://twitter.com/edward_the6/status/1610067688449007618?s=46&t=4T9fbP0VXiePXx7J1Wx88A
 - scott aaronson at openai watermarking https://twitter.com/jeremyphoward/status/1610932164190949378
+- A Watermark for Large Language Models: arxiv.org/abs/2301.10226
 - originality.ai https://originality.ai/?lmref=KAmPVQ
 
 ## video generation
@@ -60,16 +61,3 @@ ai playlists
 - https://twitter.com/playlist_ai https://twitter.com/brettunhandled/status/1613179511218278401
 - naturallanguageplaylist.com https://news.ycombinator.com/item?id=34444286
 - https://news.ycombinator.com/item?id=34448334 Show HN: Music Audio Search Engine Using OpenAI's Embeddings on GPT Descriptions
-
-## support chatbots
-
--   **Chatbot/support agent assist**
-
-Tools like LaMDA, Rasa, Cohere, Forethought, and Cresta can be used to power chatbots or enhance the productivity of customer care personnel.
-https://www.marktechpost.com/2022/11/29/what-are-large-language-models-llms-applications-and-types-of-llms/
-
-### educaiton
-
--   **Personalized tutoring**
-
-Korbit is supplementing massive open online courses, while Replit is aiding in the comprehension of computer code.

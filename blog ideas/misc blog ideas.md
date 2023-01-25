@@ -20,9 +20,6 @@ These numbers are derived from a sophisticated language model. They take a vast 
 
 The distance between two embeddings represents how semantically similar the text is to each other.
 
-https://huggingface.co/blog/large-language-models
-Researchers estimate that the human brain contains an average of [86 billion neurons](https://pubmed.ncbi.nlm.nih.gov/19226510/) and 100 trillion synapses.
-
 varun 
 - a100 - 3.3k flops
 - fp8 compute - 2 petaflops

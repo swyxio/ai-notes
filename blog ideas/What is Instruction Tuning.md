@@ -1,8 +1,5 @@
 reference [[RLHF_RLAIF]]
 
-cohere's instruction tuning
-- https://docs.cohere.ai/docs/command-beta
-
 
 https://twitter.com/zhansheng/status/1583158989889540096?s=46&t=Nd874xTjwniEuGu2d1toQQ
 There are now two flavors of "instruction tuning" going around.
