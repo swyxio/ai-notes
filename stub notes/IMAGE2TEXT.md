@@ -29,3 +29,6 @@ Lip reading!
 
 pulsr io and more from this thread
 https://twitter.com/tunguz/status/1616190582606467089?s=46&t=eCig8-Pc5CuJQeXulVU7qQ
+
+
+Flamingo model https://arxiv.org/abs/2204.14198

@@ -41,6 +41,10 @@ a subset of the TEXT.md file focused on chat usecases
 		- https://github.com/lucidrains/PaLM-rlhf-pytorch
 		- 
 	- Jan 2023 - chatbot on whatsapp with voiceflow https://twitter.com/dnaijatechguy/status/1613542500463181825?s=20
+	- the secret sauce is IFT, RLHF, CoT, and SFT 🤯 
+We explain each of these terms and why they are relevant to ChatGPT by comparing with 4 other dialog agents. https://huggingface.co/blog/dialog-agents
+
+
 
 ## Chat Papers
 
