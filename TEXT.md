@@ -30,6 +30,7 @@ My best timeline of GPT efforts is listed here: https://lspace.swyx.io/p/open-so
   - growing steadily at 200-300 TB *per month* for the last few years.
   - March 2021: 6.4 PB
   - https://commoncrawl.github.io/cc-crawl-statistics/
+  - [OSCAR corpus](https://traces1.inria.fr/oscar/) from INRIA. OSCAR is a huge multilingual corpus obtained by language classification and filtering of [Common Crawl](https://commoncrawl.org/) dumps of the Web.
 - C4: https://paperswithcode.com/dataset/c4
   - **C4** is a colossal, cleaned version of Common Crawl's web crawl corpus. It was based on Common Crawl dataset: https://commoncrawl.org. It was used to train the T5 text-to-text Transformer models.
   - It comes in four variants:

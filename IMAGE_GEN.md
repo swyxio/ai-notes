@@ -235,7 +235,7 @@ SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
 - https://twitter.com/TomLikesRobots/status/1583836870445670401
 - https://twitter.com/multimodalart/status/1583404683204648960
 
-## Distilled Stable Diffusion
+### Distilled Stable Diffusion
 
 - https://twitter.com/EMostaque/status/1598131202044866560 20x speed up, convergence in 1-4 steps
 	- https://arxiv.org/abs/2210.03142

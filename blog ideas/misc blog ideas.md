@@ -197,6 +197,8 @@ languagemodels help you do things that dont scale
 - sahil lavignia book author question
 	- https://github.com/slavingia/askmybook
 	- https://m.youtube.com/watch?v=V3RTA9ZbEPw&feature=youtu.be
+- train lang model from scratch
+	- https://huggingface.co/blog/how-to-train
 
 ## what's needed in 2023
 
