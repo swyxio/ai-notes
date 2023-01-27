@@ -140,8 +140,10 @@ energy
 
 ai cheating detection
 perplexity with gptzero
+detectgpt
+https://twitter.com/chelseabfinn/status/1618822672489779201?s=46&t=REbUC7rjX6u_QSXYIzeDLw
 
-
+https://twitter.com/_eric_mitchell_/status/1618820358043475969?s=46&t=REbUC7rjX6u_QSXYIzeDLw
 
 ## waves in AI products
 
