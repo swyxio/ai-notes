@@ -82,6 +82,8 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 	-   [**Grounded QA**](https://github.com/cohere-ai/sandbox-grounded-qa)**:**  A powerful, contextualized, factual question-answering Discord bot that uses embeddings, text generation, and web search.
 	-   [**Topically**](https://github.com/cohere-ai/sandbox-topically)**:** A suite of tools that help you use the best of topic modeling to make sense of text collections (messages, articles, emails, news headlines, etc.) using large language models.
 	-   [**Toy Semantic Search**](https://github.com/cohere-ai/sandbox-toy-semantic-search)**:** A simple semantic search engine built with the Cohere API. The search algorithm here is fairly straightforward; it uses embeddings to find the paragraph that matches the question's representation. In text sources, a concrete paragraph containing the answer is most likely to produce the best results.
+- LangChain Chats
+	- https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain This application, developed by [James L. Weaver](https://www.linkedin.com/in/javafxpert/), demonstrates a conversational agent implemented with OpenAI GPT-3.5 and LangChain. When necessary, it leverages tools for complex math, searching the internet, and accessing news and weather. Uses talking heads from [Ex-Human](https://exh.ai/). For faster inference without waiting in queue, you may duplicate the space.
 
 ## Anthropic Claude notes
 
@@ -109,6 +111,10 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - Testing humanity (with GPT2 Output Detector) and injecting humanity
 	- https://twitter.com/fatjoedavies/status/1600092966810316802?s=20
 	- can also use originality.ai, contentatscale.ai for ai detectors
+- the making of
+	- simple english https://www.moreentropy.com/p/startups-and-the-technique-behind The amount of data used to achieve the results in the paper was relatively small. They had people write ~10,000 “good” responses and make ~30,000 ratings. And since the data was spread across a range of use-cases – from copywriting to Q&A, summarization to classification and others – there was an even smaller amount of data for any given use-case. This technique is obtainable for startups.
+	- https://scale.com/blog/chatgpt-reinforcement-learning
+	- post/paper https://openai.com/blog/instruction-following/
 
 
 ### Products

@@ -163,4 +163,5 @@ general consensus is that it's just not very good right now
 - img-to-music via CLIP interrogator => Mubert ([HF space](https://huggingface.co/spaces/fffiloni/img-to-music), [tweet](https://twitter.com/fffiloni/status/1585698118137483276))
 - https://soundraw.io/ https://news.ycombinator.com/item?id=33727550
 - Riffusion https://news.ycombinator.com/item?id=33999162
-- Google AudioLM https://www.technologyreview.com/2022/10/07/1060897/ai-audio-generation/
+- Google AudioLM https://www.technologyreview.com/2022/10/07/1060897/ai-audio-generation/  Google’s new AI can hear a snippet of song—and then keep on playing
+- MusicLM https://google-research.github.io/seanet/musiclm/examples/
