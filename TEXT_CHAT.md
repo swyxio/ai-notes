@@ -129,6 +129,7 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
   - https://github.com/pshihn/gpt-search-helper add ChatGPT results to your search results
 - https://github.com/liady/ChatGPT-pdf add the functionality of exporting it to an image, a PDF file, or create a sharable link
 - https://sharegpt.com/ Share your wildest ChatGPT conversations with one click.
+- browser automation https://twitter.com/divgarg9/status/1619073088192417792?s=46&t=PuOBK71y8IUBOdSULtaskA
 - https://github.com/clmnin/summarize.site ummarize web page content using ChatGPT
   - webchatgpt augment chatgpt with info from internet https://twitter.com/DataChaz/status/1610556519531089921?s=20&t=lWEhFea8VL1jJvbBNVoFcQ
 - Browse and share ChatGPT examples 

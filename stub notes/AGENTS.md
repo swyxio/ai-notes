@@ -14,6 +14,7 @@
 		- make execl formula in google sheets
 		- coachable with human feedback
 	- clone: ACTGPT https://yihui.dev/actgpt
+	- clone https://twitter.com/divgarg9/status/1619073088192417792?s=46&t=PuOBK71y8IUBOdSULtaskA
 - MineDojo, a new open framework to help the community develop generally capable agents. 
 	- MineDojo features a simulator suite based on Minecraft, a massive internet database (YouTube, Wiki, Reddit), and a simple but promising foundation model recipe for agents. https://twitter.com/DrJimFan/status/1595459499732926464
 	  - We argue that there are 3 main ingredients for generalist agents to emerge. 
