@@ -78,6 +78,8 @@ https://news.ycombinator.com/item?id=33663486
 	- tortoise  [https://github.com/neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts)
 		- [https://nonint.com/static/tortoise_v2_examples.html](https://nonint.com/static/tortoise_v2_examples.html)
 		- used in scribepod https://twitter.com/yacinemtb/status/1608993955835957248?s=46&t=ikA-et-is_MNr-8HTO8e1A
+			- https://scribepod.substack.com/p/scribepod-1#details
+			- https://github.com/yacineMTB/scribepod/blob/master/lib/processWebpage.ts#L27
 	- https://github.com/coqui-ai/TTS
 		- previously mozilla TTS
 	- custom voices
