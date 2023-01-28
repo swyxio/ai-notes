@@ -156,6 +156,7 @@ Misc
   - GIMP https://80.lv/articles/a-new-stable-diffusion-plug-in-for-gimp-krita/
   - Photoshop: https://old.reddit.com/r/StableDiffusion/comments/wyduk1/show_rstablediffusion_integrating_sd_in_photoshop/
 	  - https://github.com/isekaidev/stable.art
+	  - https://www.flyingdog.de/sd/
     - download: https://twitter.com/cantrell/status/1574432458501677058
     - https://www.getalpaca.io/
     - demo: https://www.youtube.com/watch?v=t_4Y6SUs1cI and https://twitter.com/cantrell/status/1582086537163919360
