@@ -167,3 +167,4 @@ general consensus is that it's just not very good right now
 - Riffusion https://news.ycombinator.com/item?id=33999162
 - Google AudioLM https://www.technologyreview.com/2022/10/07/1060897/ai-audio-generation/  Google’s new AI can hear a snippet of song—and then keep on playing
 - MusicLM https://google-research.github.io/seanet/musiclm/examples/
+	- reactions https://twitter.com/JacquesThibs/status/1618839343661203456
