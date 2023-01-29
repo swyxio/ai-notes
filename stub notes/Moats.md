@@ -6,3 +6,4 @@
 	- Unique product 
 	- Unique business model
 - sama quote on moats at openai hackathon
+- https://twitter.com/suhail/status/1619745598063931393?s=46&t=ANmVDpni616fhrmmKHrNZA
