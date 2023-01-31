@@ -39,6 +39,8 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 - scott aaronson at openai watermarking https://twitter.com/jeremyphoward/status/1610932164190949378
 - A Watermark for Large Language Models: arxiv.org/abs/2301.10226
 - originality.ai https://originality.ai/?lmref=KAmPVQ
+- openai's detector kinda sucks https://twitter.com/debarghya_das/status/1620501424781291522?s=46&t=h7E2w6SsShO93GgYVM5d8w
+
 
 ## video generation
 
