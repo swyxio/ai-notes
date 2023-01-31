@@ -57,6 +57,7 @@ https://txt.cohere.ai/future-of-semantic-search-nils-reimers/
 		- How does it work? Transcriptions are generated using Whisper and then embedded using the text-embedding-ada-002 model. The vectors are then stored in a pinecone vector database. A user's query is embedded and then used to find similar vectors in the database.
 		- The "Ask" answer uses text-davinci-003 to answer the question given the search results, with instructions not to make stuff up.
 		- https://github.com/rileytomasek/openai-fetch
+- https://news.ycombinator.com/item?id=34598406 Needl YC22
 
 ## Tech notes
 
