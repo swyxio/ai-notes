@@ -23,6 +23,7 @@
   - [theory](https://twitter.com/ethanCaballero/status/1572692314400628739?s=20&t=j_XtR82eEW6Vp28YvodqJQ): whisper is a way to get more tokens from youtube for gpt4
   - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. 
   - whisper running on $300 device https://twitter.com/drjimfan/status/1616471309961269250?s=46&t=4t17Fxog8a65leEnHNZwVw
+  - whisperX with diarization https://twitter.com/maxhbain/status/1619698716914622466?s=46&t=IShe62JuLIKyzHVgSLOdbw https://github.com/m-bain/whisperX
 - https://github.com/ggerganov/whisper.cpp
   High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model:
   - Plain C/C++ implementation without dependencies
