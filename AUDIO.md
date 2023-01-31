@@ -169,4 +169,5 @@ general consensus is that it's just not very good right now
 - Google AudioLM https://www.technologyreview.com/2022/10/07/1060897/ai-audio-generation/  Google’s new AI can hear a snippet of song—and then keep on playing
 - MusicLM https://google-research.github.io/seanet/musiclm/examples/
 	- reactions https://twitter.com/JacquesThibs/status/1618839343661203456
+	- implementation https://github.com/lucidrains/musiclm-pytorch
 - https://arxiv.org/abs/2301.12662 singsong voice generation

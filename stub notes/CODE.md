@@ -46,6 +46,7 @@
 	- https://redmonk.com/jgovernor/2023/01/06/the-future-just-happened-developer-experience-and-ai-are-now-inextricably-linked/
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds
 - [Gptcommit: Never write a commit message again (with the help of GPT-3)](https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/)
+	- yet another https://news.ycombinator.com/item?id=34591733
 
 - santacoder typosaurus https://twitter.com/corbtt/status/1616270918774575105?s=46&t=ZSeI0ovGBee8JBeXEe20Mg semantic linter that spots errors in code
 
