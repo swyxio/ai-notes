@@ -19,3 +19,4 @@
 	-   ROUGE-S — Is any pair of words in a sentence in order, allowing for arbitrary gaps. This can also be called skip-gram concurrence.
 	- it is always best to compute both the **precision** and **recall** and then report the **F-Measure**.
 - SMMRY example https://www.reddit.com/r/MachineLearning/comments/wiqjxv/d_the_current_and_future_state_of_aiml_is/
+- gpt3 davinci 2 comparable to humans arxiv.org/abs/2301.13848
