@@ -69,6 +69,7 @@ This Readme is just the high level overview of the space; you should see the mos
   - https://www.summari.com/ Summari helps busy people read more
 - sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880
 - base10 market map https://twitter.com/letsenhance_io/status/1594826383305449491
+- matt shumer market map https://twitter.com/mattshumer_/status/1620465468229451776 https://docs.google.com/document/d/1sewTBzRF087F6hFXiyeOIsGC1N4N3O7rYzijVexCgoQ/edit
 - game assets - 
 	- emad thread https://twitter.com/EMostaque/status/1591436813750906882
 	- scenario.gg https://twitter.com/emmanuel_2m/status/1593356241283125251

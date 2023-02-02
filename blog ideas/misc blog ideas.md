@@ -95,6 +95,11 @@ stable diffusion costs
 
 gpt3 data - The training dataset is something like 500B tokens and not all of that is used (common crawl is processed less than once),
 
+-   _In a typical year, a child might hear around 10 million words (with huge variance depending on factors such as the [family](https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VVYfmW6XqStfW8MB_k715LCG0W1YzZHS4Ww_v6N6R-BYJ3q3n5V1-WJV7CgQCzW4MTNCW3NPYFqW5ppvZn8V7692W6WkNRS3NlQ9lW4dZmTp4jZSq7Vhk95K84Lg6BN7MpShfdK4_ZW2lwp3g7Y1VNWW8cchlP7Rj_8ZW5chJpG2lmjKbW2ZclWC78xFmFW9lWrpl7HgWNCW3nGmq347VF3MW1B4S4w26333FW2z8kLr5K73zCW3h5QSK7V1_3ZV7hxSd2C3vXsW2FStmG2sW5k_W7Cnmdv7RrX7lW78hWnh4yDlFPW6Q7jKW4ffpx93h5M1)). So, by age 10, the child might have heard 100 million words._ 
+-   _If you read 24/7 for a year at a rate of 250 words per minute, you’d read about 130 million words annually._ 
+-   _GPT-3 was trained on about 500,000 million words._ _An individual human would need to spend dozens of lifetimes reading 24/7 to see the number of words that GPT-3 considered during its training._
+
+
 
 https://news.ycombinator.com/item?id=34400693
 The human brain only consumes around 20W [1], but for numerical calculations it is massively outclassed by an ARM chip consuming a tenth of that. Conversely, digital models of neural networks need a huge power budget to get anywhere close to a brain; this estimate [2] puts training GPT-3 at about a TWh, which is about six million years' of power for a single brain. 
@@ -134,6 +139,9 @@ energy
 	- https://www.theregister.com/2020/11/04/gpt3_carbon_footprint_estimate/
 	- 85,000 kg of CO2 equivalents, the same amount produced by a new car in Europe driving 700,000 km, or 435,000 miles, which is about twice the distance between Earth and the Moon
 
+
+Rocket league
+- -   Nexto learned by playing against itself in approximately [250,000 hours](https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VVYfmW6XqStfW8MB_k715LCG0W1YzZHS4Ww_v6N6R-BYJ3q3n5V1-WJV7CgBTzW12FgKD4y5jKJW1c9JKy5-wF5KW8S9jJt8gxZQvW1fBQKj8MyXrYW3ZhCr16cxgXCVqSbb118MRgFW2MTQmV8zPZWxN85N7SS65FvqN3MHvC0cZzBbW6g3PWw3sGyt7W5HJdr85fVPKPVLRgrn4XHSPXN70rNNDdq0gKW3Tf1gc3g5ybZW90Mnrq8_PXJ9W63drKp5zxGZ7W6SHd4m5SXSMRW5qWB4t1qbGDbW5xp3z_4vZSXMN8tLpP5wgw203cXJ1) (roughly 29 years 24/7) worth of gameplay, typically playing many accelerated games simultaneously. The developers estimate that its performance matches that of the top 1 percent of players. https://www.youtube.com/watch?v=jQHt2O0PkCQ&t=360s
 
 
 ## perplexity
