@@ -34,7 +34,7 @@ a subset of the TEXT.md file focused on chat usecases
 		-   **June**: Today at [WWDC](http://www.wired.com/2016/06/heres-everything-apple-announced-wwdc-2016/), Apple _finally_ opened up iMessage to 3rd-party integrations and announced the Siri SDK
 - Third Chatbot wave
 	- Mar 2022 - Inflection AI https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/
-	- Aug 2022 - [Meta Blenderbot 3](https://www.blenderbot.ai/) - open sourced https://www.vox.com/platform/amp/future-perfect/23307252/meta-facebook-bad-ai-chatbot-blenderbot 
+	- Aug 2022 - [Meta Blenderbot 3](https://www.blenderbot.ai/) - open sourced https://www.vox.com/platform/amp/future-perfect/23307252/meta-facebook-bad-ai-chatbot-blenderbot  [https://blenderbot.ai/](https://blenderbot.ai/)
 	- Dec 2022 - ChatGPT
 	- jan 2023 - openassistant - chatgpt clone https://youtu.be/QkhPrdJEqgA https://github.com/LAION-AI/Open-Assistant
 	- PaLM + RLHF open clone https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/
