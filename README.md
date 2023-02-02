@@ -123,6 +123,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
 - Transformers from scratch https://e2eml.school/transformers.html
 	- transformers vs LSTM https://medium.com/analytics-vidhya/why-are-lstms-struggling-to-matchup-with-transformers-a1cc5b2557e3
 	- transformer code walkthru https://twitter.com/mark_riedl/status/1555188022534176768
+	- transformer familyi https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
 - karpathy on transformers
 	- https://twitter.com/karpathy/status/1582807367988654081
 	- Build GPT from scratch https://www.youtube.com/watch?v=kCc8FmEb1nY
