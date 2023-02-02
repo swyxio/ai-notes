@@ -371,6 +371,7 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 	- https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/
 	- leans libertarian-left https://twitter.com/DavidRozado/status/1599865724037922818
 	- updated to centrist https://twitter.com/DavidRozado/status/1606249231185981440
+	- biases https://davidrozado.substack.com/p/openaicms
 - Deciding Cause-Effect pairs: obtains SoTA accuracy on the Tuebingen causal discovery benchmark, spanning cause-effect pairs across physics, biology, engineering and geology. Zero-shot, no training involved. https://twitter.com/amt_shrma/status/1605240883149799424
 	- The benchmark contains 108 pairs of variables and the task is to infer which one causes the other. Best accuracy using causal discovery methods is 70-80%. On 75 pairs we've evaluated, ChatGPT obtains 92.5%.
 	- https://github.com/amit-sharma/chatgpt-causality-pairs
