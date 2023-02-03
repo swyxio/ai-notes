@@ -36,6 +36,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 - gpt detector (huggingface.co/openai-detector) in 2019
 	- apparently still good https://twitter.com/irenesolaiman/status/1613558565079244802?s=46&t=v8V8gcsF4CnnTo8_3SnG_Q
 - gptzero https://twitter.com/edward_the6/status/1610067688449007618?s=46&t=4T9fbP0VXiePXx7J1Wx88A
+	- https://gptzero.substack.com/p/gptzerox
 - scott aaronson at openai watermarking https://twitter.com/jeremyphoward/status/1610932164190949378
 - A Watermark for Large Language Models: arxiv.org/abs/2301.10226
 - originality.ai https://originality.ai/?lmref=KAmPVQ

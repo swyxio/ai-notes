@@ -9,3 +9,4 @@
 	- passed USMLE https://twitter.com/noor_siddiqui_/status/1617194845810077697?s=20
 	- another USMLE research https://twitter.com/valentinlievin/status/1605965336179658766
 	- Today, it takes 4 years of med school and 2+ years of clinical rotations to pass. It tests ambiguous scenarios & closely-related differential diagnoses
+- Glass AI differential diagnosis https://twitter.com/AiBreakfast/status/1620128621821317125

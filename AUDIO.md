@@ -167,6 +167,8 @@ general consensus is that it's just not very good right now
 - https://soundraw.io/ https://news.ycombinator.com/item?id=33727550
 - Riffusion https://news.ycombinator.com/item?id=33999162
 - Google AudioLM https://www.technologyreview.com/2022/10/07/1060897/ai-audio-generation/  Google’s new AI can hear a snippet of song—and then keep on playing
+- AudioLDM https://github.com/haoheliu/AudioLDM speech, soud effects, music
+	- https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation
 - MusicLM https://google-research.github.io/seanet/musiclm/examples/
 	- reactions https://twitter.com/JacquesThibs/status/1618839343661203456
 	- implementation https://github.com/lucidrains/musiclm-pytorch

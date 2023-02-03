@@ -168,6 +168,7 @@ https://twitter.com/_eric_mitchell_/status/1618820358043475969?s=46&t=REbUC7rjX6
 	- Pebbley -  inpainting for product placement https://twitter.com/alfred_lua/status/1610641101265981440?s=46&t=RMPT1jJedELVkL2Aby-40g
 	- Flair AI https://twitter.com/mickeyxfriedman/status/1613251965634465792
 	- https://www.stylized.ai/
+	- booth ai https://twitter.com/nick_locascio?s=21&t=0HHr1d45XGJ24amPDvbz5w
 
 ## best ai newsletters
 
