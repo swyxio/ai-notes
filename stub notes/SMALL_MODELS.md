@@ -33,3 +33,9 @@ H3 state space models https://twitter.com/mathemagic1an/status/16176201331823329
 
 We present FLAME, a T5-based model trained on Excel formulas that leverages domain insights to achieve competitive performance with a substantially smaller model (60M parameters) and two orders of magnitude less training data. We curate a training dataset using sketch deduplication, introduce an Excel-specific formula tokenizer for our model, and use domain-specific versions of masked span prediction and noisy auto-encoding as pretraining objectives. We evaluate FLAME on formula repair, formula auto-completion, and a novel task called syntax reconstruction. FLAME (60M) can outperform much larger models, such as Codex-Davinci (175B), Codex-Cushman (12B), and CodeT5 (220M), in 6 out of 10 settings.
 https://news.ycombinator.com/item?id=34607738
+
+## small hardware
+
+- ESP32 https://news.ycombinator.com/item?id=34632571 https://maxlab.io/store/edge-ai-camera/
+- tensorflow lite https://blog.tensorflow.org/2023/02/tensorflow-lite-micro-with-ml-acceleration.html
+- jetson nano
