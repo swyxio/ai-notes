@@ -13,6 +13,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 - [http://draftlab.ai](http://draftlab.ai/)
 - every prompt mail
 - ellieai.com
+	- cloned shortly after https://twitter.com/michael_vandi/status/1607422866416619520?s=46&t=Y8VGN2E-IIvcStsRXk7iJg
 - https://www.intellimail.xyz/
 - emailtriager https://twitter.com/RealKevinYang/status/1607390074857226241?s=20
 
@@ -65,3 +66,8 @@ ai playlists
 - https://twitter.com/playlist_ai https://twitter.com/brettunhandled/status/1613179511218278401
 - naturallanguageplaylist.com https://news.ycombinator.com/item?id=34444286
 - https://news.ycombinator.com/item?id=34448334 Show HN: Music Audio Search Engine Using OpenAI's Embeddings on GPT Descriptions
+
+
+## Docs QA
+
+- https://github.com/arc53/docsgpt/tree/main

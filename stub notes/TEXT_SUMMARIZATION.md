@@ -20,3 +20,5 @@
 	- it is always best to compute both the **precision** and **recall** and then report the **F-Measure**.
 - SMMRY example https://www.reddit.com/r/MachineLearning/comments/wiqjxv/d_the_current_and_future_state_of_aiml_is/
 - gpt3 davinci 2 comparable to humans arxiv.org/abs/2301.13848
+- kagi summarizer https://news.ycombinator.com/item?id=34646389
+	-  [https://github.com/simonebrunozzi/MNMN](https://github.com/simonebrunozzi/MNMN)

@@ -3,6 +3,8 @@
 
 - big circle small circle
 - https://twitter.com/emollick/status/1617270215154323457?s=46&t=f3zHInVHRlkYqdRRaMrRbw
+- hustle bros
+- the thing about the chatgpt 100m users
 
 
 ### SCALE IS NOT all you need

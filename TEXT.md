@@ -52,8 +52,13 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 
 - GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
 - Eleuther's [GPT-J-6B](https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/), GPT-NeoX
-- Google PaLM 570B
-  - https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
+- Google 
+	- PaLM 570B
+	  - https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
+	  - FLAN-T5
+		  - - Flan-T5 checkpoints are publicly available (without requesting access) 
+		  - Flan-T5 11B outperforms OPT-IML on MMLU and Big-Bench Hard, despite being 10x more compute efficient
+		  - https://huggingface.co/docs/transformers/model_doc/flan-t5
 - Yandex YaLM 100B https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6
   - It took us 65 days to train the model on a pool of 800 A100 graphics cards and 1.7 TB of online texts, books, and countless other sources.
 - Tsinghua GLM-130B
@@ -66,6 +71,7 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
     - a new language model from Meta AI with 175B parameters, fine-tuned on 2,000 language tasks — openly available soon under a noncommercial license for research use cases.
     - instruction-finetuned, leverages Chinchilla scaling laws, and has bells and whistles like 4-bit quantization and bidirectional attention. With 4-bit quantization, the model can run on 1 x 80 GB A100 or a consumer GPU rig.
     - https://twitter.com/MetaAI/status/1605991218953191424
+    - underperforms Flan-T5 https://twitter.com/_jasonwei/status/1621333297891790848?s=20
 - FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
 - GPT-JT for classification
   - https://news.ycombinator.com/item?id=33796158
@@ -229,6 +235,9 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
   - Ellie email https://twitter.com/JamesIvings/status/1602855048148500480
   - Everyprompt mail
   - https://merlin.foyer.work/
+- Summarizers
+	- explainpaper
+	- kagi universal summarizer https://labs.kagi.com/ai/sum?url=airbyte.io
 - SQL
   - preplexity.ai/sql
     - https://twitter.com/perplexity_ai/status/1605250295780773889

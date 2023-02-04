@@ -113,6 +113,9 @@ https://twitter.com/pommedeterre33/status/1614927584030081025?s=46&t=HS-dlJsERZX
 https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
 scaling up inference
 
+https://textsynth.com/ Fabrice Bellard's project provides access to large language or text-to-image models such as GPT-J, GPT-Neo, M2M100, CodeGen, Stable Diffusion thru a [REST API](https://textsynth.com/documentation.html#api) and a [playground](https://textsynth.com/playground.html). They can be used for example for text completion, question answering, classification, chat, translation, image generation, ...
+TextSynth employs [custom inference code](https://textsynth.com/technology.html) to get faster inference (hence lower costs) on standard GPUs and CPUs.
+
 ## hardware issues
 
 - https://hardwarelottery.github.io ML will run into an asymptote because matrix multiplication and full forward/backprop passes are ridiculously expensive. What hardware improvements do we need to enable new architectures?
