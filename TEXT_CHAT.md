@@ -367,7 +367,9 @@ https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcph
 - teaching exams
 	- New York State Aug 2022 English regent, 22/24 (91.6%) https://twitter.com/pythonprimes/status/1601965894682427394?s=20
 	- New York State Aug 2022 Chemistry regent, 35/45 (77.7%) on MC portion (excl 5 questions that depend on photos) [https://nysedregents.org/Chemistry/](https://t.co/DCozXlmQzN)
-- AWS Cloud Practioner 800/1000 https://twitter.com/StephaneMaarek/status/1600864604220964871?s=20
+- Tech
+	- AWS Cloud Practioner 800/1000 https://twitter.com/StephaneMaarek/status/1600864604220964871?s=20
+	- google interview https://news.ycombinator.com/item?id=34656591
 - Politics: Politiscale https://old.reddit.com/r/ControlProblem/comments/zcsrgn/i_gave_chatgpt_the_117_question_eight_dimensional/ scores Lib-Left 
 	- https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/
 	- leans libertarian-left https://twitter.com/DavidRozado/status/1599865724037922818
