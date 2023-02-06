@@ -73,3 +73,7 @@ ai playlists
 - https://github.com/arc53/docsgpt/tree/main
 - https://github.com/slavingia/askmybook
 - gptindex https://mcminis1.github.io/jekyll/update/2023/01/27/q_and_a_gptindex.html
+
+## slackbots
+
+- thread https://twitter.com/frantzfries/status/1622271107095986177?s=20
