@@ -63,8 +63,10 @@ This Readme is just the high level overview of the space; you should see the mos
     - demo https://twitter.com/_akhaliq/status/1578035919403503616
 -  text products
   - Jasper
+  - GPT for Obsidian https://reasonabledeviations.com/2023/02/05/gpt-for-second-brain/
   - gpt3 email https://github.com/sw-yx/gpt3-email
   - gpt3() in google sheet [2020](https://twitter.com/pavtalk/status/1285410751092416513?s=20&t=ppZhNO_OuQmXkjHQ7dl4wg), [2022](https://twitter.com/shubroski/status/1587136794797244417) - [sheet](https://docs.google.com/spreadsheets/d/1YzeQLG_JVqHKz5z4QE9wUsYbLoVZZxbGDnj7wCf_0QQ/edit) google sheets https://twitter.com/mehran__jalali/status/1608159307513618433
+	  - https://gpt3demo.com/apps/google-sheets
 	  - Charm https://twitter.com/shubroski/status/1620139262925754368?s=20
   - https://www.summari.com/ Summari helps busy people read more
 - sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880
@@ -309,7 +311,9 @@ This list will be out of date but will get you started. My live list of people t
 - On "AI Art Panic" https://opguides.info/posts/aiartpanic/
 - Yannick influencing OPENRAIL-M https://www.youtube.com/watch?v=W5M-dvzpzSQ
 - art schools accepting AI art https://twitter.com/DaveRogenmoser/status/1597746558145265664
+- DRM issues https://undeleted.ronsor.com/voice.ai-gpl-violations-with-a-side-of-drm/
 - stealing art [https://stablediffusionlitigation.com](https://stablediffusionlitigation.com/)
 	- http://www.stablediffusionfrivolous.com/
+	- stable attribution https://news.ycombinator.com/item?id=34670136
 	- coutner argument for disney https://twitter.com/jonst0kes/status/1616219435492163584?s=46&t=HqQqDH1yEwhWUSQxYTmF8w
 	- research on stable diffusion copying https://twitter.com/officialzhvng/status/1620535905298817024?s=20&t=NC-nW7pfDa8nyRD08Lx1Nw This paper used Stable Diffusion to generate 175 million images over 350,000 prompts and only found 109 near copies of training data. Am I right that my main takeaway from this is how good Stable Diffusion is at *not* memorizing training examples?
