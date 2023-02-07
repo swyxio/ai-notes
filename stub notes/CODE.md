@@ -36,6 +36,7 @@
 (alessio's blogpost https://evcrevolution.com/p/evc-10-llm-for-developers)
 
 - tensai refactor pr codegen https://twitter.com/mathemagic1an/status/1610023513334878208?s=46&t=HZzqUlCKP3qldVBoBwEzZg
+- Magic https://techcrunch.com/2023/02/06/magic-dev-code-generating-startup-raises-23m/
 - unmaintained
 	- https://github.com/CodedotAl/gpt-code-clippy
 	- https://github.com/samrawal/emacs-secondmate

@@ -576,6 +576,9 @@ Trained examples
 - A black and white photo of a young woman, studio lighting, realistic, Ilford HP5 400
   - https://twitter.com/TomLikesRobots/status/1566027217892671488
 
+## InstructPix2Pix
+
+- https://www.timothybrooks.com/instruct-pix2pix
 
 
 ## Extremely detailed prompt examples
