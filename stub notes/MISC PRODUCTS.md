@@ -73,6 +73,8 @@ ai playlists
 - https://github.com/arc53/docsgpt/tree/main
 - https://github.com/slavingia/askmybook
 - gptindex https://mcminis1.github.io/jekyll/update/2023/01/27/q_and_a_gptindex.html
+- 
+- [https://askcorpora.com](https://askcorpora.com/) It allows users to upload their pdf files and search through them in natural language and perform Q&A. It uses same technology that ClippyGPT used.
 
 ## slackbots
 
