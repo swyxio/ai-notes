@@ -39,3 +39,7 @@ https://news.ycombinator.com/item?id=34607738
 - ESP32 https://news.ycombinator.com/item?id=34632571 https://maxlab.io/store/edge-ai-camera/
 - tensorflow lite https://blog.tensorflow.org/2023/02/tensorflow-lite-micro-with-ml-acceleration.html
 - jetson nano
+
+## companies in the space
+
+- https://neuton.ai/  Make Edge Devices Intelligent - Automatically build extremely tiny models without coding and embed them into any microcontroller.

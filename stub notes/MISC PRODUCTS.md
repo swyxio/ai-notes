@@ -73,7 +73,10 @@ ai playlists
 - https://github.com/arc53/docsgpt/tree/main
 - https://github.com/slavingia/askmybook
 - gptindex https://mcminis1.github.io/jekyll/update/2023/01/27/q_and_a_gptindex.html
-- 
+- kyberinsurance.com
+	- If anyone is interested in a hosted and managed version of this, let us know! We can do this on top of any set of information already (not just .mdx) and have it exposed either as an API or through production ready Slack and Discord bots
+- supabase clippy https://supabase.com/blog/chatgpt-supabase-docs
+	- $5 for 1800 requests, that is 0.0027 per request, text-davinci-003 price is $0.02/1k token, so the average token number is 135. That is far below my expectation.
 - [https://askcorpora.com](https://askcorpora.com/) It allows users to upload their pdf files and search through them in natural language and perform Q&A. It uses same technology that ClippyGPT used.
 
 ## slackbots
