@@ -2,6 +2,8 @@
 
 large models are demoralizing https://www.reddit.com/r/MachineLearning/comments/wiqjxv/d_the_current_and_future_state_of_aiml_is/
 
+According to Alex Graveley, one of the creators of Github’s Copilot, there is a 1% drop in completions for every additional 10ms of latency. https://www.buildt.ai/blog/incorrectusage
+
 ## history
 
 - Computer Vision practitioners will remember when [SqueezeNet](https://arxiv.org/abs/1602.07360) came out in 2017, achieving a 50x reduction in model size compared to [AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), while meeting or exceeding its accuracy.
@@ -33,6 +35,15 @@ H3 state space models https://twitter.com/mathemagic1an/status/16176201331823329
 
 We present FLAME, a T5-based model trained on Excel formulas that leverages domain insights to achieve competitive performance with a substantially smaller model (60M parameters) and two orders of magnitude less training data. We curate a training dataset using sketch deduplication, introduce an Excel-specific formula tokenizer for our model, and use domain-specific versions of masked span prediction and noisy auto-encoding as pretraining objectives. We evaluate FLAME on formula repair, formula auto-completion, and a novel task called syntax reconstruction. FLAME (60M) can outperform much larger models, such as Codex-Davinci (175B), Codex-Cushman (12B), and CodeT5 (220M), in 6 out of 10 settings.
 https://news.ycombinator.com/item?id=34607738
+
+
+### Finetune Babbage
+
+Our solution is simple, generate a moderately sized corpus of completions made by davinci for a given task, and fine-tune a model like babbage to do the same task. If done correctly you can get near-identical completions (or at least 90% similarity) at a **40x** lower price and around 4-5x better latency. https://www.buildt.ai/blog/incorrectusage
+	- if you’re just trying to standardise the format of a prosaic output then you can get away with a couple hundred examples, 
+	- if you’re doing logical reasoning, then you’re going to need at least 1000, 
+	- if you’re doing DSL work then multiple thousands.
+
 
 ## small hardware
 

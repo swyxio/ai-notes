@@ -6,3 +6,6 @@
 
 
 google multimodal researchc https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1
+
+
+https://text-generator.io/blog/embed-images-text-and-code ### Embed Images, Text and Code in the same space

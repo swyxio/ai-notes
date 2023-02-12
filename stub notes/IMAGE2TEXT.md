@@ -1,6 +1,8 @@
 Reverse Prompt Engineering for images.
 
 - [img2prompt](https://replicate.com/methexis-inc/img2prompt) Replicate by [methexis-inc](https://replicate.com/methexis-inc): Optimized for SD (clip ViT-L/14).
+- https://www.img2prompt.io/
+	- https://news.ycombinator.com/item?id=34705706 not very good?
 - [CLIP Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb) by [@pharmapsychotic](https://twitter.com/pharmapsychotic): select ViTL14 CLIP model.
   - https://huggingface.co/spaces/pharma/sd-prism Sends an image in to CLIP Interrogator to generate a text prompt which is then run through Stable Diffusion to generate new forms of the original!
 
