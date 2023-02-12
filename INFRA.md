@@ -86,6 +86,14 @@ https://twitter.com/pommedeterre33/status/1614927584030081025?s=46&t=HS-dlJsERZX
 
 - Petals "Swarm" network - https://github.com/bigscience-workshop/petals Run 100B+ language models at home, BitTorrent-style.  Fine-tuning and inference up to 10x faster than offloading
 - https://github.com/hpcaitech/ColossalAI  Colossal-AI provides a collection of parallel components for you. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training and inference in a few lines.
+- Ray LLM usage https://news.ycombinator.com/item?id=34758168
+	- Alpa does training and serving with 175B parameter models [https://github.com/alpa-projects/alpa](https://github.com/alpa-projects/alpa)
+	- GPT-J [https://github.com/kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax)
+	- Another HN thread on training LLMs with Ray (on TPUs in this case) [https://news.ycombinator.com/item?id=27731168](https://news.ycombinator.com/item?id=27731168)
+	- OpenAI fireside chat on the evolution of their infrastructure and usage of Ray for training [https://www.youtube.com/watch?v=CqiL5QQnN64](https://www.youtube.com/watch?v=CqiL5QQnN64)
+	- Cohere on their architecture for training LLMs [https://www.youtube.com/watch?v=For8yLkZP5w&t=3s](https://www.youtube.com/watch?v=For8yLkZP5w&t=3s)
+	- And we can make Ray more efficient by optimizing GPU hardware utilization [https://centml.ai/](https://centml.ai/)
+- DeepSpeed became popular soon after this post was originally published and is natively supported by many PyTorch training frameworks. [https://www.deepspeed.ai](https://www.deepspeed.ai/)
 
 
 
