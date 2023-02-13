@@ -23,7 +23,10 @@
   - [theory](https://twitter.com/ethanCaballero/status/1572692314400628739?s=20&t=j_XtR82eEW6Vp28YvodqJQ): whisper is a way to get more tokens from youtube for gpt4
   - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. 
   - whisper running on $300 device https://twitter.com/drjimfan/status/1616471309961269250?s=46&t=4t17Fxog8a65leEnHNZwVw
-  - whisperX with diarization https://twitter.com/maxhbain/status/1619698716914622466?s=46&t=IShe62JuLIKyzHVgSLOdbw https://github.com/m-bain/whisperX
+  - whisperX with diarization https://twitter.com/maxhbain/status/1619698716914622466 https://github.com/m-bain/whisperX
+  - whisper as a service self hosting GUI and queueing https://github.com/schibsted/WAAS
+  - Whisper UI https://github.com/hayabhay/whisper-ui
+  - Transcribe-anything https://github.com/zackees/transcribe-anything automates video fetching and uses whisper to generate .srt, .vtt and .txt files
 - https://github.com/ggerganov/whisper.cpp
   High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model:
   - Plain C/C++ implementation without dependencies
@@ -34,6 +37,7 @@
   - Zero memory allocations at runtime
   - Runs on the CPU
   - C-style API
+  - a fork of whisper.cpp that uses DirectCompute to run it on GPUs without Cuda on Windows: https://github.com/Const-me/Whisper
 - Whisper.cpp small model is best traadeoff of performance vs accuracy https://blog.lopp.net/open-source-transcription-software-comparisons/
 - whisper openai api https://twitter.com/calumbirdo/status/1614826199527690240?s=46&t=-lurfKb2OVOpdzSMz0juIw
 
