@@ -146,8 +146,7 @@ https://news.ycombinator.com/item?id=33663486
 
   - youtube whisper (large-v2 support) https://twitter.com/jeffistyping/status/1600549658949931008
   - list of audio editing ai apps https://twitter.com/ramsri_goutham/status/1592754049719603202?s=20&t=49HqYD7DyViRl_T5foZAxA
-
-
+  - https://beta.elevenlabs.io/ techmeme ridehome - voice generation in your own voice from existing samples (not reading script)
 
 
 ### Translation
