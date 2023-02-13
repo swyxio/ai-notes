@@ -3,6 +3,11 @@ Sequoia - jess lee image - [Almost every new social network has begun with an in
 
 devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingface
 
+
+## design / figma
+
+- https://twitter.com/mrgreen/status/1623919856973389824?s=46&t=E_5yGYI9RU_Xg0orz2GdWQ
+
 ### legal
 
 -  https://detangle.ai/ Detangle gives you AI-generated summaries of your legal docs so you can actually understand them. flopped https://twitter.com/shpigford/status/1610682378040770560?s=46&t=oSlB9-Vj36cKz7uEudTuFQ
@@ -66,6 +71,7 @@ ai playlists
 - https://twitter.com/playlist_ai https://twitter.com/brettunhandled/status/1613179511218278401
 - naturallanguageplaylist.com https://news.ycombinator.com/item?id=34444286
 - https://news.ycombinator.com/item?id=34448334 Show HN: Music Audio Search Engine Using OpenAI's Embeddings on GPT Descriptions
+
 
 
 ## Docs QA
