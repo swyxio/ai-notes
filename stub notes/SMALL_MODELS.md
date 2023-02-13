@@ -4,6 +4,8 @@ large models are demoralizing https://www.reddit.com/r/MachineLearning/comments/
 
 According to Alex Graveley, one of the creators of Github’s Copilot, there is a 1% drop in completions for every additional 10ms of latency. https://www.buildt.ai/blog/incorrectusage
 
+naveen rao https://twitter.com/NaveenGRao/status/1625176665746964480 Smaller models w/ some clever precomputing of results is needed.
+
 ## history
 
 - Computer Vision practitioners will remember when [SqueezeNet](https://arxiv.org/abs/1602.07360) came out in 2017, achieving a 50x reduction in model size compared to [AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), while meeting or exceeding its accuracy.
