@@ -7,6 +7,8 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 ## design / figma
 
 - https://twitter.com/mrgreen/status/1623919856973389824?s=46&t=E_5yGYI9RU_Xg0orz2GdWQ
+- https://twitter.com/sathaxe/status/1625185603808821251
+
 
 ### legal
 
