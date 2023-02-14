@@ -101,6 +101,9 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - Fail with avatar movie question https://twitter.com/MovingToTheSun/status/1625156575202537474?s=20&t=qTJ9f2J-AunevB7iEnrlSw
 	- fast recovery referencing twitter chats https://twitter.com/beyonddigiskies/status/1625272928341463041
 
+## BardChat notes
+
+- JWST fail https://twitter.com/IsabelNAngelo/status/1623013720011194368
 
 ## ChatGPT notes
 

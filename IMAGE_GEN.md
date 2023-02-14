@@ -581,6 +581,8 @@ Trained examples
 ## InstructPix2Pix
 
 - https://www.timothybrooks.com/instruct-pix2pix
+- Pix2Pixzero - https://pix2pixzero.github.io/
+	- We propose pix2pix-zero, a diffusion-based image-to-image approach that allows users to specify the edit direction on-the-fly (e.g., cat to dog). Our method can directly use pre-trained text-to-image diffusion models, such as Stable Diffusion, for editing real and synthetic images while preserving the input image's structure. Our method is training-free and prompt-free, as it requires neither manual text prompting for each input image nor costly fine-tuning for each task.
 
 
 ## Extremely detailed prompt examples
