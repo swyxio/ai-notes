@@ -23,6 +23,9 @@ light BERT model?
 https://twitter.com/deepwhitman/status/1610354790772637697?s=46&t=m_H3h2AbaafHjQJEu1cHJw
 
 
+prompt tuning? https://ai.googleblog.com/2022/02/guiding-frozen-language-models-with.html?m=1
+- https://aclanthology.org/2021.emnlp-main.243.pdf
+
 https://arxiv.org/abs/2301.00774
 Massive Language Models Can Be Accurately Pruned in One-Shot
 
