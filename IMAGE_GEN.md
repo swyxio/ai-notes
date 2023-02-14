@@ -61,6 +61,8 @@
 			- The Big Sleep: a CLIP based text-to-image technique ([source](https://twitter.com/advadnoun/status/1351038053033406468))
 		- may 2021: [the unreal engine trick](https://ml.berkeley.edu/blog/posts/clip-art/#the-joys-of-prompt-programming-the-unreal-engine-trick)
 	- CLIPSeg https://huggingface.co/docs/transformers/main/en/model_doc/clipseg (for Image segmentation)
+	- Queryable - CLIP on iphone photos https://news.ycombinator.com/item?id=34686947
+		- on website https://paulw.tokyo/post/real-time-semantic-search-demo/
 - Stable Diffusion
 	- https://stability.ai/blog/stable-diffusion-v2-release
 		- _New Text-to-Image Diffusion Models_

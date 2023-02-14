@@ -251,6 +251,9 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
   - Zapier OpenAI integrations https://zapier.com/apps/openai/integrations
   - SlackGPT https://zapier.com/shared/query-gpt-3-via-a-slack-channel/a7551c53beda75b3bf65c315f027de04a4b323ef
   - got3discord moderator https://github.com/Kav-K/GPT3Discord
+  - Embra macos desktop chatgptlike
+	  - https://twitter.com/zachtratar/status/1623015294569713665?s=20&t=hw_somO_R_JxGp4zQpFz0Q
+	  - competes with Dust XP1
 - Writing
   - Verb (fiction) https://twitter.com/verbforwriters/status/1603051444134895616
   - Orchard https://www.orchard.ink/doc/201a7f63-731e-4487-926a-fdf348f1b00c

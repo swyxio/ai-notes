@@ -96,6 +96,11 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - funny 
 	- fast and furious convo (beats chatgpt) https://mobile.twitter.com/jayelmnop/status/1612243602633068549
 
+## BingChat notes
+
+- Fail with avatar movie question https://twitter.com/MovingToTheSun/status/1625156575202537474?s=20&t=qTJ9f2J-AunevB7iEnrlSw
+	- fast recovery referencing twitter chats https://twitter.com/beyonddigiskies/status/1625272928341463041
+
 
 ## ChatGPT notes
 
