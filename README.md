@@ -7,11 +7,17 @@ notes on AI state of the art, with a focus on generative and large language mode
 This Readme is just the high level overview of the space; you should see the most updates in the OTHER markdown files in this repo:
 
 - `IMAGE_GEN.md` - the most developed file, with the heaviest emphasis notes on Stable Diffusion, and some on midjourney and dalle.
+	- `IMAGE_PROMPTS.md` - a small [swipe file](https://www.swyx.io/swipe-files-strategy) of good image prompts
 - `TEXT.md` - text generation, mostly with GPT3
-- `CODE.md` - codegen models, like Copilot
-- stubs - very small/lightweight proto pages
+	- `TEXT_CHAT.md` - information on ChatGPT and competitors, as well as derivative products
+	- `TEXT_SEARCH.md` - information on GPT3 enabled semantic search and other info
+	- `TEXT_PROMPTS.md` - a small [swipe file](https://www.swyx.io/swipe-files-strategy) of good GPT3 prompts
+- `INFRA.md` - raw notes on AI Infrastructure, Hardware and Scaling
+- `AUDIO.md` - tracking audio/music/voice transcription + generation
+- stub notes - very small/lightweight proto pages
   - `AGENTS.md` - tracking "agentic AI"
-  - `AUDIO.md` - tracking audio (transcription + generation)
+  - `CODE.md` - codegen models, like Copilot
+  - etc...
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
