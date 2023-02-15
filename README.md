@@ -82,6 +82,7 @@ This Readme is just the high level overview of the space; you should see the mos
 	- emad thread https://twitter.com/EMostaque/status/1591436813750906882
 	- scenario.gg https://twitter.com/emmanuel_2m/status/1593356241283125251
 	- [3d game character modeling example](https://www.traffickinggame.com/ai-assisted-graphics/)
+	- MarioGPT https://arxiv.org/pdf/2302.05981.pdf https://www.slashgear.com/1199870/mariogpt-uses-ai-to-generate-endless-super-mario-levels-for-free/ https://github.com/shyamsn97/mario-gpt/blob/main/mario_gpt/level.py
 
 ## Top AI Reads
 
@@ -276,23 +277,6 @@ This list will be out of date but will get you started. My live list of people t
   - https://twitter.com/dreamtweetapp
   - https://twitter.com/aiarteveryhour
 
-## Misc
-
-- Whisper
-  - https://huggingface.co/spaces/sensahin/YouWhisper YouWhisper converts Youtube videos to text using openai/whisper.
-  - https://twitter.com/jeffistyping/status/1573145140205846528 youtube whipserer
-  - multilingual subtitles https://twitter.com/1littlecoder/status/1573030143848722433
-  - video subtitles https://twitter.com/m1guelpf/status/1574929980207034375
-  - you can join whisper to stable diffusion for reasons https://twitter.com/fffiloni/status/1573733520765247488/photo/1
-  - known problems https://twitter.com/lunixbochs/status/1574848899897884672 (edge case with catastrophic failures)
-- textually guided audio https://twitter.com/FelixKreuk/status/1575846953333579776
-- Codegen
-  - CodegeeX https://twitter.com/thukeg/status/1572218413694726144
-  - https://github.com/salesforce/CodeGen https://joel.tools/codegen/
-- pdf to structured data - Impira used t to do it (dead link: https://www.impira.com/blog/hey-machine-whats-my-invoice-total) but if you look hard enough on twitter there are some alternatives
-- text to Human Motion diffusion https://twitter.com/GuyTvt/status/1577947409551851520
-  - abs: https://arxiv.org/abs/2209.14916 
-  - project page: https://guytevet.github.io/mdm-page/
 
 ## Quotes, Reality & Demotivation
 
@@ -323,3 +307,28 @@ This list will be out of date but will get you started. My live list of people t
 	- stable attribution https://news.ycombinator.com/item?id=34670136
 	- coutner argument for disney https://twitter.com/jonst0kes/status/1616219435492163584?s=46&t=HqQqDH1yEwhWUSQxYTmF8w
 	- research on stable diffusion copying https://twitter.com/officialzhvng/status/1620535905298817024?s=20&t=NC-nW7pfDa8nyRD08Lx1Nw This paper used Stable Diffusion to generate 175 million images over 350,000 prompts and only found 109 near copies of training data. Am I right that my main takeaway from this is how good Stable Diffusion is at *not* memorizing training examples?
+
+## Alignment, Safety
+
+- Anthropic - https://arxiv.org/pdf/2112.00861.pdf
+	- Helpful: attempt to do what is ask. concise, efficient. ask followups. redirect bad questions.
+	- Honest: give accurate information, express uncertainty. don't imitate responses expected from an expert if it doesn't have the capabilities/knowledge
+	- Harmless: not offensive/discriminatory. refuse to assist dangerous acts. recognize when providing sensitive/consequential advice
+
+## Misc
+
+- Whisper
+  - https://huggingface.co/spaces/sensahin/YouWhisper YouWhisper converts Youtube videos to text using openai/whisper.
+  - https://twitter.com/jeffistyping/status/1573145140205846528 youtube whipserer
+  - multilingual subtitles https://twitter.com/1littlecoder/status/1573030143848722433
+  - video subtitles https://twitter.com/m1guelpf/status/1574929980207034375
+  - you can join whisper to stable diffusion for reasons https://twitter.com/fffiloni/status/1573733520765247488/photo/1
+  - known problems https://twitter.com/lunixbochs/status/1574848899897884672 (edge case with catastrophic failures)
+- textually guided audio https://twitter.com/FelixKreuk/status/1575846953333579776
+- Codegen
+  - CodegeeX https://twitter.com/thukeg/status/1572218413694726144
+  - https://github.com/salesforce/CodeGen https://joel.tools/codegen/
+- pdf to structured data - Impira used t to do it (dead link: https://www.impira.com/blog/hey-machine-whats-my-invoice-total) but if you look hard enough on twitter there are some alternatives
+- text to Human Motion diffusion https://twitter.com/GuyTvt/status/1577947409551851520
+  - abs: https://arxiv.org/abs/2209.14916 
+  - project page: https://guytevet.github.io/mdm-page/
