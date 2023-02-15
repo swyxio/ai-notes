@@ -42,7 +42,8 @@
 	- https://github.com/samrawal/emacs-secondmate
 - Cursor IDE https://twitter.com/amanrsanger/status/1615539968772050946
 	- why is this not a vscode extension
-- the pandas extension thing - lambdaprompt
+- the pandas extension thing - https://github.com/approximatelabs/sketch 
+	- built on lambdaprompt https://github.com/approximatelabs/lambdaprompt
 - copilot labs
 	- https://redmonk.com/jgovernor/2023/01/06/the-future-just-happened-developer-experience-and-ai-are-now-inextricably-linked/
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds

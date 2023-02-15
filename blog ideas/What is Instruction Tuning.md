@@ -13,7 +13,7 @@ There are now two flavors of "instruction tuning" going around.
 Instruction-tune: InstructGPT-style RLHF
 Instruction-finetune: Multitask+CoT tuning
 
-
+> "With the InstructGPT paper we found that our models generalized to follow instructions in non-English even though we almost exclusively trained on English. We still don't know why. I wish someone would figure this out." https://twitter.com/janleike/status/1625207251630960640?s=20&t=I_xlsx5X8kNokM4XSZxIvg
 
 ## papers to read
 

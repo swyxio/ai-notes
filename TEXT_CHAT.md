@@ -123,6 +123,7 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 	- simple english https://www.moreentropy.com/p/startups-and-the-technique-behind The amount of data used to achieve the results in the paper was relatively small. They had people write ~10,000 “good” responses and make ~30,000 ratings. And since the data was spread across a range of use-cases – from copywriting to Q&A, summarization to classification and others – there was an even smaller amount of data for any given use-case. This technique is obtainable for startups.
 	- https://scale.com/blog/chatgpt-reinforcement-learning
 	- post/paper https://openai.com/blog/instruction-following/
+- Stephen Wolfram on [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 
 ### Products

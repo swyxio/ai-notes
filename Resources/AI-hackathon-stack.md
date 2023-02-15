@@ -24,6 +24,7 @@ Instant access to the best prices for cloud GPUs on the market. No commitments o
     - https://www.baseten.co/ serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
     - https://replicate.com/ Run models in the cloud at scale.
     - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot)
+    - https://www.steamship.com/ Managed Backend for AI services [LangChain example](https://www.steamship.com/build/langchain-apps)
     - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
     - _Seeking: tutorials for serving Whisper, other LLMs_
   - **Embeddings**
