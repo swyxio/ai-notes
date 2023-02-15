@@ -1,10 +1,12 @@
 # AI Hackathon Stack
 
+> ⚠️ This is a **very** new/immature list, created for [the Latent Space Demo Day](https://lspace.swyx.io/p/demo-day-2023). The category labels not that well thought through. Please [get in touch](https://discord.gg/gR6yP6wbfq) if you have better ideas for how to organize this, it is welcome.
+
 Below is a curated list of useful tools and examples for developers tackling AI Hackathons, together with useful hackathon-centric offers and templates for you to get started quickly.
 
 If you represent a tool or vendor, please feel free to send in a PR for your tool, but note that we may reword or reject your submission based on subjective fit.
 
-Created for the Latent Space Demo Day: https://lspace.swyx.io/p/demo-day-2023
+
 
 ## AI Infra and Tooling
 
@@ -21,6 +23,7 @@ Instant access to the best prices for cloud GPUs on the market. No commitments o
   - **Model Serving**
     - https://www.baseten.co/ serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
     - https://replicate.com/ Run models in the cloud at scale.
+    - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot)
     - _Seeking: hackathon-relevant examples and tutorials for each of these examples_
   - **Embeddings**
     - [**Chroma**](https://www.trychroma.com/): Chroma is the open-source embedding database. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs. [Docs](https://docs.trychroma.com/), [Discord](https://discord.gg/MMeYNTmh3x), [@ the founders](https://twitter.com/atroyn/status/1625568377766035456?s=20&t=m96ilnMSQjoyjVmp_kQHZA)
