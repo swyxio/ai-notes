@@ -19,12 +19,13 @@ This category is for **infra and tools** catering to AI app developers, in contr
     - https://brev.dev/ The simplest way to create a dev environment with a GPU. Don't worry about dependencies, CUDA, SSH, or anything else. Up to 94% cheaper GPUs than AWS.
     - https://lambdalabs.com/ GPU cloud built for deep learning
 Instant access to the best prices for cloud GPUs on the market. No commitments or negotiations required. Save over 73% vs AWS, Azure, and GCP. Configured for deep learning with PyTorch®, TensorFlow, Jupyter
-    - _Seeking: hackathon-relevant examples and tutorials for each of these examples_
+    - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
   - **Model Serving**
     - https://www.baseten.co/ serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
     - https://replicate.com/ Run models in the cloud at scale.
     - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot)
-    - _Seeking: hackathon-relevant examples and tutorials for each of these examples_
+    - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
+    - _Seeking: tutorials for serving Whisper, other LLMs_
   - **Embeddings**
     - [**Chroma**](https://www.trychroma.com/): Chroma is the open-source embedding database. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs. [Docs](https://docs.trychroma.com/), [Discord](https://discord.gg/MMeYNTmh3x), [@ the founders](https://twitter.com/atroyn/status/1625568377766035456?s=20&t=m96ilnMSQjoyjVmp_kQHZA)
     - [**Pinecone**](https://www.pinecone.io/): The Pinecone vector database makes it easy to build high-performance vector search applications. [Docs](https://www.pinecone.io/docs/), [Events/Forum/Showcase](https://www.pinecone.io/community/).
