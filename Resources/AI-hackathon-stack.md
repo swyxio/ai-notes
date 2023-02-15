@@ -1,3 +1,5 @@
+# AI Hackathon Stack
+
 Below is a lightly curated list of useful tools and examples for developers tackling AI Hackathons, together with useful hackathon-centric offers and templates for you to get started quickly.
 
 If you represent a tool or vendor, please feel free to send in a PR for your tool, but note that we may reword or reject your submission based on subjective fit.
