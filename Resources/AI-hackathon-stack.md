@@ -40,6 +40,7 @@ Instant access to the best prices for cloud GPUs on the market. No commitments o
   - **OpenAI** needs no introduction. [Cookbook](https://github.com/openai/openai-cookbook/), [Docs](https://platform.openai.com/docs/introduction/overview)
   - [**LangChain**](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability. [Discord](https://discord.gg/6adMQxSpJS)
   - [**Lambdaprompt**](https://github.com/approximatelabs/lambdaprompt) - Build, compose and call templated LLM prompts
+  - Browse through all the [HuggingFace Spaces](https://huggingface.co/spaces)
   - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
   - Automatic permit application generation for climate tech companies & carbon dioxide removal ([tweet](https://twitter.com/russelljkaplan/status/1616957750940176384?s=20&t=frXEVPqaJUjMPJOhbD9AUg))
