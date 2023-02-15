@@ -67,6 +67,20 @@ Instant access to the best prices for cloud GPUs on the market. No commitments o
 
 - **Tools to explore**
   - https://www.synthesia.io/ AI video and voice creation
+  - Hosted Stable Diffusion
+    - https://replicate.com/stability-ai/stable-diffusion
+    - https://replicate.com/cjwbw/stable-diffusion-v2
+  - Stable Diffusion UIs
+    - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+    - https://github.com/carefree0910/carefree-creator
+    - https://www.charl-e.com/ 
+    - https://github.com/brycedrennan/imaginAIry
+  - Whisper
+    - https://github.com/openai/whisper
+    - https://github.com/ggerganov/whisper.cpp
+    - https://github.com/m-bain/whisperX
+    - https://github.com/zackees/transcribe-anything 
+    - https://github.com/mayeaux/generate-subtitles
   - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
   - HouseGPT generates raw MIDI data directly from few-shot prompted GPT-3 to create 🎶 house music 🎶 🔊 ([tweet](https://twitter.com/russelljkaplan/status/1616997544307089408?s=20&t=frXEVPqaJUjMPJOhbD9AUg))
