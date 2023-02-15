@@ -19,6 +19,7 @@ This category is for **infra and tools** catering to AI app developers, in contr
     - https://brev.dev/ The simplest way to create a dev environment with a GPU. Don't worry about dependencies, CUDA, SSH, or anything else. Up to 94% cheaper GPUs than AWS.
     - https://lambdalabs.com/ GPU cloud built for deep learning
 Instant access to the best prices for cloud GPUs on the market. No commitments or negotiations required. Save over 73% vs AWS, Azure, and GCP. Configured for deep learning with PyTorch®, TensorFlow, Jupyter
+    - https://www.paperspace.com/ Paperspace provides tooling for training and serving, with serverless GPUs, development environments, and workflow management systems.
     - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
   - **Model Serving**
     - https://www.baseten.co/ serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
