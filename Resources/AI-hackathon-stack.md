@@ -6,36 +6,11 @@ Below is a curated list of useful tools and examples for developers tackling AI 
 
 If you represent a tool or vendor, please feel free to send in a PR for your tool, but note that we may reword or reject your submission based on subjective fit.
 
-
-
-## AI Infra and Tooling
-
-This category is for **infra and tools** catering to AI app developers, in contrast to **apps** (below) which have other kinds of end users in mind.
-
-- **Tools to explore**
-  - **Serverless GPUs**
-    - https://exafunction.com/ Exafunction optimizes your deep learning inference workload, delivering up to a 10x improvement in resource utilization and cost.
-    - https://www.banana.dev/ Scale your machine learning inference and training on serverless GPUs.
-    - https://brev.dev/ The simplest way to create a dev environment with a GPU. Don't worry about dependencies, CUDA, SSH, or anything else. Up to 94% cheaper GPUs than AWS.
-    - https://lambdalabs.com/ GPU cloud built for deep learning
-Instant access to the best prices for cloud GPUs on the market. No commitments or negotiations required. Save over 73% vs AWS, Azure, and GCP. Configured for deep learning with PyTorch®, TensorFlow, Jupyter
-    - https://www.paperspace.com/ Paperspace provides tooling for training and serving, with serverless GPUs, development environments, and workflow management systems.
-    - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
-  - **Model Serving**
-    - https://www.baseten.co/ serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
-    - https://replicate.com/ Run models in the cloud at scale.
-    - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot)
-    - https://www.steamship.com/ Managed Backend for AI services [LangChain example](https://www.steamship.com/build/langchain-apps)
-    - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
-    - _Seeking: tutorials for serving Whisper, other LLMs_
-  - _have something to add? send a PR!_
-- **Hackathon Entry Examples**
-  -  a key-value store to enable long-term memory in language model conversations ([tweet](https://twitter.com/russelljkaplan/status/1616955361705197568?s=20&t=KIszRKntkT4Y-I-WwKI8Mg))
-
 ## LLM/Prompt Engineering Apps
 
 - **Templates/Example Apps/Tutorials**
   - Browse through all the [HuggingFace Spaces](https://huggingface.co/spaces)
+  - [Deploying AI Applications on Vercel](https://vercel.com/blog/deploying-ai-applications) Overview and open source templates
 - **Tools to explore**
   - **LLM APIs**
     - **OpenAI** needs no introduction. [Cookbook](https://github.com/openai/openai-cookbook/), [Docs](https://platform.openai.com/docs/introduction/overview)
@@ -91,6 +66,30 @@ Instant access to the best prices for cloud GPUs on the market. No commitments o
   - HouseGPT generates raw MIDI data directly from few-shot prompted GPT-3 to create 🎶 house music 🎶 🔊 ([tweet](https://twitter.com/russelljkaplan/status/1616997544307089408?s=20&t=frXEVPqaJUjMPJOhbD9AUg))
   - [Rap Battle](https://twitter.com/russelljkaplan/status/1617070021406265345?s=20&t=frXEVPqaJUjMPJOhbD9AUg) - Pick any two people and it will generate a rap battle on the fly, using GPT-3 for lyrics, wavenet for vocals, and stable diffusion for the avatars. 
   - Game of Life, where each alive cell is a whimsical happy Stable Diffusion image and each dead cell is an eerie, dark Stable Diffusion image, all of which evolve over time. ([tweet](https://twitter.com/russelljkaplan/status/1616955356189687810?s=20&t=KIszRKntkT4Y-I-WwKI8Mg))
+
+## AI Infra and Tooling
+
+This category is for **infra and tools** catering to AI app developers, in contrast to **apps** (below) which have other kinds of end users in mind.
+
+- **Tools to explore**
+  - **Serverless GPUs**
+    - https://exafunction.com/ Exafunction optimizes your deep learning inference workload, delivering up to a 10x improvement in resource utilization and cost.
+    - https://www.banana.dev/ Scale your machine learning inference and training on serverless GPUs.
+    - https://brev.dev/ The simplest way to create a dev environment with a GPU. Don't worry about dependencies, CUDA, SSH, or anything else. Up to 94% cheaper GPUs than AWS.
+    - https://lambdalabs.com/ GPU cloud built for deep learning
+Instant access to the best prices for cloud GPUs on the market. No commitments or negotiations required. Save over 73% vs AWS, Azure, and GCP. Configured for deep learning with PyTorch®, TensorFlow, Jupyter
+    - https://www.paperspace.com/ Paperspace provides tooling for training and serving, with serverless GPUs, development environments, and workflow management systems.
+    - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
+  - **Model Serving**
+    - https://www.baseten.co/ serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
+    - https://replicate.com/ Run models in the cloud at scale.
+    - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot)
+    - https://www.steamship.com/ Managed Backend for AI services [LangChain example](https://www.steamship.com/build/langchain-apps)
+    - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
+    - _Seeking: tutorials for serving Whisper, other LLMs_
+  - _have something to add? send a PR!_
+- **Hackathon Entry Examples**
+  -  a key-value store to enable long-term memory in language model conversations ([tweet](https://twitter.com/russelljkaplan/status/1616955361705197568?s=20&t=KIszRKntkT4Y-I-WwKI8Mg))
 
 ## Misc Useful Resources
 
