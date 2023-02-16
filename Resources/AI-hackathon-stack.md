@@ -22,8 +22,6 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
     - [**Chroma**](https://www.trychroma.com/): Chroma is the open-source embedding database. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs. [Docs](https://docs.trychroma.com/), [Discord](https://discord.gg/MMeYNTmh3x), [@ the founders](https://twitter.com/atroyn/status/1625568377766035456?s=20&t=m96ilnMSQjoyjVmp_kQHZA)
     - [**Pinecone**](https://www.pinecone.io/): The Pinecone vector database makes it easy to build high-performance vector search applications. [Docs](https://www.pinecone.io/docs/), [Events/Forum/Showcase](https://www.pinecone.io/community/).
     - _Seeking: comparison articles between these options_
-  - **Computer Vision**
-    - [**Roboflow**](https://roboflow.com): Build classification, object detection, and instance segmentation datasets and models. Explore over 10,000 open source models and millions of labeled images on [**Universe**](https://universe.roboflow.com). (See Roboflow Hackathon projects like visual [chess solving apps](https://devpost.com/software/chess-boss),  [automatic dog treat release](https://www.hackster.io/satoshiii/visionai-automatic-dog-treat-dispenser-wroboflow-and-yolov5-a71fd2).)
   - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
   - Automatic permit application generation for climate tech companies & carbon dioxide removal ([tweet](https://twitter.com/russelljkaplan/status/1616957750940176384?s=20&t=frXEVPqaJUjMPJOhbD9AUg))
@@ -55,22 +53,25 @@ Where the focus is building AI tools for other developers.
 
 - **Tools to explore**
   - https://www.synthesia.io/ AI video and voice creation
-  - Hosted Stable Diffusion
+  - **Hosted Stable Diffusion**
     - https://replicate.com/stability-ai/stable-diffusion
     - https://replicate.com/cjwbw/stable-diffusion-v2
-  - Stable Diffusion UIs
+  - **Stable Diffusion UIs**
     - https://github.com/AUTOMATIC1111/stable-diffusion-webui
     - https://github.com/carefree0910/carefree-creator
     - https://www.charl-e.com/ 
     - https://github.com/brycedrennan/imaginAIry
-  - Whisper
+  - **Transcription/Whisper**
     - https://github.com/openai/whisper
     - https://github.com/ggerganov/whisper.cpp
     - https://github.com/m-bain/whisperX
     - https://github.com/zackees/transcribe-anything 
     - https://github.com/mayeaux/generate-subtitles
-  - Roboflow (build custom vision models)
-    - Main app: https://roboflow.com
+  - **Multimodal, semantic video search**
+    - Twelve Labs: Example: https://youtu.be/484hydNEJC0
+      - Docs https://docs.twelvelabs.io/docs/understand
+  - **Computer Vision**
+    - [**Roboflow**](https://roboflow.com): Build classification, object detection, and instance segmentation datasets and models. Explore over 10,000 open source models and millions of labeled images on [**Universe**](https://universe.roboflow.com). (See Roboflow Hackathon projects like visual [chess solving apps](https://devpost.com/software/chess-boss),  [automatic dog treat release](https://www.hackster.io/satoshiii/visionai-automatic-dog-treat-dispenser-wroboflow-and-yolov5-a71fd2).)
     - 10k open source models, 10M+ open source labeled images: https://universe.roboflow.com
   - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
