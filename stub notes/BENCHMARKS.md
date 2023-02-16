@@ -3,6 +3,7 @@ text
 - https://cs.nyu.edu/~davise/Benchmarks/
 	-  [Text](https://cs.nyu.edu/~davise/Benchmarks/Text.html)
 	-   [BIG-bench](https://cs.nyu.edu/~davise/Benchmarks/BIG-bench.html) Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
+	- MMLU (used for chinchilla) https://towardsdatascience.com/a-new-ai-trend-chinchilla-70b-greatly-outperforms-gpt-3-175b-and-gopher-280b-408b9b4510
 	-   [Images](https://cs.nyu.edu/~davise/Benchmarks/Images.html)
 	-   [Videos](https://cs.nyu.edu/~davise/Benchmarks/Videos.html)
 	-   [Simulated Physical Worlds](https://cs.nyu.edu/~davise/Benchmarks/Physical.html)

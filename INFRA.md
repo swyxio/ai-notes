@@ -24,7 +24,8 @@
 - https://arxiv.org/pdf/2112.00861.pdf Throughout this paper we will be studying a consistent set of decoder-only Transformer language models with parameter counts ranging from about 10M to 52B in increments of 4x, and with a fixed context window of 8192 tokens and a 2 16 token vocabulary. For language model pre-training, these models are trained for 400B tokens on a distribution consisting mostly of filtered Common Crawl data [Fou] and internet books, along with a number of smaller distributions [GBB+20], including about 10% python code data. We fix the aspect ratio of our models so that the activation dimension dmodel = 128nlayer,
 - Data
 	- the 175B parameters model on 300B tokens (60% 2016 - 2019 C4 + 22% WebText2 + 16% Books + 3% Wikipedia). Where:
-
+	- **https://lifearchitect.ai/chinchilla/ extremely good explanation**
+![https://s10251.pcdn.co/wp-content/uploads/2022/06/2022-adt-chinchilla-dataset-sizes-table.png](https://s10251.pcdn.co/wp-content/uploads/2022/06/2022-adt-chinchilla-dataset-sizes-table.png)
 
 ## Infrastructure
 
