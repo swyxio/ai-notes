@@ -31,9 +31,9 @@ Instant access to the best prices for cloud GPUs on the market. No commitments o
     - [**Chroma**](https://www.trychroma.com/): Chroma is the open-source embedding database. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs. [Docs](https://docs.trychroma.com/), [Discord](https://discord.gg/MMeYNTmh3x), [@ the founders](https://twitter.com/atroyn/status/1625568377766035456?s=20&t=m96ilnMSQjoyjVmp_kQHZA)
     - [**Pinecone**](https://www.pinecone.io/): The Pinecone vector database makes it easy to build high-performance vector search applications. [Docs](https://www.pinecone.io/docs/), [Events/Forum/Showcase](https://www.pinecone.io/community/).
     - _Seeking: comparison articles between these options_
-  - _have something to add? send a PR!_
   - **Computer Vision**
     - [**Roboflow**](https://roboflow.com): Build classification, object detection, and instance segmentation datasets and models. Explore over 10,000 open source models and millions of labeled images on [**Universe**](https://universe.roboflow.com). (See Roboflow Hackathon projects like visual [chess solving apps](https://devpost.com/software/chess-boss),  [automatic dog treat release](https://www.hackster.io/satoshiii/visionai-automatic-dog-treat-dispenser-wroboflow-and-yolov5-a71fd2).)
+  - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
   -  a key-value store to enable long-term memory in language model conversations ([tweet](https://twitter.com/russelljkaplan/status/1616955361705197568?s=20&t=KIszRKntkT4Y-I-WwKI8Mg))
 
