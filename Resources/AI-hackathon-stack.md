@@ -32,6 +32,8 @@ Instant access to the best prices for cloud GPUs on the market. No commitments o
     - [**Pinecone**](https://www.pinecone.io/): The Pinecone vector database makes it easy to build high-performance vector search applications. [Docs](https://www.pinecone.io/docs/), [Events/Forum/Showcase](https://www.pinecone.io/community/).
     - _Seeking: comparison articles between these options_
   - _have something to add? send a PR!_
+  - **Computer Vision**
+    - [**Roboflow**](https://roboflow.com): Build classification, object detection, and instance segmentation datasets and models. Explore over 10,000 open source models and millions of labeled images on [**Universe**](https://universe.roboflow.com). (See Roboflow Hackathon projects like visual [chess solving apps](https://devpost.com/software/chess-boss),  [automatic dog treat release](https://www.hackster.io/satoshiii/visionai-automatic-dog-treat-dispenser-wroboflow-and-yolov5-a71fd2).)
 - **Hackathon Entry Examples**
   -  a key-value store to enable long-term memory in language model conversations ([tweet](https://twitter.com/russelljkaplan/status/1616955361705197568?s=20&t=KIszRKntkT4Y-I-WwKI8Mg))
 
@@ -81,6 +83,9 @@ Instant access to the best prices for cloud GPUs on the market. No commitments o
     - https://github.com/m-bain/whisperX
     - https://github.com/zackees/transcribe-anything 
     - https://github.com/mayeaux/generate-subtitles
+  - Roboflow (build custom vision models)
+    - Main app: https://roboflow.com
+    - 10k open source models, 10M+ open source labeled images: https://universe.roboflow.com
   - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
   - HouseGPT generates raw MIDI data directly from few-shot prompted GPT-3 to create 🎶 house music 🎶 🔊 ([tweet](https://twitter.com/russelljkaplan/status/1616997544307089408?s=20&t=frXEVPqaJUjMPJOhbD9AUg))
