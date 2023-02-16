@@ -315,6 +315,8 @@ This list will be out of date but will get you started. My live list of people t
 	- Helpful: attempt to do what is ask. concise, efficient. ask followups. redirect bad questions.
 	- Honest: give accurate information, express uncertainty. don't imitate responses expected from an expert if it doesn't have the capabilities/knowledge
 	- Harmless: not offensive/discriminatory. refuse to assist dangerous acts. recognize when providing sensitive/consequential advice
+- Just Eliezer entire body of work
+	- https://twitter.com/esyudkowsky/status/1625922986590212096
 
 ## Misc
 
