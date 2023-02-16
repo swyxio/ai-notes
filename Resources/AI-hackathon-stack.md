@@ -11,6 +11,7 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
 - **Templates/Example Apps/Tutorials**
   - Browse through all the [HuggingFace Spaces](https://huggingface.co/spaces)
   - [Deploying AI Applications on Vercel](https://vercel.com/blog/deploying-ai-applications) Overview and open source templates
+  - [LangChain + Pinecone GPT assistant tutorial](https://www.youtube.com/watch?v=15TDwVSpwKc), from PineCone
 - **Tools to explore**
   - **LLM APIs**
     - **OpenAI** needs no introduction. [Cookbook](https://github.com/openai/openai-cookbook/), [Docs](https://platform.openai.com/docs/introduction/overview)
