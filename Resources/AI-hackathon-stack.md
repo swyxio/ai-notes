@@ -29,6 +29,10 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
 
 ## Code AI tools
 
+Where the focus is building AI tools for other developers.
+
+- **Tutorials**
+  - [Build a GitHub support bot with GPT3, LangChain, and Python](https://dagster.io/blog/chatgpt-langchain) - Dagster blog ChatGPT clone ([tweet thread](https://twitter.com/floydophone/status/1612529024567500800?s=20)). Led to Astro's [HoustonAI](https://github.com/withastro/houston.astro.build): Astro AI support Bot
 - **Tools to explore**
   - [OpenAI Codex](https://platform.openai.com/docs/models/codex) needs no introduction.
   - [Copilot Explorer](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html#other-random-tidbits) Tools for those reverse engineering copilot. You can also peek at [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs).
@@ -39,7 +43,6 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
   - 🏆 [GPT is all you need for backend](https://github.com/TheAppleTucker/backend-GPT): a backend and database that is entirely LLM-powered. ([tweet](https://twitter.com/karpathy/status/1618311660539904002))
   - [KnowledgeGPT](https://github.com/mmz-001/knowledge_gpt)
   - [Chatbase.co](https://twitter.com/yasser_elsaid_/status/1621954428105379846): LangChain + Pinecone + OpenAI
-  - [HoustonAI](https://github.com/withastro/houston.astro.build): Astro AI support Bot
   - GPT-3 Auditor: scanning code for vulnerabilities with LLMs. https://github.com/handrew/gpt3-auditor
   - [Gptcommit: Never write a commit message again (with the help of GPT-3)](https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/)
   - [santacoder typosaurus]([url](https://twitter.com/corbtt/status/1616270918774575105)) - semantic linter that spots errors in code
