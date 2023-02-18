@@ -323,6 +323,7 @@ Required reading:
 	- GPU RAM optimizations, which makes it possible to enjoy these features with an NVIDIA GeForce GTX 1080 Ti
   - https://replicate.com/stability-ai/stable-diffusion Predictions run on Nvidia A100 GPU hardware. Predictions typically complete within 5 seconds.
   - https://replicate.com/cjwbw/stable-diffusion-v2
+  - https://deepinfra.com/
 - **iPhone/iPad Distros**
   - https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820
   - another attempt that was paused https://www.cephalopod.studio/blog/on-creating-an-on-device-stable-diffusion-app-amp-deciding-not-to-release-it-adventures-in-ai-ethics
