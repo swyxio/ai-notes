@@ -34,6 +34,7 @@ https://txt.cohere.ai/future-of-semantic-search-nils-reimers/
 - Metaphor https://metaphor.systems/
 - https://perplexity.ai Ask
 	- new search interface that uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
+	- chrome extension https://twitter.com/perplexity_ai/status/1620868761506152448
 	- uses Codex https://news.ycombinator.com/item?id=34006542
 	- examples https://twitter.com/perplexity_ai/status/1600551956551852032?s=20
 	- prompt https://twitter.com/jmilldotdev/status/1600624362394091523
