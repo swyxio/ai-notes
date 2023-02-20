@@ -102,6 +102,7 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - satya presentation https://twitter.com/petergyang/status/1623328335161090049?s=20
 - Fail with avatar movie question https://twitter.com/MovingToTheSun/status/1625156575202537474?s=20&t=qTJ9f2J-AunevB7iEnrlSw
 	- fast recovery referencing twitter chats https://twitter.com/beyonddigiskies/status/1625272928341463041
+- bing recap https://twitter.com/emollick/status/1627161768966463488
 
 ## BardChat notes
 
