@@ -210,6 +210,8 @@ languagemodels help you do things that dont scale
 	- https://huggingface.co/blog/how-to-train
 - make same.energy  - vision transformer with vector database
 	- https://news.ycombinator.com/item?id=34614449
+- integrate all the tools https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code
+
 
 ## what's needed in 2023
 

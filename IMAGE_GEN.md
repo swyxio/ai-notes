@@ -104,6 +104,11 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 
 ## midjourney
 
+-   [Advanced guide to writing prompts for MidJourney](https://medium.com/mlearning-ai/an-advanced-guide-to-writing-prompts-for-midjourney-text-to-image-aa12a1e33b6) 
+-   [Aspect ratio prompts](https://graphicsgurl.com/midjourney-aspect-ratio/#:~:text=MidJourney's%20default%20size%20is%20square,ratios%20%E2%80%93%20this%20is%20the%20original)
+
+
+
 nice trick to mix images https://twitter.com/javilopen/status/1613107083959738369
 
 "midjourney style" - just feed "prompt" to it https://twitter.com/rainisto/status/1606221760189317122
@@ -439,6 +444,7 @@ UI's that dont come with their own SD distro, just shelling out to one
 - [Artist Studies by @remi_durant](https://remidurant.com/artists/): **gallery** and Search.
 - [CLIP Ranked Artists](https://f000.backblazeb2.com/file/clip-artists/index.html): **gallery** sorted by weight/strength.
 - https://promptbase.com/ Selling prompts that produce desirable results
+- Prompt marketplace: [Prompt Hunt](https://www.prompthunt.com/)
 - https://publicprompts.art/ very basic/limited but some good prompts. promptbase competitor
 
 ### SD Visual search
