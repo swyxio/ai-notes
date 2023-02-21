@@ -55,3 +55,10 @@ https://twitter.com/ai__pub/status/1593365765012434944
 thread on GPT3 agents https://twitter.com/GrantSlatton/status/1600890243452137472?s=20
 
 https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven?sd=pf # The Near Future of AI is Action-Driven …and it will look a lot like AGI
+
+
+## Robotics
+
+https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/
+
+there was a google thing as well. something like XP1?
