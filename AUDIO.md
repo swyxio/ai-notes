@@ -21,13 +21,19 @@
   - https://freesubtitles.ai/ (hangs my browser when i try it)
   - https://github.com/mayeaux/generate-subtitles
   - [theory](https://twitter.com/ethanCaballero/status/1572692314400628739?s=20&t=j_XtR82eEW6Vp28YvodqJQ): whisper is a way to get more tokens from youtube for gpt4
-  - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. 
+  - Real time whisper [https://github.com/shirayu/whispering](https://github.com/shirayu/whispering)
   - whisper running on $300 device https://twitter.com/drjimfan/status/1616471309961269250?s=46&t=4t17Fxog8a65leEnHNZwVw
   - whisper can be hosted on https://deepinfra.com/
-  - whisperX with diarization https://twitter.com/maxhbain/status/1619698716914622466 https://github.com/m-bain/whisperX
+  - whisperX with diarization https://twitter.com/maxhbain/status/1619698716914622466 https://github.com/m-bain/whisperX Improved timestamps and speaker identification
   - whisper as a service self hosting GUI and queueing https://github.com/schibsted/WAAS
+  - Live microphone demo (not real time, it still does it in chunks) [https://github.com/mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic)
+  - Whisper webservice ([https://github.com/ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice)) - via this thread
   - Whisper UI https://github.com/hayabhay/whisper-ui
+	  - Streamlit UI [https://github.com/hayabhay/whisper-ui](https://github.com/hayabhay/whisper-ui)
+	  - Whisper playground [https://github.com/saharmor/whisper-playground](https://github.com/saharmor/whisper-playground)
   - Transcribe-anything https://github.com/zackees/transcribe-anything automates video fetching and uses whisper to generate .srt, .vtt and .txt files
+  - MacWhisper [https://goodsnooze.gumroad.com/l/macwhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+  - Crossplatform desktop Whisper that supports semi-realtime [https://github.com/chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
 - https://github.com/ggerganov/whisper.cpp
   High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model:
   - Plain C/C++ implementation without dependencies
