@@ -72,6 +72,11 @@ Where the focus is building AI tools for other developers.
   - **Multimodal, semantic video search**
     - Twelve Labs: Example: https://youtu.be/484hydNEJC0
       - Docs https://docs.twelvelabs.io/docs/understand
+  - **Youtube semantic video search**
+    - [Atlas](https://atlas.atila.ca/)
+      - Demo: https://twitter.com/tomiwa1a/status/1617373731135029249
+      - How it works: https://atila.ca/blog/tomiwa/atlas
+      - Source Code: https://github.com/atilatech/atila-core-service/tree/master/atlas
   - **Computer Vision**
     - [**Roboflow**](https://roboflow.com): Build classification, object detection, and instance segmentation datasets and models. Explore over 10,000 open source models and millions of labeled images on [**Universe**](https://universe.roboflow.com). (See Roboflow Hackathon projects like visual [chess solving apps](https://devpost.com/software/chess-boss),  [automatic dog treat release](https://www.hackster.io/satoshiii/visionai-automatic-dog-treat-dispenser-wroboflow-and-yolov5-a71fd2).)
     - 10k open source models, 10M+ open source labeled images: https://universe.roboflow.com
