@@ -29,7 +29,9 @@ https://txt.cohere.ai/future-of-semantic-search-nils-reimers/
     - frontend is open-source: https://github.com/atilatech/atlas-ui
     - backend is open-source: https://github.com/atilatech/atila-core-service
 
-
+- Phind.com - generative search for developers
+	- https://phind.com/search?q=what+are+the+notable+features+of+the+latest+version+of+typescript%3F
+	- https://news.ycombinator.com/item?id=34884338
 
 - Metaphor https://metaphor.systems/
 - https://perplexity.ai Ask
