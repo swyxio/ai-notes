@@ -104,6 +104,8 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 	- fast recovery referencing twitter chats https://twitter.com/beyonddigiskies/status/1625272928341463041
 - bing recap https://twitter.com/emollick/status/1627161768966463488
 - sydney vs venom https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/
+- Fails
+	- sydney grabbing the mic https://twitter.com/andrewcurran_/status/1627161229067444225
 
 ## BardChat notes
 
