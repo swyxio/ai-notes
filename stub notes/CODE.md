@@ -58,6 +58,7 @@
 - grid.io
 - qqbot - dan robinson?
 - Pygma is used to convert Figma mockups into production-ready code.
+- bloop - AI code search https://news.ycombinator.com/item?id=34892541
 
 	stackoverflow.gg https://twitter.com/bentossell/status/1622513022781587456
 - What comes after Copilot? My take: a conversation with your codebase! Introducing Tensai, your repo-level code assistant http://TensaiCode.com - jay hacks
