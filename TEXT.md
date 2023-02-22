@@ -226,6 +226,8 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 
 ## GPT Products
 
+- directory
+	- https://gpt3demo.com/
 - Jasper
 - CopyAI
 - Features of existing products
