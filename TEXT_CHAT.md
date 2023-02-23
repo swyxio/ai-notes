@@ -85,6 +85,7 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 	-   [**Toy Semantic Search**](https://github.com/cohere-ai/sandbox-toy-semantic-search)**:** A simple semantic search engine built with the Cohere API. The search algorithm here is fairly straightforward; it uses embeddings to find the paragraph that matches the question's representation. In text sources, a concrete paragraph containing the answer is most likely to produce the best results.
 - LangChain Chats
 	- https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain This application, developed by [James L. Weaver](https://www.linkedin.com/in/javafxpert/), demonstrates a conversational agent implemented with OpenAI GPT-3.5 and LangChain. When necessary, it leverages tools for complex math, searching the internet, and accessing news and weather. Uses talking heads from [Ex-Human](https://exh.ai/). For faster inference without waiting in queue, you may duplicate the space.
+- [Show HN: ChatBotKit – The simplest way to build AI chat bots like ChatGPT](https://chatbotkit.com/)
 
 ## Anthropic Claude notes
 
