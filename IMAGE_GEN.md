@@ -146,10 +146,11 @@ DallE vs Imagen vs Parti  architecture
   - https://colab.research.google.com/github/WASasquatch/easydiffusion/blob/main/Stability_AI_Easy_Diffusion.ipynb
 - Craiyon + Stable Diffusion https://twitter.com/GeeveGeorge/status/1567130529392373761
 - Breadboard: https://www.reddit.com/r/StableDiffusion/comments/102ca1u/breadboard_a_stablediffusion_browser_version_010/
-	-  a browser for effortlessly searching and managing all your Stablediffusion generated files.
-	- 1.  Full fledged browser UI: You can literally “surf” your local Stablediffusion generated files, home, back, forward buttons, search bar, and even bookmarks.
-	2.  Tagging: You can organize your files into tags, making it easy to filter them. Tags can be used to filter files in addition to prompt text searches.
-	3.  Bookmarking: You can now bookmark files. And you can bookmark search queries and tags. The UX is very similar to ordinary web browsers, where you simply click a star or a heart to favorite items.
+  -  a browser for effortlessly searching and managing all your Stablediffusion generated files.
+    1. Full fledged browser UI: You can literally “surf” your local Stablediffusion generated files, home, back, forward buttons, search bar, and even bookmarks.
+    2. Tagging: You can organize your files into tags, making it easy to filter them. Tags can be used to filter files in addition to prompt text searches.
+    3. Bookmarking: You can now bookmark files. And you can bookmark search queries and tags. The UX is very similar to ordinary web browsers, where you simply click a star or a heart to favorite items.
+    4. Realtime Notification: Get realtime notifications on all the Stablediffusion generated files.
 
 Misc
 
