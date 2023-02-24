@@ -74,3 +74,4 @@ https://txt.cohere.ai/future-of-semantic-search-nils-reimers/
 - weaviate vecot rsearch https://twitter.com/CShorten30/status/1612081726041518080?s=20
 - simple semantic search https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1
 - ebook semantic search https://colab.research.google.com/drive/1PDT-jho3Y8TBrktkFVWFAPlc7PaYvlUG?usp=sharing#scrollTo=zCJx4wZ7fSAB
+- askHN - tech notes, costs, and time for embedding all of HN https://www.patterns.app/blog/2023/02/19/ask-hn-gpt-embeddings-question-answering/

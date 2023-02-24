@@ -47,7 +47,8 @@
   - a fork of whisper.cpp that uses DirectCompute to run it on GPUs without Cuda on Windows: https://github.com/Const-me/Whisper
 - Whisper.cpp small model is best traadeoff of performance vs accuracy https://blog.lopp.net/open-source-transcription-software-comparisons/
 - whisper openai api https://twitter.com/calumbirdo/status/1614826199527690240?s=46&t=-lurfKb2OVOpdzSMz0juIw
-
+- speech separation model https://github.com/openai/whisper/discussions/264#discussioncomment-4706132
+	- https://github.com/miguelvalente/whisperer
 
 https://news.ycombinator.com/item?id=33663486
 -  https://whispermemos.com pressing button on my Lock Screen and getting a perfect transcription in my inbox.

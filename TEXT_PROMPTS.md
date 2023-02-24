@@ -5,6 +5,10 @@ prompt engineering techniques
 
 - https://txt.cohere.ai/generative-ai-part-2/
 
+## reading list
+
+- https://github.com/dair-ai/Prompt-Engineering-Guide
+
 ## chain of thought prompting
 
 [Source: _Chain of Thought Prompting Elicits Reasoning in Large Language Models_ Jason Wei and Denny Zhou et al. (2022)](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)
