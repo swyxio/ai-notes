@@ -98,11 +98,14 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
   - humanloop prolpt engineering 101 https://website-olo3k29b2-humanloopml.vercel.app/blog/prompt-engineering-101
   - DALLE2 prompt writing book http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
-  - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview
-  - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
-  - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
-  - https://andymatuschak.org/prompts/
   - https://ourworldindata.org/brief-history-of-ai ai progress overview with nice charts
+  - text generation
+	  - Stephen Wolfram's explanations https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+	  - https://andymatuschak.org/prompts/
+  - image generation
+	  - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview
+	  - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
+	  - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
   - for nontechnical
     - https://www.jonstokes.com/p/ai-content-generation-part-1-machine
     - https://www.protocol.com/generative-ai-startup-landscape-map
