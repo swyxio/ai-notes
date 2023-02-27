@@ -162,6 +162,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
   - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
   - negative prompting https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/
   - best papers of 2022 https://www.yitay.net/blog/2022-best-nlp-papers
+  - [Predictability and Surprise in Large Generative Models](https://arxiv.org/pdf/2202.07785.pdf) - good survey paper of what we know about scaling and capabilities and rise of LLMs so far
 - more prompt eng papers https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.

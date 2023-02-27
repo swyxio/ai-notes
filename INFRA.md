@@ -48,6 +48,10 @@
 
 - the top-performing GPT-175B model has 175 billion parameters, which total at least 320GB (counting multiples of 1024) of storage in half-precision (FP16) format, leading it to require at least five A100 GPUs with 80GB of memory each for inference. https://arxiv.org/pdf/2301.00774.pdf
 - And training itself isn’t cheap. PaLM is 540 billion parameters in size, “parameters” referring to the parts of the language model learned from the training data. A 2020 [study](https://arxiv.org/pdf/2004.08900.pdf) pegged the expenses for developing a text-generating model with only 1.5 billion parameters at as much as $1.6 million. And to train the open source model [Bloom](https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/), which has 176 billion parameters, it took three months using 384 Nvidia A100 GPUs; a single A100 costs thousands of dollars. https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/
+	- PaLM estimated to cost between 9-23M https://blog.heim.xyz/palm-training-cost/
+		- The final training run of PaLM required 2.56×10²⁴ (2.56e24) FLOPs.
+		- We trained PaLM-540B on 6144 TPU v4 chips for 1200 hours and 3072 TPU v4 chips for 336 hours including some downtime and repeated steps.
+		- VERY VERY GOOD POST FOR DOING MATH
 - [Bloom](https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/) requires a dedicated PC with around eight A100 GPUs. Cloud alternatives are pricey, with back-of-the-envelope math [finding](https://bdtechtalks.com/2020/09/21/gpt-3-economy-business-model/) the cost of running OpenAI’s text-generating [GPT-3](https://techcrunch.com/tag/gpt-3/) — which has around 175 billion parameters — on a single Amazon Web Services instance to be around $87,000 per year.
 	- https://bdtechtalks.com/2020/09/21/gpt-3-economy-business-model/
 	- Lambda Labs calculated the [computing power required to train GPT-3](https://lambdalabs.com/blog/demystifying-gpt-3/) based on projections from GPT-2. According to the estimate, training the 175-billion-parameter neural network requires 3.114E23 FLOPS (floating-point operation), which would theoretically take 355 years on a V100 GPU server with 28 TFLOPS capacity and would cost $4.6 million at $1.5 per hour.
@@ -64,6 +68,7 @@ Alternatively, if run in the cloud, GPT-3 would require something like Amazon’
 
 training is syncrhonous (centralized) and is just a matter of exaflops https://twitter.com/AliYeysides/status/1605258835974823954?s=20 nuclear fusion accelerates exaflops
 
+floating-point operations/second per $ doubles every ~2.5 years. https://epochai.org/blog/trends-in-gpu-price-performance For top GPUs at any point in time, we find a slower rate of improvement (FLOP/s per $ doubles every 2.95 years), while for models of GPU typically used in ML research, we find a faster rate of improvement (FLOP/s per $ doubles every 2.07 years).
 
 computer requirements to train gpt4 https://twitter.com/matthewjbar/status/1605328925789278209?s=46&t=fAgqJB7GXbFmnqQPe7ss6w
 
@@ -74,9 +79,17 @@ human brain math https://twitter.com/txhf/status/1613239816770191361?s=20
 https://www.lesswrong.com/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines
 https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines
 	- reaction https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might
+	- reaction https://www.lesswrong.com/posts/ax695frGJEzGxFBK4/biology-inspired-agi-timelines-the-trick-that-never-works#__2020__
+		- summary https://www.lesswrong.com/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines?commentId=7d4q79ntst6ryaxWD
+			- human brain is doing the equivalent of 1e13 - 1e16 FLOP per second, with **a median of 1e15 FLOP per second**, and a long tail to the right. This results in a median of **1e16 FLOP per second** for the inference-time compute of a transformative model.
 - https://docs.google.com/document/d/1IJ6Sr-gPeXdSJugFulwIpvavc0atjHGM82QjIfUSBGQ/edit
 - **In the case of the Lifetime Anchor hypothesis, I took the anchor distribution to be the number of total FLOP that a human brain performs in its first 1 billion seconds (i.e. up to age ~32); my median estimate is (1e15 FLOP/s) * (1e9 seconds) = 1e24 FLOP**
 - **In the case of the Evolution Anchor hypothesis, I estimated the anchor distribution to be ~1e41 FLOP, by assuming about 1 billion years of evolution from the [earliest neurons](https://en.wikipedia.org/wiki/Evolution_of_nervous_systems) and multiplying by the average population size and average brain FLOP/s of our evolutionary ancestors**
+- assumed 2020 SOTA for cost was 1e17 FLOP/ $
+	- https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines#Making_a_one_time_upward_adjustment_for__2020_FLOP_____
+	- -   I was using [the V100](https://www.nvidia.com/en-us/data-center/v100/) as my reference machine; this was in fact the most advanced publicly available chip on the market as of 2020, but it was released in 2018 and on its way out, so it was better as an estimate for 2018 or 2019 compute than 2020 compute. The more advanced [A100](https://www.nvidia.com/en-us/data-center/a100/) was 2-3x more powerful per dollar and released in late 2020 almost immediately after my report was published.
+	-   I was using the rental price of a V100 (~$1/hour), but big companies get better deals on compute than that, by about another 2-3x.
+	-   I was assuming ~⅓ utilization of FLOP/s, which was in line with what people were achieving then, but utilization seems to have improved, maybe to ~50% or so.
 
 ### microsoft openai cluster
 
@@ -180,3 +193,19 @@ We have three main lines of attack:
 1.  We can search for improved _model architectures_.
 2.  We can _scale computation_.
 3.  We can create _larger training data sets_.
+
+### 2020
+
+https://arxiv.org/abs/2001.08361 # Scaling Laws for Neural Language Models
+- altho 2022 paper [Predictability and Surprise in Large Generative Models](https://arxiv.org/pdf/2202.07785.pdf) has a nicer chart on compute, data, model size scaling
+
+### 2022
+
+ [Predictability and Surprise in Large Generative Models](https://arxiv.org/pdf/2202.07785.pdf)
+ - DISTINGUISHING FEATURES OF LARGE GENERATIVE MODELS
+	 - Smooth, general capability scaling
+	 - Abrupt, specific capability scaling
+		 - For arithmetic, GPT-3 displays a sharp capability transition somewhere between 6B parameters and 175B parameters, depending on the operation and the number of digits
+		 - three digit addition is performed accurately less than 1% of the time on any model with less than 6B parameters, but this jumps to 8% accuracy on a 13B parameter model and 80% accuracy on a 175B parameter model
+	 - Open-ended inputs and domains
+	 - Open-ended outputs
