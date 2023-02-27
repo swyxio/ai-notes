@@ -1,0 +1,3 @@
+- https://twitter.com/marcgbellemare/status/1625620586155196419?s=20
+- The Arcade Learning Environment: An Evaluation Platform for General Agents
+- https://lilianweng.github.io/posts/2018-02-19-rl-overview/
