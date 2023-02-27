@@ -26,6 +26,7 @@
 	- the 175B parameters model on 300B tokens (60% 2016 - 2019 C4 + 22% WebText2 + 16% Books + 3% Wikipedia). Where:
 	- **https://lifearchitect.ai/chinchilla/ extremely good explanation**
 ![https://s10251.pcdn.co/wp-content/uploads/2022/06/2022-adt-chinchilla-dataset-sizes-table.png](https://s10251.pcdn.co/wp-content/uploads/2022/06/2022-adt-chinchilla-dataset-sizes-table.png)
+	- the most pessimistic estimate of how much like the most capable organization could get is the 500 billion tokens. A more optimistic estimate is like 10 trillion tokens is how many tokens the most capable organization could get, like mostly English tokens. https://theinsideview.ai/ethan#limits-of-scaling-data
 
 ## Infrastructure
 
@@ -70,7 +71,12 @@ computer requirements to train gpt4 https://twitter.com/matthewjbar/status/16053
 
 human brain math https://twitter.com/txhf/status/1613239816770191361?s=20
 
-
+https://www.lesswrong.com/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines
+https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines
+	- reaction https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might
+- https://docs.google.com/document/d/1IJ6Sr-gPeXdSJugFulwIpvavc0atjHGM82QjIfUSBGQ/edit
+- **In the case of the Lifetime Anchor hypothesis, I took the anchor distribution to be the number of total FLOP that a human brain performs in its first 1 billion seconds (i.e. up to age ~32); my median estimate is (1e15 FLOP/s) * (1e9 seconds) = 1e24 FLOP**
+- **In the case of the Evolution Anchor hypothesis, I estimated the anchor distribution to be ~1e41 FLOP, by assuming about 1 billion years of evolution from the [earliest neurons](https://en.wikipedia.org/wiki/Evolution_of_nervous_systems) and multiplying by the average population size and average brain FLOP/s of our evolutionary ancestors**
 
 ### microsoft openai cluster
 
