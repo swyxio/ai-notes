@@ -162,3 +162,15 @@ example
 	3. AI Backend logic - AWS Lambdas 
 	4. Semantic Search - Free to start vector DBs (eg: pinecone .io) 
 	5. Deployment - Vercel + Supabase
+
+
+## Important papers
+
+2009: Google  [‘The unreasonable effectiveness of data](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf).
+2017:  [Deep learning scaling is predictable, empirically](https://arxiv.org/abs/1712.00409) Hestness et al., _arXiv, Dec.2017_ 
+
+We have three main lines of attack:
+
+1.  We can search for improved _model architectures_.
+2.  We can _scale computation_.
+3.  We can create _larger training data sets_.

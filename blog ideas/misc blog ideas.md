@@ -71,7 +71,7 @@ varun
 		- once the output is generated - if amount is yes, low latency , fast iteration loop
 - if you build on a LLM API
 	- should the sharding live in the app layer or in the api layer
-- read hjeff dean efficintly scaling https://www.reddit.com/r/mlscaling/comments/yrx6w6/efficiently_scaling_transformer_inference_jeff/
+- read jeff dean efficintly scaling https://www.reddit.com/r/mlscaling/comments/yrx6w6/efficiently_scaling_transformer_inference_jeff/
 - 
 
 nice chart of flops https://ourworldindata.org/brief-history-of-ai
