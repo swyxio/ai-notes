@@ -37,6 +37,13 @@
 - Fixie AI
 	- https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81?gi=33c317b7b536
 	- [**Fixie.ai**](http://fixie.ai/), a new platform for building, hosting, and scaling Smart Agents that extend the power of Large Language Models with connections to your own data sources, systems, and tools. Think of Fixie like a way of building a ChatGPT-like experience that can be infinitely extended with new capabilities and interfaces to any software system.
+- ai agents https://youtu.be/g0muj39vCCY
+	- avalon - 3D reinforcement learning environment- simulation to test agent behavior
+	- curiosity
+	- long horizon planning
+	- ability to learn very quickly
+	- spending more time at inference is equal to 100,000 time at training. analogous to chain of thought just needing more tokens 30mins mark
+- langchain https://twitter.com/hwchase17/status/1629929531678265344
 
 
 - Whatsapp + ChatGPT
