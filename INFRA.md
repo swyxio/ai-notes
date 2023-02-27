@@ -79,6 +79,9 @@ human brain math https://twitter.com/txhf/status/1613239816770191361?s=20
 https://www.lesswrong.com/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines
 https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines
 	- reaction https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might
+			- human brain 10^13 - 10^17 FLOP/S. Why? Partly because this was the number given by most experts. But also, there are about 10^15 synapses in the brain, each one spikes about once per second, and a synaptic spike probably does about one FLOP of computation.
+			- Cars don’t move by contracting their leg muscles and planes don’t fly by flapping their wings like birds. Telescopes _do_ form images the same way as the lenses in our eyes, but differ by so many orders of magnitude in every important way that they defy comparison. Why should AI be different? You have to use some specific algorithm when you’re creating AI; why should we expect it to be anywhere near the same efficiency as the ones Nature uses in our brains?
+			- Good news! There’s [a supercomputer in Japan](https://en.wikipedia.org/wiki/Fugaku_(supercomputer)) that can do 10^17 FLOP/S!
 	- reaction https://www.lesswrong.com/posts/ax695frGJEzGxFBK4/biology-inspired-agi-timelines-the-trick-that-never-works#__2020__
 		- summary https://www.lesswrong.com/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines?commentId=7d4q79ntst6ryaxWD
 			- human brain is doing the equivalent of 1e13 - 1e16 FLOP per second, with **a median of 1e15 FLOP per second**, and a long tail to the right. This results in a median of **1e16 FLOP per second** for the inference-time compute of a transformative model.
@@ -90,6 +93,20 @@ https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-per
 	- -   I was using [the V100](https://www.nvidia.com/en-us/data-center/v100/) as my reference machine; this was in fact the most advanced publicly available chip on the market as of 2020, but it was released in 2018 and on its way out, so it was better as an estimate for 2018 or 2019 compute than 2020 compute. The more advanced [A100](https://www.nvidia.com/en-us/data-center/a100/) was 2-3x more powerful per dollar and released in late 2020 almost immediately after my report was published.
 	-   I was using the rental price of a V100 (~$1/hour), but big companies get better deals on compute than that, by about another 2-3x.
 	-   I was assuming ~⅓ utilization of FLOP/s, which was in line with what people were achieving then, but utilization seems to have improved, maybe to ~50% or so.
+
+cost
+- https://www.economist.com/technology-quarterly/2020/06/11/the-cost-of-training-machines-is-becoming-a-problem
+	- But people have been pouring more and more money into AI lately:
+
+[
+
+![The cost of training machines is becoming a problem | The Economist](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9496f1f-ec6c-41a2-8c2e-27f09da22097_1280x759.png "The cost of training machines is becoming a problem | The Economist")
+
+
+
+](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9496f1f-ec6c-41a2-8c2e-27f09da22097_1280x759.png)
+
+_Source [here](https://www.economist.com/technology-quarterly/2020/06/11/the-cost-of-training-machines-is-becoming-a-problem). This is about compute rather than cost, but most of the increase seen here has been companies willing to pay for more compute over time, rather than algorithmic or hardware progress._
 
 ### microsoft openai cluster
 
