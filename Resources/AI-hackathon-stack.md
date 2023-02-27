@@ -109,6 +109,8 @@ Instant access to the best prices for cloud GPUs on the market. No commitments o
     - _Seeking: tutorials for serving Whisper, other LLMs_
   - **Fine-tuning**
     - [Blueprint by Baseten](https://app.baseten.co/blueprint/signup/) Fine-tuning and serving of foundation models. [Docs](https://docs.blueprint.baseten.co/). In alpha; reach out on Discord to Amir H. for help. 
+  - **Evaluation**
+    - [Zeno](https://zenoml.com) Interactive data management and evaluation for foundational models. [Docs](https://zenoml.com/docs/intro) and [Demos](https://zenoml.com/docs/demos).
   - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
   -  a key-value store to enable long-term memory in language model conversations ([tweet](https://twitter.com/russelljkaplan/status/1616955361705197568?s=20&t=KIszRKntkT4Y-I-WwKI8Mg))
