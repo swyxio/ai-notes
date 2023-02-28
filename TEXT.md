@@ -179,6 +179,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
     - [Promptagator: Few-shot Dense Retrieval From 8 Examples](https://arxiv.org/abs/2209.11755)
     - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://www.arxiv-vanity.com/papers/2102.07350/)
     - [PromptChainer: Chaining Large Language Model Prompts through Visual Programming](https://arxiv.org/abs/2203.06566)
+    - [Contrastive Search Is What You Need For Neural Text Generation](https://huggingface.co/blog/introducing-csearch): (1) [Paper](https://arxiv.org/abs/2210.14140) and (2) [Official Implementation](https://github.com/yxuansu/Contrastive_Search_Is_What_You_Need).
 - Academics
   - P3: Public pool of prompts https://huggingface.co/datasets/bigscience/P3
     - and Promptsource https://github.com/bigscience-workshop/promptsource
@@ -214,6 +215,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
       - Modeling dialog history
       - Increased informativeness
       - Rejecting questions outside the model’s knowledge scope
+  - https://jaykmody.com/blog/gpt-from-scratch/
 
 ## Don't call it generative
 
