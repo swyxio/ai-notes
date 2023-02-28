@@ -273,6 +273,8 @@ more longform recap of fails https://garymarcus.substack.com/p/large-language-mo
 
 ### Jailbreaks
 
+List of jailbreaks: https://www.jailbreakchat.com/
+
 Circumventing ChatGPT safety restrictions
 
 https://www.lesswrong.com/posts/RYcoJdvmoBbi5Nax7/jailbreaking-chatgpt-on-release-day
