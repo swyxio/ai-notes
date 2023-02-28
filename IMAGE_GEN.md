@@ -63,6 +63,7 @@
 	- CLIPSeg https://huggingface.co/docs/transformers/main/en/model_doc/clipseg (for Image segmentation)
 	- Queryable - CLIP on iphone photos https://news.ycombinator.com/item?id=34686947
 		- on website https://paulw.tokyo/post/real-time-semantic-search-demo/
+	- beating CLIP # with 100x less data and compute https://www.unum.cloud/blog/2023-02-20-efficient-multimodality
 - Stable Diffusion
 	- https://stability.ai/blog/stable-diffusion-v2-release
 		- _New Text-to-Image Diffusion Models_
