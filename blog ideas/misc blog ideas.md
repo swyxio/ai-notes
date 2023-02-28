@@ -124,6 +124,8 @@ _ChatGPT’s predecessor GPT-3 has 175 billion parameters. Using 16-bit, floatin
 _In comparison, Wikipedia occupies about 150GB (50GB for text, 100GB for images)_ _While the comparison is far from apples to apples, the fact that an LLM has more memory than is needed to store Wikipedia suggests its potential to store knowledge._
 _Wikipedia contains a minuscule fraction of the knowledge available on the internet, which by some estimates amounts to 5 billion GB._
 
+HOWEVER: [andrew ng](https://info.deeplearning.ai/chatbots-gone-wild-surveillance-takes-hold-rules-for-military-ai-robot-training-streamlined-1?ecid=ACsprvsVL700ZN_pWRpntYYV2Kh_bE6vqj7mNADQhAPxScJEAqpVKXg-jUPmrVoLa9-ohOKtM01N&utm_campaign=The%20Batch&utm_medium=email&_hsmi=247273528&_hsenc=p2ANqtz-_UTsa6nrxOWblO1ikYvjowBI8PuiXWGXN-kC9yNuF2iObAYoqjnbilIVOBHBx09gR9py6t1YUOWaGBWPFHtwhQcEFTKQ&utm_content=247274434&utm_source=hs_email) says _I don’t see a realistic path to getting an LLM with a fixed set of parameters to both (i) demonstrate deep and broad knowledge about the world and (ii) be accurate most of the time. A 175B-parameter model simply doesn’t have enough memory to know that much._
+
  pubmedgpt story https://overcast.fm/+Jy_x31W5I/10:00 50b tokens of data - all published journals
 
 full training - 10x-100x of a single run

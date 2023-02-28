@@ -108,6 +108,7 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - sydney vs venom https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/
 - Fails
 	- sydney grabbing the mic https://twitter.com/andrewcurran_/status/1627161229067444225
+	- andrew ng recap of bing fails https://info.deeplearning.ai/chatbots-gone-wild-surveillance-takes-hold-rules-for-military-ai-robot-training-streamlined-1?ecid=ACsprvsVL700ZN_pWRpntYYV2Kh_bE6vqj7mNADQhAPxScJEAqpVKXg-jUPmrVoLa9-ohOKtM01N&utm_campaign=The%20Batch&utm_medium=email&_hsmi=247273528&_hsenc=p2ANqtz-8fItl7oXcWa0wbn2Zft6zFemAaTnFB5qsECrte2S6Eb1ypZoelU8bzoLZN_rGhQ9U0OaG49CHOPCy8l_523EyetUt8PA&utm_content=247274434&utm_source=hs_email#hs_cos_wrapper_hs_email_body_old9_
 
 ## BardChat notes
 
