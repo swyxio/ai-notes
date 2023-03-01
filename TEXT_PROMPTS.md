@@ -3,6 +3,7 @@ prompt engineering techniques
 
 ## basic usages
 
+- https://docs.cohere.ai/docs/prompt-engineering
 - https://txt.cohere.ai/generative-ai-part-2/
 
 ## reading list
