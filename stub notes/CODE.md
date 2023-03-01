@@ -51,6 +51,7 @@
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds
 - [Gptcommit: Never write a commit message again (with the help of GPT-3)](https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/)
 	- yet another https://news.ycombinator.com/item?id=34591733
+- https://github.com/Nutlope/aicommits
 
 - santacoder typosaurus https://twitter.com/corbtt/status/1616270918774575105?s=46&t=ZSeI0ovGBee8JBeXEe20Mg semantic linter that spots errors in code
 - Buildt -  AI-powered search allows you to find code by searching for what it does, not just what it is.
