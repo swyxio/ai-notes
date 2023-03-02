@@ -561,6 +561,7 @@ Trained examples
   - https://huggingface.co/blog/stable_diffusion
   - https://github.com/ekagra-ranjan/huggingface-blog/blob/main/stable_diffusion.md
     - tinygrad impl https://github.com/geohot/tinygrad/blob/master/examples/stable_diffusion.py
+    - Diffusion with offset noise https://www.crosslabs.org//blog/diffusion-with-offset-noise
   - https://colab.research.google.com/drive/1dlgggNa5Mz8sEAGU0wFCHhGLFooW_pf1?usp=sharing
   - FastAI course https://www.fast.ai/posts/part2-2022-preview.html
   - https://twitter.com/johnowhitaker/status/1565710033463156739

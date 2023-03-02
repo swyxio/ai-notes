@@ -216,6 +216,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
       - Increased informativeness
       - Rejecting questions outside the model’s knowledge scope
   - https://jaykmody.com/blog/gpt-from-scratch/
+  - OpenAI trained their original GPTs to pay special attention to <|endoftext|> for separating documents. But <|endoftext|> was in fact a special token: [50256]. Encoders need to encode that text string specially, since otherwise there's no way to generate [50256]. https://news.ycombinator.com/user?id=sillysaurusx
 
 ## Don't call it generative
 
@@ -318,3 +319,4 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 ## Misc Text AI
 
 - OpenAI NarrativeQA Summarizing books https://openai.com/blog/summarizing-books/
+- GPT2 chess story with shawn presser and gwern https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/
