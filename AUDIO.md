@@ -186,3 +186,5 @@ general consensus is that it's just not very good right now
 	- reactions https://twitter.com/JacquesThibs/status/1618839343661203456
 	- implementation https://github.com/lucidrains/musiclm-pytorch
 - https://arxiv.org/abs/2301.12662 singsong voice generation
+- small demo apps
+	- beatbot.fm https://news.ycombinator.com/item?id=34994444
