@@ -44,6 +44,7 @@
 	- ability to learn very quickly
 	- spending more time at inference is equal to 100,000 time at training. analogous to chain of thought just needing more tokens 30mins mark
 - langchain https://twitter.com/hwchase17/status/1629929531678265344
+- minion ai https://twitter.com/alexgraveley/status/1631693523748519940
 
 
 - Whatsapp + ChatGPT

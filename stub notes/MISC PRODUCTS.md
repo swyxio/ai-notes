@@ -87,6 +87,7 @@ ai playlists
 - supabase clippy https://supabase.com/blog/chatgpt-supabase-docs
 	- $5 for 1800 requests, that is 0.0027 per request, text-davinci-003 price is $0.02/1k token, so the average token number is 135. That is far below my expectation.
 - [https://askcorpora.com](https://askcorpora.com/) It allows users to upload their pdf files and search through them in natural language and perform Q&A. It uses same technology that ClippyGPT used.
+- https://www.mendable.ai/ used in langchain docs
 
 ## slackbots
 
