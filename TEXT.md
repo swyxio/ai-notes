@@ -187,6 +187,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
   - Study chain of thought reasoning https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html
     - and self-consistency (Sample a diverse set of reasoning paths on the _same_ model) to improve it https://arxiv.org/abs/2203.11171
     - and UL2 20B https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html
+	    - released as UL2 20B https://twitter.com/YiTayML/status/1631359468675166208
   - building GPT-JT: https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai
 
 ## How GPT works
@@ -257,6 +258,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
   - SlackGPT https://zapier.com/shared/query-gpt-3-via-a-slack-channel/a7551c53beda75b3bf65c315f027de04a4b323ef
   - got3discord moderator https://github.com/Kav-K/GPT3Discord
   - extract gpt chrome extension https://twitter.com/kasrak/status/1624515411973922816?s=20
+  - https://techcrunch.com/2023/02/28/typeface-emerges-from-stealth-with-65m-to-bring-generative-ai-to-the-enterprise We provide a generative AI application that empowers businesses to develop personalized content,” Parasnis said. “CEOs, CMOs, heads of digital and VPs and directors of creative are all expressing a growing demand for combining generative AI platforms with hyper-affinitized AI content to enhance the future of content workflows.”
   - Embra macos desktop chatgptlike
 	  - https://twitter.com/zachtratar/status/1623015294569713665?s=20&t=hw_somO_R_JxGp4zQpFz0Q
 	  - competes with Dust XP1

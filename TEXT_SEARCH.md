@@ -61,6 +61,7 @@ https://txt.cohere.ai/future-of-semantic-search-nils-reimers/
 		- The "Ask" answer uses text-davinci-003 to answer the question given the search results, with instructions not to make stuff up.
 		- https://github.com/rileytomasek/openai-fetch
 - https://news.ycombinator.com/item?id=34598406 Needl YC22
+- https://edgar-gpt.ai/ finance search
 
 ## Tech notes
 
