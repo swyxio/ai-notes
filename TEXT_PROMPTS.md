@@ -5,6 +5,8 @@ prompt engineering techniques
 
 - https://docs.cohere.ai/docs/prompt-engineering
 - https://txt.cohere.ai/generative-ai-part-2/
+- antihallucination prompt eng
+	- https://twitter.com/nickcammarata/status/1284050958977130497?s=20 "yo be real"
 
 ## reading list
 

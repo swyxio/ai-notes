@@ -73,6 +73,7 @@
 		- https://news.ycombinator.com/item?id=33726816
 			- Seems the structure of UNet hasn't changed other than the text encoder input (768 to 1024). The biggest change is on the text encoder, switched from ViT-L14 to ViT-H14 and fine-tuned based on [https://arxiv.org/pdf/2109.01903.pdf](https://arxiv.org/pdf/2109.01903.pdf).
 			- the dataset it's trained on is ~240TB (5 billion pairs of text to 512x512 image.) and Stability has over ~4000 Nvidia A100
+		- Runway vs Stable Diffusion drama https://www.forbes.com/sites/kenrickcai/2022/12/05/runway-ml-series-c-funding-500-million-valuation/
 	- https://stability.ai/blog/stablediffusion2-1-release7-dec-2022
 		- Better people and less restrictions than v2.0
 		- Nonstandard resolutions
