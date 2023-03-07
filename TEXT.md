@@ -234,6 +234,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 	- https://gpt3demo.com/
 - Jasper
 - CopyAI
+- Great Question customer research https://www.ycombinator.com/companies/great-question/jobs/AokShrj-full-stack-rails-engineer
 - Features of existing products
   - NotionAI
   - https://hashnode.com/neptune

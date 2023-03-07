@@ -105,7 +105,7 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - Fail with avatar movie question https://twitter.com/MovingToTheSun/status/1625156575202537474?s=20&t=qTJ9f2J-AunevB7iEnrlSw
 	- fast recovery referencing twitter chats https://twitter.com/beyonddigiskies/status/1625272928341463041
 - bing recap https://twitter.com/emollick/status/1627161768966463488
-- 
+- bing successes https://oneusefulthing.substack.com/p/feats-to-astonish-and-amaze
 - Fails
 	- sydney grabbing the mic https://twitter.com/andrewcurran_/status/1627161229067444225
 	- sydney vs venom https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/
@@ -117,6 +117,11 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - JWST fail https://twitter.com/IsabelNAngelo/status/1623013720011194368
 
 ## ChatGPT notes
+
+
+### insider notes
+
+- how it was built https://www.technologyreview.com/2023/03/03/1069311/inside-story-oral-history-how-chatgpt-built-openai/
 
 ### Findings
 
