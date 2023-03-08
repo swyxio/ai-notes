@@ -145,9 +145,11 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 ### Products
 
 - whatsapp https://github.com/danielgross/whatsapp-gpt https://twitter.com/danielgross/status/1598735800497119232
+	- [http://wa.me/19893946588](http://wa.me/19893946588) from [HN](https://news.ycombinator.com/item?id=35053101)
 - telegram bot https://twitter.com/altryne/status/1598822052760195072
   - now with google access https://github.com/altryne/chatGPT-telegram-bot/releases/tag/0.1.0
   - https://twitter.com/m1guelpf/status/1599254528800325632 https://github.com/m1guelpf/chatgpt-telegram
+  - https://chatgptontelegram.com/
 - Desktop app https://github.com/lencx/ChatGPT
 - twitter bot https://github.com/transitive-bullshit/chatgpt-twitter-bot
 - python https://github.com/taranjeet/chatgpt-api

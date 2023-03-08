@@ -35,6 +35,7 @@ Best sparse model paper. Meticulous experiments, comprehensive evals and the got
 
 
 H3 state space models https://twitter.com/mathemagic1an/status/1617620133182332928?s=46&t=I3QXnpdfF5CXpszIYkv4pQ
+Hyena models https://twitter.com/MichaelPoli6/status/1633167040130453505
 
 
 -   Parameter-Efficient Fine-tuning (PEFT). The number of params needed to **fine-tune Flan-T5-XXL** is now 9.4M. About 7X fewer than AlexNet. ([link](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2h1Z2dpbmdmYWNlLmNvL2Jsb2cvcGVmdCIsInBvc3RfaWQiOiJmYjU1ZTM2OC1hZjIyLTRlOWEtOTA1MS1iMTcwY2ZhYjBkMGQiLCJwdWJsaWNhdGlvbl9pZCI6IjQ0N2Y2ZTYwLWUzNmEtNDY0Mi1iNmY4LTQ2YmViMTkwNDVlYyIsInZpc2l0X3Rva2VuIjoiZDQxYjQ5NzktMTMwNy00NWViLTkyZTQtNTgxODg1YmNlMzZiIiwiaWF0IjoxNjc2NDQ2NjQ4LjU3NiwiaXNzIjoib3JjaGlkIn0.q5Tuik3xgVAB4Ymd983PN1MOZX3ni5KdiHkD-TcMtmk))
