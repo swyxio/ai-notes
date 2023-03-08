@@ -72,6 +72,12 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
     - instruction-finetuned, leverages Chinchilla scaling laws, and has bells and whistles like 4-bit quantization and bidirectional attention. With 4-bit quantization, the model can run on 1 x 80 GB A100 or a consumer GPU rig.
     - https://twitter.com/MetaAI/status/1605991218953191424
     - underperforms Flan-T5 https://twitter.com/_jasonwei/status/1621333297891790848?s=20
+- LLaMa
+	- https://github.com/facebookresearch/llama
+		- run on cpus https://github.com/facebookresearch/llama/compare/main...markasoftware:llama-cpu:main (its slow)
+		- run on macs https://github.com/remixer-dec/llama-mps
+		- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
 - GPT-JT for classification
   - https://news.ycombinator.com/item?id=33796158
