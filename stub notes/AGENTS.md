@@ -46,6 +46,10 @@
 - langchain https://twitter.com/hwchase17/status/1629929531678265344
 	- problems with agents - hallucinating answer while showing steps https://vgel.me/posts/tools-not-needed/ if poorly implemented 
 - minion ai https://twitter.com/alexgraveley/status/1631693523748519940
+- embra ai
+	- agent on desktop
+- Uni ai - embra competitor
+		- https://news.ycombinator.com/user?id=deet
 
 
 - Whatsapp + ChatGPT
