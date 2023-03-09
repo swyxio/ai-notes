@@ -68,6 +68,8 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- https://twitter.com/AlistairPullen/status/1611011712345317378
 - grid.io
 - qqbot - dan robinson?
+- YC
+	- code generation - second.dev https://news.ycombinator.com/item?id=35083093
 - Pygma is used to convert Figma mockups into production-ready code.
 - bloop - AI code search https://news.ycombinator.com/item?id=34892541
 
