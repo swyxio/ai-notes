@@ -12,6 +12,7 @@ naveen rao https://twitter.com/NaveenGRao/status/1625176665746964480 Smaller mod
 - [DistilBERT](https://arxiv.org/abs/1910.01108) is perhaps its most widely known achievement. Compared to the original BERT model, it retains 97% of language understanding while being 40% smaller and 60% faster. You can try it [here](https://huggingface.co/distilbert-base-uncased). The same approach has been of applied to other models, such as Facebook's [BART](https://arxiv.org/abs/1910.13461), and you can try DistilBART [here](https://huggingface.co/models?search=distilbart).
 	- https://twitter.com/danielgross/status/1619417503561818112?s=46&t=swb0mG9U2bNJt3tlgnWOyw running on apple m2 pro at 50% of an a100 lol
 -  [Big Science](https://bigscience.huggingface.co/) project are also very impressive. As visible in this graph included in the [research paper](https://arxiv.org/abs/2110.08207), their T0 model outperforms GPT-3 on many tasks while being 16x smaller.
+- [MiniLM](https://twitter.com/abacaj/status/1633127399930974208?s=46&t=90xQ8sGy63D2OtiaoGJuww) 100m BERT down to 22m with 80% of performance 
 
 ## directions
 

@@ -8,6 +8,7 @@
 - Feb 2022: February, DeepMind introduced [AlphaCode](https://www.deeplearning.ai/the-batch/competitive-coder/), a transformer pretrained on 86 million programs in 12 programming languages and fine-tuned on entries to coding contests. At inference, it generates a million possible solutions and filters out the bad ones. In this way, it retroactively beat more than half of contestants in 10 coding competitions.
 - Jun 2022: Github Copilot GA
 - Sep 2022: Github Copilot [productivity survey](https://visualstudiomagazine.com/articles/2022/09/13/copilot-impact.aspx)
+- Sep 2022: BigCODE https://www.servicenow.com/blogs/2022/bigcode-large-language-models.html
 - Oct 2022: The Stack: 3 TB of permissively licensed source code in 30 programming languages https://huggingface.co/datasets/bigcode/the-stack
 - Nov 2022: Kite.com public failure https://www.kite.com/blog/product/kite-is-saying-farewell/
   - Our diagnosis is that individual developers do not pay for tools. Their manager might, but engineering managers only want to pay for discrete new capabilities, i.e. making their developers 18% faster when writing code did not resonate strongly enough.
@@ -32,6 +33,13 @@
 - Github Copilot investigation https://news.ycombinator.com/item?id=33240341
 - Readers write more insecure code https://arxiv.org/abs/2211.03622 https://info.deeplearning.ai/generated-code-makes-overconfident-programmers-chinas-autonomous-drone-carrier-does-bot-therapy-require-informed-consent-mining-for-green-tech-1
 
+
+## code models
+
+
+- bloom bigcode https://www.servicenow.com/blogs/2022/bigcode-large-language-models.html
+- salesforce codegen
+- the stack from eleuther
 
 ## products
 

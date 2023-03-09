@@ -4,6 +4,7 @@
 - google MUM https://blog.google/products/search/introducing-mum/
 - "this is not a pipe" really is a pipe
 - Flamingo models take advantage of two complementary  models: a vision model that analyzes visual scenes and a large language model   which performs a basic form of reasoning. The language model is trained on a  large amount of text data. https://arxiv.org/pdf/2301.04655.pdf
+	- independent reproductions https://twitter.com/sanhestpasmoi/status/1632775840135016448?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 
 google multimodal researchc https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1

@@ -194,6 +194,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
     - and self-consistency (Sample a diverse set of reasoning paths on the _same_ model) to improve it https://arxiv.org/abs/2203.11171
     - and UL2 20B https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html
 	    - released as UL2 20B https://twitter.com/YiTayML/status/1631359468675166208
+	    - see templates https://twitter.com/abacaj/status/1633494842352214016?s=46&t=90xQ8sGy63D2OtiaoGJuww
   - building GPT-JT: https://www.together.xyz/blog/releasing-v1-of-gpt-jt-powered-by-open-source-ai
 
 ## How GPT works
