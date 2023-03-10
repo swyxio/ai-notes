@@ -13,6 +13,8 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 ### legal
 
 -  https://detangle.ai/ Detangle gives you AI-generated summaries of your legal docs so you can actually understand them. flopped https://twitter.com/shpigford/status/1610682378040770560?s=46&t=oSlB9-Vj36cKz7uEudTuFQ
+- harvey ai - with allen & overy
+- spellbook https://twitter.com/SpellbookLegal/status/1604955985772269582
 
 
 ## email
