@@ -253,8 +253,11 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 	- explainpaper
 	- kagi universal summarizer https://labs.kagi.com/ai/sum?url=airbyte.io
 - SQL
-  - preplexity.ai/sql
-    - https://twitter.com/perplexity_ai/status/1605250295780773889
+	  - preplexity.ai/sql
+	    - https://twitter.com/perplexity_ai/status/1605250295780773889
+	- seekai
+	- censusgpt 
+		- https://twitter.com/0interestrates/status/1633992774394544128
 - Newer
   - https://www.protocol.com/generative-ai-startup-landscape-map
   - https://metaphor.systems/
