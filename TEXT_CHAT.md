@@ -105,12 +105,16 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - Fail with avatar movie question https://twitter.com/MovingToTheSun/status/1625156575202537474?s=20&t=qTJ9f2J-AunevB7iEnrlSw
 	- fast recovery referencing twitter chats https://twitter.com/beyonddigiskies/status/1625272928341463041
 - bing recap https://twitter.com/emollick/status/1627161768966463488
-- bing successes https://oneusefulthing.substack.com/p/feats-to-astonish-and-amaze
+- bing successes 
+	- https://oneusefulthing.substack.com/p/feats-to-astonish-and-amaze
+	- bing, eating cake, and vonnegut 8 rules https://twitter.com/emollick/status/1626084142239649792/photo/2
+	- https://oneusefulthing.substack.com/p/the-future-soon-what-i-learned-from create timeline, research person and make interview qtns, table of courses https://twitter.com/emollick/status/1626323394970124290/photo/1
 - Fails
 	- sydney grabbing the mic https://twitter.com/andrewcurran_/status/1627161229067444225
 	- sydney vs venom https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/
 		- sydney alt persnality - waluigi https://twitter.com/nearcyan/status/1632169047381925888
-	- andrew ng recap of bing fails https://info.deeplearning.ai/chatbots-gone-wild-surveillance-takes-hold-rules-for-military-ai-robot-training-streamlined-1?ecid=ACsprvsVL700ZN_pWRpntYYV2Kh_bE6vqj7mNADQhAPxScJEAqpVKXg-jUPmrVoLa9-ohOKtM01N&utm_campaign=The%20Batch&utm_medium=email&_hsmi=247273528&_hsenc=p2ANqtz-8fItl7oXcWa0wbn2Zft6zFemAaTnFB5qsECrte2S6Eb1ypZoelU8bzoLZN_rGhQ9U0OaG49CHOPCy8l_523EyetUt8PA&utm_content=247274434&utm_source=hs_email#hs_cos_wrapper_hs_email_body_old9_
+	- andrew ng recap of bing fails https://info.deeplearning.ai/chatbots-gone-wild-surveillance-takes-hold-rules-for-military-ai-robot-training-streamlined-1
+	- Gwern on the difference between Sydney and ChatGPT https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned?commentId=AAC8jKeDp6xqsZK2K
 
 ## BardChat notes
 
