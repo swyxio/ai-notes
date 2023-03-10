@@ -10,4 +10,7 @@
 google multimodal researchc https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1
 
 
+GPT4 multimodal
+visual chatgpt https://github.com/microsoft/visual-chatgpt
+
 https://text-generator.io/blog/embed-images-text-and-code ### Embed Images, Text and Code in the same space

@@ -50,6 +50,8 @@
 - whisper openai api https://twitter.com/calumbirdo/status/1614826199527690240?s=46&t=-lurfKb2OVOpdzSMz0juIw
 - speech separation model https://github.com/openai/whisper/discussions/264#discussioncomment-4706132
 	- https://github.com/miguelvalente/whisperer
+ - deep speech https://github.com/mozilla/DeepSpeech
+
 
 https://news.ycombinator.com/item?id=33663486
 -  https://whispermemos.com pressing button on my Lock Screen and getting a perfect transcription in my inbox.
@@ -60,6 +62,8 @@ https://news.ycombinator.com/item?id=33663486
 	- https://huggingface.co/spaces/vumichien/whisper-speaker-diarization This space uses Whisper models from [**OpenAI**](https://github.com/openai/whisper) to recoginze the speech and ECAPA-TDNN model from [**SpeechBrain**](https://github.com/speechbrain/speechbrain) to encode and clasify speakers
 	- https://github.com/Majdoddin/nlp pyannote diarization
 - https://news.ycombinator.com/item?id=33665692
+
+
 
 ### Products
 
