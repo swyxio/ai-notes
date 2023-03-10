@@ -83,8 +83,10 @@ ai playlists
 
 - https://github.com/arc53/docsgpt/tree/main
 - https://github.com/slavingia/askmybook
+- [https://www.kapa.ai/](https://www.kapa.ai/ "https://www.kapa.ai/") 
+- [https://github.com/arc53/DocsGPT](https://github.com/arc53/DocsGPT "https://github.com/arc53/DocsGPT")
 - gptindex https://mcminis1.github.io/jekyll/update/2023/01/27/q_and_a_gptindex.html
-- kyberinsurance.com
+- ask kyber https://www.ycombinator.com/launches/I9U-kyber-chatgpt-for-enterprise-support
 	- If anyone is interested in a hosted and managed version of this, let us know! We can do this on top of any set of information already (not just .mdx) and have it exposed either as an API or through production ready Slack and Discord bots
 - supabase clippy https://supabase.com/blog/chatgpt-supabase-docs
 	- $5 for 1800 requests, that is 0.0027 per request, text-davinci-003 price is $0.02/1k token, so the average token number is 135. That is far below my expectation.

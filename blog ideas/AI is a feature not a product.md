@@ -3,3 +3,11 @@
 	- copyai
 		- chat ai https://www.copy.ai/chat
 		- jasper ai
+- slack/discord
+	- discord clyde https://discord.com/blog/ai-on-discord-your-place-for-ai-with-friends
+	- slack - salesforce thingy
+- social
+	- facebook
+	- snapchat
+- music
+	- spotify

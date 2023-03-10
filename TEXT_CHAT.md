@@ -109,6 +109,7 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 	- https://oneusefulthing.substack.com/p/feats-to-astonish-and-amaze
 	- bing, eating cake, and vonnegut 8 rules https://twitter.com/emollick/status/1626084142239649792/photo/2
 	- https://oneusefulthing.substack.com/p/the-future-soon-what-i-learned-from create timeline, research person and make interview qtns, table of courses https://twitter.com/emollick/status/1626323394970124290/photo/1
+	- got bing to 100m DAUs https://www.theverge.com/2023/3/9/23631912/microsoft-bing-100-million-daily-active-users-milestone
 - Fails
 	- sydney grabbing the mic https://twitter.com/andrewcurran_/status/1627161229067444225
 	- sydney vs venom https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/
