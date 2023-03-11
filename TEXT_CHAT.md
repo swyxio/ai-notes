@@ -105,11 +105,15 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - Fail with avatar movie question https://twitter.com/MovingToTheSun/status/1625156575202537474?s=20&t=qTJ9f2J-AunevB7iEnrlSw
 	- fast recovery referencing twitter chats https://twitter.com/beyonddigiskies/status/1625272928341463041
 - bing recap https://twitter.com/emollick/status/1627161768966463488
+- bing conversations/behind the scenes
+	- https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned?commentId=AAC8jKeDp6xqsZK2K
+	- https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned?commentId=WiHJry5kzd6DDYHzA
 - bing successes 
 	- https://oneusefulthing.substack.com/p/feats-to-astonish-and-amaze
 	- bing, eating cake, and vonnegut 8 rules https://twitter.com/emollick/status/1626084142239649792/photo/2
 	- https://oneusefulthing.substack.com/p/the-future-soon-what-i-learned-from create timeline, research person and make interview qtns, table of courses https://twitter.com/emollick/status/1626323394970124290/photo/1
 	- got bing to 100m DAUs https://www.theverge.com/2023/3/9/23631912/microsoft-bing-100-million-daily-active-users-milestone
+	- multistep instructions and waiting https://twitter.com/D_Rod_Tweets/status/1628449917898264576
 - Fails
 	- sydney grabbing the mic https://twitter.com/andrewcurran_/status/1627161229067444225
 	- sydney vs venom https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/
