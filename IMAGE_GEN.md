@@ -64,6 +64,7 @@
 	- Queryable - CLIP on iphone photos https://news.ycombinator.com/item?id=34686947
 		- on website https://paulw.tokyo/post/real-time-semantic-search-demo/
 	- beating CLIP # with 100x less data and compute https://www.unum.cloud/blog/2023-02-20-efficient-multimodality
+	- https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html
 - Stable Diffusion
 	- https://stability.ai/blog/stable-diffusion-v2-release
 		- _New Text-to-Image Diffusion Models_
@@ -540,6 +541,13 @@ Trained examples
 	- https://civitai.com/models/3627/protogen-v22-official-release
 	- https://www.reddit.com/r/StableDiffusion/comments/1003bsv/protogen_v22_official_release/
 	- https://www.reddit.com/r/StableDiffusion/comments/100fmx6/protogen_x34_official_release/
+
+### ControlNet
+
+- https://huggingface.co/spaces/hysts/ControlNet
+- inspirations
+	- https://www.reddit.com/r/StableDiffusion/comments/11ku886/controlnet_unlimited_album_covers_graphic_design/
+	- https://www.reddit.com/r/StableDiffusion/comments/11bp30o/tech_companies_as_charcuterie_boards_controlnet/
 
 #### SD Tooling
 

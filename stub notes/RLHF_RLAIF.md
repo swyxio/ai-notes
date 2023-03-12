@@ -34,6 +34,10 @@ memes
 
 - elicit work based on anthropic
 	- https://twitter.com/Charlie43375818/status/1612569402129678336
+	- How to get fine-tuned GPT-3 Davinci performance at 10% of the cost
+	- I think at most cloud providers this would be way less than ~$1k (probably a few hundred dollars). Depends on the amount of data you use.
+	- I used GPT-Neo (1.3B) for the reward model.
+	- We then distil those preferences into a reward model and apply reinforcement learning to Google's Flan T5 (11B). Our final model performs similarly to fine-tuned GPT-3 Davinci (175B) and reduces egregious failure by 66% compared to a fine-tuned GPT-3 Curie model.
 
 ## synthetic/model written feedback
 

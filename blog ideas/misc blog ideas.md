@@ -217,6 +217,10 @@ languagemodels help you do things that dont scale
 	- https://news.ycombinator.com/item?id=34614449
 - integrate all the tools https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code
 - shovel ready projects https://docs.google.com/document/d/16tIpuu8WexxlM-3XpEub05BOTCFNiyvIVzZNXX0uDWw/edit# from ivan https://www.vendrov.ai/
+- make your own controlnet image https://news.ycombinator.com/item?id=35112641
+	- 1. I used a ControlNet Colab from here based on SD 1.5 and the original ControlNet app: [https://github.com/camenduru/controlnet-colab](https://github.com/camenduru/controlnet-colab)
+	- Screenshotted a B/W OpenAI logo from their website.
+	- Used the Canny adapter and the prompt: charcuterie board, professional food photography, 8k hdr, delicious and vibrant
 
 
 ## what's needed in 2023

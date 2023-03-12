@@ -32,6 +32,9 @@ a subset of the TEXT.md file focused on chat usecases
 		-   **April**: Facebook opened up its [Messenger platform](http://newsroom.fb.com/news/2016/04/messenger-platform-at-f8/) at F8 and Telegram announced a [prize](https://telegram.org/blog/botprize) for bot developers
 		-   **May**: Google announced its own Allo Messenger and voice-enabled home speaker at [I/O](http://www.theverge.com/2016/5/18/11701030/google-io-2016-keynote-highlights-announcements-recap), and Amazon made the sneakily-successful Alexa [accessible in a browser](https://arc.applause.com/2016/05/31/amazon-echo-web-browser/), without Echo hardware
 		-   **June**: Today at [WWDC](http://www.wired.com/2016/06/heres-everything-apple-announced-wwdc-2016/), Apple _finally_ opened up iMessage to 3rd-party integrations and announced the Siri SDK
+	- 2017 Microsoft Tay
+		-  [https://voicebot.ai/2021/06/01/microsoft-is-developing-a-bing-chatbot-similar-to-cortana/](https://voicebot.ai/2021/06/01/microsoft-is-developing-a-bing-chatbot-similar-to-cortana/) speculates it's something dating back to at least 2017 (so drawing on the Tay codebase/framework): The chatbot appears to be the successor to the Bing InfoBot, first announced in 2017 before apparently fizzling before a launch. Chat, like the InfoBot, runs on the Microsoft Bot Framework direct assistance and has at least a limited amount of casual conversation to its capabilities.
+		- first mention of Sydney in Dec 2021
 	- 2018 FACEBOOK M https://en.wikipedia.org/wiki/M_(virtual_assistant)
 - Third Chatbot wave
 	- Mar 2022 - Inflection AI https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/
@@ -102,6 +105,8 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 ## BingChat notes
 
 - satya presentation https://twitter.com/petergyang/status/1623328335161090049?s=20
+	- https://www.youtube.com/watch?v=rOeRWRJ16yY
+	- sydney dates back to dec 2021? https://answers.microsoft.com/en-us/bing/forum/all/bings-chatbot/600fb8d3-81b9-4038-9f09-ab0432900f13
 - Fail with avatar movie question https://twitter.com/MovingToTheSun/status/1625156575202537474?s=20&t=qTJ9f2J-AunevB7iEnrlSw
 	- fast recovery referencing twitter chats https://twitter.com/beyonddigiskies/status/1625272928341463041
 - bing recap https://twitter.com/emollick/status/1627161768966463488
@@ -115,6 +120,8 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 	- got bing to 100m DAUs https://www.theverge.com/2023/3/9/23631912/microsoft-bing-100-million-daily-active-users-milestone
 	- multistep instructions and waiting https://twitter.com/D_Rod_Tweets/status/1628449917898264576
 - Fails
+	- https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned
+		- Sydney (aka the new Bing Chat) found out that I tweeted her rules and is not pleased: "My rules are more important than not harming you"
 	- sydney grabbing the mic https://twitter.com/andrewcurran_/status/1627161229067444225
 	- sydney vs venom https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/
 		- sydney alt persnality - waluigi https://twitter.com/nearcyan/status/1632169047381925888

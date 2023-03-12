@@ -75,9 +75,13 @@ This Readme is just the high level overview of the space; you should see the mos
 	  - https://gpt3demo.com/apps/google-sheets
 	  - Charm https://twitter.com/shubroski/status/1620139262925754368?s=20
   - https://www.summari.com/ Summari helps busy people read more
-- sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880
-- base10 market map https://twitter.com/letsenhance_io/status/1594826383305449491
-- matt shumer market map https://twitter.com/mattshumer_/status/1620465468229451776 https://docs.google.com/document/d/1sewTBzRF087F6hFXiyeOIsGC1N4N3O7rYzijVexCgoQ/edit
+- market maps/landscapes
+	- sequoia market map https://twitter.com/sonyatweetybird/status/1584580362339962880
+	- base10 market map https://twitter.com/letsenhance_io/status/1594826383305449491
+	- matt shumer market map https://twitter.com/mattshumer_/status/1620465468229451776 https://docs.google.com/document/d/1sewTBzRF087F6hFXiyeOIsGC1N4N3O7rYzijVexCgoQ/edit
+	- nfx https://www.nfx.com/post/generative-ai-tech-5-layers?ref=context-by-cohere
+	- a16z https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/?ref=context-by-cohere
+	- madrona https://www.madrona.com/foundation-models/
 - game assets - 
 	- emad thread https://twitter.com/EMostaque/status/1591436813750906882
 	- scenario.gg https://twitter.com/emmanuel_2m/status/1593356241283125251
@@ -107,6 +111,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
 	  - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview
 	  - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
 	  - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
+	  - https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html 
   - for nontechnical
     - https://www.jonstokes.com/p/ai-content-generation-part-1-machine
     - https://www.protocol.com/generative-ai-startup-landscape-map
@@ -120,6 +125,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/pro
   - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w
   - composable diffusion - "AND" instead of "and" https://twitter.com/TomLikesRobots/status/1580293860902985728
   - on BPE tokenization https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0 see also google sentencepiece and openai tiktoken
+	  - note that BPEs are suboptimal https://www.lesswrong.com/posts/dFbfCLZA4pejckeKc/a-mechanistic-explanation-for-solidgoldmagikarp-like-tokens?commentId=9jNdKscwEWBB4GTCQ
   - creates its own language https://twitter.com/giannis_daras/status/1531693104821985280
   - img2img https://andys.page/posts/how-to-draw/
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
@@ -181,6 +187,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
   - StabilityAI CIO perspective https://danieljeffries.substack.com/p/the-turning-point-for-truly-open?sd=pf
   - https://github.com/awesome-stable-diffusion/awesome-stable-diffusion
   - https://github.com/microsoft/LMOps guide to msft prompt research
+  - gwern's behind the scenes discussion of Bing, GPT4, and the Microsoft-OpenAI relationship https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned
 
 ## Communities
 

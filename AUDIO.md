@@ -65,8 +65,12 @@ https://news.ycombinator.com/item?id=33663486
 
 
 
+
 ### Products
 
+- other speech to text apis
+	- rev.com
+	- https://text-generator.io/blog/cost-effective-speech-to-text-api
 - Podcast summarization
 	- feather ai https://twitter.com/joshcadorette/status/1605361535454351362
 	- sumly ai https://twitter.com/dvainrub/status/1608175955733798913
