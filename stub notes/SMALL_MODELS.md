@@ -15,6 +15,10 @@ naveen rao https://twitter.com/NaveenGRao/status/1625176665746964480 Smaller mod
 - [MiniLM](https://twitter.com/abacaj/status/1633127399930974208?s=46&t=90xQ8sGy63D2OtiaoGJuww) 100m BERT down to 22m with 80% of performance 
 - https://minimaxir.com/2023/03/new-chatgpt-overlord/
 	- A few years ago, I released [aitextgen](https://github.com/minimaxir/aitextgen), a Python package designed to allow people to train their own custom small AI on their own data for unique use cases. However, soon after, it turned out that GPT-3 with the right prompt could do much better at bespoke generation than a custom model in addition to allowing out-of-domain inputs, even moreso with text-davinci-003. Now with the ChatGPT API making the cost similar to hosting a small model, it’s harder for me to be motivated to continue maintaining the package without first finding another niche.
+- https://www.nature.com/articles/d41586-023-00641-w
+	- smaller models trained on more data do better than bigger models trained on fewer data[5](https://www.nature.com/articles/d41586-023-00641-w#ref-CR5) (see ‘Different routes to scale’). For example, DeepMind’s Chinchilla model has 70 billion parameters, and was trained on 1.4 trillion tokens, whereas its 280-billion-parameter Gopher model, was trained on 300 billion tokens. Chinchilla outperforms Gopher on tasks designed to evaluate what the LLM has learnt.
+	- HOWEVER 
+		- The ability to respond to chain-of-thought prompts shows up only in LLMs with more than about 100 billion parameters.
 
 ## directions
 

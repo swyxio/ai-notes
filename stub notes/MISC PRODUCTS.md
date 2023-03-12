@@ -25,6 +25,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 	- cloned shortly after https://twitter.com/michael_vandi/status/1607422866416619520?s=46&t=Y8VGN2E-IIvcStsRXk7iJg
 - https://www.intellimail.xyz/
 - emailtriager https://twitter.com/RealKevinYang/status/1607390074857226241?s=20
+- https://www.ghostwrite.rip/ email
 
 ### presentations
 
