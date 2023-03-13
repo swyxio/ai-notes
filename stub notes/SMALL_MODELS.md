@@ -19,6 +19,7 @@ naveen rao https://twitter.com/NaveenGRao/status/1625176665746964480 Smaller mod
 	- smaller models trained on more data do better than bigger models trained on fewer data[5](https://www.nature.com/articles/d41586-023-00641-w#ref-CR5) (see ‘Different routes to scale’). For example, DeepMind’s Chinchilla model has 70 billion parameters, and was trained on 1.4 trillion tokens, whereas its 280-billion-parameter Gopher model, was trained on 300 billion tokens. Chinchilla outperforms Gopher on tasks designed to evaluate what the LLM has learnt.
 	- HOWEVER 
 		- The ability to respond to chain-of-thought prompts shows up only in LLMs with more than about 100 billion parameters.
+		- cant follow flips https://twitter.com/JerryWeiAI/status/1633548780619571200?s=20
 
 ## directions
 

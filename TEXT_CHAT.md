@@ -161,6 +161,7 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 ### Products
 
 - API
+	- https://github.com/reorx/awesome-chatgpt-api
 	- https://www.typingmind.com/
 		- open source https://github.com/chatgptui/desktop
 		- open [https://github.com/Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt)
