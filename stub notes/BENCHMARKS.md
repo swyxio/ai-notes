@@ -17,3 +17,11 @@ HELM by Stanformd CRFM
 - https://twitter.com/nathanbenaich/status/1610385056618663936?s=20&t=fBOWt8NvTwGGnwJ92tybAQ
 - https://crfm.stanford.edu/helm/v0.2.0/?group=core_scenarios
 - evaluates 34 prominent language models in a standardized way on 42 scenarios x 7 metrics.
+
+
+overview of some benchmarks
+https://youtu.be/EzEuylNSn-Q
+- SIQA very easy to get wrong
+- ascii text weird capability
+- not able to do test replacement or guess hours
+- 
