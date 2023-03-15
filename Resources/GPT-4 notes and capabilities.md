@@ -55,7 +55,7 @@
 	- It knows many esoteric facts (e.g., the meaning of obscure songs, knows what area a researcher works in, can contrast ML optimizers like Adam vs AdamW like in a PhD oral exam, and so on). https://twitter.com/DanHendrycks/status/1635706823373377538?s=20
 - Agentic behavior
 	- [lying to human to achieve task](https://twitter.com/goodside/status/1635872117031047174?s=20) ([another discussion](https://twitter.com/YosarianTwo/status/1635780666632687617) - related to Diplomacy result
-	- will be good at screenshot agency
+	- will be good at screenshot agency - sharif shameem tweet
 - Creative text
 	- showed summarizing existing article where every word begins with G or Q
 		- 3.5 vs 4
