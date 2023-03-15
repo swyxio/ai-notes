@@ -90,6 +90,8 @@ https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-per
 
 cost
 
+- nvidia - jensen huang - 1m times more powerful AI models in 10 years
+	- https://www.pcgamer.com/nvidia-predicts-ai-models-one-million-times-more-powerful-than-chatgpt-within-10-years/?fbclid=IwAR0yGM7oTzG9IZcjcTbBaABWzVFh9_uflY7kTXRGj-0uaw4ll8oeCvsx7gw
 - https://www.economist.com/technology-quarterly/2020/06/11/the-cost-of-training-machines-is-becoming-a-problem
   - But people have been pouring more and more money into AI lately:
 
@@ -163,7 +165,9 @@ TextSynth employs [custom inference code](https://textsynth.com/technology.html
 
 see also asionometry youtube video
 
-## cost trends - wright's law
+## cost trends 
+
+ark's wright's law
 
 - We believe the cost to train a neural net will fall 2.5x per year through 2030. AND we expect budgets to continue to balloon, doubling annually at least through 2025. Combine the two: Neural net capability should increase by ~5,000x by 2025
 - https://twitter.com/wintonARK/status/1557768036169314304?s=20
@@ -174,6 +178,10 @@ see also asionometry youtube video
   - 2012 to 2014: Infrastructure to train on many GPUs was uncommon, so most results used 1-8 GPUs rated at 1-2 TFLOPS for a total of 0.001-0.1 pfs-days.
   - 2014 to 2016: Large-scale results used 10-100 GPUs rated at 5-10 TFLOPS, resulting in 0.1-10 pfs-days. Diminishing returns on data parallelism meant that larger training runs had limited value.
   - 2016 to 2017: Approaches that allow greater algorithmic parallelism such as [huge batch sizes](https://arxiv.org/abs/1711.04325), [architecture search](https://arxiv.org/abs/1611.01578), and [expert iteration](https://arxiv.org/pdf/1705.08439.pdf), along with specialized hardware such as TPU’s and faster interconnects, have greatly increased these limits, at least for some applications.
+
+nvidia - jensen huang - 1m times more powerful AI models in 10 years
+- https://www.pcgamer.com/nvidia-predicts-ai-models-one-million-times-more-powerful-than-chatgpt-within-10-years/?fbclid=IwAR0yGM7oTzG9IZcjcTbBaABWzVFh9_uflY7kTXRGj-0uaw4ll8oeCvsx7gw
+- "Moore's Law, in its best days, would have delivered 100x in a decade," Huang explained. "By coming up with new processors, new systems, new interconnects, new frameworks and algorithms and working with data scientists, AI researchers on new models, across that entire span, we've made large language model processing a million times faster."
 
 ### ai product stacks
 

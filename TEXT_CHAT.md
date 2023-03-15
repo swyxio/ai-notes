@@ -166,9 +166,12 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 		- open source https://github.com/chatgptui/desktop
 		- open [https://github.com/Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt)
 		- https://github.com/kierangilliam/chatwithme.chat
+		- https://github.com/cogentapps/chat-with-gpt
+		- https://github.com/Niek/chatgpt-web
 - whatsapp https://github.com/danielgross/whatsapp-gpt https://twitter.com/danielgross/status/1598735800497119232
 	- [http://wa.me/19893946588](http://wa.me/19893946588) from [HN](https://news.ycombinator.com/item?id=35053101)
 - telegram bot https://twitter.com/altryne/status/1598822052760195072
+	- https://github.com/nalgeon/pokitoki
   - now with google access https://github.com/altryne/chatGPT-telegram-bot/releases/tag/0.1.0
   - https://twitter.com/m1guelpf/status/1599254528800325632 https://github.com/m1guelpf/chatgpt-telegram
   - https://chatgptontelegram.com/
@@ -461,3 +464,5 @@ threads that recap stuff above
 
 - https://github.com/BlinkDL/ChatRWKV
 - https://dagster.io/blog/chatgpt-langchain
+- UL2 chat 
+	- Interested in real Open AI? Announcing Transformers-Chat, a 100% open source knowledge-grounded chatbot that allows you to ask questions and chat with the ![🤗](Transformers docs. Powered by Flan-UL2, https://twitter.com/EnoReyes/status/1635723920480567298

@@ -82,6 +82,7 @@ https://news.ycombinator.com/item?id=33663486
 - language teacher
 	- quazel https://news.ycombinator.com/item?id=32993130
 	- https://twitter.com/JavaFXpert/status/1617296705975906306?s=20
+- speech to text on the edge https://twitter.com/michaelaubry/status/1635966225628164096?s=20 with arduino nicla voice
 
 ## Text to Speech
 
@@ -115,7 +116,8 @@ https://news.ycombinator.com/item?id=33663486
 	- [https://github.com/rhasspy/larynx](https://github.com/rhasspy/larynx)
 	- pico2wave with the -l=en-GB flag to get the British lady voice is not too bad for offline free TTS. You can hear it in this video: [https://www.youtube.com/watch?v=tfcme7maygw&t=45s](https://www.youtube.com/watch?v=tfcme7maygw&t=45s)
 	- [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) (for very specific non-english purposes, and I was willing to wrangle IPA)
-	- 
+	- Vall-E to synthesize https://twitter.com/DrJimFan/status/1622637578112606208?s=20
+		- microsoft?
 
 ### misc tooling
 

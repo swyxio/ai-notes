@@ -10,3 +10,10 @@
 	- another USMLE research https://twitter.com/valentinlievin/status/1605965336179658766
 	- Today, it takes 4 years of med school and 2+ years of clinical rotations to pass. It tests ambiguous scenarios & closely-related differential diagnoses
 - Glass AI differential diagnosis https://twitter.com/AiBreakfast/status/1620128621821317125
+- google Med-PaLM
+	- medpalm 2 https://twitter.com/JeffDean/status/1635681300295323649 - 85% on USMLE MedQA
+
+## Healthcare  products
+
+nabla.com https://news.ycombinator.com/item?id=35151881
+latent space demo had the asian guy

@@ -3,9 +3,17 @@
 	- https://twitter.com/swyx/status/1634088912561008640?s=20
 	- chain of thought -> god models
 - inherently multimodal
-	- palm-e
+	- robotics
+		- palm-e
+		- VIMA - transformer https://twitter.com/DrJimFan/status/1578433493561769984
 	- gpt4
-
+	- ksosmos-1 jim fan visual https://twitter.com/DrJimFan/status/1634244545360609289
+	- 
+- multimodel
+	- visualchatgpt
+	- vipergpt https://twitter.com/_akhaliq/status/1635811899030814720?s=20
+	- nat.dev
+	- poe is claude and gpt4 https://twitter.com/adamdangelo/status/1635690637990445057?s=20
 - multilingual
 - multipersonality
 	- waluigi effect
