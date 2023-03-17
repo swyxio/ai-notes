@@ -7,6 +7,8 @@ prompt engineering techniques
 - https://txt.cohere.ai/generative-ai-part-2/
 - antihallucination prompt eng
 	- https://twitter.com/nickcammarata/status/1284050958977130497?s=20 "yo be real"
+- JSON
+	- I've found LLMs to reliably return structured data via API by adding the system prompt: "Respond in the format of a JSON array [{key: value}, {key: value}]" Having an "unsure" option also reduces hallucination and indicates uncertainty. [tweet](https://twitter.com/eugeneyan/status/1636366239873515521)
 
 ## reading list
 

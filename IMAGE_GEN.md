@@ -312,6 +312,7 @@ Required reading:
   - https://www.charl-e.com/ (open source): Stable Diffusion on your Mac in 1 click. ([tweet](https://twitter.com/charliebholtz/status/1571138577744138240))
   - https://github.com/razzorblade/stable-diffusion-gui: dormant now.
 - **Web Distros**
+  - [web stable diffusion](https://github.com/mlc-ai/web-stable-diffusion) - running in browser
   - Gooey - https://app.gooey.ai/CompareText2Img/?example_id=1uONp1IBt0Y
   - https://playgroundai.com/create UI for DallE and Stable Diffusion
   - https://www.phantasmagoria.me/

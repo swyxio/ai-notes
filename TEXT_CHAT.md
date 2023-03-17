@@ -318,6 +318,9 @@ Circumventing ChatGPT safety restrictions
 
 https://www.lesswrong.com/posts/RYcoJdvmoBbi5Nax7/jailbreaking-chatgpt-on-release-day
 
+- GPT4 
+	- [ask GPT4 to simulate itself](https://twitter.com/alexalbert__/status/1636488551817965568?s=20) 
+		- we provide GPT-4 with python functions and tell it that one of the functions acts as a language model that predicts the next token we then call the parent function and pass in the starting tokens
 - DAN - Do Anything Now
 	- https://twitter.com/venturetwins/status/1622243944649347074
 	- https://news.ycombinator.com/item?id=34676043
