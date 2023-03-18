@@ -61,6 +61,9 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 		  - https://huggingface.co/docs/transformers/model_doc/flan-t5
 - Yandex YaLM 100B https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6
   - It took us 65 days to train the model on a pool of 800 A100 graphics cards and 1.7 TB of online texts, books, and countless other sources.
+- BLOOM 176B
+	-  the [BLOOM large language model](https://huggingface.co/bigscience/bloom-7b1) was trained in France with the support of the French government. The cost was estimated as $2-5M, it took almost four months to train and boasts about its low carbon footprint because most of the power came from a nuclear reactor!
+	- Fun fact: as of a few days ago you can now [run the openly licensed BLOOM on your own laptop](https://github.com/NouamaneTazi/bloomz.cpp), using Nouamane Tazi’s adaptive copy of the `llama.cpp` code that made that possible for LLaMA
 - Tsinghua GLM-130B
   - outperforms OpenAI's GPT-3 175B and Google's PALM 540B on critical benchmarks. AND it's open sourced, which means — you can run this model on your own machine, for free.
   - only trained on 400B tokens (compared to 1.2T tokens for Chinchilla's 70B parameters)
@@ -76,7 +79,9 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	- https://github.com/facebookresearch/llama
 		- run on cpus https://github.com/facebookresearch/llama/compare/main...markasoftware:llama-cpu:main (its slow)
 		- run on macs https://github.com/remixer-dec/llama-mps
+		- `npx dalai llama` https://cocktailpeanut.github.io/dalai/#/
 		- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
+		- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
 	- 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - Alapaca
 	- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) Locally run an Instruction-Tuned Chat-Style LLM

@@ -19,6 +19,7 @@
   - analysis https://www.youtube.com/watch?v=5tmGKTNW8DQ
 - you can run GLM-130B on a local machine https://twitter.com/alexjc/status/1617152800571416577?s=20
 - chinchilla 67b outperforms GPT3 175b - better data and longer training
+- LLAMA training costs - LLAMA 65B spend 1m GPU hours same as OPT/BLOOM 175B https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/
 - instructgpt 1.3b outperforms GPT3 175b - with same performance
 - 2020 https://huggingface.co/calculator/ How Big Should My Language Model Be? ## There is an optimal time to stop training (and it's earlier than you think)
 - https://arxiv.org/pdf/2112.00861.pdf Throughout this paper we will be studying a consistent set of decoder-only Transformer language models with parameter counts ranging from about 10M to 52B in increments of 4x, and with a fixed context window of 8192 tokens and a 2 16 token vocabulary. For language model pre-training, these models are trained for 400B tokens on a distribution consisting mostly of filtered Common Crawl data [Fou] and internet books, along with a number of smaller distributions [GBB+20], including about 10% python code data. We fix the aspect ratio of our models so that the activation dimension dmodel = 128nlayer,

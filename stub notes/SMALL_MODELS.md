@@ -60,6 +60,10 @@ Our solution is simple, generate a moderately sized corpus of completions made b
 	- if you’re doing DSL work then multiple thousands.
 
 
+## running in browser
+
+- https://xenova.github.io/transformers.js/ 
+
 ## small hardware
 
 - ESP32 https://news.ycombinator.com/item?id=34632571 https://maxlab.io/store/edge-ai-camera/

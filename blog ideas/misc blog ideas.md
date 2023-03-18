@@ -1,4 +1,20 @@
 
+### ways to augment foundation models
+
+- RLHF/Finetuning (ylecun cake analogy)
+	- focus model
+- stuff examples in context
+	- search similar knowledge and hallucinate/summarize
+- [ReACT](https://www.geoffreylitt.com/2023/01/29/fun-with-compositional-llms-querying-basketball-stats-with-gpt-3-statmuse-langchain.html) 
+	- augment capability to get knowledge
+	- fixie, zapier
+
+### illustrating  langchain concepts
+
+- https://blog.langchain.dev/agent-toolkits/
+	- By agents we mean a system that uses an LLM to decide what actions to take in a repeated manner, where future decisions are made based on observing the outcome of previous actions.
+
+
 ## on the Bitter lesson
 
 - https://archive.is/FEGf1 In an influential 2019 [essay](https://archive.is/o/FEGf1/https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf), the A.I. researcher Richard Sutton explains that early speech-recognition programs were loaded with specialized linguistics knowledge—not just about syntax, grammar, and phonetics but about how the shape of the human mouth constrained what sounds were possible. Despite their sophistication, these programs didn’t work very well. In the nineteen-seventies, there was a turn toward statistical methods, which dropped expert knowledge in favor of patterns learned from data—for instance, about which sounds and words tended to go together. The success of that approach bled out into the rest of A.I., leading the field to center much of its effort on statistics drawn from huge amounts of data.
@@ -237,6 +253,9 @@ https://twitter.com/saranormous/status/1601388294461218821?s=20
 	- Incorporating planning for more sophisticated, multi-step tasks
 	- Building a "foundational model for the real world" (and thus robotics)
 	- Crossing valleys of "cool demo but unusable in prod"
+
+https://twitter.com/_jasonwei/status/1636436324139028481?s=20
+
 
 
 ## why radiologists didnt go away

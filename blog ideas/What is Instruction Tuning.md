@@ -3,6 +3,15 @@ reference [[RLHF_RLAIF]]
 cohere's instruction tuning
 - https://docs.cohere.ai/docs/command-beta
 
+https://simonwillison.net/2023/Mar/13/alpaca/
+One of the great innovations from OpenAI was their application of [instruction tuning](https://openai.com/research/instruction-following) to GPT-3:
+
+> To make our models safer, more helpful, and more aligned, we use an existing technique called reinforcement learning from human feedback (RLHF). On prompts submitted by our customers to the API, our labelers provide demonstrations of the desired model behavior, and rank several outputs from our models. We then use this data to fine-tune GPT-3.
+
+Prior to this, you had to think very carefully about how to construct your prompts. Thanks to instruction tuning you can be a lot more, well, human in the way you interact with the model. “Write me a poem about pandas!” now works as a prompt, instead of “Here is a poem about pandas:”.
+
+SEE ALSO : #### Bonus: The source of that training data? GPT-3! Here’s a fascinating detail: Those 52,000 samples they used to fine-tune the model? Those were the result of a prompt they ran against GPT-3 itself! Here’s [the prompt](https://github.com/tatsu-lab/stanford_alpaca/blob/da37bb2ecab37cae022dd07aa3ff861c446fb614/prompt.txt) they used:
+
 
 https://twitter.com/zhansheng/status/1583158989889540096?s=46&t=Nd874xTjwniEuGu2d1toQQ
 There are now two flavors of "instruction tuning" going around.

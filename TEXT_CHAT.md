@@ -37,6 +37,7 @@ a subset of the TEXT.md file focused on chat usecases
 		- first mention of Sydney in Dec 2021
 	- 2018 FACEBOOK M https://en.wikipedia.org/wiki/M_(virtual_assistant)
 - Third Chatbot wave
+	- 2020 - [Google Meena](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 	- Mar 2022 - Inflection AI https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/
 	- Aug 2022 - [Meta Blenderbot 3](https://www.blenderbot.ai/) - open sourced https://www.vox.com/platform/amp/future-perfect/23307252/meta-facebook-bad-ai-chatbot-blenderbot  [https://blenderbot.ai/](https://blenderbot.ai/)
 	- Dec 2022 - ChatGPT

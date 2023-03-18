@@ -1,3 +1,14 @@
+## React Model
+
+- https://react-lm.github.io and [google blog](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
+	- https://interconnected.org/home/2023/03/16/singularity
+	- https://blog.langchain.dev/agent-toolkits/
+	- https://www.geoffreylitt.com/2023/01/29/fun-with-compositional-llms-querying-basketball-stats-with-gpt-3-statmuse-langchain.html
+- Automatic Reasoning & Tool-Use of LLMs
+	- https://mobile.twitter.com/johnjnay/status/1636555772082499584?s=12&t=90xQ8sGy63D2OtiaoGJuww
+
+## agent 
+
 
 - OpenAI WebGPT https://openai.com/blog/webgpt/
 	- The variant is called WebGPT and can ask search queries, follow links, scroll up and down web pages, and prove the sources of the answers it finds.
