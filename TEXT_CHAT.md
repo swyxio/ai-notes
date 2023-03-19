@@ -166,9 +166,10 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 	- https://www.typingmind.com/
 		- open source https://github.com/chatgptui/desktop
 		- open [https://github.com/Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt)
-		- https://github.com/kierangilliam/chatwithme.chat
+		- https://www.chatwithme.chat/tutorial https://github.com/kierangilliam/chatwithme.chat
 		- https://github.com/cogentapps/chat-with-gpt
 		- https://github.com/Niek/chatgpt-web
+		- nextjs starter https://github.com/enricoros/nextjs-chatgpt-app
 - whatsapp https://github.com/danielgross/whatsapp-gpt https://twitter.com/danielgross/status/1598735800497119232
 	- [http://wa.me/19893946588](http://wa.me/19893946588) from [HN](https://news.ycombinator.com/item?id=35053101)
 - telegram bot https://twitter.com/altryne/status/1598822052760195072
