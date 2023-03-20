@@ -233,7 +233,7 @@ Benchmarks exist between the Data and Models, and are the least obvious/glamorou
 			-   "During the Allied bombardment of the beaches of Iwo Jima, Ralph spoke loudly into his radio."  
 			- "During the Allied bombardment of the beaches of Iwo Jima, Ralph spoke loudly into his iPhone."
 		- What movie does this emoji describe? 👧🐟🐠🐡 Finding Nemo
-		- What movie does this emoji describe? 🦸🦸‍♂️👦👧👶
+		- What movie does this emoji describe? 🦸🦸‍♂️👦👧👶Incredibles
 		- https://www.assemblyai.com/blog/emergent-abilities-of-large-language-models/
 - 2023 - Stanford HELM
 	- https://crfm.stanford.edu/helm/v0.2.0/?group=core_scenarios
@@ -309,30 +309,40 @@ The problem of benchmark contamination in the context of large language model (L
 
 ## Other benchmarking issues
 
+### Bias
+
 1.  Bias: Benchmark datasets may contain biases that are not representative of the real world or that unfairly advantage or disadvantage certain models. For example, a dataset may contain a disproportionate number of examples from a particular demographic group or language, which could lead to biased results.
 	1. Imagenet: Specifically, the ImageNet dataset contains many images of people that are labeled based on their occupation, activity, or context (such as "businessman", "cheerleader", or "homeless person"). However, the labels often include racial or ethnic identifiers, such as "Asian businessman" or "African American cheerleader". This can reinforce harmful stereotypes and perpetuate biases against certain racial or ethnic groups.
-    
+
+### Data quality
+
 2.  Data quality: Benchmark datasets may contain errors or inconsistencies that can affect the accuracy of the evaluation. For example, a dataset may contain mislabeled examples or instances where the ground truth is unclear or disputed.
 	1. 1988 - The Petals dataset, also known as the Iris dataset, is a classic dataset in machine learning that is often used for classification tasks. It contains measurements of the sepal length, sepal width, petal length, and petal width of three different species of iris flowers: Setosa, Versicolor, and Virginica.
 	2. The data quality issue with the Petals dataset is that it contains a number of errors in the measurements of one of the species, the iris Versicolor. Specifically, there are a small number of instances where the petal length is shorter than the petal width, which is biologically impossible. This error is thought to have been introduced during the data collection process.
-    
+
+### Task specificity
+
 3.  Task specificity: Benchmark datasets may be too specific to a particular task or domain, which can make it difficult to evaluate a model's overall performance or generalization ability. For example, a dataset that focuses only on one type of language task, such as sentiment analysis, may not be representative of the full range of language understanding tasks.
 	1. SQuAD (Stanford Question Answering Dataset
 	2. Specifically, the SQuAD dataset contains a large number of questions that are based on textual evidence within a single paragraph, which is a relatively narrow type of question answering task. While this task is useful for evaluating models that can extract information from a specific text passage, it may not be representative of the full range of question answering tasks that are encountered in real-world applications.
 	3. For example, in many real-world question answering tasks, the relevant information may be spread across multiple documents or sources, or the question may require a more complex form of reasoning or inference.
-    
+
+### Reproducibility
+
 4.  Reproducibility: Benchmarking results may be difficult to reproduce or compare across different models or research groups, which can make it challenging to assess progress in the field. For example, different research groups may use different preprocessing methods or evaluation metrics, which can make it difficult to compare results across studies.
 	1. Specifically, the MNIST dataset is often preprocessed by centering and scaling the pixel values of the images to have zero mean and unit variance. However, there is no universally agreed-upon way to perform this normalization, and different researchers may use slightly different methods or parameters. This can lead to inconsistencies in the evaluation of machine learning models trained on the dataset, as different models may be evaluated using different preprocessing methods.
-    
+
+### Resource requirements
+
 5.  Resource requirements: Benchmark datasets may require significant computational resources or specialized hardware to evaluate, which can limit the accessibility of the evaluation to certain researchers or organizations.
 	1. eg. GPT3/4
+
+### calibrating confidence
 
 6. calibrating confidence
 	1. GPT-4 can also be confidently wrong in its predictions, not taking care to double-check work when it’s likely to make a mistake. Interestingly, the base pre-trained model is highly calibrated (its predicted confidence in an answer generally matches the probability of being correct). However, through our current post-training process, the calibration is reduced.
 
-## Misc Notes
-
-
+## Misc Ungroomed Notes
 
 
 text
