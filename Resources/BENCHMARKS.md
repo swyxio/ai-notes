@@ -141,7 +141,7 @@ Benchmarks exist between the Data and Models, and are the least obvious/glamorou
 	- A student riding a bicycle observes that it moves faster on a smooth road than on a rough road. This happens because the smooth road has (A) less gravity (B) more gravity (C) less friction [correct] (D) more friction
 	- GPT 3.5 - 85.2
 	- GPT-4 - 96.3%
-- 2019 - # WinoGrande: An Adversarial Winograd Schema Challenge at Scale https://winogrande.allenai.org/ Keisuke Sakaguchi, et al Washington https://arxiv.org/abs/1907.10641
+- 2019 - WinoGrande: An Adversarial Winograd Schema Challenge at Scale https://winogrande.allenai.org/ Keisuke Sakaguchi, et al Washington https://arxiv.org/abs/1907.10641
 	- The Winograd Schema Challenge (WSC) (Levesque, Davis, and Morgenstern 2011), a benchmark for commonsense reasoning, is a set of **273 expert-crafted pronoun resolution** problems originally designed to be unsolvable for statistical models that rely on selectional preferences or word associations. The benchmark is divided into two main parts: WinoGrande 1.0, which contains questions that require understanding of linguistic context, and WinoGrande 2.0, which contains questions that require understanding of situational context.
 	- **WinoGrande**, a large-scale dataset of 44k problems, 
 	- The best state-of-the-art methods on WinoGrande achieve 59.4 – 79.1%, which are 15 - 35% (absolute) below human performance of 94.0%, depending on the amount of the training data allowed (2% – 100% respectively).
@@ -200,7 +200,7 @@ Benchmarks exist between the Data and Models, and are the least obvious/glamorou
 	- GPT-J solves 11.4%
 	- GPT3.5 - 48%
 	- GPT4 - 67%
-- 2021 - [MMLU # Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300)
+- 2021 - [MMLU - Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300)
 	- https://github.com/hendrycks/test
 	- a new test to measure a text model's multitask accuracy. The test covers 57 tasks including elementary mathematics, US history, computer science, law, and more. To attain high accuracy on this test, models must possess extensive world knowledge and problem solving ability. We find that while most recent models have near random-chance accuracy, the very largest GPT-3 model improves over random chance by almost 20 percentage points on average.
 		- These include practice questions for tests such as the Graduate Record Examination and the United States Medical Licensing Examination. It also includes questions designed for undergraduate courses and questions designed for readers of Oxford University Press books. Some tasks cover a subject, like psychology, but at a specific level of difficulty, such as “Elementary,” “High School,” “College,” or “Professional.” For example, the “Professional Psychology” task draws on questions from freely available practice questions for the Examination for Professional Practice in Psychology, while the “High School Psychology” task has questions like those from Advanced Placement Psychology examinations.
@@ -217,7 +217,8 @@ Benchmarks exist between the Data and Models, and are the least obvious/glamorou
 	- Gopher 280B - 60
 	- Chinchilla 70B - 67.5
 	- GPT3.5 - 70
-	- GPT4 - 86.4
+	- GPT4 - 86.4 https://twitter.com/DanHendrycks/status/1635706824308719617
+		- Since it gets 86.4% on our MMLU benchmark, that suggests GPT-4.5 should be able to reach expert-level performance.
 - 2022 - BIG-bench
 	- https://www.deeplearning.ai/the-batch/toward-next-gen-language-models/
 	- https://arxiv.org/pdf/2206.04615.pdf
