@@ -110,6 +110,11 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 -   [Advanced guide to writing prompts for MidJourney](https://medium.com/mlearning-ai/an-advanced-guide-to-writing-prompts-for-midjourney-text-to-image-aa12a1e33b6) 
 -   [Aspect ratio prompts](https://graphicsgurl.com/midjourney-aspect-ratio/#:~:text=MidJourney's%20default%20size%20is%20square,ratios%20%E2%80%93%20this%20is%20the%20original)
 
+### Midjourney v5
+
+- [rave at Hogwarts summer 1998](https://twitter.com/spacecasetay/status/1638212304683532288)
+- 
+
 
 
 nice trick to mix images https://twitter.com/javilopen/status/1613107083959738369
