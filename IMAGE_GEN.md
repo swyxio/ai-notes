@@ -114,6 +114,7 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 
 - [rave at Hogwarts summer 1998](https://twitter.com/spacecasetay/status/1638212304683532288)
 - midjourney prompting with gpt4 https://twitter.com/nickfloats/status/1638679555107094528
+- fashion liv boeree prompt https://twitter.com/nickfloats/status/1639076580419928068
 
 
 
