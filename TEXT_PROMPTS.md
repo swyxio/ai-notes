@@ -14,6 +14,12 @@ prompt engineering techniques
 
 - https://github.com/dair-ai/Prompt-Engineering-Guide
 
+## Real Life Prompts
+
+### System Prompts
+
+- Expedia chatgpt plugin prompt https://twitter.com/swyx/status/1639160009635536896
+
 ## chain of thought prompting
 
 [Source: _Chain of Thought Prompting Elicits Reasoning in Large Language Models_ Jason Wei and Denny Zhou et al. (2022)](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)
