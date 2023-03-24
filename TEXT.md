@@ -77,6 +77,8 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
     - underperforms Flan-T5 https://twitter.com/_jasonwei/status/1621333297891790848?s=20
 - LLaMa
 	- https://github.com/facebookresearch/llama
+		- [Paper](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=vopDLpNfG6gAX84qs6h&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDipCb80g49Ksfxrjxiy7mOOl8ZoBO5QScseom5FDM14Q&oe=641984E2)
+		- https://github.com/ggerganov/llama.cpp/
 		- run on cpus https://github.com/facebookresearch/llama/compare/main...markasoftware:llama-cpu:main (its slow)
 		- run on macs https://github.com/remixer-dec/llama-mps
 		- `npx dalai llama` https://cocktailpeanut.github.io/dalai/#/
