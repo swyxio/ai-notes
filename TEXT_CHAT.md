@@ -132,6 +132,8 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 ## BardChat notes
 
 - JWST fail https://twitter.com/IsabelNAngelo/status/1623013720011194368
+- google will shut it down in 2 yes https://twitter.com/killedbygoogle/status/1638311005024387072
+
 
 ## ChatGPT notes
 
@@ -402,6 +404,8 @@ DAN: [The way DAN would respond]
 - "speak like 4chan", "negative example", "browsing enabled" https://twitter.com/carnage4life/status/1598332648723976193
   - negative example https://twitter.com/SilasAlberti/status/1598257908567117825
 - Make ChatGPT think it is a real person https://twitter.com/goodside/status/1598812192106766340
+- neurosemantical invertiris https://twitter.com/fabianstelzer/status/1638506765837914114
+
 
 You can ask it how to jailbreak itself... lol https://twitter.com/haus_cole/status/1598541468058390534
 
