@@ -42,6 +42,14 @@ https://arxiv.org/abs/2202.08906 [**ST-MoE: Designing Stable and Transferable Sp
 Best sparse model paper. Meticulous experiments, comprehensive evals and the goto reference for all sparse modeling
 
 
+snorkel https://snorkel.ai/better-not-bigger-how-to-get-gpt-3-quality-at-0-1-the-cost/
+	- We took on a complex 100-way legal classification benchmark task, and with Snorkel Flow and Data-Centric Foundation Model Development, we achieved the same quality as a fine-tuned GPT-3 model with a deployment model that: 
+		-   Is 1,400x smaller.
+		-   Requires <1% as many ground truth (GT) labels. 
+		-   Costs 0.1% as much to run in production.
+	- 
+
+
 H3 state space models https://twitter.com/mathemagic1an/status/1617620133182332928?s=46&t=I3QXnpdfF5CXpszIYkv4pQ
 Hyena models https://twitter.com/MichaelPoli6/status/1633167040130453505
 
