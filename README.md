@@ -189,6 +189,10 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
   - https://github.com/microsoft/LMOps guide to msft prompt research
   - gwern's behind the scenes discussion of Bing, GPT4, and the Microsoft-OpenAI relationship https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned
 
+### other lists like this
+
+- https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d
+
 ## Communities
 
 - StableDiffusion Discord https://discord.com/invite/stablediffusion
