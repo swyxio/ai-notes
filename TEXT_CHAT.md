@@ -128,6 +128,8 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 		- sydney alt persnality - waluigi https://twitter.com/nearcyan/status/1632169047381925888
 	- andrew ng recap of bing fails https://info.deeplearning.ai/chatbots-gone-wild-surveillance-takes-hold-rules-for-military-ai-robot-training-streamlined-1
 	- Gwern on the difference between Sydney and ChatGPT https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned?commentId=AAC8jKeDp6xqsZK2K
+- misc
+	- bing internal prompt trmplating https://twitter.com/studentinfosec/status/1640360234882310145?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 ## BardChat notes
 
