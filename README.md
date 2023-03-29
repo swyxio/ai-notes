@@ -90,7 +90,7 @@ This Readme is just the high level overview of the space; you should see the mos
 
 ## Top AI Reads
 
-The more advanced GPT3 reads have been split out to https://github.com/sw-yx/prompt-eng/blob/main/GPT.md
+The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-notes/blob/main/TEXT.md
 
 - https://www.gwern.net/GPT-3#prompts-as-programming
 - https://learnprompting.org/
