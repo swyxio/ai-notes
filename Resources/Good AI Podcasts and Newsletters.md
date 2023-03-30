@@ -23,5 +23,9 @@
 ## Newsletters
 
 - Mine :) https://latent.space/
-- Ben's Bites https://bensbites.beehiiv.com/
-- The AI Exchange https://theaiexchange.beehiiv.com/
+- Leaders
+	- Andrew Ng's [The Batch](https://www.deeplearning.ai/the-batch/)
+	- Jack Clark's [Import AI](https://importai.substack.com/p/import-ai-321-open-source-gpt3-giving?utm_source=substack&utm_medium=email)
+- Aggregators
+	- Ben's Bites https://bensbites.beehiiv.com/
+	- The AI Exchange https://theaiexchange.beehiiv.com/
