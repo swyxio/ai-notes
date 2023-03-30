@@ -102,6 +102,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - DALLE2 prompt writing book http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
   - https://ourworldindata.org/brief-history-of-ai ai progress overview with nice charts
+  - Jon Stokes' [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine)
   - text generation
 	  - humanloop's [prompt engineering 101](https://website-olo3k29b2-humanloopml.vercel.app/blog/prompt-engineering-101)
 	  - Stephen Wolfram's explanations https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
