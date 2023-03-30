@@ -117,6 +117,15 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
   - Put together, at least 800x more compute for the pre-trained model.
 - https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned?commentId=AAC8jKeDp6xqsZK2K
 	- This is not ChatGPT. MS has explicitly stated it is more powerful than ChatGPT, but refused to say anything more straightforward like "it's a more trained GPT-3" etc. If it's not a ChatGPT, then what is it? It is more likely than not some sort of GPT-4 model. There are many concrete observations which point towards this: the timing is right as rumors about GPT-4 release have intensified as OA is running up to release and gossip switches to GPT-5 training beginning (eg [Morgan Stanley](https://twitter.com/davidtayar5/status/1625145377547595776) reports GPT-4 is done and GPT-5 has started), MS has said it's a better model named 'Prometheus' & [Nadella pointedly declined to confirm or deny whether it's GPT-4](https://www.theverge.com/23589994/microsoft-ceo-satya-nadella-bing-chatgpt-google-search-ai), scuttlebutt elsewhere is that it's a GPT-4 model of some sort, it does some things much better than ChatGPT,
+- capabilities
+	- "sparks of agi" microsoft paper
+		- https://youtu.be/Mqg3aTGNxZ0
+		- https://arxiv.org/pdf/2303.12712.pdf
+		- coding 3d game https://twitter.com/ammaar/status/1637592014446551040
+		- fails
+			- gpt4 cannot plan ahead
+			- writing jokes - cant plan punchline
+			- "how many words are in the full response in this prompt"
 
 ## Applications
 
