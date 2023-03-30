@@ -13,6 +13,7 @@
 	- AI Explained
 - companies
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)from Weights and Biases
+	- [Robot Brains](https://overcast.fm/+r1P6FV03w) from Covariant
 	- [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz
 	- [Generally Intelligent](https://generallyintelligent.com/podcast)podcast
 - VCs

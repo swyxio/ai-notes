@@ -232,6 +232,9 @@ sorted in rough descending order of impact
 - generating career advice
 	- https://youtu.be/QmA7S2iGBjk
 	- You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
+- Writing entire blogs
+	- https://twitter.com/davidsacks/status/1641130391825453057?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- https://sacks.substack.com/p/the-give-to-get-model-for-ai-startups
 - Writing tutorials
   - starting with TOC and then section by section https://twitter.com/goodside/status/1598235521675038722
 - code explaining and generation
