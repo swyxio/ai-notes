@@ -2,20 +2,20 @@
 ## Podcasts
 
 - Mine :) https://latent.space/
-- researchers & specialists
-	- https://thegradientpub.substack.com/s/podcast
-	- https://theinsideview.ai/ with Michael Trazzi
+- Researchers & Specialists
+	- [The Gradient](https://thegradientpub.substack.com/s/podcast) (Stanford)
+	- [The Inside View](https://theinsideview.ai/) (Michael Trazzi)
 	- [Practical AI](https://changelog.com/practicalai) (Dan Whitenack)
 	- [This Week in Machine Learning/AI](https://twimlai.com/podcast/twimlai/) (Sam Charrington)
-	- Machine Learning Street Talk
+	- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk) (Tim Scarfe)
 - Youtubers
-	- Yannic Kilcher
-	- AI Explained
+	- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
+	- [AI Explained](https://www.youtube.com/@ai-explained-)
 - companies
-	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) from Weights and Biases
-	- [Robot Brains](https://overcast.fm/+r1P6FV03w) from Covariant
+	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases
+	- [Robot Brains](https://overcast.fm/+r1P6FV03w) - Covariant
 	- [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz
-	- [Generally Intelligent](https://generallyintelligent.com/podcast)podcast
+	- [Generally Intelligent](https://generallyintelligent.com/podcast) - Kanjun Qiu
 - VCs
 	- [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil
 	- [Unsupervised Learning](https://podtail.com/en/podcast/unsupervised-learning/) - Redpoint
