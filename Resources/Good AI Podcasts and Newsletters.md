@@ -1,9 +1,8 @@
 
 ## Podcasts
 
-- Mine :) https://latent.space/
 - Researchers & Specialists
-	- [The Gradient](https://thegradientpub.substack.com/s/podcast) (Stanford)
+	- [The Gradient](https://thegradientpub.substack.com/s/podcast) (Daniel Bashir)
 	- [The Inside View](https://theinsideview.ai/) (Michael Trazzi)
 	- [Practical AI](https://changelog.com/practicalai) (Dan Whitenack)
 	- [This Week in Machine Learning/AI](https://twimlai.com/podcast/twimlai/) (Sam Charrington)
@@ -19,14 +18,20 @@
 - VCs
 	- [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil
 	- [Unsupervised Learning](https://podtail.com/en/podcast/unsupervised-learning/) - Redpoint
+- Mine :) https://latent.space/
 
 ## Newsletters
 
-- Mine :) https://latent.space/
 - Leaders
 	- Andrew Ng's [The Batch](https://www.deeplearning.ai/the-batch/)
 	- Jack Clark's [Import AI](https://importai.substack.com/p/import-ai-321-open-source-gpt3-giving?utm_source=substack&utm_medium=email)
+- Commentators
+	- Alan Thompson's Life Architect https://lifearchitect.substack.com
+	- Bradley Metrock (Deepgram) https://thisweekinvoice.substack.com/
 - Aggregators
 	- Ben's Bites https://bensbites.beehiiv.com/
 	- Rachel Woods' The AI Exchange https://theaiexchange.beehiiv.com/
 	- Pete Huang's The Neuron https://www.theneurondaily.com/
+	- Lior AlphaSignal https://alphasignal.ai/
+	- Bot Eat Brain https://www.boteatbrain.com/
+- Mine :) https://latent.space/
