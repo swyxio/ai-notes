@@ -21,6 +21,10 @@
 
 "Today, GitHub Copilot is behind an average of 46% of a developers’ code across all programming languages—and in Java, that number jumps to 61%."
 
+- March 2023 - more ambitious with amall scripts
+	- https://simonwillison.net/2023/Mar/27/ai-enhanced-development/
+	- geoffrey litt stuff
+
 ## Known Issues
 
 - Ryan Salva on how Copilot works + how to gain developer trust https://news.ycombinator.com/item?id=33226515
@@ -78,6 +82,8 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - codecomplete - ycw23 - copilot for enterprise https://news.ycombinator.com/item?id=35152851
 	- CodeComplete offers an experience similar to Copilot; we serve AI code completions as developers type in their IDEs. However, instead of sending private code snippets to GitHub or OpenAI, we use a self-hosted LLM to serve code completions. Another advantage with self-hosting is that it’s more straightforward to securely fine-tune to the company’s codebase. Copilot suggestions aren’t always tailored to a company’s coding patterns or internal libraries, so this can help make our completions more relevant and avoid adding tech debt.
 - anysphere control.dev - an AI code editor that harnesses the power of GPT-4. It’s a drop-in replacement for VS Code, has context about your closed-source codebase, and it will make you 2x more productive tomorrow.
+- socket.dev ai security scanning https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis
+	- https://www.theregister.com/2023/03/30/socket_chatgpt_malware/
 
 ###  GPT low code
 
