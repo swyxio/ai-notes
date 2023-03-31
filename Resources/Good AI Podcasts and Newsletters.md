@@ -25,9 +25,10 @@
 - Leaders
 	- Andrew Ng's [The Batch](https://www.deeplearning.ai/the-batch/)
 	- Jack Clark's [Import AI](https://importai.substack.com/p/import-ai-321-open-source-gpt3-giving?utm_source=substack&utm_medium=email)
-- Commentators
+- Commentators/ML Eng's
 	- Alan Thompson's Life Architect https://lifearchitect.substack.com
 	- Bradley Metrock (Deepgram) https://thisweekinvoice.substack.com/
+	- Carlos's Data Machina https://datamachina.substack.com/
 - Aggregators
 	- Ben's Bites https://bensbites.beehiiv.com/
 	- Rachel Woods' The AI Exchange https://theaiexchange.beehiiv.com/
