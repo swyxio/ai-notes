@@ -319,7 +319,8 @@ more longform recap of fails https://garymarcus.substack.com/p/large-language-mo
 - comparisons
 	- Andrew Ng - abacus faster than GPU https://twitter.com/AndrewYNg/status/1600284752258686976
 		- [vulnerable to presuppositions in the prompt](https://twitter.com/MasonMMcGough/status/1600287990239985664?s=20)
--
+- hallucination of published papers - because it is done in sequence
+	- full breakdown https://twitter.com/dsmerdon/status/1618817273460043776
 
 ### Jailbreaks
 
