@@ -11,6 +11,7 @@
 	- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 	- [AI Explained](https://www.youtube.com/@ai-explained-)
 - companies
+	- [Deep Papers](https://www.deeppapers.dev/) - Arize AI
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases
 	- [Robot Brains](https://overcast.fm/+r1P6FV03w) - Covariant
 	- [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz
