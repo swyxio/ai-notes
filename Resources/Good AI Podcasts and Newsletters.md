@@ -7,6 +7,8 @@
 	- [Practical AI](https://changelog.com/practicalai) (Dan Whitenack)
 	- [This Week in Machine Learning/AI](https://twimlai.com/podcast/twimlai/) (Sam Charrington)
 	- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk) (Tim Scarfe)
+- news
+	- [The ChatGPT report](https://anchor.fm/ben-meyerhoeffer/episodes/Ep-30-Bard-vs-Bing-e212edr)
 - Youtubers
 	- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher)
 	- [AI Explained](https://www.youtube.com/@ai-explained-)

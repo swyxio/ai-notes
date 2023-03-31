@@ -138,6 +138,8 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - 2+3=5 is incorrect https://twitter.com/hwchung27/status/1638743317063274496?s=20
 
 
+Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gDKU
+
 ## ChatGPT notes
 
 
