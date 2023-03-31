@@ -162,6 +162,7 @@ TextSynth employs [custom inference code](https://textsynth.com/technology.html
 
 - https://hardwarelottery.github.io ML will run into an asymptote because matrix multiplication and full forward/backprop passes are ridiculously expensive. What hardware improvements do we need to enable new architectures?
 - "bitter lessons" - http://incompleteideas.net/IncIdeas/BitterLesson.html https://twitter.com/drjwrae/status/1601044625447301120?s=20
+	- response https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Model-versus-Data-AI-1.pdf
   - optimizatoin https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/
 - related: https://www.wired.com/2017/04/building-ai-chip-saved-google-building-dozen-new-data-centers/
 - transformers won because they were more scalable https://arxiv.org/pdf/2010.11929.pdf
