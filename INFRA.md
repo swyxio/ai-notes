@@ -77,7 +77,9 @@ computer requirements to train gpt4 https://twitter.com/matthewjbar/status/16053
 
 human brain math https://twitter.com/txhf/status/1613239816770191361?s=20
 
-https://www.lesswrong.com/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines
+2018 - "ai and compute" report
+
+https://www.lesswrong.com/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines ajeya cotra
 https://www.alignmentforum.org/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines - reaction https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might - human brain 10^13 - 10^17 FLOP/S. Why? Partly because this was the number given by most experts. But also, there are about 10^15 synapses in the brain, each one spikes about once per second, and a synaptic spike probably does about one FLOP of computation. - Cars don’t move by contracting their leg muscles and planes don’t fly by flapping their wings like birds. Telescopes *do* form images the same way as the lenses in our eyes, but differ by so many orders of magnitude in every important way that they defy comparison. Why should AI be different? You have to use some specific algorithm when you’re creating AI; why should we expect it to be anywhere near the same efficiency as the ones Nature uses in our brains? - Good news! There’s [a supercomputer in Japan](<https://en.wikipedia.org/wiki/Fugaku_(supercomputer)>) that can do 10^17 FLOP/S! - reaction https://www.lesswrong.com/posts/ax695frGJEzGxFBK4/biology-inspired-agi-timelines-the-trick-that-never-works#__2020__ - summary https://www.lesswrong.com/posts/KrJfoZzpSDpnrv9va/draft-report-on-ai-timelines?commentId=7d4q79ntst6ryaxWD - human brain is doing the equivalent of 1e13 - 1e16 FLOP per second, with **a median of 1e15 FLOP per second**, and a long tail to the right. This results in a median of **1e16 FLOP per second** for the inference-time compute of a transformative model.
 
 - https://docs.google.com/document/d/1IJ6Sr-gPeXdSJugFulwIpvavc0atjHGM82QjIfUSBGQ/edit
