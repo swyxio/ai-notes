@@ -87,6 +87,10 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	- 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - Alapaca
 	- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) Locally run an Instruction-Tuned Chat-Style LLM
+- Cerebras GPT
+	- runs on 4GB https://twitter.com/simonw/status/1641576453740597248?s=20
+- Dolly 6B LLM https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
+	- https://github.com/databrickslabs/dolly
 - FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
 - GPT-JT for classification
   - https://news.ycombinator.com/item?id=33796158
