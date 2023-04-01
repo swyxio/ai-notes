@@ -17,6 +17,9 @@ google multimodal researchc https://ai.googleblog.com/2023/01/google-research-20
 
 visual chatgpt https://github.com/microsoft/visual-chatgpt
 
+
+hugging gpt - chatgpt coordinating between huggingface models https://arxiv.org/abs/2303.17580
+
 https://text-generator.io/blog/embed-images-text-and-code Embed Images, Text and Code in the same space
 
 

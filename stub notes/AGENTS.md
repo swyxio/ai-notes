@@ -81,6 +81,11 @@ thread on GPT3 agents https://twitter.com/GrantSlatton/status/160089024345213747
 https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven?sd=pf # The Near Future of AI is Action-Driven …and it will look a lot like AGI
 
 
+## OSS agent implementations
+
+- Wove https://github.com/zckly/wove long running workflows 
+- 
+
 ## Robotics
 
 https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/

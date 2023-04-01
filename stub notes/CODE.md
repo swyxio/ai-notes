@@ -85,7 +85,10 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - socket.dev ai security scanning https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis
 	- https://www.theregister.com/2023/03/30/socket_chatgpt_malware/
 - agent writing its own code in a loop https://github.com/pHaeusler/micro-agent
-
+- autogenerate PRs
+	- https://www.grit.io/
+	- https://twitter.com/MrHunterBrooks/status/1639373651010109442?s=20
+	- https://github.com/gitstart
 
 ###  GPT low code
 

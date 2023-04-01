@@ -164,6 +164,11 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 	- https://scale.com/blog/chatgpt-reinforcement-learning
 	- post/paper https://openai.com/blog/instruction-following/
 - Stephen Wolfram on [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- outperforms human workers on text annotation tasks https://arxiv.org/pdf/2303.15056v1.pdf
+	- ks: (1) relevance: whether a tweet is about content moderation;
+	- (2) topic detection: whether a tweet is about a set of six pre-defined topics (i.e. Section 230, Trump Ban, Complaint, Platform Policies, Twitter Support, and others); 
+	- (3) stance detection: whether a tweet is in favor of, against, or neutral about repealing Section 230 (a piece of US legislation central to content moderation); (
+	1) general frame detection (“frames I”): whether a tweet contains a set of two opposing frames which we call them “problem’ and “solution” frames. 
 
 
 ### Products
