@@ -84,6 +84,8 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - anysphere control.dev - an AI code editor that harnesses the power of GPT-4. It’s a drop-in replacement for VS Code, has context about your closed-source codebase, and it will make you 2x more productive tomorrow.
 - socket.dev ai security scanning https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis
 	- https://www.theregister.com/2023/03/30/socket_chatgpt_malware/
+- agent writing its own code in a loop https://github.com/pHaeusler/micro-agent
+
 
 ###  GPT low code
 
