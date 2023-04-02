@@ -61,7 +61,11 @@
 	- agent on desktop
 - Uni ai - embra competitor
 		- https://news.ycombinator.com/user?id=deet
-
+- SLAPA approach
+	- Recent work, such as Toolformer, have demonstrated that language models can teach themselves WHEN to use tools. With SLAPA, we show that language models can also teach themselves HOW to use tools!
+	- learns how to use tools before using them by searching docs
+	- When given a task, SLAPA knows to search for the API documentation and learn all the information. Then he create API calls. If they don't work, he learns from his mistake and tries again.
+	- https://twitter.com/DYtweetshere/status/1631349179934203904
 
 - Whatsapp + ChatGPT
   - https://twitter.com/danielgross/status/1598735800497119232

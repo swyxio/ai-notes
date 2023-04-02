@@ -50,6 +50,7 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 
 <img src="https://pbs.twimg.com/media/FkwdJnEXgAAoteg?format=png&name=small" height=300 />
 
+- GPT2 as a step towards AGI https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/
 - GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
 - Eleuther's [GPT-J-6B](https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/), GPT-NeoX
 - Google 
@@ -64,6 +65,8 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 - BLOOM 176B
 	-  the [BLOOM large language model](https://huggingface.co/bigscience/bloom-7b1) was trained in France with the support of the French government. The cost was estimated as $2-5M, it took almost four months to train and boasts about its low carbon footprint because most of the power came from a nuclear reactor!
 	- Fun fact: as of a few days ago you can now [run the openly licensed BLOOM on your own laptop](https://github.com/NouamaneTazi/bloomz.cpp), using Nouamane Tazi’s adaptive copy of the `llama.cpp` code that made that possible for LLaMA
+	- Bloom 7B - 1 https://twitter.com/Nouamanetazi/status/1636077137089400832?s=20
+	- On M1 Pro, you can achieve 16 tokens/sec for BLOOMZ-7B1
 - Tsinghua GLM-130B
   - outperforms OpenAI's GPT-3 175B and Google's PALM 540B on critical benchmarks. AND it's open sourced, which means — you can run this model on your own machine, for free.
   - only trained on 400B tokens (compared to 1.2T tokens for Chinchilla's 70B parameters)
@@ -84,9 +87,12 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 		- `npx dalai llama` https://cocktailpeanut.github.io/dalai/#/
 		- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
 		- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
+		- outputs are not very good https://news.ycombinator.com/item?id=35258553
 	- 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- finetune llama 7B https://news.ycombinator.com/item?id=35256769 Simple LLaMA Finetuner is a beginner-friendly interface designed to facilitate fine-tuning the LLaMA-7B language model using LoRA method via the PEFT library on commodity NVIDIA GPUs. With small dataset and sample lengths of 256, you can even run this on a regular Colab Tesla T4 instance. With this intuitive UI, you can easily manage your dataset, customize parameters, train, and evaluate the model's inference capabilities.
 - Alapaca
 	- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) Locally run an Instruction-Tuned Chat-Style LLM
+	- Alpaca 7B was trained for less than $600. It used OpenAI's model to expand a set of 175 human written instruction/output pairs and generate more than 52,000 instruction-following examples to train their model with. Alpaca is fine-tuned on LLaMA (from Meta), so the from-scratch cost isn't exactly $600, but the effective cost is magnitudes smaller when building on open-source models.
 - Cerebras GPT
 	- runs on 4GB https://twitter.com/simonw/status/1641576453740597248?s=20
 - Dolly 6B LLM https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
@@ -130,6 +136,9 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 			- gpt4 cannot plan ahead
 			- writing jokes - cant plan punchline
 			- "how many words are in the full response in this prompt"
+	- econ professor sees gpt3.5 to gpt4 rise from D to an A in econ https://betonit.substack.com/p/gpt-retakes-my-midterm-and-gets-an
+- system prompt for gpt4 needs world building. - example https://twitter.com/kevinafischer/status/1637234946434809858/photo/1
+
 
 ## Applications
 
@@ -161,6 +170,11 @@ GPT3 applications:
 - Making stories with characters https://medium.com/@turc.raluca/introducing-rick-and-mortify-a14e56a8cb67
 
 wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930?s=20&t=2ra2Yfz0NFSbfJ_IGixNjA
+
+### GPT4 Games
+
+- https://twitter.com/mayfer/status/1638356816836059136?s=20 Turkish Carpet Salesman
+
 
 ## Top GPT3 Prompt Engineering Reads
 

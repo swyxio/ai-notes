@@ -175,14 +175,17 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 
 - API
 	- https://github.com/reorx/awesome-chatgpt-api
-	- https://www.typingmind.com/
+	- chatgpt ui oss clones https://www.typingmind.com/
 		- open source https://github.com/chatgptui/desktop
+		- mckay wrigley chabot-ui https://t.co/QkP2zMi2FL
 		- open [https://github.com/Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt)
 		- https://www.chatwithme.chat/tutorial https://github.com/kierangilliam/chatwithme.chat
 		- https://github.com/cogentapps/chat-with-gpt
 		- https://github.com/Niek/chatgpt-web
 		- nextjs starter https://github.com/enricoros/nextjs-chatgpt-app
+		- 
 	- https://github.com/npiv/chatblade cli chatgpt
+	- https://github.com/ejfox/coachartie_discord/blob/master/index.js twitter assistant with memory in supabase
 - whatsapp https://github.com/danielgross/whatsapp-gpt https://twitter.com/danielgross/status/1598735800497119232
 	- [http://wa.me/19893946588](http://wa.me/19893946588) from [HN](https://news.ycombinator.com/item?id=35053101)
 - telegram bot https://twitter.com/altryne/status/1598822052760195072
