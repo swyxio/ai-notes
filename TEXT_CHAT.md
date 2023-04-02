@@ -103,6 +103,8 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - funny 
 	- fast and furious convo (beats chatgpt) https://mobile.twitter.com/jayelmnop/status/1612243602633068549
 
+comparison with gpt and bing https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/
+
 ## BingChat notes
 
 - satya presentation https://twitter.com/petergyang/status/1623328335161090049?s=20
@@ -169,6 +171,14 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 	- (2) topic detection: whether a tweet is about a set of six pre-defined topics (i.e. Section 230, Trump Ban, Complaint, Platform Policies, Twitter Support, and others); 
 	- (3) stance detection: whether a tweet is in favor of, against, or neutral about repealing Section 230 (a piece of US legislation central to content moderation); (
 	1) general frame detection (“frames I”): whether a tweet contains a set of two opposing frames which we call them “problem’ and “solution” frames. 
+
+### Plugins
+
+- https://github.com/humanloop/awesome-chatgpt-plugins
+- https://twitter.com/OfficialLoganK/status/1638952666310103040?s=20
+- https://platform.openai.com/docs/plugins/examples
+- https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/
+- langchain can use chatgpt plugins https://twitter.com/hwchase17/status/1639351690251100160
 
 
 ### Products
