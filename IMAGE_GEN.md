@@ -107,6 +107,7 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 
 ## midjourney
 
+- midjourney company is 10 people and 40 moderators https://www.washingtonpost.com/technology/2023/03/30/midjourney-ai-image-generation-rules/
 -   [Advanced guide to writing prompts for MidJourney](https://medium.com/mlearning-ai/an-advanced-guide-to-writing-prompts-for-midjourney-text-to-image-aa12a1e33b6) 
 -   [Aspect ratio prompts](https://graphicsgurl.com/midjourney-aspect-ratio/#:~:text=MidJourney's%20default%20size%20is%20square,ratios%20%E2%80%93%20this%20is%20the%20original)
 
