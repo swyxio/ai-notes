@@ -342,6 +342,18 @@ The problem of benchmark contamination in the context of large language model (L
 6. calibrating confidence
 	1. GPT-4 can also be confidently wrong in its predictions, not taking care to double-check work when it’s likely to make a mistake. Interestingly, the base pre-trained model is highly calibrated (its predicted confidence in an answer generally matches the probability of being correct). However, through our current post-training process, the calibration is reduced.
 
+
+
+
+
+## games as benchmarks
+
+- poker and diplomacy https://overcast.fm/+_C9fBMhI4
+- before that it was Go, Starcraft, chess
+- important to pre exist before researchers so that have human baseline and not artificial 
+
+
+
 ## Misc Ungroomed Notes
 
 
