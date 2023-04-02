@@ -40,4 +40,5 @@
 	- Pete Huang's The Neuron https://www.theneurondaily.com/
 	- Lior AlphaSignal https://alphasignal.ai/
 	- Bot Eat Brain https://www.boteatbrain.com/
+	- WhoWhatWhyAi [whowhatwhyai.com](https://whowhatwhyai.substack.com/archive)
 - Mine :) https://latent.space/
