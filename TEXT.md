@@ -96,6 +96,9 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 - Alapaca
 	- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) Locally run an Instruction-Tuned Chat-Style LLM
 	- Alpaca 7B was trained for less than $600. It used OpenAI's model to expand a set of 175 human written instruction/output pairs and generate more than 52,000 instruction-following examples to train their model with. Alpaca is fine-tuned on LLaMA (from Meta), so the from-scratch cost isn't exactly $600, but the effective cost is magnitudes smaller when building on open-source models.
+- Vicuna https://vicuna.lmsys.org/
+	- Alpaca competitor also from stanford 
+	- 
 - Cerebras GPT
 	- runs on 4GB https://twitter.com/simonw/status/1641576453740597248?s=20
 	- not as good https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/
