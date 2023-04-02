@@ -324,3 +324,6 @@ Other kinds of prompts are worth trying too!
 		- https://celebanswers.com/celebrity-list/
 	- [Celebrity] as [Character]
 
+## midjourney v5 
+
+- sticker prompts https://twitter.com/followmarcos/status/1642189080984158208?s=46&t=90xQ8sGy63D2OtiaoGJuww

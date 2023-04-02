@@ -91,6 +91,8 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	- 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- finetune llama 7B https://news.ycombinator.com/item?id=35256769 Simple LLaMA Finetuner is a beginner-friendly interface designed to facilitate fine-tuning the LLaMA-7B language model using LoRA method via the PEFT library on commodity NVIDIA GPUs. With small dataset and sample lengths of 256, you can even run this on a regular Colab Tesla T4 instance. With this intuitive UI, you can easily manage your dataset, customize parameters, train, and evaluate the model's inference capabilities.
 		- with LoRA https://replicate.com/blog/fine-tune-alpaca-with-lora
+		- with LLaMA adapter https://twitter.com/rasbt/status/1641457696074334209?s=20 it's not finetuning the whole model end-to-end. Instead, the Adapter-approach adds a small number of 1.2M parameters on top of a pretrained, frozen 7B LLaMA model. Using the same 52K Instruction-following data, responses are comparable to Alpaca, but in contrast to Alpaca, which took 3 hours on 8 A100 to finetune, LLaMA adapters can be finetuned in 1h.
+		- But in short, the difference is that this inserts adapter layers on top of the model. In contrast, LoRA decomposes the model weight matrices using low-rank decomposition. So, LoRA increases finetuning performance by reducing parameter numbers whereas Adapters increases efficiency by keeping the pretrained model frozen (and only tunes a small number of parameters added to the model).
 - Alapaca
 	- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) Locally run an Instruction-Tuned Chat-Style LLM
 	- Alpaca 7B was trained for less than $600. It used OpenAI's model to expand a set of 175 human written instruction/output pairs and generate more than 52,000 instruction-following examples to train their model with. Alpaca is fine-tuned on LLaMA (from Meta), so the from-scratch cost isn't exactly $600, but the effective cost is magnitudes smaller when building on open-source models.
@@ -263,11 +265,12 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
       - Increased informativeness
       - Rejecting questions outside the model’s knowledge scope
   - https://jaykmody.com/blog/gpt-from-scratch/
-  - OpenAI trained their original GPTs to pay special attention to <|endoftext|> for separating documents. But <|endoftext|> was in fact a special token: [50256]. Encoders need to encode that text string specially, since otherwise there's no way to generate [50256]. https://news.ycombinator.com/user?id=sillysaurusx
+  - OpenAI trained their original GPTs to pay special attention to <|endoftext|> for separating documents. But <|endoftext|> was in fact a special token: [50256]. Encoders need to encode that text string specially, since otherwise there's itno way to generate [50256]. https://news.ycombinator.com/user?id=sillysaurusx
 
 ## Don't call it generative
 
 - Reasoning: https://twitter.com/alexandr_wang/status/1588933553290870785
+	- https://every.to/chain-of-thought/gpt-4-is-a-reasoning-engine
 - Understanding: https://twitter.com/EMostaque/status/1585903983180537856
 - stochastic parrot/autoregressive model counterpoints https://twitter.com/ESYudkowsky/status/1639661303785721859?s=20
 - 
