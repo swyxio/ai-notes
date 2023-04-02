@@ -116,6 +116,7 @@ Lexica Aperture - finetuned version of SD https://lexica.art/aperture
 - [rave at Hogwarts summer 1998](https://twitter.com/spacecasetay/status/1638212304683532288)
 - midjourney prompting with gpt4 https://twitter.com/nickfloats/status/1638679555107094528
 - fashion liv boeree prompt https://twitter.com/nickfloats/status/1639076580419928068
+- extremely photorealistic, lots of interesting examples https://twitter.com/bilawalsidhu/status/1639688267695112194
 
 
 
@@ -131,6 +132,10 @@ or emojis: https://twitter.com/LinusEkenstam/status/1616841985599365120
 
 DallE vs Imagen vs Parti  architecture
 - https://twitter.com/savvyRL/status/1540555792331378688
+
+### Runway Gen-1/2
+
+usage example https://twitter.com/nickfloats/status/1639709828603084801?s=20
 
 ## Tooling
 

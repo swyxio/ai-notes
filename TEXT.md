@@ -269,6 +269,8 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 
 - Reasoning: https://twitter.com/alexandr_wang/status/1588933553290870785
 - Understanding: https://twitter.com/EMostaque/status/1585903983180537856
+- stochastic parrot/autoregressive model counterpoints https://twitter.com/ESYudkowsky/status/1639661303785721859?s=20
+- 
 
 ## Specialized language models
 

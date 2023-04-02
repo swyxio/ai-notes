@@ -23,6 +23,8 @@ hugging gpt - chatgpt coordinating between huggingface models https://arxiv.org/
 https://text-generator.io/blog/embed-images-text-and-code Embed Images, Text and Code in the same space
 
 
+Gato model - 1.2b param model
+
 ### GPT4 multimodal 
 https://twitter.com/DrJimFan/status/1634244545360609289
 

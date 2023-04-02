@@ -323,3 +323,4 @@ Other kinds of prompts are worth trying too!
 		- https://www.popsugar.com/celebrities
 		- https://celebanswers.com/celebrity-list/
 	- [Celebrity] as [Character]
+

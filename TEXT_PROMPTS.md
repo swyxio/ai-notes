@@ -30,6 +30,11 @@ authors found `Let's think step by step` quadrupled the accuracy, from 18% to 
 Source: _Large Language Models are Zero-Shot Reasoners_ by Takeshi Kojima et al. (2022).](https://arxiv.org/abs/2205.11916)
 
 
+## self critique prompting
+
+Reflexion style self critique works well to fix first shot problems 
+- https://twitter.com/ericjang11/status/1639882111338573824
+
 ### halter methods
 
 First, the authors add a 'halter' model that, after each inference step, is asked whether the inferences thus far are sufficient to answer the question. If yes, then the model generates a final answer.

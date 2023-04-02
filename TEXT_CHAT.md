@@ -179,6 +179,8 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 - https://platform.openai.com/docs/plugins/examples
 - https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/
 - langchain can use chatgpt plugins https://twitter.com/hwchase17/status/1639351690251100160
+- demo of retrieval plugins https://twitter.com/isafulf/status/1639726944303599616?s=20
+	- more info https://twitter.com/isafulf/status/1639712517877547008 The plugin enables ChatGPT to search and retrieve document snippets based on natural language queries. It uses OpenAI's text-embedding-ada-002 model to generate embeddings, which are then stored in vector databases for efficient search and retrieval.
 
 
 ### Products

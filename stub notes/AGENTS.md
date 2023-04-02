@@ -7,6 +7,18 @@
 - Automatic Reasoning & Tool-Use of LLMs
 	- https://mobile.twitter.com/johnjnay/status/1636555772082499584?s=12&t=90xQ8sGy63D2OtiaoGJuww
 
+## other agent paradigms
+
+Reflexion: an autonomous agent with dynamic memory and self-reflection https://arxiv.org/abs/2303.11366 https://twitter.com/johnjnay/status/1638696539257184258
+A Self-Reflecting LLM Agent
+
+Equips LLM-based agent w/ 
+-dynamic memory
+-a self-reflective LLM
+-a method for detecting hallucinations
+self critique works well to fix first shot problems 
+- https://twitter.com/ericjang11/status/1639882111338573824
+
 ## agent 
 
 
