@@ -72,6 +72,8 @@ https://txt.cohere.ai/future-of-semantic-search-nils-reimers/
 - 3) [Transformer Memory as a Differentiable Search Index (“DSI”)](https://arxiv.org/abs/2202.06991)
 - openai embeddings and pinecone 
 	- arxiv search https://twitter.com/tomtumiel/status/1611729847700570118?s=20&t=esNCMGOrghGYObzQee1Hzg
+- maybe use relative embeddings instead of absolute
+	- https://ofir.io/The-Use-Case-for-Relative-Position-Embeddings/
 - weaviate vecot rsearch https://twitter.com/CShorten30/status/1612081726041518080?s=20
 - simple semantic search https://huggingface.co/sentence-transformers/multi-qa-mpnet-base-dot-v1
 - ebook semantic search https://colab.research.google.com/drive/1PDT-jho3Y8TBrktkFVWFAPlc7PaYvlUG?usp=sharing#scrollTo=zCJx4wZ7fSAB

@@ -325,6 +325,9 @@ This list will be out of date but will get you started. My live list of people t
 	- stable attribution https://news.ycombinator.com/item?id=34670136
 	- coutner argument for disney https://twitter.com/jonst0kes/status/1616219435492163584?s=46&t=HqQqDH1yEwhWUSQxYTmF8w
 	- research on stable diffusion copying https://twitter.com/officialzhvng/status/1620535905298817024?s=20&t=NC-nW7pfDa8nyRD08Lx1Nw This paper used Stable Diffusion to generate 175 million images over 350,000 prompts and only found 109 near copies of training data. Am I right that my main takeaway from this is how good Stable Diffusion is at *not* memorizing training examples?
+- Job losses
+	- artists losing love https://news.ycombinator.com/item?id=35308498
+	- openai published some stuff about 300m jobs at risk
 
 ## Alignment, Safety
 

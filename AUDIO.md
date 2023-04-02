@@ -51,7 +51,9 @@
 - speech separation model https://github.com/openai/whisper/discussions/264#discussioncomment-4706132
 	- https://github.com/miguelvalente/whisperer
  - deep speech https://github.com/mozilla/DeepSpeech
-
+- Deepgram 80x faster than > Whisper https://news.ycombinator.com/item?id=35367655 - strong endorsement
+- Assemblyai conformer https://www.assemblyai.com/blog/conformer-1/
+- google has a closed "Universal Speech" model https://sites.research.google/usm/
 
 https://news.ycombinator.com/item?id=33663486
 -  https://whispermemos.com pressing button on my Lock Screen and getting a perfect transcription in my inbox.

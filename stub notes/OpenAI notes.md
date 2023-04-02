@@ -4,4 +4,5 @@
 - openai-anthropic split was over the GPT3 api https://archive.is/YTOeD#selection-333.226-337.82
 - openai rebrand and identity https://twitter.com/asselinpaul/status/1636938731398787074
 - elon and sama split - 2023 https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai
+- july 2022-march 2023 shipping velocity https://twitter.com/E0M/status/1635727471747407872
 - march 2023 - turned off codex and then changed their minds  https://twitter.com/deepfates/status/1638212305887567873?s=20
