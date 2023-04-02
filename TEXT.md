@@ -98,8 +98,16 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	- Alpaca 7B was trained for less than $600. It used OpenAI's model to expand a set of 175 human written instruction/output pairs and generate more than 52,000 instruction-following examples to train their model with. Alpaca is fine-tuned on LLaMA (from Meta), so the from-scratch cost isn't exactly $600, but the effective cost is magnitudes smaller when building on open-source models.
 - Cerebras GPT
 	- runs on 4GB https://twitter.com/simonw/status/1641576453740597248?s=20
+	- not as good https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/
+		- Cerebras isn't as advanced as either LLaMA or ChatGPT (gpt-3.5-turbo). It's a much smaller model at 13B parameters and it's been intentionally "undertrained" relative to the other models. Cerebras is ~6% of the size of GPT-3 and ~25% of the size of LLaMA's full-size, 60B parameter model, and they intentionally limited how long the model was trained in order to reach a "training compute optimal" state.
 - Dolly 6B LLM https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
 	- https://github.com/databrickslabs/dolly
+	- academic license only
+	- dolly-v1-6b is a 6 billion parameter causal language model created by Databricks that is derived from EleutherAI’s GPT-J (released June 2021) and fine-tuned on a ~52K record instruction corpus (Stanford Alpaca) consisting of question/answer pairs generated using the techniques outlined in the Self-Instruct paper. Dolly was trained using deepspeed ZeRO 3 on the Databricks Machine Learning Platform in just 30 minutes using a single NDasrA100_v4 machine with 8x A100 40GB GPUs.
+- Nomic AI GPT4All
+	- https://twitter.com/AlphaSignalAI/status/1640873710717468674
+	- 
+
 - FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
 - GPT-JT for classification
   - https://news.ycombinator.com/item?id=33796158
