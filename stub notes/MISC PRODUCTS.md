@@ -52,6 +52,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 	- watermarking https://twitter.com/jwkirchenbauer/status/1627704602274537475?s=46&t=oEf4oyfks9_5PJcMbkVOYA
 	- copyleaks ai content detector?
 	- futile watermarking https://twitter.com/emollick/status/1641083985148231686?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- hidegpt to hide watermarks https://twitter.com/sohamgovande/status/1641828463584657408
 - scott aaronson at openai watermarking https://twitter.com/jeremyphoward/status/1610932164190949378
 - A Watermark for Large Language Models: arxiv.org/abs/2301.10226
 - originality.ai https://originality.ai/?lmref=KAmPVQ
