@@ -335,7 +335,11 @@ This list will be out of date but will get you started. My live list of people t
 	- criticism and boundaries as future direction https://twitter.com/davidad/status/1628489924235206657?s=46&t=TPVwcoqO8qkc7MuaWiNcnw
 - Just Eliezer entire body of work
 	- https://twitter.com/esyudkowsky/status/1625922986590212096
-	- 
+	- agi list of lethalities https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities
+	- note that eliezer has made controversial comments [in the past](https://twitter.com/johnnysands42/status/1641349759754485760?s=46&t=90xQ8sGy63D2OtiaoGJuww) and also in [recent times](https://twitter.com/lorakolodny/status/1641448759086415875?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+- Connor Leahy may be a more sane/measured/technically competent version of yud https://overcast.fm/+aYlOEqTJ0
+	- it's not just paperclip factories
+	- https://www.lesswrong.com/posts/HBxe6wdjxK239zajf/what-failure-looks-like
 
 ## Misc
 
