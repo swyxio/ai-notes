@@ -24,6 +24,7 @@
 - March 2023 - more ambitious with amall scripts
 	- https://simonwillison.net/2023/Mar/27/ai-enhanced-development/
 	- geoffrey litt stuff
+- March 2023 - Codium AI - 11m seed - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-and-raised-11m/
 
 ## Known Issues
 
@@ -89,6 +90,11 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- https://www.grit.io/
 	- https://twitter.com/MrHunterBrooks/status/1639373651010109442?s=20
 	- https://github.com/gitstart
+
+### Test generation
+
+Codium - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-and-raised-11m/
+	- video demo https://twitter.com/mathemagic1an/status/1638598693623582720
 
 ###  GPT low code
 
