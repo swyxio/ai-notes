@@ -1,4 +1,6 @@
 
+> this ended up being the best list — [Andrew Chen](https://twitter.com/andrewchen/status/1642626083962130432?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+
 ## Podcasts
 
 - Researchers & Specialists
@@ -34,6 +36,7 @@
 	- Carlos's Data Machina https://datamachina.substack.com/
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
 - Aggregators
+	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly
 	- Ben's Bites https://bensbites.beehiiv.com/
 	- Rachel Woods' The AI Exchange https://theaiexchange.beehiiv.com/
 	- Pete Huang's The Neuron https://www.theneurondaily.com/
