@@ -91,6 +91,11 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- https://twitter.com/MrHunterBrooks/status/1639373651010109442?s=20
 	- https://github.com/gitstart
 
+## commit msg generation
+
+- https://github.com/di-sukharev/opencommit
+- ai-commit
+
 ### Test generation
 
 Codium - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-and-raised-11m/
