@@ -185,9 +185,10 @@ GPT3 applications:
 
 wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930?s=20&t=2ra2Yfz0NFSbfJ_IGixNjA
 
-### GPT4 Games
+### GPT4 applications
 
 - https://twitter.com/mayfer/status/1638356816836059136?s=20 Turkish Carpet Salesman
+- summary thread https://twitter.com/samuelwoods_/status/1642889718336479233?s=20
 
 
 ## Top GPT3 Prompt Engineering Reads
