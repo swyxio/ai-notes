@@ -128,6 +128,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - on BPE tokenization https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0 see also google sentencepiece and openai tiktoken
 	  - note that BPEs are suboptimal https://www.lesswrong.com/posts/dFbfCLZA4pejckeKc/a-mechanistic-explanation-for-solidgoldmagikarp-like-tokens?commentId=9jNdKscwEWBB4GTCQ
 		  - causes math and string character issues https://news.ycombinator.com/item?id=35363769
+	  - https://platform.openai.com/tokenizer and https://github.com/openai/tiktoken
   - creates its own language https://twitter.com/giannis_daras/status/1531693104821985280
   - img2img https://andys.page/posts/how-to-draw/
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
