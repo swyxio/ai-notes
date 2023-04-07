@@ -57,8 +57,10 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - unmaintained
 	- https://github.com/CodedotAl/gpt-code-clippy
 	- https://github.com/samrawal/emacs-secondmate
-- Introducing Cursor!! ([https://cursor.so](https://t.co/wT5wRe22O2))Cursor IDE https://twitter.com/amanrsanger/status/1615539968772050946
-	- why is this not a vscode extension
+- Code IDEs
+	- Introducing Cursor!! ([https://cursor.so](https://t.co/wT5wRe22O2))Cursor IDE https://twitter.com/amanrsanger/status/1615539968772050946
+		- why is this not a vscode extension?
+	- E2b - from vasek https://github.com/e2b-dev/e2b
 - the pandas extension thing - https://github.com/approximatelabs/sketch 
 	- built on lambdaprompt https://github.com/approximatelabs/lambdaprompt
 - copilot labs
