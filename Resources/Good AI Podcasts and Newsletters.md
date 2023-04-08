@@ -13,6 +13,7 @@
 	- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps
 	- [AI Explained](https://www.youtube.com/@ai-explained-) - news recaps
 	- [The ChatGPT report](https://anchor.fm/ben-meyerhoeffer/episodes/Ep-30-Bard-vs-Bing-e212edr) - 10 minutes on AI news Mondays and Thursdays
+	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (Great hosts)
 - Companies
 	- [Deep Papers](https://www.deeppapers.dev/) - Arize AI/AI Pub - focusing on paper reviews
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host
