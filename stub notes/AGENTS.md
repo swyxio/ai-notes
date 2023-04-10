@@ -21,7 +21,8 @@ self critique works well to fix first shot problems
 
 ## agent 
 
-
+- AutoGPT discord
+	- BabyAGI discord
 - OpenAI WebGPT https://openai.com/blog/webgpt/
 	- The variant is called WebGPT and can ask search queries, follow links, scroll up and down web pages, and prove the sources of the answers it finds.
 	- 3rd party clone https://cut-hardhat-23a.notion.site/code-for-webGPT-44485e5c97bd403ba4e1c2d5197af71d

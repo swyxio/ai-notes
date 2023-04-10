@@ -185,6 +185,21 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 - trivia - 80 dev plugins https://twitter.com/rez0__/status/1639259413553750021?s=20
 - early user demos
 	- https://twitter.com/jenny____ai/status/1641132623849480192?s=20
+- sample code and tooling
+	- https://github.com/transitive-bullshit/chatgpt-plugin-ts
+	- name_for_human
+30 character max
+name_for_model
+50 character max
+description_for_human
+120 character max
+description_for_model
+8000 character max
+Max decreases over time
+API response body length
+100k character limit
+Decreases over time
+Subject to limitations
 
 ### Products
 

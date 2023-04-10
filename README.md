@@ -211,6 +211,10 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Deforum Discord https://discord.gg/upmXXsrwZc
 - Lexica Discord https://discord.com/invite/bMHBjJ9wRh
 - Perplexity Discord https://discord.com/invite/kWJZsxPDuX
+- Chatgpt Hackers https://www.chatgpthackers.dev/
+- Agents
+	- AutoGPT discord
+	- BabyAGI discord
 - Midjourney's discord
   - how to use midjourney v4 https://twitter.com/fabianstelzer/status/1588856386540417024?s=20&t=PlgLuGAEEds9HwfegVRrpg
 - https://stablehorde.net/
