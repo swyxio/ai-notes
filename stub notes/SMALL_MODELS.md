@@ -6,6 +6,7 @@ According to Alex Graveley, one of the creators of Github’s Copilot, there is 
 
 naveen rao https://twitter.com/NaveenGRao/status/1625176665746964480 Smaller models w/ some clever precomputing of results is needed.
 
+
 ## history
 
 - Computer Vision practitioners will remember when [SqueezeNet](https://arxiv.org/abs/1602.07360) came out in 2017, achieving a 50x reduction in model size compared to [AlexNet](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html), while meeting or exceeding its accuracy.
@@ -72,12 +73,17 @@ Our solution is simple, generate a moderately sized corpus of completions made b
 
 - https://xenova.github.io/transformers.js/ 
 
-## small hardware
+## edge/iot/small hardware
 
 - ESP32 https://news.ycombinator.com/item?id=34632571 https://maxlab.io/store/edge-ai-camera/
 - tensorflow lite https://blog.tensorflow.org/2023/02/tensorflow-lite-micro-with-ml-acceleration.html
 - jetson nano
 
+https://overcast.fm/+vScMSR_PE/33:07
+- bandwidth, latency, economics, reliability, privacy
+- tensorflow lite components https://overcast.fm/+vScMSR_PE/45:29
+
 ## companies in the space
 
 - https://neuton.ai/  Make Edge Devices Intelligent - Automatically build extremely tiny models without coding and embed them into any microcontroller.
+- Edge Impulse - Daniel Situy
