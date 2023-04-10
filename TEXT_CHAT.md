@@ -205,6 +205,12 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 	- [http://wa.me/19893946588](http://wa.me/19893946588) from [HN](https://news.ycombinator.com/item?id=35053101)
 - telegram bot https://twitter.com/altryne/status/1598822052760195072
 	- https://github.com/nalgeon/pokitoki
+	- https://github.com/danneu/telegram-chatgpt-bot
+	- https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot 
+		- This is a Telegram bot that uses:
+			-   OpenAI's ChatGPT, obviously, as "the brain"
+			-   [LangchainJS](https://github.com/hwchase17/langchainjs) to constructs prompts, handle convo history and interact with Google
+			-   OpenAI's Whisper API to generate text from voice
   - now with google access https://github.com/altryne/chatGPT-telegram-bot/releases/tag/0.1.0
   - https://twitter.com/m1guelpf/status/1599254528800325632 https://github.com/m1guelpf/chatgpt-telegram
   - https://chatgptontelegram.com/
@@ -217,7 +223,7 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 		- extension https://github.com/mpociot/chatgpt-vscode
 		- qqbot https://twitter.com/danlovesproofs/status/1610073694222848007
 	- neovim https://github.com/dpayne/CodeGPT.nvim
-	- emacs https://github.com/joshcho/ChatGPT.el
+	- emacs https://github.com/joshcho/ChatGPT.el https://github.com/xenodium/chatgpt-shell
 - chrome extension 
   - https://github.com/kazuki-sf/ChatGPT_Extension bringing up as a window
   - https://github.com/wong2/chat-gpt-google-extension sideloading with google

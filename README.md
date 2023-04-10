@@ -97,6 +97,8 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 
 ### Beginner Reads
 
+  - [Bill Gates on AI]([https://www.gatesnotes.com/The-Age-of-AI-Has-Begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
+  - [Steve Yegge on AI for developers](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
   - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
   - google LAMDA intro https://aitestkitchen.withgoogle.com/how-lamda-works
   - DALLE2 prompt writing book http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
@@ -195,6 +197,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 ### other lists like this
 
 - https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d
+- https://github.com/underlines/awesome-marketing-datascience/blob/master/awesome-ai.md#llama-models
 
 ## Communities
 

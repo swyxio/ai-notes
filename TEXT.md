@@ -52,6 +52,9 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 
 - GPT2 as a step towards AGI https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/
 - GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
+
+### Direct GPT alternatives
+
 - Eleuther's [GPT-J-6B](https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/), GPT-NeoX
 - Google 
 	- PaLM 570B
@@ -78,27 +81,32 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
     - instruction-finetuned, leverages Chinchilla scaling laws, and has bells and whistles like 4-bit quantization and bidirectional attention. With 4-bit quantization, the model can run on 1 x 80 GB A100 or a consumer GPU rig.
     - https://twitter.com/MetaAI/status/1605991218953191424
     - underperforms Flan-T5 https://twitter.com/_jasonwei/status/1621333297891790848?s=20
-- LLaMa
-	- https://github.com/facebookresearch/llama
-		- [Paper](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=vopDLpNfG6gAX84qs6h&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDipCb80g49Ksfxrjxiy7mOOl8ZoBO5QScseom5FDM14Q&oe=641984E2)
-		- https://github.com/ggerganov/llama.cpp/
-		- run on cpus https://github.com/facebookresearch/llama/compare/main...markasoftware:llama-cpu:main (its slow)
-		- run on macs https://github.com/remixer-dec/llama-mps
-		- `npx dalai llama` https://cocktailpeanut.github.io/dalai/#/
-		- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
-		- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
-		- outputs are not very good https://news.ycombinator.com/item?id=35258553
-	- 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
-	- simple Llama finetuner https://github.com/lxe/simple-llm-finetuner https://news.ycombinator.com/item?id=35256769 Simple LLaMA Finetuner is a beginner-friendly interface designed to facilitate fine-tuning the LLaMA-7B language model using LoRA method via the PEFT library on commodity NVIDIA GPUs. With small dataset and sample lengths of 256, you can even run this on a regular Colab Tesla T4 instance. With this intuitive UI, you can easily manage your dataset, customize parameters, train, and evaluate the model's inference capabilities.
-		- with LoRA https://replicate.com/blog/fine-tune-alpaca-with-lora
-		- with LLaMA adapter https://twitter.com/rasbt/status/1641457696074334209?s=20 it's not finetuning the whole model end-to-end. Instead, the Adapter-approach adds a small number of 1.2M parameters on top of a pretrained, frozen 7B LLaMA model. Using the same 52K Instruction-following data, responses are comparable to Alpaca, but in contrast to Alpaca, which took 3 hours on 8 A100 to finetune, LLaMA adapters can be finetuned in 1h.
-		- But in short, the difference is that this inserts adapter layers on top of the model. In contrast, LoRA decomposes the model weight matrices using low-rank decomposition. So, LoRA increases finetuning performance by reducing parameter numbers whereas Adapters increases efficiency by keeping the pretrained model frozen (and only tunes a small number of parameters added to the model).
+
+### LLaMa and variants
+
+- https://github.com/facebookresearch/llama
+	- [Paper](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=vopDLpNfG6gAX84qs6h&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDipCb80g49Ksfxrjxiy7mOOl8ZoBO5QScseom5FDM14Q&oe=641984E2)
+	- https://github.com/ggerganov/llama.cpp/
+	- run on cpus https://github.com/facebookresearch/llama/compare/main...markasoftware:llama-cpu:main (its slow)
+	- run on macs https://github.com/remixer-dec/llama-mps
+	- `npx dalai llama` https://cocktailpeanut.github.io/dalai/#/
+	- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
+	- outputs are not very good https://news.ycombinator.com/item?id=35258553
+- llama alternatives
+- 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- simple Llama finetuner https://github.com/lxe/simple-llm-finetuner https://news.ycombinator.com/item?id=35256769 Simple LLaMA Finetuner is a beginner-friendly interface designed to facilitate fine-tuning the LLaMA-7B language model using LoRA method via the PEFT library on commodity NVIDIA GPUs. With small dataset and sample lengths of 256, you can even run this on a regular Colab Tesla T4 instance. With this intuitive UI, you can easily manage your dataset, customize parameters, train, and evaluate the model's inference capabilities.
+	- with LoRA https://replicate.com/blog/fine-tune-alpaca-with-lora
+	- with LLaMA adapter https://twitter.com/rasbt/status/1641457696074334209?s=20 it's not finetuning the whole model end-to-end. Instead, the Adapter-approach adds a small number of 1.2M parameters on top of a pretrained, frozen 7B LLaMA model. Using the same 52K Instruction-following data, responses are comparable to Alpaca, but in contrast to Alpaca, which took 3 hours on 8 A100 to finetune, LLaMA adapters can be finetuned in 1h.
+	- But in short, the difference is that this inserts adapter layers on top of the model. In contrast, LoRA decomposes the model weight matrices using low-rank decomposition. So, LoRA increases finetuning performance by reducing parameter numbers whereas Adapters increases efficiency by keeping the pretrained model frozen (and only tunes a small number of parameters added to the model).
 - Alapaca
 	- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) Locally run an Instruction-Tuned Chat-Style LLM
 	- Alpaca 7B was trained for less than $600. It used OpenAI's model to expand a set of 175 human written instruction/output pairs and generate more than 52,000 instruction-following examples to train their model with. Alpaca is fine-tuned on LLaMA (from Meta), so the from-scratch cost isn't exactly $600, but the effective cost is magnitudes smaller when building on open-source models.
 - Vicuna https://vicuna.lmsys.org/
 	- Alpaca competitor also from stanford 
-	- 
+
+### Other  text models
+
 - Cerebras GPT
 	- runs on 4GB https://twitter.com/simonw/status/1641576453740597248?s=20
 	- not as good https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/

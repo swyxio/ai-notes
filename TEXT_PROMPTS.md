@@ -14,6 +14,12 @@ prompt engineering techniques
 
 - https://github.com/dair-ai/Prompt-Engineering-Guide
 
+## Prompt Tooling
+
+- https://github.com/nat/openplayground
+- [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (for locally run LLMs)
+- 
+
 ## Real Life Prompts
 
 ### System Prompts
