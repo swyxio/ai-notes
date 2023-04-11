@@ -13,6 +13,10 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
   - [Deploying AI Applications on Vercel](https://vercel.com/blog/deploying-ai-applications) Overview and open source templates
   - [LangChain + Pinecone GPT assistant tutorial](https://www.youtube.com/watch?v=15TDwVSpwKc), from PineCone
   - https://github.com/nat/natbot: Drive a browser with GPT-3. [Demo tweet video](https://twitter.com/natfriedman/status/1575631194032549888)
+  - ChatGPT Plugins
+	  - https://replit.com/@bardia/ChatGPT-Todo-Plugin
+	  - https://replit.com/@bardia/ChatGPT-Retrieval-Plugin
+	  - https://github.com/transitive-bullshit/chatgpt-plugin-ts
 - **Tools to explore**
   - **LLM APIs**
     - **OpenAI** needs no introduction. [Cookbook](https://github.com/openai/openai-cookbook/), [Docs](https://platform.openai.com/docs/introduction/overview)
