@@ -39,7 +39,8 @@ https://txt.cohere.ai/future-of-semantic-search-nils-reimers/
 - Phind.com - generative search for developers
 	- https://phind.com/search?q=what+are+the+notable+features+of+the+latest+version+of+typescript%3F
 	- https://news.ycombinator.com/item?id=34884338
-
+- https://grep.help/
+	- Grep is a search engine for your personal network of high-quality websites.
 - Metaphor https://metaphor.systems/
 - https://perplexity.ai Ask
 	- new search interface that uses OpenAI GPT 3.5 and Microsoft Bing to directly answer any question you ask.
