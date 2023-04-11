@@ -68,6 +68,10 @@ Our solution is simple, generate a moderately sized corpus of completions made b
 	- if you’re doing logical reasoning, then you’re going to need at least 1000, 
 	- if you’re doing DSL work then multiple thousands.
 
+## LoRA
+
+Dylora https://news.ycombinator.com/item?id=35514228
+
 
 ## running in browser
 
