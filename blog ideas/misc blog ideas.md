@@ -42,6 +42,9 @@ Researchers estimate that the human brain contains an average of [86 billion ne
 varun 
 - a100 - 3.3k flops
 - fp8 compute - 2 petaflops
+- exascale 
+	- https://www.theguardian.com/technology/2023/mar/15/uk-to-invest-900m-in-supercomputer-in-bid-to-build-own-britgpt?utm_source=substack&utm_medium=email
+	- An exascale computer is one that can carry out more than one billion billion simple calculations a second, a metric known as an “exaflops”. Only one such machine is known to exist, Frontier, which is housed at America’s Oak Ridge National Laboratory and used for scientific research – although supercomputers have such important military applications that it may be the case that others already exist but are not acknowledged by their owners. Frontier, which cost about £500m to produce and came online in 2022, is more than twice as powerful as the next fastest machine.
 - in a 2.5 year span, nvidia has 6x compute 
 - cost of training a bert model is probably down 1-2 orders of magnitude
 - chinchilla - fixed compute budget, hold capability set (emergent - 20b chain of thought)- 
