@@ -9,3 +9,14 @@
 - https://twitter.com/suhail/status/1619745598063931393?s=46&t=ANmVDpni616fhrmmKHrNZA
 - https://txt.cohere.ai/ai-is-eating-the-world/
 	- it’s essential to consider business factors that can help differentiate or boost the adoption of a product beyond its mere software components. One great example is how [Lensa AI's](https://apps.apple.com/us/app/lensa-ai-photo-video-editor/id1436732536?ref=context-by-cohere) existing distribution base (and [engaging influencers](https://twitter.com/PrismaAI/status/1596222847139061761?ref=context-by-cohere)) helped usage explode, resulting in [a reported $8M of revenue in December 2022](https://www.businessofapps.com/data/lensa-ai-statistics/?ref=context-by-cohere). On the text side, [Jasper](https://www.jasper.ai/?ref=context-by-cohere)’s growth engine managed to propel it to a [reported](https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/?ref=context-by-cohere) 2022 revenue of $75 million. [Writer](https://writer.com/?ref=context-by-cohere) points to its domain expertise in style guides and brand tone-of-voice as differentiators against the many AI writing assistants.
+- from allenxcheng
+	- elad on startups vs incumbents https://blog.eladgil.com/p/ai-startup-vs-incumbent-value
+		- previously
+			- **1. Technology created a 0.5-3X better, versus 10X better set of products (?)**
+			- **2. Data differentiation used to be more important (?)**
+			- **3. Hard markets (?)**
+		- now
+			- **  1. Better tech is coming across many areas.**
+			- **2. New tech means there are startups providing valuable infrastructure to the rest of the industry.**
+			- **3. There are clear app use cases without strong incumbents.**
+	- elad on https://blog.eladgil.com/p/defensibility-and-competition
