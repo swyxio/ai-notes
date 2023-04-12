@@ -8,9 +8,9 @@ This Readme is just the high level overview of the space; you should see the mos
 
 - `IMAGE_GEN.md` - the most developed file, with the heaviest emphasis notes on Stable Diffusion, and some on midjourney and dalle.
 	- `IMAGE_PROMPTS.md` - a small [swipe file](https://www.swyx.io/swipe-files-strategy) of good image prompts
-- `TEXT.md` - text generation, mostly with GPT3
+- `TEXT.md` - text generation, mostly with GPT-4
 	- `TEXT_CHAT.md` - information on ChatGPT and competitors, as well as derivative products
-	- `TEXT_SEARCH.md` - information on GPT3 enabled semantic search and other info
+	- `TEXT_SEARCH.md` - information on GPT-4 enabled semantic search and other info
 	- `TEXT_PROMPTS.md` - a small [swipe file](https://www.swyx.io/swipe-files-strategy) of good GPT3 prompts
 - `INFRA.md` - raw notes on AI Infrastructure, Hardware and Scaling
 - `AUDIO.md` - tracking audio/music/voice transcription + generation
