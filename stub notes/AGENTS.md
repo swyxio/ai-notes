@@ -19,6 +19,9 @@ Equips LLM-based agent w/
 self critique works well to fix first shot problems 
 - https://twitter.com/ericjang11/status/1639882111338573824
 
+browser agents
+- hyperwrite personal assistant https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/
+
 ## agent 
 
 - AutoGPT discord

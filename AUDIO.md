@@ -16,6 +16,7 @@
 
 ## Transcription (Speech to Text or ASR)
 
+- https://pypi.org/project/SpeechRecognition/
 - https://github.com/openai/whisper
   - the --initial_prompt CLI arg: For my use, I put a bunch of industry jargon and names that are commonly misspelled in there and that fixes 1/3 to 1/2 of the errors.
   - https://freesubtitles.ai/ (hangs my browser when i try it)
@@ -98,6 +99,8 @@ https://news.ycombinator.com/item?id=33663486
 		- [ https://aws.amazon.com/polly/](https://aws.amazon.com/polly/)
 		- [https://cloud.google.com/text-to-speech](https://cloud.google.com/text-to-speech)
 		- [https://azure.microsoft.com/en-us/products/cognitive-service...](https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech/)
+	- Narakeet
+		- https://twitter.com/jessicard/status/1642867214943412224
 - OSS
 	- pyttsx3  [https://pyttsx3.readthedocs.io/en/latest/engine.html](https://pyttsx3.readthedocs.io/en/latest/engine.html)
 	- https://github.com/lucidrains/audiolm-pytorch Implementation of [AudioLM](https://google-research.github.io/seanet/audiolm/examples/), a Language Modeling Approach to Audio Generation out of Google Research, in Pytorch It also extends the work for conditioning with classifier free guidance with T5. This allows for one to do text-to-audio or TTS, not offered in the paper.
