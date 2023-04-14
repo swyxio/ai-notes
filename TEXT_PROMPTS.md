@@ -35,8 +35,23 @@ authors found `Let's think step by step` quadrupled the accuracy, from 18% to 
  [![zero-shot reasoning example](https://github.com/openai/openai-cookbook/raw/main/images/zero-shot_reasoners_tab5.png)   
 Source: _Large Language Models are Zero-Shot Reasoners_ by Takeshi Kojima et al. (2022).](https://arxiv.org/abs/2205.11916)
 
+### Recursively Criticize and Improve
 
-## self critique prompting
+[arxiv.org/abs/2303.17491](https://t.co/Ec0x86jXb0)
+- -Only needs a few demos per task, rather than thousands 
+- -No task-specific reward function needed
+- https://twitter.com/johnjnay/status/1641786389267185664
+
+## Metaprompting
+
+[Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/pdf/2102.07350.pdf)
+- Q: What are Large Language Models?\n\n"
+- "A good person to answer this question would be[EXPERT]\n\n"
+- expert_name = EXPERT.rstrip(".\n")
+- "For instance,{expert_name} would answer[ANSWER]"
+
+
+## self critique prompting (reflexion)
 
 Reflexion style self critique works well to fix first shot problems 
 - https://twitter.com/ericjang11/status/1639882111338573824
