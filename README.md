@@ -68,6 +68,7 @@ This Readme is just the high level overview of the space; you should see the mos
   -  open source impl: https://github.com/ashawkey/stable-dreamfusion
     - demo https://twitter.com/_akhaliq/status/1578035919403503616
 -  text products
+	- has a list of usecases at the end https://huyenchip.com/2023/04/11/llm-engineering.html
   - Jasper
   - GPT for Obsidian https://reasonabledeviations.com/2023/02/05/gpt-for-second-brain/
   - gpt3 email https://github.com/sw-yx/gpt3-email
@@ -135,7 +136,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - https://platform.openai.com/tokenizer and https://github.com/openai/tiktoken (more up to date: https://tiktokenizer.vercel.app/)
   - creates its own language https://twitter.com/giannis_daras/status/1531693104821985280
   - img2img https://andys.page/posts/how-to-draw/
-  - on language modeling https://lena-voita.github.io/nlp_course/language_modeling.html and approachable but technical explanation of language generation including sampling from distributions
+  - on language modeling https://lena-voita.github.io/nlp_course/language_modeling.html and approachable but technical explanation of language generation including sampling from distributions and some mechanistic intepretability (finding neuron that tracks quote state)
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/
     - https://medium.com/merzazine/prompt-design-for-dall-e-photorealism-emulating-reality-6f478df6f186
   - settings tweaking https://www.reddit.com/r/StableDiffusion/comments/x3k79h/the_feeling_of_discovery_sd_is_like_a_great_proc/

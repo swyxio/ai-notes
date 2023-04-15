@@ -108,3 +108,8 @@ Codium - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-a
 - https://github.com/jbilcke/latent-browser hallucinate by MIME types 
 - https://github.com/TheAppleTucker/backend-GPT backend is all you need
 - https://withsutro.com/ text to app
+
+## alternative languages
+
+- https://github.com/jbrukh/gpt-jargon pseudolanguage
+- https://github.com/eth-sri/lmql 
