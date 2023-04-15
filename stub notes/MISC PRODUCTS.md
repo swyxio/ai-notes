@@ -53,6 +53,11 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 	- copyleaks ai content detector?
 	- futile watermarking https://twitter.com/emollick/status/1641083985148231686?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- hidegpt to hide watermarks https://twitter.com/sohamgovande/status/1641828463584657408
+	- failed at constitution https://www.reddit.com/r/ChatGPT/comments/11ha4qo/gptzero_an_ai_detector_thinks_the_us_constitution/
+- https://www.deeplearning.ai/the-batch/issue-192/#detecting-generated-text-three-methods
+	- watermarking
+	- classification (distilbert)
+	- detectgpt - likelihood of generation
 - scott aaronson at openai watermarking https://twitter.com/jeremyphoward/status/1610932164190949378
 - A Watermark for Large Language Models: arxiv.org/abs/2301.10226
 - originality.ai https://originality.ai/?lmref=KAmPVQ

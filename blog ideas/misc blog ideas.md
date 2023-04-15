@@ -159,6 +159,7 @@ energy
 - another GPT3 estimate 190,000 kWh
 	- https://www.theregister.com/2020/11/04/gpt3_carbon_footprint_estimate/
 	- 85,000 kg of CO2 equivalents, the same amount produced by a new car in Europe driving 700,000 km, or 435,000 miles, which is about twice the distance between Earth and the Moon
+	- https://www.deeplearning.ai/the-batch/issue-192/ In 2022, training BLOOM emitted as much carbon dioxide as an average human would in four years. In 2020, training GPT-3, which is around the same size, emitted more than an average human would in 91 years.
 
 
 Rocket league

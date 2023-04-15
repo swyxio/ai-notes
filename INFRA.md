@@ -26,6 +26,7 @@
 - Data - the 175B parameters model on 300B tokens (60% 2016 - 2019 C4 + 22% WebText2 + 16% Books + 3% Wikipedia). Where: - **https://lifearchitect.ai/chinchilla/ extremely good explanation**
   ![https://s10251.pcdn.co/wp-content/uploads/2022/06/2022-adt-chinchilla-dataset-sizes-table.png](https://s10251.pcdn.co/wp-content/uploads/2022/06/2022-adt-chinchilla-dataset-sizes-table.png) 
   https://twitter.com/srush_nlp/status/1633509903611437058?s=46&t=90xQ8sGy63D2OtiaoGJuww xkcd style tbale with orders if magnitude
+  as opposed to [Kaplan scaling laws](https://arxiv.org/pdf/2001.08361.pdf)
   - the most pessimistic estimate of how much like the most capable organization could get is the 500 billion tokens. A more optimistic estimate is like 10 trillion tokens is how many tokens the most capable organization could get, like mostly English tokens. https://theinsideview.ai/ethan#limits-of-scaling-data
 
 ## Infrastructure
