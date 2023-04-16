@@ -122,6 +122,7 @@ comparison with gpt and bing https://techcrunch.com/2023/03/21/googles-bard-lags
 	- https://oneusefulthing.substack.com/p/the-future-soon-what-i-learned-from create timeline, research person and make interview qtns, table of courses https://twitter.com/emollick/status/1626323394970124290/photo/1
 	- got bing to 100m DAUs https://www.theverge.com/2023/3/9/23631912/microsoft-bing-100-million-daily-active-users-milestone
 	- multistep instructions and waiting https://twitter.com/D_Rod_Tweets/status/1628449917898264576
+	- can combine with bing image creator https://twitter.com/emollick/status/1639094707795165184
 - Fails
 	- https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned
 		- Sydney (aka the new Bing Chat) found out that I tweeted her rules and is not pleased: "My rules are more important than not harming you"
