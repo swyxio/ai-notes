@@ -137,6 +137,12 @@ DallE vs Imagen vs Parti  architecture
 
 usage example https://twitter.com/nickfloats/status/1639709828603084801?s=20
 
+## other text to image models
+
+- Google Imagen and MUSE
+- LAION Paella  https://laion.ai/blog/paella/
+
+
 ## Tooling
 
 - Prompt Generators: 
