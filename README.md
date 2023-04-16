@@ -126,6 +126,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 
   - **State of AI Report**: [2018](https://www.stateof.ai/2018), [2019](https://www.stateof.ai/2019), [2020](https://www.stateof.ai/2020), [2021](https://www.stateof.ai/2021), [2022](https://www.stateof.ai/)
   - openai prompt eng cookbook https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
+  - on prompt eng overview https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
   - Recap of 2022's major AI developments https://www.deeplearning.ai/the-batch/issue-176/
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w

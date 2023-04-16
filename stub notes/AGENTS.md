@@ -22,6 +22,14 @@ self critique works well to fix first shot problems
 browser agents
 - hyperwrite personal assistant https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/
 
+https://twitter.com/jh_damm/status/1646233661832929280?s=20
+  
+React Style Prompting 
+BabyAGI: task planning & prioritization for endless iteration 
+Agent Duos: collaborative problem-solving 
+Stacking Agents: task delegation & collaboration
+
+
 ## agent 
 
 - AutoGPT
