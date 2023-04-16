@@ -159,6 +159,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 - karpathy on transformers
 	- https://twitter.com/karpathy/status/1582807367988654081
 	- Build GPT from scratch https://www.youtube.com/watch?v=kCc8FmEb1nY
+	- different GPT from scratch attempt https://jaykmody.com/blog/gpt-from-scratch/
 - [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 	- Emergent few-shot prompted tasks: BIG-Bench and MMLU benchmarks
 	- Emergent prompting strategies
@@ -351,10 +352,14 @@ This list will be out of date but will get you started. My live list of people t
 - Just Eliezer entire body of work
 	- https://twitter.com/esyudkowsky/status/1625922986590212096
 	- agi list of lethalities https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities
-	- note that eliezer has made controversial comments [in the past](https://twitter.com/johnnysands42/status/1641349759754485760?s=46&t=90xQ8sGy63D2OtiaoGJuww) and also in [recent times](https://twitter.com/lorakolodny/status/1641448759086415875?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- note that eliezer has made controversial comments [in the past](https://twitter.com/johnnysands42/status/1641349759754485760?s=46&t=90xQ8sGy63D2OtiaoGJuww) and also in [recent times](https://twitter.com/lorakolodny/status/1641448759086415875?s=46&t=90xQ8sGy63D2OtiaoGJuww) ([TIME article](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/))
 - Connor Leahy may be a more sane/measured/technically competent version of yud https://overcast.fm/+aYlOEqTJ0
 	- it's not just paperclip factories
 	- https://www.lesswrong.com/posts/HBxe6wdjxK239zajf/what-failure-looks-like
+- the 6 month pause letter
+	- https://futureoflife.org/open-letter/pause-giant-ai-experiments/
+	- yann lecun vs andrew ng https://www.youtube.com/watch?v=BY9KV8uCtj4
+	- https://scottaaronson.blog/?p=7174
 
 ## Misc
 
