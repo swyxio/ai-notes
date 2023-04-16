@@ -78,6 +78,8 @@ Stacking Agents: task delegation & collaboration
 - Langchain Agent
 	- https://twitter.com/nickscamara_/status/1614119040263360512?s=20
 	- https://langchain.readthedocs.io/en/latest/modules/agents/implementations/mrkl.html
+	- langchain agent webinar https://www.crowdcast.io/c/46erbpbz609r
+		- summary https://twitter.com/jh_damm/status/1646233627661828109
 - Fixie AI
 	- https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81?gi=33c317b7b536
 	- [**Fixie.ai**](http://fixie.ai/), a new platform for building, hosting, and scaling Smart Agents that extend the power of Large Language Models with connections to your own data sources, systems, and tools. Think of Fixie like a way of building a ChatGPT-like experience that can be infinitely extended with new capabilities and interfaces to any software system.
