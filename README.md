@@ -125,6 +125,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 ### Intermediate Reads
 
   - **State of AI Report**: [2018](https://www.stateof.ai/2018), [2019](https://www.stateof.ai/2019), [2020](https://www.stateof.ai/2020), [2021](https://www.stateof.ai/2021), [2022](https://www.stateof.ai/)
+  - reverse chronological major events https://bleedingedge.ai/
   - openai prompt eng cookbook https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
   - on prompt eng overview https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
   - Recap of 2022's major AI developments https://www.deeplearning.ai/the-batch/issue-176/
@@ -360,6 +361,12 @@ This list will be out of date but will get you started. My live list of people t
 	- https://futureoflife.org/open-letter/pause-giant-ai-experiments/
 	- yann lecun vs andrew ng https://www.youtube.com/watch?v=BY9KV8uCtj4
 	- https://scottaaronson.blog/?p=7174
+
+### regulation
+
+- chinese regulation https://www.chinalawtranslate.com/en/overview-of-draft-measures-on-generative-ai/
+	- https://twitter.com/mmitchell_ai/status/1647697067006111745?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- italy banning chatgpt
 
 ## Misc
 

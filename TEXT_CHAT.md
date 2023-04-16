@@ -229,8 +229,9 @@ Subject to limitations
   - now with google access https://github.com/altryne/chatGPT-telegram-bot/releases/tag/0.1.0
   - https://twitter.com/m1guelpf/status/1599254528800325632 https://github.com/m1guelpf/chatgpt-telegram
   - https://chatgptontelegram.com/
+- LINE chat app https://twitter.com/yukito_shibuya/status/1631251370933366787
 - Desktop app https://github.com/lencx/ChatGPT
-	- https://github.com/vincelwt/chatgpt-mac This is a simple app that makes ChatGPT live in your menubar.
+	- https://github.com/sw-yx/chatgpt-mac This is a simple app that makes ChatGPT live in your menubar.
 - twitter bot https://github.com/transitive-bullshit/chatgpt-twitter-bot
 - python https://github.com/taranjeet/chatgpt-api
 - nodejs https://github.com/transitive-bullshit/chatgpt-api
