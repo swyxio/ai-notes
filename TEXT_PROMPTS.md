@@ -56,6 +56,7 @@ Source: _Large Language Models are Zero-Shot Reasoners_ by Takeshi Kojima et a
 ## self critique prompting (reflexion)
 
 Reflexion style self critique works well to fix first shot problems 
+- https://nanothoughts.substack.com/p/reflecting-on-reflexion
 - https://twitter.com/ericjang11/status/1639882111338573824
 
 ### halter methods

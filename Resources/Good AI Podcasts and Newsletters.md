@@ -38,6 +38,7 @@
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
 - Aggregators
 	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly
+	- TheSequence https://thesequence.substack.com/about (paid & free)
 	- Ben's Bites https://bensbites.beehiiv.com/
 	- Rachel Woods' The AI Exchange https://theaiexchange.beehiiv.com/
 	- Pete Huang's The Neuron https://www.theneurondaily.com/

@@ -24,8 +24,17 @@ browser agents
 
 ## agent 
 
-- AutoGPT discord
-	- BabyAGI discord
+- AutoGPT
+	- https://twitter.com/karpathy/status/1642598890573819905
+		- Next frontier of prompt engineering imo: "AutoGPTs" . 1 GPT call is just like 1 instruction on a computer. They can be strung together into programs. Use prompt to define I/O device and tool specs, define the cognitive loop, page data in and out of context window, .run().
+		- Interesting non-obvious note on GPT psychology is that unlike people they are completely unaware of their own strengths and limitations. E.g. that they have finite context window. That they can just barely do mental math. That samples can get unlucky and go off the rails. Etc.
+		- (so I'd expect the good prompts to explicitly address things like this)
+- BabyAGI
+	- smallest version https://replit.com/@YoheiNakajima/babyagi?v=1
+	- https://github.com/yoheinakajima/babyagi
+		- https://github.com/yoheinakajima/babyagi/blob/main/inspired_projects.md
+- Microsoft JARVIS https://github.com/microsoft/JARVIS
+	- seems an extension of the hugginggpt
 - OpenAI WebGPT https://openai.com/blog/webgpt/
 	- The variant is called WebGPT and can ask search queries, follow links, scroll up and down web pages, and prove the sources of the answers it finds.
 	- 3rd party clone https://cut-hardhat-23a.notion.site/code-for-webGPT-44485e5c97bd403ba4e1c2d5197af71d

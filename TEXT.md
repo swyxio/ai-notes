@@ -93,7 +93,12 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
 	- outputs are not very good https://news.ycombinator.com/item?id=35258553
-- llama alternatives
+- llama alternatives https://thesequence.substack.com/p/the-llama-effect-how-an-accidental
+	- [Researchers from  UC Berkeley, CMU, Stanford, and UC San Diego open sourced Vicuna](https://vicuna.lmsys.org/), a fine-tuned version of LLama that matches GPT-4 performance.
+	-   [Berkeley AI Research Institute(BAIR) released Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/), a version of LLama fine-tuned using internet dialogs.
+	-   [Nebuly open sourced ChatLLama](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama), a framework for creating conversational assistants using your own data.
+	-   [FreedomGPT is an open source conversational agent](https://freedomgpt.com/) based on Alpaca which is based on LLama.
+	-   [The Colossal-AI project from UC Berkeley released ColossalChat](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b), a ChatGPT type model with a complete RLHF pipeline based on LLama.
 - 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - simple Llama finetuner https://github.com/lxe/simple-llm-finetuner https://news.ycombinator.com/item?id=35256769 Simple LLaMA Finetuner is a beginner-friendly interface designed to facilitate fine-tuning the LLaMA-7B language model using LoRA method via the PEFT library on commodity NVIDIA GPUs. With small dataset and sample lengths of 256, you can even run this on a regular Colab Tesla T4 instance. With this intuitive UI, you can easily manage your dataset, customize parameters, train, and evaluate the model's inference capabilities.
 	- with LoRA https://replicate.com/blog/fine-tune-alpaca-with-lora
