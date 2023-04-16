@@ -230,6 +230,7 @@ Subject to limitations
   - https://twitter.com/m1guelpf/status/1599254528800325632 https://github.com/m1guelpf/chatgpt-telegram
   - https://chatgptontelegram.com/
 - Desktop app https://github.com/lencx/ChatGPT
+	- https://github.com/vincelwt/chatgpt-mac This is a simple app that makes ChatGPT live in your menubar.
 - twitter bot https://github.com/transitive-bullshit/chatgpt-twitter-bot
 - python https://github.com/taranjeet/chatgpt-api
 - nodejs https://github.com/transitive-bullshit/chatgpt-api
