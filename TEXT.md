@@ -81,6 +81,20 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
     - instruction-finetuned, leverages Chinchilla scaling laws, and has bells and whistles like 4-bit quantization and bidirectional attention. With 4-bit quantization, the model can run on 1 x 80 GB A100 or a consumer GPU rig.
     - https://twitter.com/MetaAI/status/1605991218953191424
     - underperforms Flan-T5 https://twitter.com/_jasonwei/status/1621333297891790848?s=20
+- Databricks Dolly
+	- 1.0 https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
+		- A critical step in the creation of Dolly 1.0, or any instruction following LLMs, is to train the model on a dataset of instruction and response pairs. Dolly 1.0 was trained for $30 using a dataset that the Stanford Alpaca team had created using the OpenAI API. That dataset contained output from ChatGPT, and as the Stanford team pointed out, the terms of service seek to prevent anyone from creating a model that competes with OpenAI. So, unfortunately, the answer to this common question was, “probably not!” As far as we know, all the existing well-known instruction-following models ([Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html), [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/), [GPT4All](https://github.com/nomic-ai/gpt4all), [Vicuna](https://vicuna.lmsys.org/)) suffer from this limitation, prohibiting commercial use.
+	- 2.0 https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
+		- We knew from the OpenAI research [paper](https://arxiv.org/pdf/2203.02155.pdf) that the original InstructGPT model was trained on a dataset consisting of 13,000 demonstrations of instruction following behavior
+		- Databricks has over 5,000 employees who are very interested in LLMs. So we thought we could crowdsource among them to create an even higher quality dataset than the 40 labelers had created for OpenAI.
+		- We set up a contest, where the top 20 labelers would get a big award. We also outlined 7 very specific tasks:
+			-   Open Q&A: For instance, “Why do people like comedy movies?” or “What is the capital of France?” In some cases, there’s not a correct answer, and in others, it requires drawing on knowledge of the world at large.
+			-   Closed Q&A: These are questions that can be answered using only the information contained in a passage of reference text. For instance, given a paragraph from Wikipedia on the atom, one might ask, “What is the ratio between protons and neutrons in the nucleus?”
+			-   Extract information from Wikipedia: Here an annotator would copy a paragraph from Wikipedia and extract entities or other factual information such as weights or measurements from the passage.
+			-   Summarize information from Wikipedia: For this, annotators provided a passage from Wikipedia and were asked to distill it to a short summary.
+			-   Brainstorming: This task asked for open-ended ideation and an associated list of possible options. For instance, “What are some fun activities I can do with my friends this weekend?”.
+			-   Classification: For this task, annotators were asked to make judgments about class membership (e.g. are the items in a list animals, minerals or vegetables) or to judge the properties of a short passage of text, such as the sentiment of a movie review.
+			-   Creative writing: This task would include things like writing a poem or a love letter.
 
 ### LLaMa and variants
 
