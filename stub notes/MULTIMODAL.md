@@ -29,3 +29,6 @@ Gato model - 1.2b param model
 https://twitter.com/DrJimFan/status/1634244545360609289
 
 Shameless plug -- our recent model FROMAGe is one step towards enabling existing LLMs to use images as both inputs and outputs: [https://jykoh.com/fromage](https://t.co/LTEqt2kNvi)
+
+Announcing Genmo Chat, a creative copilot that uses GPT-4 and a large suite of generative AI tools to create and then edit any video or image you ask for. ([tweet](https://twitter.com/genmoai/status/1640760678167478274))
+

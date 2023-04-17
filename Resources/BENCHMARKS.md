@@ -383,4 +383,6 @@ https://youtu.be/EzEuylNSn-Q
 - SIQA very easy to get wrong
 - ascii text weird capability
 - not able to do test replacement or guess hours
-- 
+
+information retrieval benchmark
+- https://github.com/beir-cellar/beir

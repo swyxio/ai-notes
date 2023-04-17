@@ -123,6 +123,7 @@ comparison with gpt and bing https://techcrunch.com/2023/03/21/googles-bard-lags
 	- got bing to 100m DAUs https://www.theverge.com/2023/3/9/23631912/microsoft-bing-100-million-daily-active-users-milestone
 	- multistep instructions and waiting https://twitter.com/D_Rod_Tweets/status/1628449917898264576
 	- can combine with bing image creator https://twitter.com/emollick/status/1639094707795165184
+- Bing Chat Ads https://twitter.com/debarghya_das/status/1640892791923572737
 - Fails
 	- https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned
 		- Sydney (aka the new Bing Chat) found out that I tweeted her rules and is not pleased: "My rules are more important than not harming you"
@@ -172,6 +173,8 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 	- (2) topic detection: whether a tweet is about a set of six pre-defined topics (i.e. Section 230, Trump Ban, Complaint, Platform Policies, Twitter Support, and others); 
 	- (3) stance detection: whether a tweet is in favor of, against, or neutral about repealing Section 230 (a piece of US legislation central to content moderation); (
 	1) general frame detection (“frames I”): whether a tweet contains a set of two opposing frames which we call them “problem’ and “solution” frames. 
+- Still needs Chain of thought: https://arxiv.org/abs/2304.03262
+	- simply adding CoT instruction ``Let's think step-by-step'' to each input query of MultiArith dataset, GPT-3's accuracy can be improved from 17.7\% to 78.7\%.
 
 ### Plugins
 
@@ -528,6 +531,7 @@ threads that recap stuff above
 
 ## Misc Competing OSS Chat stuff
 
+- [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 - https://github.com/BlinkDL/ChatRWKV
 - https://dagster.io/blog/chatgpt-langchain
 - UL2 chat 

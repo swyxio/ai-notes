@@ -78,8 +78,10 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - YC
 	- code generation - second.dev https://news.ycombinator.com/item?id=35083093
 - Pygma is used to convert Figma mockups into production-ready code.
-- bloop - AI code search https://news.ycombinator.com/item?id=34892541
-
+- code search
+	- Phind https://news.ycombinator.com/item?id=35543668
+	- bloop - AI code search https://news.ycombinator.com/item?id=34892541
+	- sourcegraph cody
 	stackoverflow.gg https://twitter.com/bentossell/status/1622513022781587456
 - What comes after Copilot? My take: a conversation with your codebase! Introducing Tensai, your repo-level code assistant http://TensaiCode.com - jay hacks
 - Tabby - Self Hosted GitHub Copilot https://news.ycombinator.com/item?id=35470915
@@ -93,6 +95,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- https://www.grit.io/
 	- https://twitter.com/MrHunterBrooks/status/1639373651010109442?s=20
 	- https://github.com/gitstart
+
 
 ## commit msg generation
 

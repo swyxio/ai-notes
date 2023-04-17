@@ -113,6 +113,10 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	-   [Nebuly open sourced ChatLLama](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama), a framework for creating conversational assistants using your own data.
 	-   [FreedomGPT is an open source conversational agent](https://freedomgpt.com/) based on Alpaca which is based on LLama.
 	-   [The Colossal-AI project from UC Berkeley released ColossalChat](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b), a ChatGPT type model with a complete RLHF pipeline based on LLama.
+	- GPT4all 
+		- a 7B param language model finetuned from a curated set of 400k GPT-Turbo-3.5 assistant-style generation. We release! 800k data samples! or anyone to build upon and a model you can run on your laptop! Real-time Sampling on M1 Mac [announcement tweet](https://twitter.com/andriy_mulyar/status/1640836003194630144) Inspired by learnings from Alpaca, we carefully curated ~800k prompt-response samples to produce 430k high-quality assistant-style prompt/generation training pairs including code, dialogue, and stories.
+		- Llama.cpp trained on 800k outputs from ChatGPT-3.5-Turbo Over 10x increase in ChatGPT samples from Alpaca.cpp. Outputs seem much better. + runs on your macbook! [tweet](https://twitter.com/mathemagic1an/status/1640864659631755264)
+		- 
 - 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - simple Llama finetuner https://github.com/lxe/simple-llm-finetuner https://news.ycombinator.com/item?id=35256769 Simple LLaMA Finetuner is a beginner-friendly interface designed to facilitate fine-tuning the LLaMA-7B language model using LoRA method via the PEFT library on commodity NVIDIA GPUs. With small dataset and sample lengths of 256, you can even run this on a regular Colab Tesla T4 instance. With this intuitive UI, you can easily manage your dataset, customize parameters, train, and evaluate the model's inference capabilities.
 	- with LoRA https://replicate.com/blog/fine-tune-alpaca-with-lora
@@ -122,11 +126,13 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) Locally run an Instruction-Tuned Chat-Style LLM
 	- Alpaca 7B was trained for less than $600. It used OpenAI's model to expand a set of 175 human written instruction/output pairs and generate more than 52,000 instruction-following examples to train their model with. Alpaca is fine-tuned on LLaMA (from Meta), so the from-scratch cost isn't exactly $600, but the effective cost is magnitudes smaller when building on open-source models.
 - Vicuna https://vicuna.lmsys.org/
+	- Get the weights: [https://github.com/lm-sys/FastChat/#vicuna-weights…](https://t.co/1OMBfXH0jz) Web UI demo: [https://chat.lmsys.org](https://t.co/Vzs3OFe5O1)
+	- https://twitter.com/lmsysorg/status/1642968294998306816
 	- Alpaca competitor also from stanford 
 
 ### Other  text models
 
-- Cerebras GPT
+- Cerebras GPT https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/
 	- runs on 4GB https://twitter.com/simonw/status/1641576453740597248?s=20
 	- not as good https://www.lunasec.io/docs/blog/cerebras-gpt-vs-llama-ai-model-comparison/
 		- Cerebras isn't as advanced as either LLaMA or ChatGPT (gpt-3.5-turbo). It's a much smaller model at 13B parameters and it's been intentionally "undertrained" relative to the other models. Cerebras is ~6% of the size of GPT-3 and ~25% of the size of LLaMA's full-size, 60B parameter model, and they intentionally limited how long the model was trained in order to reach a "training compute optimal" state.
@@ -168,6 +174,10 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
   - Put together, at least 800x more compute for the pre-trained model.
 - https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned?commentId=AAC8jKeDp6xqsZK2K
 	- This is not ChatGPT. MS has explicitly stated it is more powerful than ChatGPT, but refused to say anything more straightforward like "it's a more trained GPT-3" etc. If it's not a ChatGPT, then what is it? It is more likely than not some sort of GPT-4 model. There are many concrete observations which point towards this: the timing is right as rumors about GPT-4 release have intensified as OA is running up to release and gossip switches to GPT-5 training beginning (eg [Morgan Stanley](https://twitter.com/davidtayar5/status/1625145377547595776) reports GPT-4 is done and GPT-5 has started), MS has said it's a better model named 'Prometheus' & [Nadella pointedly declined to confirm or deny whether it's GPT-4](https://www.theverge.com/23589994/microsoft-ceo-satya-nadella-bing-chatgpt-google-search-ai), scuttlebutt elsewhere is that it's a GPT-4 model of some sort, it does some things much better than ChatGPT,
+
+### gpt4 api
+
+- huggingface access https://twitter.com/yvrjsharma/status/1637402444522045440
 
 ### gpt4 capabilities
 

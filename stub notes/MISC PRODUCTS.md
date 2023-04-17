@@ -14,6 +14,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 
 -  https://detangle.ai/ Detangle gives you AI-generated summaries of your legal docs so you can actually understand them. flopped https://twitter.com/shpigford/status/1610682378040770560?s=46&t=oSlB9-Vj36cKz7uEudTuFQ
 - harvey ai - with allen & overy
+	- https://twitter.com/ai__pub/status/1644735555752853504
 - spellbook https://twitter.com/SpellbookLegal/status/1604955985772269582
 
 
@@ -97,6 +98,7 @@ ai playlists
 - gptindex https://mcminis1.github.io/jekyll/update/2023/01/27/q_and_a_gptindex.html
 - ask kyber https://www.ycombinator.com/launches/I9U-kyber-chatgpt-for-enterprise-support
 	- If anyone is interested in a hosted and managed version of this, let us know! We can do this on top of any set of information already (not just .mdx) and have it exposed either as an API or through production ready Slack and Discord bots
+- supportGPT https://techcrunch.com/2023/03/08/forethought-aims-to-build-more-accurate-chatbots-with-more-constrained-generative-ai-models/
 - supabase clippy https://supabase.com/blog/chatgpt-supabase-docs
 	- $5 for 1800 requests, that is 0.0027 per request, text-davinci-003 price is $0.02/1k token, so the average token number is 135. That is far below my expectation.
 - [https://askcorpora.com](https://askcorpora.com/) It allows users to upload their pdf files and search through them in natural language and perform Q&A. It uses same technology that ClippyGPT used.

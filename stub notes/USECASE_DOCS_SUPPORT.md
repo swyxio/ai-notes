@@ -6,3 +6,5 @@
 - sahil lavignia book author question
 	- https://github.com/slavingia/askmybook
 	- https://m.youtube.com/watch?v=V3RTA9ZbEPw&feature=youtu.be
+- sidekick yc w23
+	- https://news.ycombinator.com/item?id=35184120

@@ -107,6 +107,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
   - https://ourworldindata.org/brief-history-of-ai ai progress overview with nice charts
   - Jon Stokes' [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine)
+  - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/) - maybe [a bit too high level](https://news.ycombinator.com/item?id=35577138)
   - text generation
 	  - humanloop's [prompt engineering 101](https://website-olo3k29b2-humanloopml.vercel.app/blog/prompt-engineering-101)
 	  - Stephen Wolfram's explanations https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
@@ -166,10 +167,16 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	- transformer familyi https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
 		- carmack paper list https://news.ycombinator.com/item?id=34639634
 		- Transformer models: an introduction and catalog https://arxiv.org/abs/2302.07730
+		- Deepmind - formal algorithms for transformers https://arxiv.org/pdf/2207.09238.pdf
+	- Jay Alammar explainers
+		- https://jalammar.github.io/illustrated-transformer/
+		- https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - karpathy on transformers
-	- https://twitter.com/karpathy/status/1582807367988654081
+	- **Convergence**: The ongoing consolidation in AI is incredible. When I started ~decade ago vision, speech, natural language, reinforcement learning, etc. were completely separate; You couldn't read papers across areas - the approaches were completely different, often not even ML based. In 2010s all of these areas started to transition 1) to machine learning and specifically 2) neural nets. The architectures were diverse but at least the papers started to read more similar, all of them utilizing large datasets and optimizing neural nets. But as of approx. last two years, even the neural net architectures across all areas are starting to look identical - a Transformer (definable in ~200 lines of PyTorch [https://github.com/karpathy/minGPT/blob/master/mingpt/model.py…](https://t.co/xQL5NyJkLE)), with very minor differences. Either as a strong baseline or (often) state of the art. ([tweetstorm](https://twitter.com/karpathy/status/1468370605229547522?s=20))
+	- **Why Transformers won**: The Transformer is a magnificient neural network architecture because it is a general-purpose differentiable computer. It is simultaneously: 1) expressive (in the forward pass) 2) optimizable (via backpropagation+gradient descent) 3) efficient (high parallelism compute graph) [tweetstorm](https://twitter.com/karpathy/status/1582807367988654081)
+	- [BabyGPT](https://twitter.com/karpathy/status/1645115622517542913) with two tokens 0/1 and context length of 3, viewing it as a finite state markov chain. It was trained on the sequence "111101111011110" for 50 iterations. The parameters and the architecture of the Transformer modifies the probabilities on the arrows.
 	- Build GPT from scratch https://www.youtube.com/watch?v=kCc8FmEb1nY
-	- different GPT from scratch attempt https://jaykmody.com/blog/gpt-from-scratch/
+	- different GPT from scratch in 60 LOC  https://jaykmody.com/blog/gpt-from-scratch/
 - [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 	- Emergent few-shot prompted tasks: BIG-Bench and MMLU benchmarks
 	- Emergent prompting strategies
@@ -379,6 +386,7 @@ This list will be out of date but will get you started. My live list of people t
 	- https://futureoflife.org/open-letter/pause-giant-ai-experiments/
 	- yann lecun vs andrew ng https://www.youtube.com/watch?v=BY9KV8uCtj4
 	- https://scottaaronson.blog/?p=7174
+	- [emily bender response](https://twitter.com/emilymbender/status/1640920936600997889)
 
 ### regulation
 
