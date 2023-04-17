@@ -28,9 +28,9 @@
 ## Newsletters
 
 - Leaders
-	- Andrew Ng's [The Batch](https://www.deeplearning.ai/the-batch/) VERY GOOD
-	- Jack Clark's [Import AI](https://importai.substack.com/) VERY GOOD
-	- Sebastian Raschka [Ahead of AI](https://magazine.sebastianraschka.com/) great monthly recap
+	- Andrew Ng's [The Batch](https://www.deeplearning.ai/the-batch/)  picks 3 things each week and summarizes approachably
+	- Jack Clark's [Import AI](https://importai.substack.com/) focused more on policy given Jack's role
+	- Sebastian Raschka [Ahead of AI](https://magazine.sebastianraschka.com/) deeply technical recaps
 - Commentators/ML Eng's
 	- Alan Thompson's Life Architect https://lifearchitect.substack.com
 	- Bradley Metrock (Deepgram) https://thisweekinvoice.substack.com/

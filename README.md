@@ -176,15 +176,23 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 		- [Calibration via P(True)](https://arxiv.org/abs/2207.05221)
 		- [Multilingual chain-of-thought](https://arxiv.org/abs/2210.03057)
 		- [Ask-me-anything prompting](https://arxiv.org/abs/2210.02441)
-  - Eugene Yan explanation of the Text to Image stack https://eugeneyan.com/writing/text-to-image/
-  - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
-  - 10 years of Image generation history https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
-  - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
+  - Images
+	  - Eugene Yan explanation of the Text to Image stack https://eugeneyan.com/writing/text-to-image/
+	  - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
+	  - 10 years of Image generation history https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
+	  - Vision Transformers (ViT) Explained https://www.pinecone.io/learn/vision-transformers/
   - negative prompting https://minimaxir.com/2022/11/stable-diffusion-negative-prompt/
   - best papers of 2022 https://www.yitay.net/blog/2022-best-nlp-papers
   - [Predictability and Surprise in Large Generative Models](https://arxiv.org/pdf/2202.07785.pdf) - good survey paper of what we know about scaling and capabilities and rise of LLMs so far
 - more prompt eng papers https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
+- History of Transformers
+	- https://kipp.ly/blog/transformer-taxonomy/ This document is my running literature review for people trying to catch up on AI. It covers 22 models, 11 architectural changes, 7 post-pre-training techniques and 3 training techniques (and 5 things that are none of the above)
+	- https://magazine.sebastianraschka.com/p/understanding-large-language-models 
+	- https://finbarrtimbers.substack.com/p/five-years-of-progress-in-gpts GPT1-3, Megatron, Gopher, Chinchilla, PaLM, LLaMa
+
+
+
 We compared 126 keyword modifiers with the same prompt and initial image. These are the results.
   - https://creator.nightcafe.studio/collection/8dMYgKm1eVXG7z9pV23W
 - Google released PartiPrompts as a benchmark: https://parti.research.google/ "PartiPrompts (P2) is a rich set of over 1600 prompts in English that we release as part of this work. P2 can be used to measure model capabilities across various categories and challenge aspects."

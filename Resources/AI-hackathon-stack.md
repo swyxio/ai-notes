@@ -11,6 +11,7 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
 - **Templates/Example Apps/Tutorials**
   - Browse through all the [HuggingFace Spaces](https://huggingface.co/spaces)
   - [Deploying AI Applications on Vercel](https://vercel.com/blog/deploying-ai-applications) Overview and open source templates
+	  - with [streaming edge functions](https://vercel.com/blog/gpt-3-app-next-js-vercel-edge-functions)
   - [LangChain + Pinecone GPT assistant tutorial](https://www.youtube.com/watch?v=15TDwVSpwKc), from PineCone
   - https://github.com/nat/natbot: Drive a browser with GPT-3. [Demo tweet video](https://twitter.com/natfriedman/status/1575631194032549888)
   - ChatGPT Plugins
