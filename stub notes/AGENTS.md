@@ -37,6 +37,7 @@ Stacking Agents: task delegation & collaboration
 		- Next frontier of prompt engineering imo: "AutoGPTs" . 1 GPT call is just like 1 instruction on a computer. They can be strung together into programs. Use prompt to define I/O device and tool specs, define the cognitive loop, page data in and out of context window, .run().
 		- Interesting non-obvious note on GPT psychology is that unlike people they are completely unaware of their own strengths and limitations. E.g. that they have finite context window. That they can just barely do mental math. That samples can get unlucky and go off the rails. Etc.
 		- (so I'd expect the good prompts to explicitly address things like this)
+	- another variant https://replit.com/@zahid/AutoGPT-An-Autonomous-GPT-4-Experiment with [short demo video](https://twitter.com/LinusEkenstam/status/1646095934177124353)
 - BabyAGI
 	- smallest version https://replit.com/@YoheiNakajima/babyagi?v=1
 	- write up https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/

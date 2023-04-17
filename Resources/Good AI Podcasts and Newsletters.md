@@ -34,7 +34,7 @@ some of these are on youtube too, i dont really bother separating them
 	- Jack Clark's [Import AI](https://importai.substack.com/) focused more on policy given Jack's role
 	- Sebastian Raschka [Ahead of AI](https://magazine.sebastianraschka.com/) deeply technical recaps
 - Commentators/ML Eng's
-	- Alan Thompson's Life Architect https://lifearchitect.substack.com
+	- Alan Thompson's Life Architect https://lifearchitect.substack.com (note [his credentials sus](https://news.ycombinator.com/item?id=35588974))
 	- Bradley Metrock (Deepgram) https://thisweekinvoice.substack.com/
 	- Carlos's Data Machina https://datamachina.substack.com/
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/

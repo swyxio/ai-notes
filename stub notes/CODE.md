@@ -82,6 +82,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 
 	stackoverflow.gg https://twitter.com/bentossell/status/1622513022781587456
 - What comes after Copilot? My take: a conversation with your codebase! Introducing Tensai, your repo-level code assistant http://TensaiCode.com - jay hacks
+- Tabby - Self Hosted GitHub Copilot https://news.ycombinator.com/item?id=35470915
 - codecomplete - ycw23 - copilot for enterprise https://news.ycombinator.com/item?id=35152851
 	- CodeComplete offers an experience similar to Copilot; we serve AI code completions as developers type in their IDEs. However, instead of sending private code snippets to GitHub or OpenAI, we use a self-hosted LLM to serve code completions. Another advantage with self-hosting is that it’s more straightforward to securely fine-tune to the company’s codebase. Copilot suggestions aren’t always tailored to a company’s coding patterns or internal libraries, so this can help make our completions more relevant and avoid adding tech debt.
 - anysphere control.dev - an AI code editor that harnesses the power of GPT-4. It’s a drop-in replacement for VS Code, has context about your closed-source codebase, and it will make you 2x more productive tomorrow.
