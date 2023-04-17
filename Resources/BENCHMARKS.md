@@ -1,6 +1,9 @@
 
 Benchmarks exist between the Data and Models, and are the least obvious/glamorous but most influential to language model development. They're also an area of intense specialization that the amateurs are only just discovering, and we want to shine a spotlight on them. When you see Chinchilla paper or GPT4 paper, they publish their [MMLU and BIG-bench scores](https://towardsdatascience.com/a-new-ai-trend-chinchilla-70b-greatly-outperforms-gpt-3-175b-and-gopher-280b-408b9b4510) and it bears understanding.
 
+easiest way i know to run the benchmarks yourself is https://github.com/EleutherAI/lm-evaluation-harness
+openai evals is promising but doesnt have most of them implemented yet
+
 
 - 1985 [Wordnet](https://en.wikipedia.org/wiki/WordNet)
 	- WordNet was first created in 1985, in English only, in the [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_Science "Cognitive Science") Laboratory of [Princeton University](https://en.wikipedia.org/wiki/Princeton_University "Princeton University") under the direction of [psychology](https://en.wikipedia.org/wiki/Psychology "Psychology") [professor](https://en.wikipedia.org/wiki/Professor "Professor") [George Armitage Miller](https://en.wikipedia.org/wiki/George_Armitage_Miller "George Armitage Miller"). It was later directed by [Christiane Fellbaum](https://en.wikipedia.org/wiki/Christiane_Fellbaum "Christiane Fellbaum").
