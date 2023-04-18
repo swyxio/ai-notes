@@ -1,4 +1,12 @@
 
+## data augmented retrieval
+
+llamaindex
+vs 
+langchain
+
+approaches
+
 ### ways to augment foundation models
 
 - RLHF/Finetuning (ylecun cake analogy)
