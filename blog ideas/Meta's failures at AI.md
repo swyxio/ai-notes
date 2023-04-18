@@ -1,4 +1,4 @@
-## Where is Zuck?
+## 2022 - Where is Zuck?
 
 All this talk of acquisitions and war makes me hungry. Where is the other famously acquisitive big tech CEO? Ben Thompson’s [recent survey of BigTech AI efforts](https://stratechery.com/2023/ai-and-the-big-five/) mostly focused on generative AI for content creators and the Metaverse, but entertainment looks to be far lower value than utility.
 
@@ -24,12 +24,12 @@ swyx 🇸🇬 @swyx
 
 ](https://twitter.com/swyx/status/1613530352865411073)[
 
-8:36 AM ∙ Jan 12, 2023
 
 ---
 
-230Likes29Retweets
+## 2023 Meta AI redemption
 
-
-
-](https://twitter.com/swyx/status/1613530352865411073)
+https://twitter.com/Suhail/status/1648138861888049153
+- https://dinov2.metademolab.com/
+- llama
+- segment anything model
