@@ -1,3 +1,10 @@
+## timeline
+
+- adept fundraising
+- webgpt
+- nov 2022 - [harrison included agents](https://twitter.com/hwchase17/status/1595456660507459585)
+- tool use - react, toolformer, chatgpt plugins
+
 ## React Model
 
 - https://react-lm.github.io and [google blog](https://ai.googleblog.com/2022/11/react-synergizing-reasoning-and-acting.html)
