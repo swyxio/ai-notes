@@ -50,6 +50,9 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 
 <img src="https://pbs.twimg.com/media/FkwdJnEXgAAoteg?format=png&name=small" height=300 />
 
+- history from Knowledge Graphs -> ELMO (LSTMs) -> Transformers -> BERT -> T5
+	- told via [MLST YouTube/Tim Scarfe](https://www.youtube.com/watch?v=N-7rdJK4xlE)
+	- R/CNNs couldnt model long range, very lossy
 - GPT2 as a step towards AGI https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/
 - GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
 
