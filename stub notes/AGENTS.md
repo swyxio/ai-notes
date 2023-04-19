@@ -12,7 +12,7 @@
 	- https://blog.langchain.dev/agent-toolkits/
 	- https://www.geoffreylitt.com/2023/01/29/fun-with-compositional-llms-querying-basketball-stats-with-gpt-3-statmuse-langchain.html
 - Automatic Reasoning & Tool-Use of LLMs
-	- https://mobile.twitter.com/johnjnay/status/1636555772082499584?s=12&t=90xQ8sGy63D2OtiaoGJuww
+	- Retrieves examples of reasoning & tool use from task library -Writes its own program, pauses when tool call is encountered, integrates output -Much better than few-shot prompting [tweet](https://mobile.twitter.com/johnjnay/status/1636555772082499584?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 
 ## other agent paradigms
 
@@ -44,6 +44,7 @@ Stacking Agents: task delegation & collaboration
 		- Next frontier of prompt engineering imo: "AutoGPTs" . 1 GPT call is just like 1 instruction on a computer. They can be strung together into programs. Use prompt to define I/O device and tool specs, define the cognitive loop, page data in and out of context window, .run().
 		- Interesting non-obvious note on GPT psychology is that unlike people they are completely unaware of their own strengths and limitations. E.g. that they have finite context window. That they can just barely do mental math. That samples can get unlucky and go off the rails. Etc.
 		- (so I'd expect the good prompts to explicitly address things like this)
+		- tool list https://github.com/Significant-Gravitas/Auto-GPT/blob/ecf2ba12db11ff19bce359b842f810f0e2d09d6a/autogpt/prompt.py#L47
 	- another variant https://replit.com/@zahid/AutoGPT-An-Autonomous-GPT-4-Experiment with [short demo video](https://twitter.com/LinusEkenstam/status/1646095934177124353)
 - BabyAGI
 	- smallest version https://replit.com/@YoheiNakajima/babyagi?v=1
