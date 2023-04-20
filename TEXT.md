@@ -111,6 +111,9 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
 	- outputs are not very good https://news.ycombinator.com/item?id=35258553
 - llama alternatives https://thesequence.substack.com/p/the-llama-effect-how-an-accidental
+	- Redpajama
+		- https://www.together.xyz/blog/redpajama
+		- https://venturebeat.com/ai/redpajama-replicates-llama-to-build-open-source-state-of-the-art-llms/
 	- [Researchers from  UC Berkeley, CMU, Stanford, and UC San Diego open sourced Vicuna](https://vicuna.lmsys.org/), a fine-tuned version of LLama that matches GPT-4 performance.
 	-   [Berkeley AI Research Institute(BAIR) released Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/), a version of LLama fine-tuned using internet dialogs.
 	-   [Nebuly open sourced ChatLLama](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama), a framework for creating conversational assistants using your own data.
