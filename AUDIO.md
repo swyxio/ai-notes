@@ -48,13 +48,17 @@
   - C-style API
   - a fork of whisper.cpp that uses DirectCompute to run it on GPUs without Cuda on Windows: https://github.com/Const-me/Whisper
 - Whisper.cpp small model is best traadeoff of performance vs accuracy https://blog.lopp.net/open-source-transcription-software-comparisons/
+- Whisper with JAX - 70x faster
+	- https://twitter.com/sanchitgandhi99/status/1649046650793648128?s=20
 - whisper openai api https://twitter.com/calumbirdo/status/1614826199527690240?s=46&t=-lurfKb2OVOpdzSMz0juIw
 - speech separation model https://github.com/openai/whisper/discussions/264#discussioncomment-4706132
 	- https://github.com/miguelvalente/whisperer
  - deep speech https://github.com/mozilla/DeepSpeech
-- Deepgram 80x faster than > Whisper https://news.ycombinator.com/item?id=35367655 - strong endorsement
+- **Deepgram** 80x faster than > Whisper https://news.ycombinator.com/item?id=35367655 - strong endorsement
+	- deepgram Nova model https://twitter.com/DeepgramAI/status/1646558003079057409
 - Assemblyai conformer https://www.assemblyai.com/blog/conformer-1/
 - google has a closed "Universal Speech" model https://sites.research.google/usm/
+- 
 
 https://news.ycombinator.com/item?id=33663486
 -  https://whispermemos.com pressing button on my Lock Screen and getting a perfect transcription in my inbox.
