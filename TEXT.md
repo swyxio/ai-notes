@@ -66,6 +66,12 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 		  - - Flan-T5 checkpoints are publicly available (without requesting access) 
 		  - Flan-T5 11B outperforms OPT-IML on MMLU and Big-Bench Hard, despite being 10x more compute efficient
 		  - https://huggingface.co/docs/transformers/model_doc/flan-t5
+	  - LaMDA
+		  - https://twitter.com/debarghya_das/status/1638356068870033408
+		  - LaMDA [Feb 2022] is a 137B param model trained on 2.81T tokens on 1024 v3 TPUs for 57.7 days. At $3.22/hr (v4 price), that costs ~$4.5M.
+		  - RLAIF - trains its own model to predict scores for candidates based on labeled data on attributes: —Sensibleness —Specificity —Interestingness —Safety
+		  - Accuracy Uses both retrieval-augmented generation and Toolformer techniques. It maintains a toolset (Search, Calculator...) and performs a "Research" task of predicting a toolset and a query for a response. It loops over this response and research phase up to 4 times.
+		  - We know: —Smaller than GPT-3 137B vs 175B params and older: early 2022 —Trained on way more tokes than most (2.8T vs 1.4T) —Does not rely on the model to memorize facts, uses tools like Search —Costs ~$1-4M to train
 - Yandex YaLM 100B https://medium.com/yandex/yandex-publishes-yalm-100b-its-the-largest-gpt-like-neural-network-in-open-source-d1df53d0e9a6
   - It took us 65 days to train the model on a pool of 800 A100 graphics cards and 1.7 TB of online texts, books, and countless other sources.
 - BLOOM 176B
