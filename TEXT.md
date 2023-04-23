@@ -445,3 +445,18 @@ mostly from https://twitter.com/goodside/status/1588247865503010816
 
 - OpenAI NarrativeQA Summarizing books https://openai.com/blog/summarizing-books/
 - GPT2 chess story with shawn presser and gwern https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/
+
+## Karpathy analogies
+
+- https://twitter.com/karpathy/status/1644183721405464576
+- The analogy between GPTs of today to the CPUs of early days of computing are interesting. GPT is a funny kind of programmable text computer. Have to think through it more !
+- Memory 
+	- GPT-4 RAM is ~log2(50K vocab size)*(32K context length)/(8 bits/byte) ~= 64kB, roughly a Commodore64. Just as then, optimizing this precious resource is critical. GPT registers are the residual stream. There are d_model of them, e.g. GPT-3 has ~12K registers. VLIW architecture vibes. 
+- CPU 
+	- The LOAD instruction is the Attention mechanism, except it can address by both location and/or content. 
+	- The STORE instruction is forced every n_layer number of clock cycles. 
+	- The ALU are the MLPs + LayerNorms.
+	- Awkwardly, as their params are not shared across layers, the ALU changes at each clock cycle. 
+	- Optionally the MLPs may also be interpreted as supporting a kind of fixed knowledge database lookup. The programs always takes the form [[LOAD, ALU]*N, STORE]*M, where N is n_layer and M is num_tokens. 
+- Architecture GPT feels closer to a fixed-function than stored-program computer because the number of parameters is so large. In contrast, the description length of a CPU is very low and all the action is in the memory configuration. Another way to look at it is that GPT is a much more bloated/complex computer. Which is fine because it is not engineered but optimized and the upshot is that the programs can be shorter.
+- related: div garg version of software 3.0 https://divgarg.substack.com/p/software-3
