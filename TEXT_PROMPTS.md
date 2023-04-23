@@ -30,6 +30,11 @@ prompt engineering techniques
 
 - Expedia chatgpt plugin prompt https://twitter.com/swyx/status/1639160009635536896
 
+## Prompt Tuning
+
+- https://magazine.sebastianraschka.com/p/finetuning-large-language-models#%C2%A7in-context-learning-and-indexing
+- 
+
 ## chain of thought prompting
 
 [Source: _Chain of Thought Prompting Elicits Reasoning in Large Language Models_ Jason Wei and Denny Zhou et al. (2022)](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html)

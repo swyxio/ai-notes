@@ -204,8 +204,9 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 - History of Transformers
 	- https://kipp.ly/blog/transformer-taxonomy/ This document is my running literature review for people trying to catch up on AI. It covers 22 models, 11 architectural changes, 7 post-pre-training techniques and 3 training techniques (and 5 things that are none of the above)
-	- https://magazine.sebastianraschka.com/p/understanding-large-language-models 
-	- https://finbarrtimbers.substack.com/p/five-years-of-progress-in-gpts GPT1-3, Megatron, Gopher, Chinchilla, PaLM, LLaMa
+	- [Understanding Large Language Models A Cross-Section of the Most Relevant Literature To Get Up to Speed](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+		- giving credit to Bandanau et al (2014), which I believe first proposed the concept of applying a Softmax function over token scores to compute attention, setting the stage for the original transformer by Vaswani et al (2017). https://news.ycombinator.com/item?id=35589756
+	- https://finbarrtimbers.substack.com/p/five-years-of-progress-in-gpts GPT1/2/3, Megatron, Gopher, Chinchilla, PaLM, LLaMa
 	- good summary paper (8 things to know) https://cims.nyu.edu/~sbowman/eightthings.pdf
 
 
