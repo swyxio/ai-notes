@@ -20,3 +20,5 @@
 
 nabla.com https://news.ycombinator.com/item?id=35151881
 latent space demo had the asian guy
+
+martin shkreli https://www.drgupta.ai/ 
