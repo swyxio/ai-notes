@@ -39,7 +39,7 @@ some of these are on youtube too, i dont really bother separating them
 	- Carlos's Data Machina https://datamachina.substack.com/
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
 - Aggregators
-	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly
+	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly (has [chrome extension](https://github.com/labmlai/chrome-extension)) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
 	- TheSequence https://thesequence.substack.com/about (paid & free)
 	- Ben's Bites https://bensbites.beehiiv.com/
 	- Rachel Woods' The AI Exchange https://theaiexchange.beehiiv.com/

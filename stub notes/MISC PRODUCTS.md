@@ -104,6 +104,8 @@ ai playlists
 - [https://askcorpora.com](https://askcorpora.com/) It allows users to upload their pdf files and search through them in natural language and perform Q&A. It uses same technology that ClippyGPT used.
 - https://www.mendable.ai/ used in langchain docs
 
+ETL - https://github.com/ai-sidekick/sidekick - Open source ETL platform for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector database, where they can be easily queried by LLM apps
+
 ## slackbots
 
 - thread https://twitter.com/frantzfries/status/1622271107095986177?s=20

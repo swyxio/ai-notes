@@ -179,6 +179,7 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 ### Plugins
 
 - https://github.com/humanloop/awesome-chatgpt-plugins
+- https://github.com/Jeadie/awesome-chatgpt-plugins
 - https://twitter.com/OfficialLoganK/status/1638952666310103040?s=20
 - https://platform.openai.com/docs/plugins/examples
 - https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/
@@ -217,7 +218,7 @@ Subject to limitations
 		- https://github.com/cogentapps/chat-with-gpt
 		- https://github.com/Niek/chatgpt-web
 		- nextjs starter https://github.com/enricoros/nextjs-chatgpt-app
-		- 
+	- https://www.chatpdf.com/ 
 	- https://github.com/npiv/chatblade cli chatgpt
 	- https://github.com/ejfox/coachartie_discord/blob/master/index.js twitter assistant with memory in supabase
 - whatsapp https://github.com/danielgross/whatsapp-gpt https://twitter.com/danielgross/status/1598735800497119232

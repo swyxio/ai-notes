@@ -173,6 +173,7 @@ TextSynth employs [custom inference code](https://textsynth.com/technology.html
   - optimizatoin https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/
 - related: https://www.wired.com/2017/04/building-ai-chip-saved-google-building-dozen-new-data-centers/
 - transformers won because they were more scalable https://arxiv.org/pdf/2010.11929.pdf
+- Apple Neural Engine Transformers https://github.com/apple/ml-ane-transformers
 
 see also asionometry youtube video
 
