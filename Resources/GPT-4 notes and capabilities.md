@@ -164,3 +164,7 @@
 	- examples
 	- math
 	- pixels is all you need
+- estimated cost
+	- $40m single run https://twitter.com/abacaj/status/1650187242202189824?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- >$100m total
+	- 1tr params but vague rumor
