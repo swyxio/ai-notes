@@ -38,7 +38,7 @@ This Readme is just the high level overview of the space; you should see the mos
 ## Motivational Use Cases
 
 - images
-  - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
+  - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/it
   - [3D MRI synthetic brain images](https://twitter.com/Warvito/status/1570691960792580096?) - [positive reception from neuroimaging statistician](https://twitter.com/danCMDstat/status/1572312699853312000?s=20&t=x-ouUbWA5n0-PxTGZcy2iA)
   - [multiplayer stable diffusion](https://huggingface.co/spaces/huggingface-projects/stable-diffusion-multiplayer?roomid=room-0)
 - video
@@ -203,6 +203,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 - more prompt eng papers https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://creator.nightcafe.studio/vqgan-clip-keyword-modifier-comparison VQGAN+CLIP Keyword Modifier Comparison
 - History of Transformers
+	- richard socher on their contribution to attention mechanism leading up to transformers https://overcast.fm/+r1P4nKfFU/1:00:00
 	- https://kipp.ly/blog/transformer-taxonomy/ This document is my running literature review for people trying to catch up on AI. It covers 22 models, 11 architectural changes, 7 post-pre-training techniques and 3 training techniques (and 5 things that are none of the above)
 	- [Understanding Large Language Models A Cross-Section of the Most Relevant Literature To Get Up to Speed](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 		- giving credit to Bandanau et al (2014), which I believe first proposed the concept of applying a Softmax function over token scores to compute attention, setting the stage for the original transformer by Vaswani et al (2017). https://news.ycombinator.com/item?id=35589756
