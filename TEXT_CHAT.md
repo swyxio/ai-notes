@@ -42,6 +42,7 @@ a subset of the TEXT.md file focused on chat usecases
 	- Aug 2022 - [Meta Blenderbot 3](https://www.blenderbot.ai/) - open sourced https://www.vox.com/platform/amp/future-perfect/23307252/meta-facebook-bad-ai-chatbot-blenderbot  [https://blenderbot.ai/](https://blenderbot.ai/)
 	- Dec 2022 - ChatGPT
 	- jan 2023 - openassistant - chatgpt clone https://youtu.be/QkhPrdJEqgA https://github.com/LAION-AI/Open-Assistant
+		- hosted: https://huggingface.co/chat/
 	- PaLM + RLHF open clone https://techcrunch.com/2022/12/30/theres-now-an-open-source-alternative-to-chatgpt-but-good-luck-running-it/
 		- https://github.com/lucidrains/PaLM-rlhf-pytorch
 		- 
@@ -534,6 +535,8 @@ threads that recap stuff above
 ## Misc Competing OSS Chat stuff
 
 - [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+- HuggingChat - open source AI chat model - openassistant
+	- https://huggingface.co/chat/
 - https://github.com/BlinkDL/ChatRWKV
 - https://dagster.io/blog/chatgpt-langchain
 - UL2 chat 
