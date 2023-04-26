@@ -141,6 +141,7 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 	- Get the weights: [https://github.com/lm-sys/FastChat/#vicuna-weights…](https://t.co/1OMBfXH0jz) Web UI demo: [https://chat.lmsys.org](https://t.co/Vzs3OFe5O1)
 	- https://twitter.com/lmsysorg/status/1642968294998306816
 	- Alpaca competitor also from stanford 
+- _UC Berkeley trained [Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/) using data from ShareGPT_
 
 ### Other  text models
 
