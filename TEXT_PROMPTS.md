@@ -17,6 +17,7 @@ prompt engineering techniques
 	- A cool idea that is between prompting and finetuning is **[prompt tuning](https://arxiv.org/abs/2104.08691)**, introduced by Leister et al. in 2021. Starting with a prompt, instead of changing this prompt, you programmatically change the embedding of this prompt. For prompt tuning to work, you need to be able to input prompts’ embeddings into your LLM model and generate tokens from these embeddings, which currently, can only be done with open-source LLMs and not in OpenAI API. 
 - https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
 - https://wandb.ai/a-sh0ts/langchain_callback_demo/reports/Prompt-Engineering-LLMs-with-LangChain-and-W-B--VmlldzozNjk1NTUw?utm_source=twitter&utm_medium=social&utm_campaign=langchain
+- andrew ng's prompt engineering course with openai https://twitter.com/AndrewYNg/status/1651605660382134274
 
 ## Prompt Tooling
 
