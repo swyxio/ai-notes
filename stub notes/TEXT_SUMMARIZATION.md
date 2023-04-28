@@ -22,3 +22,4 @@
 - gpt3 davinci 2 comparable to humans arxiv.org/abs/2301.13848
 - kagi summarizer https://news.ycombinator.com/item?id=34646389
 	-  [https://github.com/simonebrunozzi/MNMN](https://github.com/simonebrunozzi/MNMN)
+	- https://blog.kagi.com/universal-summarizer

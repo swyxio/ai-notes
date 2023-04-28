@@ -20,3 +20,11 @@
 			- **2. New tech means there are startups providing valuable infrastructure to the rest of the industry.**
 			- **3. There are clear app use cases without strong incumbents.**
 	- elad on https://blog.eladgil.com/p/defensibility-and-competition
+- [discussion of Harvey AI moat](https://news.ycombinator.com/item?id=35735496)
+	- * Prompt Engineering. Give someone a blank textbox and have them type in a simple query (Brown vs Board of Education || Motion to Dismiss), and detect the correct prompt to feed GPT to generate the best results of the end user. You can also prompt on behalf of the user. For example, have a "summary of relevant cases" page and the user doesn't even need to type in a query. Providing GPT with the correct context. Sharing context across team members.
+
+	* Training Data. I think a lot of legal data would be public access, but an ETL pipeline to load documents quickly and completely would be valuable. There's lots of courthouses, so it is non-trival to read it and put it back into the system. You could also acquire non-public training data that could be a moat. Potentially you could establish a data-sharing system with your clients, in which you get access to their data.
+	
+	* Brand recognition. What's Coca-Cola moat when there are dozens of cheaper knock-offs that are competitive in the Pepsi Challenge.
+	
+	* Trust. If a tool helps you do your job, you quickly establish trust. It can be hard for competitors to take that from you with similar products.

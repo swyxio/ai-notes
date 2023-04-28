@@ -147,6 +147,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - note that BPEs are suboptimal https://www.lesswrong.com/posts/dFbfCLZA4pejckeKc/a-mechanistic-explanation-for-solidgoldmagikarp-like-tokens?commentId=9jNdKscwEWBB4GTCQ
 		  - causes math and string character issues https://news.ycombinator.com/item?id=35363769
 	  - https://platform.openai.com/tokenizer and https://github.com/openai/tiktoken (more up to date: https://tiktokenizer.vercel.app/)
+	  - https://observablehq.com/@simonw/gpt-3-token-encoder-decoder
   - creates its own language https://twitter.com/giannis_daras/status/1531693104821985280
   - img2img https://andys.page/posts/how-to-draw/
   - on language modeling https://lena-voita.github.io/nlp_course/language_modeling.html and approachable but technical explanation of language generation including sampling from distributions and some mechanistic intepretability (finding neuron that tracks quote state)
