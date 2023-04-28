@@ -23,7 +23,10 @@ prompt engineering techniques
 
 - https://github.com/nat/openplayground
 - [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) (for locally run LLMs)
-- 
+- [flux.paradigm.xyz](https://t.co/BM1i5Isasv) from [paradigmxyz guys](https://twitter.com/transmissions11/status/1640775967856803840)
+	- Flux allows you to generate multiple completions per prompt in a tree structure and explore the best ones in parallel.
+	- Flux's tree structure lets you: • Get a wider variety of creative responses • Test out different prompts with the same shared context • Use inconsistencies to identify where the model is uncertain
+- humanloop
 
 ## Real Life Prompts
 
