@@ -5,3 +5,8 @@ C4 dataset
 
 contamination
 - John graaham cumming and paulg discussion https://twitter.com/jgrahamc/status/1635688698036596763?s=20
+
+Label errors
+- https://labelerrors.com/
+- https://dcai.csail.mit.edu/
+	- https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5
