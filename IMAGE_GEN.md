@@ -137,6 +137,8 @@ DallE vs Imagen vs Parti  architecture
 
 usage example https://twitter.com/nickfloats/status/1639709828603084801?s=20
 
+Gen1 explainer https://twitter.com/c_valenzuelab/status/1652282840971722754?s=20
+
 ## other text to image models
 
 - Google Imagen and MUSE
