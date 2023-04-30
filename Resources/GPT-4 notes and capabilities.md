@@ -97,6 +97,7 @@
 	- [drug discovery](https://twitter.com/danshipper/status/1635712019549786113) - variants of Dasatinib, Atovaquone ([it's wrong](https://twitter.com/jbittker/status/1635763155895742464?s=20))
 	- [people compatibility matching](https://twitter.com/jakozloski/status/1635778263787110401)
 	- universities dropping [standardized tests](https://twitter.com/pmarca/status/1635693374027231233?s=20)
+	- better at negotiation vs gpt3 https://twitter.com/jbrowder1/status/1652187042334519298?s=20
 
 ## Launch Partners
 
