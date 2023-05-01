@@ -391,6 +391,7 @@ This list will be out of date but will get you started. My live list of people t
 	- yann lecun vs andrew ng https://www.youtube.com/watch?v=BY9KV8uCtj4
 	- https://scottaaronson.blog/?p=7174
 	- [emily bender response](https://twitter.com/emilymbender/status/1640920936600997889)
+	- [Geoffrey Hinton leaving Google](https://news.ycombinator.com/item?id=35771104) 
 
 ### regulation
 
