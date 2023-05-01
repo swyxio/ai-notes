@@ -135,6 +135,7 @@ comparison with gpt and bing https://techcrunch.com/2023/03/21/googles-bard-lags
 	- Gwern on the difference between Sydney and ChatGPT https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned?commentId=AAC8jKeDp6xqsZK2K
 - misc
 	- bing internal prompt trmplating https://twitter.com/studentinfosec/status/1640360234882310145?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- unofficial api https://github.com/acheong08/EdgeGPT
 
 ## BardChat notes
 
