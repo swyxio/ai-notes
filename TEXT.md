@@ -56,6 +56,10 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 - GPT2 as a step towards AGI https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/
 - GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
 
+Model Evolution/Family trees
+- ![https://pbs.twimg.com/media/Fu9JeSxXwAA_72R?format=jpg&name=medium](https://pbs.twimg.com/media/Fu9JeSxXwAA_72R?format=jpg&name=medium) https://twitter.com/OpenMedFuture/status/1652620470355652611/photo/1
+- 
+
 ### Direct GPT alternatives
 
 - Eleuther's [GPT-J-6B](https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/), GPT-NeoX
@@ -106,6 +110,8 @@ GPT3 data https://stanford-cs324.github.io/winter2022/lectures/data/#gpt-3-datas
 			-   Creative writing: This task would include things like writing a poem or a love letter.
 
 ### LLaMa and variants
+
+Brief history: https://agi-sphere.com/llama-models/
 
 - https://github.com/facebookresearch/llama
 	- [Paper](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=vopDLpNfG6gAX84qs6h&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDipCb80g49Ksfxrjxiy7mOOl8ZoBO5QScseom5FDM14Q&oe=641984E2)

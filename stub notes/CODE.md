@@ -25,6 +25,7 @@
 	- https://simonwillison.net/2023/Mar/27/ai-enhanced-development/
 	- geoffrey litt stuff
 - March 2023 - Codium AI - 11m seed - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-and-raised-11m/
+- April 2023 - Replit v1 code 3b announced
 
 ## Known Issues
 
@@ -95,6 +96,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- https://www.grit.io/
 	- https://twitter.com/MrHunterBrooks/status/1639373651010109442?s=20
 	- https://github.com/gitstart
+	- AutoPR, a Github Action that autonomously writes a pull request in response to an issue https://twitter.com/IrgolicR/status/1652451501015457798
 
 
 ## commit msg generation

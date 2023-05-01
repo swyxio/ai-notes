@@ -16,6 +16,18 @@ prompt engineering techniques
 - In [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493) (2021), ​​Scao and Rush found that a prompt is worth approximately 100 examples (caveat: variance across tasks and models is high – see image below). The general trend is that **as you increase the number of examples, finetuning will give better model performance than prompting**. There’s no limit to how many examples you can use to finetune a model.
 	- A cool idea that is between prompting and finetuning is **[prompt tuning](https://arxiv.org/abs/2104.08691)**, introduced by Leister et al. in 2021. Starting with a prompt, instead of changing this prompt, you programmatically change the embedding of this prompt. For prompt tuning to work, you need to be able to input prompts’ embeddings into your LLM model and generate tokens from these embeddings, which currently, can only be done with open-source LLMs and not in OpenAI API. 
 - https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+	- In my opinion, some prompt engineering papers are not worthy 8 pages long, since those tricks can be explained in one or a few sentences and the rest is all about benchmarking.
+	- -   [Basic Prompting](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#basic-prompting)
+	    -   [Zero-Shot](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#zero-shot)
+	    -   [Few-shot](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#few-shot)
+	        -   [Tips for Example Selection](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#tips-for-example-selection)
+	        -   [Tips for Example Ordering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#tips-for-example-ordering)
+	-   [Instruction Prompting](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#instruction-prompting)
+	-   [Self-Consistency Sampling](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#self-consistency-sampling)
+	-   [Chain-of-Thought (CoT)](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#chain-of-thought-cot)
+	    -   [Types of CoT prompts](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#types-of-cot-prompts)
+	    -   [Tips and Extensions](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#tips-and-extensions)
+	-   [Automatic Prompt Design](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#automatic-prompt-design)
 - https://wandb.ai/a-sh0ts/langchain_callback_demo/reports/Prompt-Engineering-LLMs-with-LangChain-and-W-B--VmlldzozNjk1NTUw?utm_source=twitter&utm_medium=social&utm_campaign=langchain
 - andrew ng's prompt engineering course with openai https://twitter.com/AndrewYNg/status/1651605660382134274
 
@@ -33,6 +45,10 @@ prompt engineering techniques
 ### System Prompts
 
 - Expedia chatgpt plugin prompt https://twitter.com/swyx/status/1639160009635536896
+
+### Product Leaked Prompts
+
+- SnapChat MyAI full prompt https://twitter.com/LinusEkenstam/status/1652583731952066564/photo/1
 
 ## Prompt Tuning
 
