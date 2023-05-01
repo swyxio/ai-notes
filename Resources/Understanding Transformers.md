@@ -7,3 +7,18 @@
 	- The speaker highlights the advantages of using transformers and models like Roberta for training models on large-scale unsupervised text data, enabling transfer learning and reduced training time and resources.
 	- Despite being replaced in most areas by transformers, LSTM still has applications in real-time control. 
 	- The speaker also compares word CNN to transformers and observes that transformers can offer contextual answers more efficiently across the entire document.
+- Little Book of Deep Learning ([pdf](https://fleuret.org/public/lbdl.pdf))
+	- The notion of layer
+	- Linear layer
+	- Activation functions
+	- Pooling
+	- Dropout
+	- Normalizing layers
+	- Skip connections
+	- Attention layers
+	- Token embedding
+	- Positional encoding
+	- Architectures
+	- Multi-Layer Perceptrons
+	- Convolutional networks
+	- Attention models
