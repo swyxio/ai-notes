@@ -1,4 +1,8 @@
 
+2017 paper
+- https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html?m=1
+
+
 -  LSTM is dead. Long Live Transformers! ([talk](https://www.youtube.com/watch?v=S27pHKBEp30))
 	-  the evolution of natural language processing (NLP) techniques, starting with the limitations of bag-of-words models and vanilla recurrent neural networks (RNNs), which suffer from vanishing and exploding gradients. 
 	- The introduction of long short-term memory (LSTM) resolved these issues but was still challenging to train and lacked transfer learning abilities, leading to the development of the transformer model. 
