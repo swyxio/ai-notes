@@ -99,17 +99,18 @@ This category is for **infra and tools** catering to AI app developers, in contr
   - **Serverless GPUs**
     - https://exafunction.com/ Exafunction optimizes your deep learning inference workload, delivering up to a 10x improvement in resource utilization and cost.
     - https://www.banana.dev/ Scale your machine learning inference and training on serverless GPUs.
-    - https://brev.dev/ The simplest way to create a dev environment with a GPU. Don't worry about dependencies, CUDA, SSH, or anything else. Up to 94% cheaper GPUs than AWS. For example: here's a guide to get a GPU dev environment to train your own Dreambooth model in ~4 min 🤙
-https://brev.dev/docs/guides/dreambooth
-    - https://lambdalabs.com/ GPU cloud built for deep learning
-Instant access to the best prices for cloud GPUs on the market. No commitments or negotiations required. Save over 73% vs AWS, Azure, and GCP. Configured for deep learning with PyTorch®, TensorFlow, Jupyter
+    - https://brev.dev/ The simplest way to create a dev environment with a GPU. Don't worry about dependencies, CUDA, SSH, or anything else. Up to 94% cheaper GPUs than AWS. For example: here's a guide to get a GPU dev environment to train your own Dreambooth model in ~4 min 🤙 https://brev.dev/docs/guides/dreambooth
+    - https://lambdalabs.com/ GPU cloud built for deep learning. Instant access to the best prices for cloud GPUs on the market. No commitments or negotiations required. Save over 73% vs AWS, Azure, and GCP. Configured for deep learning with PyTorch®, TensorFlow, Jupyter
     - https://www.paperspace.com/ Paperspace provides tooling for training and serving, with serverless GPUs, development environments, and workflow management systems.
+    - More serverless discussions: https://news.ycombinator.com/item?id=34742087
     - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
   - **Model Serving**
     - https://www.baseten.co/ Serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
     - https://replicate.com/ Run models in the cloud at scale.
-    - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot)
+    - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot), [BERT in 34 lines of code](https://news.ycombinator.com/item?id=35792481)
     - https://www.steamship.com/ Managed Backend for AI services [LangChain example](https://www.steamship.com/build/langchain-apps)
+    - [https://www.coreweave.com/](https://www.coreweave.com/)
+    - vast.ai
     - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
     - _Seeking: tutorials for serving Whisper, other LLMs_
   - **Fine-tuning**
