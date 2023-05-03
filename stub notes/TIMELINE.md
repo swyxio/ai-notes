@@ -11,3 +11,8 @@ https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
 - https://multimodal.art/news/1-week-of-stable-diffusion
 
 [![https://pbs.twimg.com/media/FjWOspWXoAIHDGM?format=png&name=900x900](https://pbs.twimg.com/media/FjWOspWXoAIHDGM?format=png&name=900x900)](https://twitter.com/nabeelqu/status/1600345086683774977?s=20)
+
+![https://ourworldindata.org/uploads/2022/12/Timeline-of-AI-generated-faces.png](https://ourworldindata.org/uploads/2022/12/Timeline-of-AI-generated-faces.png)
+
+https://ourworldindata.org/brief-history-of-ai
+![https://ourworldindata.org/uploads/2022/12/ai-training-computation-3.png](https://ourworldindata.org/uploads/2022/12/ai-training-computation-3.png)
