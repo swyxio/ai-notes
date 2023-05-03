@@ -2,6 +2,8 @@ Brain Computer Interfaces
 - mind-vis 
 	- Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding https://mind-vis.github.io/
 - https://twitter.com/willettneuro/status/1617245600898248704?s=46&t=ZSeI0ovGBee8JBeXEe20Mg
+- https://twitter.com/blader/status/1653227100030255106/photo/1
+	- in a new peer reviewed paper published in nature, researchers reliably recovered actual thoughts by combining fmri data with gpt synthesis.
 
 ## after transformers
 

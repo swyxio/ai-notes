@@ -64,6 +64,8 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- E2b - from vasek https://github.com/e2b-dev/e2b
 - the pandas extension thing - https://github.com/approximatelabs/sketch 
 	- built on lambdaprompt https://github.com/approximatelabs/lambdaprompt
+	- pandas dataframe chat https://github.com/gventuri/pandas-ai
+	- prefectio marvin ai
 - copilot labs
 	- https://redmonk.com/jgovernor/2023/01/06/the-future-just-happened-developer-experience-and-ai-are-now-inextricably-linked/
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds

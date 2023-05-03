@@ -98,6 +98,8 @@
 	- [people compatibility matching](https://twitter.com/jakozloski/status/1635778263787110401)
 	- universities dropping [standardized tests](https://twitter.com/pmarca/status/1635693374027231233?s=20)
 	- better at negotiation vs gpt3 https://twitter.com/jbrowder1/status/1652187042334519298?s=20
+	- [Causal Reasoning](https://twitter.com/amt_shrma/status/1653457971844874240) 
+		- GPT4 achieves new SoTA on a wide range of causal tasks: graph discovery (97%, 13 pts gain), counterfactual reasoning (92%, 20 pts gain) & actual causality.
 
 ## Launch Partners
 

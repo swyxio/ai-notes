@@ -51,6 +51,7 @@ Stacking Agents: task delegation & collaboration
 	- write up https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/
 	- https://github.com/yoheinakajima/babyagi
 		- https://github.com/yoheinakajima/babyagi/blob/main/inspired_projects.md
+	- UI https://github.com/miurla/babyagi-ui
 - Microsoft JARVIS https://github.com/microsoft/JARVIS
 	- seems an extension of the hugginggpt
 - OpenAI WebGPT https://openai.com/blog/webgpt/
