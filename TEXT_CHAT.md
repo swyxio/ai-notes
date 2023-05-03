@@ -217,7 +217,10 @@ Subject to limitations
 		- mckay wrigley chabot-ui https://t.co/QkP2zMi2FL
 		- open [https://github.com/Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt)
 		- https://www.chatwithme.chat/tutorial https://github.com/kierangilliam/chatwithme.chat
-		- https://github.com/cogentapps/chat-with-gpt
+		- https://github.com/cogentapps/chat-with-gpt with voice synthesis
+		- https://github.com/lencx/ChatGPT
+			- from https://github.com/f/awesome-chatgpt-prompts
+			- now https://github.com/lencx/nofwl
 		- https://github.com/Niek/chatgpt-web
 		- nextjs starter https://github.com/enricoros/nextjs-chatgpt-app
 	- https://www.chatpdf.com/ 

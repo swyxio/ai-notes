@@ -45,6 +45,9 @@ prompt engineering techniques
 ### System Prompts
 
 - Expedia chatgpt plugin prompt https://twitter.com/swyx/status/1639160009635536896
+- AI Tutoring Prompt https://twitter.com/SullyOmarr/status/1653159933079359488?s=20
+	- https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
+- github.com/f/awesome-chatgpt-prompts
 
 ### Product Leaked Prompts
 

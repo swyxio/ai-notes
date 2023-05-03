@@ -75,6 +75,7 @@ https://news.ycombinator.com/item?id=33663486
 
 ### Products
 
+- productized whisper https://goodsnooze.gumroad.com/l/macwhisper
 - other speech to text apis
 	- rev.com
 	- https://text-generator.io/blog/cost-effective-speech-to-text-api
