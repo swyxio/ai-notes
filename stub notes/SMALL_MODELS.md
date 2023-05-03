@@ -6,6 +6,10 @@ According to Alex Graveley, one of the creators of Github’s Copilot, there is 
 
 naveen rao https://twitter.com/NaveenGRao/status/1625176665746964480 Smaller models w/ some clever precomputing of results is needed.
 
+## sparse models
+
+https://changelog.com/practicalai/221
+
 
 ## history
 
