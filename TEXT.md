@@ -144,6 +144,7 @@ Brief history: https://agi-sphere.com/llama-models/
 	- But in short, the difference is that this inserts adapter layers on top of the model. In contrast, LoRA decomposes the model weight matrices using low-rank decomposition. So, LoRA increases finetuning performance by reducing parameter numbers whereas Adapters increases efficiency by keeping the pretrained model frozen (and only tunes a small number of parameters added to the model).
 - Alapaca
 	- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) Locally run an Instruction-Tuned Chat-Style LLM
+	- https://simonwillison.net/2023/Mar/13/alpaca/
 	- Alpaca 7B was trained for less than $600. It used OpenAI's model to expand a set of 175 human written instruction/output pairs and generate more than 52,000 instruction-following examples to train their model with. Alpaca is fine-tuned on LLaMA (from Meta), so the from-scratch cost isn't exactly $600, but the effective cost is magnitudes smaller when building on open-source models.
 - Vicuna https://vicuna.lmsys.org/
 	- Get the weights: [https://github.com/lm-sys/FastChat/#vicuna-weights…](https://t.co/1OMBfXH0jz) Web UI demo: [https://chat.lmsys.org](https://t.co/Vzs3OFe5O1)
