@@ -21,6 +21,11 @@ FLAN
 text to sql
 - https://yale-lily.github.io/spider
 
+BigCode dataset
+
+![https://techcrunch.com/wp-content/uploads/2023/05/FgFIaxXakAExwHY.jpg](https://techcrunch.com/wp-content/uploads/2023/05/FgFIaxXakAExwHY.jpg) https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/?guccounter=1
+
+
 ## data issues
 
 

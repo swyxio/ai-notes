@@ -26,6 +26,7 @@
 	- geoffrey litt stuff
 - March 2023 - Codium AI - 11m seed - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-and-raised-11m/
 - April 2023 - Replit v1 code 3b announced
+- May 2023 - Huggingface/ServiceNow Starcoder https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/?guccounter=1
 
 ## Known Issues
 

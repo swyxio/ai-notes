@@ -210,3 +210,5 @@ general consensus is that it's just not very good right now
 - https://arxiv.org/abs/2301.12662 singsong voice generation
 - small demo apps
 	- beatbot.fm https://news.ycombinator.com/item?id=34994444
+- sovitz svc - taylor swift etc voice synth
+	- https://www.vulture.com/article/ai-singers-drake-the-weeknd-voice-clones.html
