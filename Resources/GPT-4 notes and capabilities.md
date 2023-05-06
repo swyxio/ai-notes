@@ -89,6 +89,8 @@
 	- can just pull in entire wikipedia articles - [eg Rihanna](https://twitter.com/omarsar0/status/1635690756177379328?s=20)
 	- showed comparing articles - gpt4 article vs pynecone article
 	- showed [pasting in 10k words](https://www.youtube.com/live/outcGtbnMuQ?feature=share&t=841) of the discord docs, poorly formatted
+	- 32k tokens will cost $2
+	- https://github.com/mpoon/gpt-repository-loader
 - pricing
 	- 12c - "[i think most people will turn out to prefer $2 per thousand *extremely smart* tokens](https://twitter.com/sama/status/1631153581100527616)"
 	- prompt tokens, completion tokens - [jon stokes](https://www.jonstokes.com/p/the-chat-stack-gpt-4-and-the-near)
