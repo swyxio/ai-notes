@@ -212,3 +212,14 @@ general consensus is that it's just not very good right now
 	- beatbot.fm https://news.ycombinator.com/item?id=34994444
 - sovitz svc - taylor swift etc voice synth
 	- https://www.vulture.com/article/ai-singers-drake-the-weeknd-voice-clones.html
+
+## misc
+
+- audio datasets
+	- https://github.com/LAION-AI/audio-dataset/blob/main/data_collection/README.md
+	- https://www.audiocontentanalysis.org/datasets
+	- https://huggingface.co/datasets/Hyeon2/riffusion-musiccaps-dataset/viewer/Hyeon2--riffusion-musiccaps-dataset/train
+- audio formats
+	- https://github.com/search?q=repo%3Asupercollider%2Fsupercollider++language%3ASuperCollider&type=code
+	- https://github.com/search?q=repo%3Agrame-cncm%2Ffaust++language%3AFaust&type=code
+	- https://github.com/search?q=repo%3Acsound%2Fcsound++language%3A%22Csound+Document%22&type=code
