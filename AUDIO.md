@@ -92,6 +92,7 @@ https://news.ycombinator.com/item?id=33663486
 	- https://twitter.com/JavaFXpert/status/1617296705975906306?s=20
 - speech to text on the edge https://twitter.com/michaelaubry/status/1635966225628164096?s=20 with arduino nicla voice
 - assemblyai conformer-1 https://www.assemblyai.com/blog/conformer-1/
+	- https://replit.com/@assemblyai/Speech-To-Text-Example?v=1#main.py
 
 ## Text to Speech
 

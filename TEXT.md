@@ -116,7 +116,6 @@ Brief history: https://agi-sphere.com/llama-models/
 	- GPT4all 
 		- a 7B param language model finetuned from a curated set of 400k GPT-Turbo-3.5 assistant-style generation. We release! 800k data samples! or anyone to build upon and a model you can run on your laptop! Real-time Sampling on M1 Mac [announcement tweet](https://twitter.com/andriy_mulyar/status/1640836003194630144) Inspired by learnings from Alpaca, we carefully curated ~800k prompt-response samples to produce 430k high-quality assistant-style prompt/generation training pairs including code, dialogue, and stories.
 		- Llama.cpp trained on 800k outputs from ChatGPT-3.5-Turbo Over 10x increase in ChatGPT samples from Alpaca.cpp. Outputs seem much better. + runs on your macbook! [tweet](https://twitter.com/mathemagic1an/status/1640864659631755264)
-		- 
 - 65B outputs https://twitter.com/theshawwn/status/1632569215348531201?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - simple Llama finetuner https://github.com/lxe/simple-llm-finetuner https://news.ycombinator.com/item?id=35256769 Simple LLaMA Finetuner is a beginner-friendly interface designed to facilitate fine-tuning the LLaMA-7B language model using LoRA method via the PEFT library on commodity NVIDIA GPUs. With small dataset and sample lengths of 256, you can even run this on a regular Colab Tesla T4 instance. With this intuitive UI, you can easily manage your dataset, customize parameters, train, and evaluate the model's inference capabilities.
 	- with LoRA https://replicate.com/blog/fine-tune-alpaca-with-lora
@@ -126,6 +125,10 @@ Brief history: https://agi-sphere.com/llama-models/
 	- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) Locally run an Instruction-Tuned Chat-Style LLM
 	- https://simonwillison.net/2023/Mar/13/alpaca/
 	- Alpaca 7B was trained for less than $600. It used OpenAI's model to expand a set of 175 human written instruction/output pairs and generate more than 52,000 instruction-following examples to train their model with. Alpaca is fine-tuned on LLaMA (from Meta), so the from-scratch cost isn't exactly $600, but the effective cost is magnitudes smaller when building on open-source models.
+	-  [**Alpaca**](https://crfm.stanford.edu/2023/03/13/alpaca.html): A strong instruction following LLM using LLAMA 
+	-  [**Alpaca-LoRa**](https://github.com/tloen/alpaca-lora): Code for reproducing Alpaca using low-rank adaptation.
+- [**Open-Assistant**](https://github.com/LAION-AI/Open-Assistant): OA also has done instruction fine-tuning + RLHF on LLAMA and Pythia models.
+- [**Colossal AI**](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-5edf08fb538b)**:** a ChatGPT-type model with a complete RLHF pipeline based on LLama.
 - Vicuna https://vicuna.lmsys.org/
 	- Get the weights: [https://github.com/lm-sys/FastChat/#vicuna-weights…](https://t.co/1OMBfXH0jz) Web UI demo: [https://chat.lmsys.org](https://t.co/Vzs3OFe5O1)
 	- https://twitter.com/lmsysorg/status/1642968294998306816

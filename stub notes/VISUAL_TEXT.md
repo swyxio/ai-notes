@@ -2,6 +2,8 @@
 	- https://muse-model.github.io/
 	- https://www.reddit.com/r/StableDiffusion/comments/1022mif/muse_from_google_research_3b_parameter_text_to/
 - Deepfloyd IF
+	- https://stability.ai/blog/deepfloyd-if-text-to-image-model
+	- https://huggingface.co/spaces/DeepFloyd/IF
 
 previous process for this
 - laion erlich https://replicate.com/laion-ai/erlich/examples
