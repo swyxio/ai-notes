@@ -12,6 +12,7 @@ some of these are on youtube too, i dont really bother separating them
 	- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk) (Tim Scarfe) - great backlog of safety/philosophy researcher interviews
 	- [The Inside View](https://theinsideview.ai/) (Michael Trazzi) - safety researcher interviews. infrequent.
 - News/Youtubers
+	- [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
 	- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps
 	- [AI Explained](https://www.youtube.com/@ai-explained-) - news recaps
 	- [The ChatGPT report](https://anchor.fm/ben-meyerhoeffer/episodes/Ep-30-Bard-vs-Bing-e212edr) - 10 minutes on AI news Mondays and Thursdays
