@@ -24,6 +24,8 @@ hugging gpt - chatgpt coordinating between huggingface models https://arxiv.org/
 
 https://text-generator.io/blog/embed-images-text-and-code Embed Images, Text and Code in the same space
 
+https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research The new ImageBind model combines text, audio, visual, movement, thermal, and depth data.
+
 
 Gato model - 1.2b param model
 
