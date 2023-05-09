@@ -193,6 +193,9 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 		- [Calibration via P(True)](https://arxiv.org/abs/2207.05221)
 		- [Multilingual chain-of-thought](https://arxiv.org/abs/2210.03057)
 		- [Ask-me-anything prompting](https://arxiv.org/abs/2210.02441)
+	- some pushback - are they a mirage? just dont use harsh metrics
+		- https://www.jasonwei.net/blog/common-arguments-regarding-emergent-abilities
+		- https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage
   - Images
 	  - Eugene Yan explanation of the Text to Image stack https://eugeneyan.com/writing/text-to-image/
 	  - VQGAN/CLIP https://minimaxir.com/2021/08/vqgan-clip/
