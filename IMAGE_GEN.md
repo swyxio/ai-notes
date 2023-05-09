@@ -209,6 +209,7 @@ Misc
         - https://avatarai.me/
         - https://www.astria.ai/ (formerly https://www.strmr.com/)
         - https://twitter.com/rohanarora_/status/1580413809516511232?s=20&t=XxjfadtkVM8TOvg5EYFCrw
+	- now you need LORA https://github.com/cloneofsimo/lora
   - [very good BLOOM model overview](https://www.youtube.com/watch?v=3EjtHs_lXnk)
 
 ## Products
@@ -525,6 +526,7 @@ See https://github.com/sw-yx/prompt-eng/blob/main/PROMPTS.md for more details an
 How to finetune
 - https://lambdalabs.com/blog/how-to-fine-tune-stable-diffusion-how-we-made-the-text-to-pokemon-model-at-lambda
 
+Now LORA https://github.com/cloneofsimo/lora
 
 Stable Diffusion + Midjourney
 - https://www.reddit.com/r/StableDiffusion/comments/z622mp/comment/ixyy2qz/?utm_source=share&utm_medium=web2x&context=3

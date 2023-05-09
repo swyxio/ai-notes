@@ -38,7 +38,8 @@ see [[Datasets]]
 
 Model Evolution/Family trees
 - ![https://pbs.twimg.com/media/Fu9JeSxXwAA_72R?format=jpg&name=medium](https://pbs.twimg.com/media/Fu9JeSxXwAA_72R?format=jpg&name=medium) https://twitter.com/OpenMedFuture/status/1652620470355652611/photo/1
-- 
+- https://github.com/stanford-crfm/ecosystem-graphs/ CFRM Ecosystem Graphs
+- https://ai.v-gar.de/ml/transformer/timeline/ This is a collection of important papers in the area of Large Language Models and Transformer Models. It focuses on recent development, especially from mid-2022 onwards, and in no way claims to be exhaustive. It is actively updated.
 
 ### Direct GPT alternatives
 
