@@ -1,4 +1,9 @@
 
+## alibi and the context of infinity
+
+gpt4 demo
+anthropic https://news.ycombinator.com/item?id=35904773
+
 ## data augmented retrieval
 
 llamaindex
