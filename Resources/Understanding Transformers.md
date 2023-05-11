@@ -26,3 +26,4 @@
 	- Multi-Layer Perceptrons
 	- Convolutional networks
 	- Attention models
+- Reminder that my deep learning course [@unige_en](https://twitter.com/unige_en)is entirely available on-line. 1000+ slides, ~20h of screen-casts. [https://fleuret.org/dlc/](https://t.co/6OVyjPdwrC)

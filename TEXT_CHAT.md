@@ -107,6 +107,13 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 
 comparison with gpt and bing https://techcrunch.com/2023/03/21/googles-bard-lags-behind-gpt-4-and-claude-in-head-to-head-comparison/
 
+### 100k token context
+
+- https://www.anthropic.com/index/100k-context-windows
+- https://www.youtube.com/watch?v=2kFhloXz5_E
+- problems
+	- https://twitter.com/mattshumer_/status/1656781729485529089?s=20
+
 ## BingChat notes
 
 - satya presentation https://twitter.com/petergyang/status/1623328335161090049?s=20

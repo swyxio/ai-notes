@@ -12,6 +12,9 @@ langchain
 
 approaches
 
+https://arxiv.org/abs/2005.11401
+Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+
 ### ways to augment foundation models
 
 - RLHF/Finetuning (ylecun cake analogy)
