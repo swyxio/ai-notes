@@ -25,3 +25,8 @@
 ## Prompt Hardening
 
 - https://www.reddit.com/r/OpenAI/comments/1210402/prompt_hardening/
+
+## product
+
+- https://www.lakera.ai/llms
+	- https://gandalf.lakera.ai/
