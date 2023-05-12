@@ -148,8 +148,6 @@ Brief history: https://agi-sphere.com/llama-models/
 	- dolly-v1-6b is a 6 billion parameter causal language model created by Databricks that is derived from EleutherAI’s GPT-J (released June 2021) and fine-tuned on a ~52K record instruction corpus (Stanford Alpaca) consisting of question/answer pairs generated using the techniques outlined in the Self-Instruct paper. Dolly was trained using deepspeed ZeRO 3 on the Databricks Machine Learning Platform in just 30 minutes using a single NDasrA100_v4 machine with 8x A100 40GB GPUs.
 - Nomic AI GPT4All
 	- https://twitter.com/AlphaSignalAI/status/1640873710717468674
-	- 
-
 - FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
 - GPT-JT for classification
   - https://news.ycombinator.com/item?id=33796158
