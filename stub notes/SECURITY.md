@@ -26,6 +26,18 @@
 
 - https://www.reddit.com/r/OpenAI/comments/1210402/prompt_hardening/
 
+## Red Teaming
+
+https://royapakzad.substack.com/p/old-advocacy-new-algorithms
+-   OpenAI worked with red teamers to test its GPT-4 and [identified](https://cdn.openai.com/papers/gpt-4-system-card.pdf) the following risks: fabricated facts (“hallucinations”); representation-related harms; biased and stereotypical responses with respect to gender, race, nationality, etc.; disinformation and influence operations; privacy and cybersecurity; overconfidence in the model response; and overreliance. For example, in my own work with OpenAI, I was asked to use my domain-specific knowledge to identify hidden risks and biases in the system such as racial, gender, and religious stereotypes, to assess the model's perception of beauty standards and traits such as open-mindedness and intelligence, and to better understand its position on human rights movements. I, along with other GPT-4 red teamers, spoke about the process in an interview that [appeared in](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8?accessToken=zwAAAYgEOyzBkc8Idmh6-LdLOdO1E1_ulCgx6A.MEYCIQDsLo_xq0VONJWhFdLx2VbGmLb9VtpMukpD2KOyTTYJ-QIhANaq8U3TVzo-07qFtd12eg6j3GZPo56hlV1ilJcFz2zL&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise) _[The Financial Times](https://www.ft.com/content/0876687a-f8b7-4b39-b513-5fee942831e8?accessToken=zwAAAYgEOyzBkc8Idmh6-LdLOdO1E1_ulCgx6A.MEYCIQDsLo_xq0VONJWhFdLx2VbGmLb9VtpMukpD2KOyTTYJ-QIhANaq8U3TVzo-07qFtd12eg6j3GZPo56hlV1ilJcFz2zL&segmentId=e95a9ae7-622c-6235-5f87-51e412b47e97&shareType=enterprise)_.
+    
+-   Hugging Face published [a post on Large Language Model red teaming](https://huggingface.co/blog/red-teaming), provided some useful examples of red teaming in the ChatGPT environment, linked to the available red teaming datasets from Meta ([Bot Adversarial Dialogue dataset](https://github.com/facebookresearch/ParlAI/tree/main/parlai/tasks/bot_adversarial_dialogue)), Anthropic, and [Allen Institute for AI’s RealToxicityPrompts](https://huggingface.co/datasets/allenai/real-toxicity-prompts), and invited LLM researchers to collaborate in creating more open-source red teaming datasets.
+    
+-   Anthropic published a paper entitled “[Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned.](https://arxiv.org/pdf/2209.07858.pdf)” The paper delves deeply into the red team's success with various models with different levels of resistance to attacks and harmfulness. They also opened their crowdsourced red teaming [dataset of 38,961 red team](https://github.com/anthropics/hh-rlhf) attacks collected from Mechanical Turkers for other researchers to use.
+    
+-   AI Village at DEF CON—a highly popular hacker convention—will also organize [a public Generative AI red teaming event](https://aivillage.org/generative%20red%20team/generative-red-team/) in August 2023, in Las Vegas. Red teamers will test language models from Anthropic, Google, Hugging Face, NVIDIA, OpenAI, and Stability. The event is supported by the White House Office of Science, Technology, and Policy. You can also submit a session proposal on similar topics to DEF CON's AI Village [here](https://easychair.org/cfp/AIV31).
+
+
 ## product
 
 - https://www.lakera.ai/llms
