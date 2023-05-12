@@ -30,3 +30,4 @@
 
 - https://www.lakera.ai/llms
 	- https://gandalf.lakera.ai/
+	- list of injections https://news.ycombinator.com/item?id=35905876#35910655
