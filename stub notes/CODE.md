@@ -13,6 +13,7 @@
 - Nov 2022: Kite.com public failure https://www.kite.com/blog/product/kite-is-saying-farewell/
   - Our diagnosis is that individual developers do not pay for tools. Their manager might, but engineering managers only want to pay for discrete new capabilities, i.e. making their developers 18% faster when writing code did not resonate strongly enough.
 - Nov 2022: https://www.codeium.com/blog/beta-launch-announcement
+	- https://chrome.google.com/webstore/detail/codeium/hobjkcpmjhlegmobgonaagepfckjkceh/related
 - Dec 2022: reverse engineering copilot https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html#other-random-tidbits
 - https://github.com/fauxpilot/fauxpilot This is an attempt to build a locally hosted version of [GitHub Copilot](https://copilot.github.com/). It uses the [SalesForce CodeGen](https://github.com/salesforce/CodeGen) models inside of NVIDIA's [Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) with the [FasterTransformer backend](https://github.com/triton-inference-server/fastertransformer_backend/).
 - Dec 2022: alphacode evaluation https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb
@@ -72,7 +73,8 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds
 - [Gptcommit: Never write a commit message again (with the help of GPT-3)](https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/)
 	- yet another https://news.ycombinator.com/item?id=34591733
-- https://github.com/Nutlope/aicommits
+	- https://github.com/Nutlope/aicommits
+	- https://github.com/di-sukharev/opencommit
 - vscode extensions
 	- https://newsletter.pragmaticengineer.com/p/ai-coding-tools
 	- ![https://media.licdn.com/dms/image/D4D22AQEA0JDCbyh_lQ/feedshare-shrink_2048_1536/0/1681887453686?e=1686182400&v=beta&t=0HfD2mXzDFC1Oc0S6twegX09lRb1WIui97jpcWK5qV8](https://media.licdn.com/dms/image/D4D22AQEA0JDCbyh_lQ/feedshare-shrink_2048_1536/0/1681887453686?e=1686182400&v=beta&t=0HfD2mXzDFC1Oc0S6twegX09lRb1WIui97jpcWK5qV8)
@@ -124,3 +126,7 @@ Codium - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-a
 
 - https://github.com/jbrukh/gpt-jargon pseudolanguage
 - https://github.com/eth-sri/lmql 
+
+## misc
+
+- The size of all code/history on Github public repos is 92TB The size of Google's monorepo in 2015 was 86TB (of much higher quality code) If Google were willing to deploy code models trained on their own data, they'd have a noticable advantage over everyone else. https://twitter.com/amanrsanger/status/1656696500339249153

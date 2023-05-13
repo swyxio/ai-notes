@@ -75,6 +75,7 @@ varun
 				- mosaic -> not that great
 				- mosaic paper had another model that was 5-6x smaller 360m. 
 				- google came in and fked all these guys up
+	- https://severelytheoretical.wordpress.com/2022/07/18/thoughts-on-the-new-scaling-laws-for-large-language-models/
 - but chinchilla not end all be all - SERVING time also matters
 	- param count up, model capability up, but serving slowly
 	- makes sense to train a smaller model, spend more on training it
