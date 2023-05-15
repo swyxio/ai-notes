@@ -1,2 +1,3 @@
 - Bard API https://github.com/dsdanielpark/Bard-API
 - https://github.com/dsdanielpark/amazing-bard-prompts
+- https://github.com/acheong08/Bard
