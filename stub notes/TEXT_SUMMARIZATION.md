@@ -1,4 +1,8 @@
 
+sama's top chatgpt usecase is summarization
+https://youtu.be/1egAKCKPKCk
+
+
 - [TL;DR: Mining Reddit to Learn Automatic Summarization, 2017](https://aclanthology.org/W17-4508.pdf)
 	- After filtering, we are left with approximately 1.6 million submissions and 2.4 million comments for a total of 4 million content-summary pairs.
 - https://github.com/yixinL7/BRIO 

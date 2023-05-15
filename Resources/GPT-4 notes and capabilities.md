@@ -79,6 +79,7 @@
 	- "screenshots is all you need"
 	- jim fan visual https://twitter.com/DrJimFan/status/1634244545360609289
 		- note - NO audio
+	- mckaey wrigley - gpt4-eyes https://twitter.com/mckaywrigley/status/1651291367224807424
 - [Much lower hallucination](https://twitter.com/swyx/status/1635693559348338688?s=20)
 	- but still "[confidently incorrect](https://twitter.com/RazRazcle/status/1635966297715490817?s=20)" with simple caesar shift cipher - more than gpt3.5
 	- [log loss target encourages guessing/pretending](https://twitter.com/tszzl/status/1635707243630063616)
