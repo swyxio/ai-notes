@@ -19,6 +19,7 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
 	  - https://replit.com/@bardia/ChatGPT-Retrieval-Plugin
 	  - https://github.com/transitive-bullshit/chatgpt-plugin-ts
 	  - https://supabase.com/blog/building-chatgpt-plugins-template
+	  - Build a ChatGPT Plugin on Cloudflare Workers: [Tutorial](https://blog.cloudflare.com/magic-in-minutes-how-to-build-a-chatgpt-plugin-with-cloudflare-workers/); [Quickstart](https://github.com/cloudflare/chatgpt-plugin/tree/main/example-plugin)
 - **Tools to explore**
   - **LLM APIs**
     - **OpenAI** needs no introduction. [Cookbook](https://github.com/openai/openai-cookbook/), [Docs](https://platform.openai.com/docs/introduction/overview)
@@ -108,10 +109,12 @@ This category is for **infra and tools** catering to AI app developers, in contr
   - **Model Serving**
     - https://www.baseten.co/ Serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
     - https://replicate.com/ Run models in the cloud at scale.
-    - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot), [BERT in 34 lines of code](https://news.ycombinator.com/item?id=35792481)
+    - https://modal.com run or deploy machine learning models, massively 
+    - parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot), [BERT in 34 lines of code](https://news.ycombinator.com/item?id=35792481)
     - https://www.steamship.com/ Managed Backend for AI services [LangChain example](https://www.steamship.com/build/langchain-apps)
     - [https://www.coreweave.com/](https://www.coreweave.com/)
     - vast.ai
+    - [Cloudflare Constellation](https://blog.cloudflare.com/introducing-constellation/) - deploy models and run inferencing on Cloudflare's edge
     - _Seeking: hackathon-relevant examples and tutorials for each of these tools_
     - _Seeking: tutorials for serving Whisper, other LLMs_
   - **Fine-tuning**
