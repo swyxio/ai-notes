@@ -93,6 +93,7 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 - [Show HN: ChatBotKit – The simplest way to build AI chat bots like ChatGPT](https://chatbotkit.com/)
 - [IngestAI – NoCode ChatGPT-bot creator from your knowledge base in Slack](https://ingestai.io/)
 - Comparison of OSS chat models with ELO and leaderboard https://chat.lmsys.org/?leaderboard
+- one app for ChatGPT, Claude, and Bard: https://github.com/chathub-dev/chathub/blob/main/README.md
 
 ## Anthropic Claude notes
 
