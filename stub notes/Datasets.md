@@ -49,6 +49,21 @@ BigCode dataset
 
 ![https://techcrunch.com/wp-content/uploads/2023/05/FgFIaxXakAExwHY.jpg](https://techcrunch.com/wp-content/uploads/2023/05/FgFIaxXakAExwHY.jpg) https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/?guccounter=1
 
+chatbot dataset
+- fisher dataset
+	- language consortium
+		- The Fisher dataset, also known as the Fisher Corpus or Fisher-Callhome Corpus, is a widely used dataset in the field of automatic speech recognition (ASR) and spoken language understanding. It was created by the Linguistic Data Consortium (LDC) and is primarily focused on conversational speech.
+		- The Fisher dataset consists of approximately 2,400 two-way telephone conversations between native English speakers. These conversations were collected between 2000 and 2001 and cover a variety of topics, ranging from casual social conversations to more task-oriented dialogues.
+	- wizards of turns
+		- 1.  Cornell Movie Dialogs Corpus: A dataset containing conversations extracted from movie scripts. It includes a large number of dialogues that can be used for training conversational agents.
+		1.  Microsoft Dialogue Dataset: A collection of multi-turn dialogues sourced from the Microsoft customer support platform. This dataset is designed to enable the development of chatbots that can handle real-world customer service scenarios.
+		    
+		3.  Persona-Chat: This dataset, created by researchers at Facebook AI, consists of dialogues where each participant is given a profile (or persona) that they should adopt during the conversation. It aims to improve chatbot responses by incorporating personalization.
+		    
+		4.  Ubuntu Dialogue Corpus: A dataset collected from the Ubuntu chat logs, which were recorded during technical support conversations about the Ubuntu operating system. This dataset is useful for training chatbots that can provide technical assistance.
+		    
+		5.  Twitter Conversation Corpus: A dataset containing conversations from Twitter. It includes a wide range of topics and conversational patterns found on the platform.
+
 
 ## data issues
 
