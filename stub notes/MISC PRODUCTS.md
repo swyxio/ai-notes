@@ -16,6 +16,8 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 - harvey ai - with allen & overy
 	- https://twitter.com/ai__pub/status/1644735555752853504
 - spellbook https://twitter.com/SpellbookLegal/status/1604955985772269582
+- klarity - painful to sell to law firms
+	- resistant to tech?
 - ironclad - recently added ai - redlining tool
 
 
