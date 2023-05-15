@@ -18,6 +18,7 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
 	  - https://replit.com/@bardia/ChatGPT-Todo-Plugin
 	  - https://replit.com/@bardia/ChatGPT-Retrieval-Plugin
 	  - https://github.com/transitive-bullshit/chatgpt-plugin-ts
+	  - https://supabase.com/blog/building-chatgpt-plugins-template
 - **Tools to explore**
   - **LLM APIs**
     - **OpenAI** needs no introduction. [Cookbook](https://github.com/openai/openai-cookbook/), [Docs](https://platform.openai.com/docs/introduction/overview)
