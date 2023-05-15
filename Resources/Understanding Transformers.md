@@ -56,3 +56,7 @@ If you want to learn how to code them, this book is great: [https://d2l.ai/chap
 
 
 attention visualization https://catherinesyeh.github.io/attn-docs/
+
+## flash attention
+
+https://twitter.com/amanrsanger/status/1657835933503479808?s=46&t=90xQ8sGy63D2OtiaoGJuww
