@@ -16,6 +16,8 @@
 
 ## other agent paradigms
 
+https://www.geeksforgeeks.org/agents-artificial-intelligence/#
+
 Reflexion: an autonomous agent with dynamic memory and self-reflection https://arxiv.org/abs/2303.11366 https://twitter.com/johnjnay/status/1638696539257184258
 A Self-Reflecting LLM Agent
 
