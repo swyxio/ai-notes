@@ -174,6 +174,7 @@ Gen1 explainer https://twitter.com/c_valenzuelab/status/1652282840971722754?s=20
     2. Tagging: You can organize your files into tags, making it easy to filter them. Tags can be used to filter files in addition to prompt text searches.
     3. Bookmarking: You can now bookmark files. And you can bookmark search queries and tags. The UX is very similar to ordinary web browsers, where you simply click a star or a heart to favorite items.
     4. Realtime Notification: Get realtime notifications on all the Stablediffusion generated files.
+- comparison playgrounds https://zoo.replicate.dev/?id=a-still-life-of-birds-analytical-art-by-ludwig-knaus-wfsbarr
 
 Misc
 
