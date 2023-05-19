@@ -216,6 +216,12 @@ API response body length
 Decreases over time
 Subject to limitations
 
+- Code interpreter
+	- roll your own
+		- https://github.com/dotneet/smart-chatbot-ui
+		- Code Interpreter: https://github.com/ricklamers/gpt-code-ui
+		- Blog post: https://ricklamers.io/posts/gpt-code/
+
 ### Products
 
 - API
