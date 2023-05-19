@@ -143,6 +143,7 @@ Gen1 explainer https://twitter.com/c_valenzuelab/status/1652282840971722754?s=20
 
 - Google Imagen and MUSE
 - LAION Paella  https://laion.ai/blog/paella/
+- Drag Your GAN https://arxiv.org/abs/2305.10973
 
 
 ## Tooling
