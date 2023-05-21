@@ -59,6 +59,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 	- hidegpt to hide watermarks https://twitter.com/sohamgovande/status/1641828463584657408
 	- failed at constitution https://www.reddit.com/r/ChatGPT/comments/11ha4qo/gptzero_an_ai_detector_thinks_the_us_constitution/
 	- started as a startup https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-to-thwart-plagerism-in-schools-online-media
+	- discriminates against non native english speakers https://news.ycombinator.com/item?id=36019580
 - https://www.deeplearning.ai/the-batch/issue-192/#detecting-generated-text-three-methods
 	- watermarking
 	- classification (distilbert)
