@@ -103,6 +103,7 @@ Brief history: https://agi-sphere.com/llama-models/
 	- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
 	- outputs are not very good https://news.ycombinator.com/item?id=35258553
+- https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/
 - llama alternatives https://thesequence.substack.com/p/the-llama-effect-how-an-accidental
 	- Redpajama
 		- https://www.together.xyz/blog/redpajama

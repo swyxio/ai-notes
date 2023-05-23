@@ -259,6 +259,10 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 - Midjourney's discord
   - how to use midjourney v4 https://twitter.com/fabianstelzer/status/1588856386540417024?s=20&t=PlgLuGAEEds9HwfegVRrpg
 - https://stablehorde.net/
+- don't forget reddit
+	- https://www.reddit.com/r/LocalLLaMA/
+	- https://www.reddit.com/r/bing
+	- https://www.reddit.com/r/openai
 
 
 ## People

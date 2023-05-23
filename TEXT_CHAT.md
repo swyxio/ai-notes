@@ -552,6 +552,7 @@ threads that recap stuff above
 
 ## Misc Competing OSS Chat stuff
 
+- modal's https://github.com/modal-labs/doppel-bot erikbot
 - [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 - HuggingChat - open source AI chat model - openassistant
 	- https://huggingface.co/chat/

@@ -11,3 +11,6 @@ Brain Computer Interfaces
 	- https://arxiv.org/abs/2111.00396 S4 paper - We propose the Structured State Space sequence model (S4)
 	- https://overcast.fm/+Y_EGDVIU4/8:00 aidan gomez explanation of s4
 	- hungry hungry hippos (h3) - a form of SSMs
+- RWKVs
+	- https://news.ycombinator.com/item?id=36038868
+	- 
