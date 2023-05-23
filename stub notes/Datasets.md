@@ -75,3 +75,5 @@ Label errors
 - https://labelerrors.com/
 - https://dcai.csail.mit.edu/
 	- https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5
+
+running out of data - repeat it? https://twitter.com/XueFz/status/1660867457903632385
