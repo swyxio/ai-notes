@@ -53,6 +53,7 @@ prompt engineering techniques
 ### Product Leaked Prompts
 
 - SnapChat MyAI full prompt https://twitter.com/LinusEkenstam/status/1652583731952066564/photo/1
+- https://blog.matt-rickard.com/p/a-list-of-leaked-system-prompts
 
 ## Prompt Tuning
 
