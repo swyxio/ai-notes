@@ -267,6 +267,8 @@ https://openai.com/research/gpt-4
 3. AMC 10 - 30/150
 4. AMC 12 - 60/150
 
+https://twitter.com/WenhuChen/status/1660832837715611648?s=20
+We propose TheoremQA, the first theorem-driven dataset to evaluate LLMs' capabilities to solve theorem-driven questions in Math, Physics, EE&CS and Finance. We carefully curate 800 questions covering 350+ theorems across 30+ subfields. Each question is accompanied with a theorem.
 
 ## Selected Concepts
 
