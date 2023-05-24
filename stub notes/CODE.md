@@ -3,6 +3,7 @@
 
 ## Data/Timeline
 
+- 2010: natural language coding is going to work https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/
 - Oct 2021: Github Copilot technical preview - [team of 6 working on it](https://twitter.com/alexgraveley/status/1607897474965839872) 
 - Dec 2021: Github Copilot [for businesses](https://www.theregister.com/2022/06/21/githubs_ai_code_assistant_copilot/)
 - Feb 2022: February, DeepMind introduced [AlphaCode](https://www.deeplearning.ai/the-batch/competitive-coder/), a transformer pretrained on 86 million programs in 12 programming languages and fine-tuned on entries to coding contests. At inference, it generates a million possible solutions and filters out the bad ones. In this way, it retroactively beat more than half of contestants in 10 coding competitions.
