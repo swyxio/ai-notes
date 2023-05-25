@@ -54,6 +54,7 @@ prompt engineering techniques
 
 - SnapChat MyAI full prompt https://twitter.com/LinusEkenstam/status/1652583731952066564/photo/1
 - https://blog.matt-rickard.com/p/a-list-of-leaked-system-prompts
+- wolfram alpha chatgpt plugin manifest https://github.com/imaurer/awesome-chatgpt-plugins/blob/main/description_for_model_howto.md
 
 ## Prompt Tuning
 

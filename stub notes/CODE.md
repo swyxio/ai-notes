@@ -132,6 +132,8 @@ Codium - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-a
 
 - https://github.com/jbrukh/gpt-jargon pseudolanguage
 - https://github.com/eth-sri/lmql 
+- https://github.com/microsoft/guidance/
+	- https://twitter.com/altryne/status/1661237105278988290/photo/1
 
 ## misc
 

@@ -20,6 +20,7 @@ Pro Google
 		- Pathways will make models sparse and efficient, only activating the relevant parts of the network for the given task.
 			- For example, GShard and Switch Transformer are two of the largest machine learning models we’ve ever created, but because both use sparse activation, they [consume less than 1/10th the energy](https://blog.google/technology/ai/minimizing-carbon-footprint/) that you’d expect of similarly sized dense models — while being as accurate as dense models.
 		- PaLM 540B beats GPT3 175B on all categories https://twitter.com/sterlingcrispin/status/1606309065730170880/photo/1
+		- PaLM 2 - 340B https://arxiv.org/abs/2204.02311
 	- Google LaMDA
 		- https://blog.google/technology/ai/lamda/
 	- agreement from emad
