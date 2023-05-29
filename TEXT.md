@@ -44,6 +44,9 @@ Model Evolution/Family trees
 ### Direct GPT alternatives
 
 - Eleuther's [GPT-J-6B](https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/), GPT-NeoX
+	- gptj trained for 200k
+	- gpt neox trained for 350k
+	- https://overcast.fm/+HaNNYx-_o/1:18:00
 - Google 
 	- PaLM 570B
 	  - https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/

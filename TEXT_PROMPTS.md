@@ -9,6 +9,14 @@ prompt engineering techniques
 	- https://twitter.com/nickcammarata/status/1284050958977130497?s=20 "yo be real"
 - JSON
 	- I've found LLMs to reliably return structured data via API by adding the system prompt: "Respond in the format of a JSON array [{key: value}, {key: value}]" Having an "unsure" option also reduces hallucination and indicates uncertainty. [tweet](https://twitter.com/eugeneyan/status/1636366239873515521)
+	- https://github.com/piercefreeman/gpt-json
+		- https://news.ycombinator.com/item?id=35825064 sbert
+		- https://github.com/jiggy-ai/pydantic-chatcompletion/blob/master/pydantic_chatcompletion/__init__.py
+		- https://github.com/knowsuchagency/struct-gpt
+		- yaml is cheaper https://twitter.com/v1aaad/status/1643889605538635782
+		- take zod https://github.com/olup/zod-chatgpt
+	- jsonformer https://github.com/1rgs/jsonformer
+	- 
 
 ## reading list
 

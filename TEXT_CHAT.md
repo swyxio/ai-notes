@@ -559,5 +559,6 @@ threads that recap stuff above
 	- https://huggingface.co/chat/
 - https://github.com/BlinkDL/ChatRWKV
 - https://dagster.io/blog/chatgpt-langchain
+- https://gpt4all.io/index.html GPT4All - A free-to-use, locally running, privacy-aware chatbot. **No GPU or internet required.**
 - UL2 chat 
 	- Interested in real Open AI? Announcing Transformers-Chat, a 100% open source knowledge-grounded chatbot that allows you to ask questions and chat with the ![🤗](Transformers docs. Powered by Flan-UL2, https://twitter.com/EnoReyes/status/1635723920480567298

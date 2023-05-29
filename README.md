@@ -112,6 +112,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - humanloop's [prompt engineering 101](https://website-olo3k29b2-humanloopml.vercel.app/blog/prompt-engineering-101)
 	  - Stephen Wolfram's explanations https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 	  - https://andymatuschak.org/prompts/
+	  - cohere's LLM university https://docs.cohere.com/docs/llmu 
 	  - https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies for normies
   - image generation
 	  - https://wiki.installgentoo.com/wiki/Stable_Diffusion overview

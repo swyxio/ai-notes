@@ -30,7 +30,7 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
   - **Embeddings**
     - [**Chroma**](https://www.trychroma.com/): Chroma is the open-source embedding database. Chroma makes it easy to build LLM apps by making knowledge, facts, and skills pluggable for LLMs. [Docs](https://docs.trychroma.com/), [Discord](https://discord.gg/MMeYNTmh3x), [@ the founders](https://twitter.com/atroyn/status/1625568377766035456?s=20&t=m96ilnMSQjoyjVmp_kQHZA)
     - [**Pinecone**](https://www.pinecone.io/): The Pinecone vector database makes it easy to build high-performance vector search applications. [Docs](https://www.pinecone.io/docs/), [Events/Forum/Showcase](https://www.pinecone.io/community/).
-    - _Seeking: comparison articles between these options_
+    - Also Weaviate, Milvus, Vespa, [pgvector](https://supabase.com/blog/openai-embeddings-postgres-vector). _Seeking: comparison articles between these options. [nice chart here](https://twitter.com/swyx/status/1652103494445449216)_
   - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
   - Automatic permit application generation for climate tech companies & carbon dioxide removal ([tweet](https://twitter.com/russelljkaplan/status/1616957750940176384?s=20&t=frXEVPqaJUjMPJOhbD9AUg))
