@@ -23,7 +23,7 @@
 
 "Today, GitHub Copilot is behind an average of 46% of a developers’ code across all programming languages—and in Java, that number jumps to 61%."
 
-- March 2023 - more ambitious with amall scripts
+- March 2023 - more ambitious with small scripts
 	- https://simonwillison.net/2023/Mar/27/ai-enhanced-development/
 	- geoffrey litt stuff
 - March 2023 - Codium AI - 11m seed - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-and-raised-11m/
@@ -48,12 +48,18 @@
 
 - bloom bigcode https://www.servicenow.com/blogs/2022/bigcode-large-language-models.html
 - salesforce codegen
+	- Nijkamp, E., Pang, B., Hayashi, H., Tu, L., Wang, H., Zhou, Y., Savarese, S., and Xiong, C. (2022). Codegen: An open large language model for code with multi-turn program synthesis. arXiv preprint arXiv:2203.13474.
+	- Nijkamp, E., Hayashi, H., Xiong, C., Savarese, S., and Zhou, Y. (2023). **Codegen2**: Lessons for training llms on programming and natural languages. arXiv preprint arXiv:2305.02309.
 - the stack from eleuther
+- Li, R., Allal, L. B., Zi, Y., Muennighoff, N., Kocetkov, D., Mou, C., Marone, M., Akiki, C., Li, J., Chim, J., et al. (2023). Starcoder: may the source be with you! arXiv preprint arXiv:2305.06161.
+
 
 ## benchmarks
 
 https://arxiv.org/pdf/2303.06689.pdf
-MBPP [Austin et al., 2021] This benchmark, referred to as "Mostly Basic Programming Problems", contains nearly 1000 crowd-sourced python programming problems, covering programming fundamentals, standard library functionality, and more. Each problem in the benchmark consists of a NL description, a code solution, and 3 automated test cases. A portion of the manually verified data is extracted as "MBPP-sanitized". For MBPP, which does not include function signatures, only the NL description is provided as input. HumanEval [Chen et al., 2021] This benchmark is a set of 164 handwritten programming problems, proposed by OpenAI. Each problem includes a function signature, NL description, function body, and several unit tests, with an average of 7.7 tests per problem. For HumanEval, function signature, NL description, and public test cases are provided as input. Furthermore, we utilize an expanded version of MBPP and HumanEval , which includes over 100 additional test cases per task, to reinforce the validity of code evaluation [Dong et al., 2023]. This extended version is referred to as MBPP-ET and HumanEval-ET.
+MBPP [Austin et al., 2021] This benchmark, referred to as "Mostly Basic Programming Problems", contains nearly 1000 crowd-sourced python programming problems, covering programming fundamentals, standard library functionality, and more. Each problem in the benchmark consists of a NL description, a code solution, and 3 automated test cases. A portion of the manually verified data is extracted as "MBPP-sanitized". For MBPP, which does not include function signatures, only the NL description is provided as input. 
+
+HumanEval [Chen et al., 2021] This benchmark is a set of 164 handwritten programming problems, proposed by OpenAI. Each problem includes a function signature, NL description, function body, and several unit tests, with an average of 7.7 tests per problem. For HumanEval, function signature, NL description, and public test cases are provided as input. Furthermore, we utilize an expanded version of MBPP and HumanEval , which includes over 100 additional test cases per task, to reinforce the validity of code evaluation [Dong et al., 2023]. This extended version is referred to as MBPP-ET and HumanEval-ET.
 
 ## products
 
@@ -74,6 +80,9 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- built on lambdaprompt https://github.com/approximatelabs/lambdaprompt
 	- pandas dataframe chat https://github.com/gventuri/pandas-ai
 	- prefectio marvin ai
+- custom languages
+	- LMQL
+	- https://github.com/georgia-tech-db/eva EVA DB is an AI-SQL database system for developing applications powered by AI models. We aim to simplify the development and deployment of AI-powered applications that operate on structured (tables, feature stores) and unstructured data (videos, text, podcasts, PDFs, etc.). EVA DB accelerates AI pipelines by 10-100x using a collection of performance optimizations inspired by time-tested SQL database systems, including data-parallel query execution, function caching, sampling, and cost-based predicate reordering. EVA supports an AI-oriented SQL-like query language tailored for analyzing both structured and unstructured data. It has first-class support for PyTorch, Hugging Face, YOLO, and Open AI models.
 - copilot labs
 	- https://redmonk.com/jgovernor/2023/01/06/the-future-just-happened-developer-experience-and-ai-are-now-inextricably-linked/
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds
@@ -138,3 +147,5 @@ Codium - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-a
 ## misc
 
 - The size of all code/history on Github public repos is 92TB The size of Google's monorepo in 2015 was 86TB (of much higher quality code) If Google were willing to deploy code models trained on their own data, they'd have a noticable advantage over everyone else. https://twitter.com/amanrsanger/status/1656696500339249153
+- https://arxiv.org/pdf/2303.06689.pdf importance of planning in codegen
+- maybe use tree of thoughts

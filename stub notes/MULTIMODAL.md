@@ -21,6 +21,9 @@ visual chatgpt https://github.com/microsoft/visual-chatgpt
 
 
 hugging gpt - chatgpt coordinating between huggingface models https://arxiv.org/abs/2303.17580
+  
+https://news.ycombinator.com/item?id=35764355
+We are building EVA, an AI-Relational database system with first-class support for deep learning models. Our goal with EVA is to create a platform that supports AI-powered multi-modal database applications operating on structured (tables, feature vectors, etc.) and unstructured data (videos, podcasts, pdf, etc.) with deep learning models. EVA comes with a wide range of models for analyzing unstructured data, including models for object detection, OCR, text summarization, audio speech recognition, and more.
 
 https://text-generator.io/blog/embed-images-text-and-code Embed Images, Text and Code in the same space
 

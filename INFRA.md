@@ -17,6 +17,9 @@
   - https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/ai_and_compute.png?raw=true
   - https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/hw_scaling.png?raw=true
   - analysis https://www.youtube.com/watch?v=5tmGKTNW8DQ
+- https://blog.eleuther.ai/transformer-math/
+	-  This is optimal in one very specific sense: in a resource regime where using 1,000 GPUs for 1 hour and 1 GPU for 1,000 hours cost you the same amount, if your goal is to maximize performance while minimizing the cost in GPU-hours to train a model you should use the above equation.
+	- **We do not recommend training a LLM for less than 200B tokens.** Although this is “chinchilla optimal” for many models, the resulting models are typically quite poor. For almost all applications, we recommend determining what inference cost is acceptable for your usecase and training the largest model you can to stay under that inference cost for as many tokens as you can.
 - you can run GLM-130B on a local machine https://twitter.com/alexjc/status/1617152800571416577?s=20
 - chinchilla 67b outperforms GPT3 175b - better data and longer training
 - LLAMA training costs - LLAMA 65B spend 1m GPU hours same as OPT/BLOOM 175B https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/
@@ -43,7 +46,10 @@
 - banana.dev
 - huggingface.co
 - lambdalabs.com
+- https://cloud-gpus.com/
+- Paperspace/Tensordock/Runpod?
 - astriaAI
+- oblivus GPU cloud https://oblivus.com/cloud/
 - specific list of gpu costs https://fullstackdeeplearning.com/cloud-gpus/
 	- ![https://fullstackdeeplearning.com/cloud-gpus/dettmers_recs.png](https://fullstackdeeplearning.com/cloud-gpus/dettmers_recs.png)
 - cost of chatgpt - https://twitter.com/tomgoldsteincs/status/1600196981955100694

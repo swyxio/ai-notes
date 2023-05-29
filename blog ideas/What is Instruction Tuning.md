@@ -36,6 +36,16 @@ Instruction-finetune: Multitask+CoT tuning
 	- four different instruction-tuning benchmarks: PromptSource (Sanh et al., 2022), FLAN (Wei et al., 2022a), Super-NaturalInstructions (Wang et al., 2022), and UnifiedSKG (Xie et al., 2022).
 	- Recently, along similar lines as this work, Chung et al. (2022b) achieve impressive gains on the challenging of MMLU (Hendrycks et al., 2020) and Big-Bench Hard (Suzgun et al., 2022) by instruction-tuning PaLM (Chowdhery et al., 2022) and T5 (Raffel et al., 2020) on a scaled-up collection of 1.8K tasks.
 - 3) [SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560)
+	- https://twitter.com/mathemagic1an/status/1662896309588881408/photo/1
+	- self instruct used in Gorilla paper
+	- related - Tool LlaMA and ToolBench 
+		- Large-scale instruction tuning SFT data to equip LLMs with general tool-use capability
+		- https://twitter.com/TsingYoga/status/1662843257796333568?s=20
 - FLAN T5
 	- https://twitter.com/arankomatsuzaki/status/1583254819053047808?s=46&t=Nd874xTjwniEuGu2d1toQQ
 	- https://twitter.com/quocleix/status/1583523186376785921?s=46&t=Nd874xTjwniEuGu2d1toQQ
+
+- IBM's Dromedary, which leverages an LLM to produce a large synthetic dataset for instruction tuning:
+	- https://twitter.com/generatorman_ai/status/1655941986627772419?s=20
+
+- 

@@ -111,6 +111,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - text generation
 	  - humanloop's [prompt engineering 101](https://website-olo3k29b2-humanloopml.vercel.app/blog/prompt-engineering-101)
 	  - Stephen Wolfram's explanations https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+	  - equivalent from jon stokes jonstokes.com/p/the-chat-stack-gpt-4-and-the-near
 	  - https://andymatuschak.org/prompts/
 	  - cohere's LLM university https://docs.cohere.com/docs/llmu 
 	  - https://www.jonstokes.com/p/chatgpt-explained-a-guide-for-normies for normies
@@ -373,6 +374,7 @@ This list will be out of date but will get you started. My live list of people t
 
 - NSFW filter https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/
 - On "AI Art Panic" https://opguides.info/posts/aiartpanic/
+	- [I lost everything that made me love my job through Midjourney](https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
 - Yannick influencing OPENRAIL-M https://www.youtube.com/watch?v=W5M-dvzpzSQ
 - art schools accepting AI art https://twitter.com/DaveRogenmoser/status/1597746558145265664
 - DRM issues https://undeleted.ronsor.com/voice.ai-gpl-violations-with-a-side-of-drm/

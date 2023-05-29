@@ -15,6 +15,7 @@ prompt engineering techniques
 		- https://github.com/knowsuchagency/struct-gpt
 		- yaml is cheaper https://twitter.com/v1aaad/status/1643889605538635782
 		- take zod https://github.com/olup/zod-chatgpt
+			- or another zod thing https://github.com/dzhng/llamaflow
 	- jsonformer https://github.com/1rgs/jsonformer
 	- 
 

@@ -71,6 +71,9 @@ We present FLAME, a T5-based model trained on Excel formulas that leverages doma
 https://news.ycombinator.com/item?id=34607738
 
 
+https://arxiv.org/abs/2305.07759
+TinyStories: How Small Can Language Models Be and Still Speak Coherent English? We show that TinyStories can be used to train and evaluate LMs that are much smaller than the state-of-the-art models (below 10 million total parameters), or have much simpler architectures (with only one transformer block), yet still produce fluent and consistent stories with several paragraphs that are diverse and have almost perfect grammar, and demonstrate reasoning capabilities.
+
 ### Finetune Babbage
 
 Our solution is simple, generate a moderately sized corpus of completions made by davinci for a given task, and fine-tune a model like babbage to do the same task. If done correctly you can get near-identical completions (or at least 90% similarity) at a **40x** lower price and around 4-5x better latency. https://www.buildt.ai/blog/incorrectusage
@@ -92,6 +95,7 @@ Dylora https://news.ycombinator.com/item?id=35514228
 - ESP32 https://news.ycombinator.com/item?id=34632571 https://maxlab.io/store/edge-ai-camera/
 - tensorflow lite https://blog.tensorflow.org/2023/02/tensorflow-lite-micro-with-ml-acceleration.html
 - jetson nano
+- [Willow – Open-source privacy-focused voice assistant hardware](https://github.com/toverainc/willow)  It's actually "Alexa/Echo competitive". Wake word detection, voice activity detection, echo cancellation, automatic gain control, and high quality audio for $50 means with Willow and the support of Home Assistant there are no compromises on looks, quality, accuracy, speed, and cost.
 
 https://overcast.fm/+vScMSR_PE/33:07
 - bandwidth, latency, economics, reliability, privacy

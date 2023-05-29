@@ -54,6 +54,9 @@ The Illustrated Stable Diffusion - [https://jalammar.github.io/illustrated-stab
 
 If you want to learn how to code them, this book is great: [https://d2l.ai/chapter_attention-mechanisms-and-transformers...](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html)
 
+Transformer Taxonomy (the last lit review)
+https://kipp.ly/blog/transformer-taxonomy/
+- It covers 22 models, 11 architectural changes, 7 post-pre-training techniques and 3 training techniques (and 5 things that are none of the above).
 
 attention visualization https://catherinesyeh.github.io/attn-docs/
 

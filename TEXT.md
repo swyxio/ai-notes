@@ -33,6 +33,12 @@ see [[Datasets]]
 - history from Knowledge Graphs -> ELMO (LSTMs) -> Transformers -> BERT -> T5
 	- told via [MLST YouTube/Tim Scarfe](https://www.youtube.com/watch?v=N-7rdJK4xlE)
 	- R/CNNs couldnt model long range, very lossy
+- jonstokes.com/p/the-chat-stack-gpt-4-and-the-near BERT was the world’s first _Large Language Model_ (LLM). It featured around 345 million parameters, which is a measure of the size and complexity of a neural network. (Think of an equation that has 345 million terms. That’s a big equation!) 
+	- OpenAI followed Google’s lead and produced BERT-like LLMs of their own in 2018 and 2019: 
+	- first GPT-1 with 117 million parameters, and then
+	- GPT-2 with 1.5 billion parameters. 
+	- In 2020, OpenAI rocked the NLP world by releasing GPT-3 featuring a whopping _175 billion_ parameters, earning it the title of the largest LLM, indeed the largest neural network, ever built. 
+	- March 2023 saw the release of GPT-4, which builds on GPT-3. At the time of this writing, OpenAI hasn’t revealed GPT-4’s parameter count, but it is rumored to be in the neighborhood of 1 trillion.
 - GPT2 as a step towards AGI https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/
 - GPT3 advanced a lot through 2020-2022 https://twitter.com/tszzl/status/1572350675014516738
 
@@ -113,6 +119,7 @@ Brief history: https://agi-sphere.com/llama-models/
 		- https://venturebeat.com/ai/redpajama-replicates-llama-to-build-open-source-state-of-the-art-llms/
 		- openllama the release of preview of the 7B OpenLLaMA model that has been trained with 200 billion tokens on the RedPajama dataset.
 			- https://github.com/openlm-research/open_llama
+			- finetune openllama https://twitter.com/akshat_b/status/1658123298654355457
 	- [Researchers from  UC Berkeley, CMU, Stanford, and UC San Diego open sourced Vicuna](https://vicuna.lmsys.org/), a fine-tuned version of LLama that matches GPT-4 performance.
 	-   [Berkeley AI Research Institute(BAIR) released Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/), a version of LLama fine-tuned using internet dialogs.
 	-   [Nebuly open sourced ChatLLama](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama), a framework for creating conversational assistants using your own data.

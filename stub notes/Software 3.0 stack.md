@@ -11,6 +11,7 @@
 	- OpenLM - https://github.com/r2d4/openlm OpenAI-compatible Python client that can call any LLM
 - prompt tooling
 	- langchain
+		- https://www.pinecone.io/learn/langchain/
 	- llamaindex
 	- guardrails 
 - vector databases
