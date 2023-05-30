@@ -218,6 +218,10 @@ general consensus is that it's just not very good right now
 
 ## misc
 
+- vocode - ycw23 - 
+	- an open source library for building LLM applications you can talk to. Vocode makes it easy to take any text-based LLM and make it voice-based. Our repo is at [https://github.com/vocodedev/vocode-python](https://github.com/vocodedev/vocode-python) and our docs are at [https://docs.vocode.dev](https://docs.vocode.dev/).
+	- Building realtime voice apps with LLMs is powerful but hard. You have to orchestrate the speech recognition, LLM, and speech synthesis in real-time (all async)–while handling the complexity of conversation (like understanding when someone is finished speaking or handling interruptions).
+	- https://news.ycombinator.com/item?id=35358873
 - audio datasets
 	- https://github.com/LAION-AI/audio-dataset/blob/main/data_collection/README.md
 	- https://www.audiocontentanalysis.org/datasets

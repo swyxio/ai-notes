@@ -17,11 +17,17 @@ prompt engineering techniques
 		- take zod https://github.com/olup/zod-chatgpt
 			- or another zod thing https://github.com/dzhng/llamaflow
 	- jsonformer https://github.com/1rgs/jsonformer
-	- 
+		- [implemented in llama.cpp](https://twitter.com/GrantSlatton/status/1657559506069463040)
+	- microsoft guidance 
+		- "Guidance programs allow you to interleave generation, prompting, and logical control" Also internally handles subtle but important tokenization-related issues, e.g. "token healing".
+- constrained sampling methods
+	- reLLM and Parserllm 
+		- coerce LLMs into only generating a specific structure for a given regex pattern (ReLLM). Now for ParserLLM. The natural next step was context-free grammars (e.g., a language of all strings with balanced parentheses -- you can’t do this with regular languages).
 
 ## reading list
 
 - https://github.com/dair-ai/Prompt-Engineering-Guide
+- https://github.com/brexhq/prompt-engineering ([HN](https://news.ycombinator.com/item?id=35942583))
 - https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what
 - In [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493) (2021), ​​Scao and Rush found that a prompt is worth approximately 100 examples (caveat: variance across tasks and models is high – see image below). The general trend is that **as you increase the number of examples, finetuning will give better model performance than prompting**. There’s no limit to how many examples you can use to finetune a model.
 	- A cool idea that is between prompting and finetuning is **[prompt tuning](https://arxiv.org/abs/2104.08691)**, introduced by Leister et al. in 2021. Starting with a prompt, instead of changing this prompt, you programmatically change the embedding of this prompt. For prompt tuning to work, you need to be able to input prompts’ embeddings into your LLM model and generate tokens from these embeddings, which currently, can only be done with open-source LLMs and not in OpenAI API. 

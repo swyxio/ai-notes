@@ -3,36 +3,35 @@
 
 ## Podcasts
 
-some of these are on youtube too, i dont really bother separating them
+some of these are on youtube too, i dont really bother separating them. ⭐  represents personal faves
 
 - Researchers & Specialists
-	- [The Gradient](https://thegradientpub.substack.com/s/podcast) (Daniel Bashir) - gerat practitioner interviews
+	- [The Gradient](https://thegradientpub.substack.com/s/podcast) (Daniel Bashir) - great practitioner interviews
 	- [Practical AI](https://changelog.com/practicalai) (Dan Whitenack) - good weekly conversations, a bit enterprisey
 	- [This Week in Machine Learning/AI](https://twimlai.com/podcast/twimlai/) (Sam Charrington) - one of the longest running practitioner interview shows
 	- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk) (Tim Scarfe) - great backlog of safety/philosophy researcher interviews
 	- [The Inside View](https://theinsideview.ai/) (Michael Trazzi) - safety researcher interviews. infrequent.
 - News/Youtubers
-	- [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
-	- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps
-	- [AI Explained](https://www.youtube.com/@ai-explained-) - news recaps
+	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
+	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps
+	- [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps
 	- [The ChatGPT report](https://anchor.fm/ben-meyerhoeffer/episodes/Ep-30-Bard-vs-Bing-e212edr) - 10 minutes on AI news Mondays and Thursdays
-	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (Great guest backlog)
+	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
 - Companies
-	- [Deep Papers](https://www.deeppapers.dev/) - Arize AI/AI Pub - focusing on paper reviews
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host
-	- [Robot Brains](https://www.therobotbrains.ai/) - Pieter Abbeel - ddecent backlog
-	- [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - kinda new, some good chats
+	- ⭐ [Robot Brains](https://www.therobotbrains.ai/) - Pieter Abbeel - decent backlog
+	- ⭐ [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - kinda new, some good chats
 	- [Generally Intelligent](https://generallyintelligent.com/podcast) - Kanjun Qiu - very cerebral/RL focused
-	- [NLP Highlights](https://www.listennotes.com/podcasts/nlp-highlights-allen-institute-for-f9Yt4vD_ger/) by the Allen Institute (infrequent but good pre 2020 backlog. Check episode 36j)
+	- [NLP Highlights](https://www.listennotes.com/podcasts/nlp-highlights-allen-institute-for-f9Yt4vD_ger/) by the Allen Institute (infrequent but good pre 2020 backlog. Check episode 36)
 - VCs
-	- [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil - new
+	- ⭐ [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil - new
 	- [Unsupervised Learning](https://podtail.com/en/podcast/unsupervised-learning/) - Redpoint - new
 - Mine :) https://latent.space/ - new
 
 ## Newsletters
 
 - Leaders
-	- Andrew Ng's [The Batch](https://www.deeplearning.ai/the-batch/)  picks 3 things each week and summarizes approachably
+	- ⭐ Andrew Ng's [The Batch](https://www.deeplearning.ai/the-batch/)  picks 3 things each week and summarizes approachably
 	- Jack Clark's [Import AI](https://importai.substack.com/) focused more on policy given Jack's role
 	- Sebastian Raschka [Ahead of AI](https://magazine.sebastianraschka.com/) deeply technical recaps
 - Commentators/ML Eng's

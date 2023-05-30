@@ -1,6 +1,13 @@
 
 2x coding speed https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
 
+code improves reasoning
+- starcoder has reasoning abilities https://twitter.com/LoubnaBenAllal1/status/1655932410566168577
+- replit too (amasad tweet only source so far)
+- yao fu is exploring this actively https://twitter.com/Francis_YAO_/status/1657985409706762241
+- [Large Language Models trained on code reason better, even on benchmarks that have nothing to do with code. Some good discussion here about the topic:](https://www.reddit.com/r/MachineLearning/comments/13gk5da/r_large_language_models_trained_on_code_reason/)
+	- linked to [coding -> chain of thought](https://www.reddit.com/r/MachineLearning/comments/13gk5da/comment/jk29amd/?utm_source=reddit&utm_medium=web2x&context=3)
+
 ## Data/Timeline
 
 - 2010: natural language coding is going to work https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/
@@ -60,6 +67,8 @@ https://arxiv.org/pdf/2303.06689.pdf
 MBPP [Austin et al., 2021] This benchmark, referred to as "Mostly Basic Programming Problems", contains nearly 1000 crowd-sourced python programming problems, covering programming fundamentals, standard library functionality, and more. Each problem in the benchmark consists of a NL description, a code solution, and 3 automated test cases. A portion of the manually verified data is extracted as "MBPP-sanitized". For MBPP, which does not include function signatures, only the NL description is provided as input. 
 
 HumanEval [Chen et al., 2021] This benchmark is a set of 164 handwritten programming problems, proposed by OpenAI. Each problem includes a function signature, NL description, function body, and several unit tests, with an average of 7.7 tests per problem. For HumanEval, function signature, NL description, and public test cases are provided as input. Furthermore, we utilize an expanded version of MBPP and HumanEval , which includes over 100 additional test cases per task, to reinforce the validity of code evaluation [Dong et al., 2023]. This extended version is referred to as MBPP-ET and HumanEval-ET.
+
+bigcode eval harness https://github.com/bigcode-project/bigcode-evaluation-harness/
 
 ## products
 
