@@ -14,6 +14,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 - News/Youtubers
 	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
 	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps
+	- [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world
 	- [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps
 	- [The ChatGPT report](https://anchor.fm/ben-meyerhoeffer/episodes/Ep-30-Bard-vs-Bing-e212edr) - 10 minutes on AI news Mondays and Thursdays
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
@@ -39,6 +40,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Bradley Metrock (Deepgram) https://thisweekinvoice.substack.com/
 	- Carlos's Data Machina https://datamachina.substack.com/
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
+	- Semi Analysis https://www.semianalysis.com/p/ai-server-cost-analysis-memory-is
 - Aggregators
 	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly (has [chrome extension](https://github.com/labmlai/chrome-extension)) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
 	- TheSequence https://thesequence.substack.com/about (paid & free)
