@@ -23,6 +23,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- ⭐ [Robot Brains](https://www.therobotbrains.ai/) - Pieter Abbeel - decent backlog
 	- ⭐ [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - kinda new, some good chats
 	- [Generally Intelligent](https://generallyintelligent.com/podcast) - Kanjun Qiu - very cerebral/RL focused
+	- [Weaviate Podcast](https://podcasters.spotify.com/pod/show/weaviate/episodes/Erika-Cardenas--Roman-Grebennikov--and-Vsevolod-Goloviznin-on-Recommendation-and-Metarank---Pod-43-e2280u3) - good technical discussions
 	- [NLP Highlights](https://www.listennotes.com/podcasts/nlp-highlights-allen-institute-for-f9Yt4vD_ger/) by the Allen Institute (infrequent but good pre 2020 backlog. Check episode 36)
 - VCs
 	- ⭐ [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil - new
