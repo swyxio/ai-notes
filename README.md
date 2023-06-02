@@ -404,6 +404,7 @@ This list will be out of date but will get you started. My live list of people t
 	- https://scottaaronson.blog/?p=7174
 	- [emily bender response](https://twitter.com/emilymbender/status/1640920936600997889)
 	- [Geoffrey Hinton leaving Google](https://news.ycombinator.com/item?id=35771104) 
+	- followed up by one sentence public letter https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html
 - xrisk 
 		- Is avoiding extinction from AI really an urgent priority? ([link](https://link.mail.beehiiv.com/ss/c/5J8WPrGlKFK1BUsRYoWIfdCHPD-3Xbi8FugDN8_LxoMLoHhMJlEG7wG6Qm_xTk5kjhv7y5vwidMdRiSXu8XoBiq8nEOR34GaAFwHPM3qm-KgbLw6_hl3AQd9rRxt7mbTHvXRNeF6hfODzGg5z4t8D3ZdIldVTpoAGQ-KmKNEnmzBudTJIJtP1kjZLr1QqJYX/3wo/z-oFlqV_RUGtJd6OO2FogA/h13/XrV7_YgyheO615JC1X8VasmPENc7KRnJrp03iAlmoXw)) 
 	-   AI Is not an arms race. ([link](https://link.mail.beehiiv.com/ss/c/znicDlvJFyGBhcMAVWxZFpwlt5VC0YnUsV4gzm_4ut3qiUuoiY9_n0aSS6Uv0inD2_kx5JhKOVXSRbXMrV7VwL_fuIMlfwAiTSTTCxo56Xv58IWHdUClCfyt4alUnKRf2MV5a7rIM0KG4vwVLObEua0i3t5UIvPlbHybyFluj52xGYswNiQUMZl2OrDzh1u4oLAvnCVkTUi5vCX0i6-N8A/3wo/z-oFlqV_RUGtJd6OO2FogA/h14/K2LmS7FyAGW-u4j6oHnp_bKapwqFG_Gb4MC5XPpKJsM)) 

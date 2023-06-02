@@ -1,0 +1,11 @@
+
+- 
+- terms
+	- mode collapse (janus lesswrong)
+		- society became extremely mid
+	- waluigi
+	- solidgoldmagikarp
+	- stochastic parrots
+	- biological timelines
+- trends
+- 
