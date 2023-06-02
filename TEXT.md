@@ -364,6 +364,8 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
   - Ellie email https://twitter.com/JamesIvings/status/1602855048148500480
   - Everyprompt mail
   - https://merlin.foyer.work/
+- content generation
+	- https://byword.ai/
 - Summarizers
 	- explainpaper
 	- kagi universal summarizer https://labs.kagi.com/ai/sum?url=airbyte.io
