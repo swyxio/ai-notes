@@ -41,6 +41,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Carlos's Data Machina https://datamachina.substack.com/
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
 	- Semi Analysis https://www.semianalysis.com/p/ai-server-cost-analysis-memory-is
+	- https://www.supervised.news/ is new but promising quality 
 - Aggregators
 	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly (has [chrome extension](https://github.com/labmlai/chrome-extension)) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
 	- TheSequence https://thesequence.substack.com/about (paid & free)

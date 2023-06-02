@@ -11,3 +11,6 @@ https://www.nature.com/articles/d41586-023-00641-w
 
 https://twitter.com/WenhuChen/status/1660832837715611648?s=20
 math benchmarks
+
+
+openai MATH model https://openai.com/research/improving-mathematical-reasoning-with-process-supervision?utm_source=bensbites&utm_medium=newsletter&utm_campaign=openai-s-roadmap
