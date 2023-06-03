@@ -46,6 +46,10 @@ prompt engineering techniques
 	-   [Automatic Prompt Design](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#automatic-prompt-design)
 - https://wandb.ai/a-sh0ts/langchain_callback_demo/reports/Prompt-Engineering-LLMs-with-LangChain-and-W-B--VmlldzozNjk1NTUw?utm_source=twitter&utm_medium=social&utm_campaign=langchain
 - andrew ng's prompt engineering course with openai https://twitter.com/AndrewYNg/status/1651605660382134274
+- notable people's tests of gpt
+	- hofstadter bender evonomist questions https://www.lesswrong.com/posts/ADwayvunaJqBLzawa/contra-hofstadter-on-gpt-3-nonsense
+	- donald knuth questions
+	- bill gates questions for gpt4
 
 ## Prompt Tooling
 

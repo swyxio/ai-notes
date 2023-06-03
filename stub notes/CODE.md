@@ -86,7 +86,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 		- why is this not a vscode extension?
 	- E2b - from vasek https://github.com/e2b-dev/e2b
 - the pandas extension thing - https://github.com/approximatelabs/sketch 
-	- built on lambdaprompt https://github.com/approximatelabs/lambdaprompt
+ 	- built on lambdaprompt https://github.com/approximatelabs/lambdaprompt
 	- pandas dataframe chat https://github.com/gventuri/pandas-ai
 	- prefectio marvin ai
 - custom languages
@@ -113,6 +113,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - code search
 	- Phind https://news.ycombinator.com/item?id=35543668
 	- bloop - AI code search https://news.ycombinator.com/item?id=34892541
+		- private code search w animation
 	- sourcegraph cody
 	stackoverflow.gg https://twitter.com/bentossell/status/1622513022781587456
 - What comes after Copilot? My take: a conversation with your codebase! Introducing Tensai, your repo-level code assistant http://TensaiCode.com - jay hacks

@@ -14,6 +14,7 @@
 		- https://www.pinecone.io/learn/langchain/
 	- llamaindex
 	- guardrails 
+	- [scale spellbook](https://twitter.com/russelljkaplan/status/1590183663819718658)
 - vector databases
 
 ## lower code level

@@ -60,6 +60,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 	- failed at constitution https://www.reddit.com/r/ChatGPT/comments/11ha4qo/gptzero_an_ai_detector_thinks_the_us_constitution/
 	- started as a startup https://www.bloomberg.com/news/articles/2023-05-08/gptzero-seeks-to-thwart-plagerism-in-schools-online-media
 	- discriminates against non native english speakers https://news.ycombinator.com/item?id=36019580
+	- more research https://eprint.iacr.org/2023/763
 - https://www.deeplearning.ai/the-batch/issue-192/#detecting-generated-text-three-methods
 	- watermarking
 	- classification (distilbert)
