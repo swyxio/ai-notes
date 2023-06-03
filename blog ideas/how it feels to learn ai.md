@@ -15,3 +15,4 @@
 	- prompting technique
 - stuff that has a paper but nobody has ever tried
 	- or that you cant use
+	- 
