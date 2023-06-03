@@ -382,6 +382,8 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
   - tools that make tools (toolbot.ai)
   - https://lex.page ([announcement](https://twitter.com/nbashaw/status/1581673516360876032))
   - CLI https://twitter.com/KevinAFischer/status/1601883697061380096?s=20
+	  - https://github.com/npiv/chatblade
+	  - https://github.com/simonw/llm
   - Zapier OpenAI integrations https://zapier.com/apps/openai/integrations
   - SlackGPT https://zapier.com/shared/query-gpt-3-via-a-slack-channel/a7551c53beda75b3bf65c315f027de04a4b323ef
   - got3discord moderator https://github.com/Kav-K/GPT3Discord
