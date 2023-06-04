@@ -1,5 +1,8 @@
 reference [[RLHF_RLAIF]]
 
+
+FLAN explainer https://overcast.fm/+_C9fgQTQE/12:05
+
 cohere's instruction tuning
 - https://docs.cohere.ai/docs/command-beta
 
