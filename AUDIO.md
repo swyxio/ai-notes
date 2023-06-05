@@ -26,6 +26,9 @@
   - whisper running on $300 device https://twitter.com/drjimfan/status/1616471309961269250?s=46&t=4t17Fxog8a65leEnHNZwVw
   - whisper can be hosted on https://deepinfra.com/
   - whisperX with diarization https://twitter.com/maxhbain/status/1619698716914622466 https://github.com/m-bain/whisperX Improved timestamps and speaker identification
+  - real time whisper
+	  - https://github.com/davabase/whisper_real_time
+	  - https://github.com/openai/whisper/discussions/608
   - whisper as a service self hosting GUI and queueing https://github.com/schibsted/WAAS
   - Live microphone demo (not real time, it still does it in chunks) [https://github.com/mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic)
   - Whisper webservice ([https://github.com/ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice)) - via this thread
