@@ -153,6 +153,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - karpathy wants tokenization to go away https://twitter.com/karpathy/status/1657949234535211009
 	  - positional encoding not needed for decoder only https://twitter.com/a_kazemnejad/status/1664277559968927744?s=20
   - creates its own language https://twitter.com/giannis_daras/status/1531693104821985280
+  - Google Cloud Generative AI Learning Path https://www.cloudskillsboost.google/paths/118
   - img2img https://andys.page/posts/how-to-draw/
   - on language modeling https://lena-voita.github.io/nlp_course/language_modeling.html and approachable but technical explanation of language generation including sampling from distributions and some mechanistic intepretability (finding neuron that tracks quote state)
   - quest for photorealism https://www.reddit.com/r/StableDiffusion/comments/x9zmjd/quest_for_ultimate_photorealism_part_2_colors/

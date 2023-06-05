@@ -251,13 +251,14 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 
 ## Top GPT3 Prompt Engineering Reads
 
-- Overview
+- **Overview**
   - https://www.gwern.net/GPT-3#prompts-as-programming
   - https://andymatuschak.org/prompts/
   - https://every.to/superorganizers/linus-lee-is-living-with-ai
-- Beginner
+- **Beginner**
   - go through all the GPT3 examples https://beta.openai.com/examples
-- Intermediate
+  - GPT Best practices https://platform.openai.com/docs/guides/gpt-best-practices
+- **Intermediate**
   - and deploy GPT2 https://huggingface.co/gpt2
   - play with the smaller GPT3 models https://beta.openai.com/docs/models/gpt-3
   - technique: self-asking, two step prompts https://twitter.com/OfirPress/status/1577302998136819713

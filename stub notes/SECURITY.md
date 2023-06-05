@@ -45,3 +45,5 @@ https://royapakzad.substack.com/p/old-advocacy-new-algorithms
 	- list of injections https://news.ycombinator.com/item?id=35905876#35910655
 - cadera
 	- llm security thingy - from the CRV CBRE founders you should know event
+- Credal.ai
+	- https://news.ycombinator.com/item?id=36197607
