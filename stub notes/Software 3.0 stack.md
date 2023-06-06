@@ -26,6 +26,7 @@
 ## lower code level
 
 - hugginface transformers https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt
+- lightning https://twitter.com/_willfalcon/status/1665826619200614401
 
 
 
