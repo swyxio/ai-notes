@@ -99,6 +99,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- yet another https://news.ycombinator.com/item?id=34591733
 	- https://github.com/Nutlope/aicommits
 	- https://github.com/di-sukharev/opencommit
+- https://github.com/paul-gauthier/aider
 - vscode extensions
 	- https://newsletter.pragmaticengineer.com/p/ai-coding-tools
 	- ![https://media.licdn.com/dms/image/D4D22AQEA0JDCbyh_lQ/feedshare-shrink_2048_1536/0/1681887453686?e=1686182400&v=beta&t=0HfD2mXzDFC1Oc0S6twegX09lRb1WIui97jpcWK5qV8](https://media.licdn.com/dms/image/D4D22AQEA0JDCbyh_lQ/feedshare-shrink_2048_1536/0/1681887453686?e=1686182400&v=beta&t=0HfD2mXzDFC1Oc0S6twegX09lRb1WIui97jpcWK5qV8)

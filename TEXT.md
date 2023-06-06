@@ -370,6 +370,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 - Summarizers
 	- explainpaper
 	- kagi universal summarizer https://labs.kagi.com/ai/sum?url=airbyte.io
+	- https://github.com/josStorer/chatGPTBox Integrating ChatGPT into your browser deeply, everything you need is here
 - SQL
 	  - preplexity.ai/sql
 	    - https://twitter.com/perplexity_ai/status/1605250295780773889
