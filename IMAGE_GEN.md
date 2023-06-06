@@ -573,6 +573,7 @@ Trained examples
 - inspirations
 	- https://www.reddit.com/r/StableDiffusion/comments/11ku886/controlnet_unlimited_album_covers_graphic_design/
 	- https://www.reddit.com/r/StableDiffusion/comments/11bp30o/tech_companies_as_charcuterie_boards_controlnet/
+- controlnet qr code stable diffusion https://twitter.com/ben_ferns/status/1665907480600391682?s=20
 
 #### SD Tooling
 

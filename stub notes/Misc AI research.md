@@ -5,7 +5,7 @@ Brain Computer Interfaces
 - https://twitter.com/blader/status/1653227100030255106/photo/1
 	- in a new peer reviewed paper published in nature, researchers reliably recovered actual thoughts by combining fmri data with gpt synthesis.
 - https://roonscape.ai/p/agi-futures
-	- 
+- apple https://twitter.com/sterlingcrispin/status/1665792422914453506
 
 ## after transformers
 
