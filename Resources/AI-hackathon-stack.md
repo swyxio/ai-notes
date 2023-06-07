@@ -99,7 +99,6 @@ This category is for **infra and tools** catering to AI app developers, in contr
 
 - **Tools to explore**
   - **Serverless GPUs**
-    - https://exafunction.com/ Exafunction optimizes your deep learning inference workload, delivering up to a 10x improvement in resource utilization and cost.
     - https://www.banana.dev/ Scale your machine learning inference and training on serverless GPUs.
     - https://brev.dev/ The simplest way to create a dev environment with a GPU. Don't worry about dependencies, CUDA, SSH, or anything else. Up to 94% cheaper GPUs than AWS. For example: here's a guide to get a GPU dev environment to train your own Dreambooth model in ~4 min 🤙 https://brev.dev/docs/guides/dreambooth
     - https://lambdalabs.com/ GPU cloud built for deep learning. Instant access to the best prices for cloud GPUs on the market. No commitments or negotiations required. Save over 73% vs AWS, Azure, and GCP. Configured for deep learning with PyTorch®, TensorFlow, Jupyter
