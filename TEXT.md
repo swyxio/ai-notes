@@ -164,6 +164,8 @@ Brief history: https://agi-sphere.com/llama-models/
   - https://news.ycombinator.com/item?id=33796158
   - https://twitter.com/togethercompute/status/1597611474771668997
   - https://huggingface.co/spaces/togethercomputer/GPT-JT
+- Falcon
+	- https://twitter.com/Francis_YAO_/status/1666833311279517696
 - GPT 3.5 (https://beta.openai.com/docs/model-index-for-researchers)
   - code-davinci-002 is a base model, so good for pure code-completion tasks
   - text-davinci-002 is an InstructGPT model based on code-davinci-002
