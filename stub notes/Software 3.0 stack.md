@@ -29,6 +29,19 @@
 - lightning https://twitter.com/_willfalcon/status/1665826619200614401
 
 
+## vector databases
+
+- chroma
+- pinecone
+- weaviate
+- qdrant
+- postgres
+	- supabase vector
+
+ETL
+- psychic.dev
+
+
 
 
 
