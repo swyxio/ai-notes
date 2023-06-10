@@ -63,3 +63,11 @@ attention visualization https://catherinesyeh.github.io/attn-docs/
 ## flash attention
 
 https://twitter.com/amanrsanger/status/1657835933503479808?s=46&t=90xQ8sGy63D2OtiaoGJuww
+
+
+## transformer interpretability
+
+openai had a  gpt labeling gpt paper
+
+https://twitter.com/generatorman_ai/status/1664410300110766082?s=20
+- Induction heads, modular addition, indirect object circuit, OthelloGPT.
