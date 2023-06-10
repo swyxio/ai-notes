@@ -238,6 +238,14 @@ Subject to limitations
 			- now https://github.com/lencx/nofwl
 		- https://github.com/Niek/chatgpt-web
 		- nextjs starter https://github.com/enricoros/nextjs-chatgpt-app
+		- open source chatgpt UIs https://github.com/itsuka-dev/awesome-chatgpt-ui
+		- In addition to the usual speech synthesis/recognition and embedding/vector search features, there are also:
+				- Node layout
+				- Multiple LLMs and parallel output
+				- 3D avatar
+				- Selection + custom context menu (for extensions)
+				- Native app integration such as Siri and Calendar (for Shortcut in Apple ecosystem)
+				- ntes from maintainer https://news.ycombinator.com/item?id=35909273
 	- https://www.chatpdf.com/ 
 	- https://github.com/npiv/chatblade cli chatgpt
 	- https://github.com/ejfox/coachartie_discord/blob/master/index.js twitter assistant with memory in supabase
@@ -557,6 +565,7 @@ threads that recap stuff above
 - [Awesome-totally-open-ChatGPT: A list of open alternatives to ChatGPT](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 - HuggingChat - open source AI chat model - openassistant
 	- https://huggingface.co/chat/
+	- https://github.com/huggingface/chat-ui
 - https://github.com/BlinkDL/ChatRWKV
 - https://dagster.io/blog/chatgpt-langchain
 - https://gpt4all.io/index.html GPT4All - A free-to-use, locally running, privacy-aware chatbot. **No GPU or internet required.**
