@@ -115,7 +115,9 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- Phind https://news.ycombinator.com/item?id=35543668
 	- bloop - AI code search https://news.ycombinator.com/item?id=34892541
 		- private code search w animation
+		- https://news.ycombinator.com/item?id=36260961
 	- sourcegraph cody
+	- buildt
 	stackoverflow.gg https://twitter.com/bentossell/status/1622513022781587456
 - What comes after Copilot? My take: a conversation with your codebase! Introducing Tensai, your repo-level code assistant http://TensaiCode.com - jay hacks
 - Tabby - Self Hosted GitHub Copilot https://news.ycombinator.com/item?id=35470915
