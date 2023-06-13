@@ -251,12 +251,13 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 - summary thread https://twitter.com/samuelwoods_/status/1642889718336479233?s=20
 
 
-## Top GPT3 Prompt Engineering Reads
+## Top GPT Prompt Engineering Reads
 
 - **Overview**
   - https://www.gwern.net/GPT-3#prompts-as-programming
   - https://andymatuschak.org/prompts/
   - https://every.to/superorganizers/linus-lee-is-living-with-ai
+  - https://platform.openai.com/docs/guides/gpt-best-practices
 - **Beginner**
   - go through all the GPT3 examples https://beta.openai.com/examples
   - GPT Best practices https://platform.openai.com/docs/guides/gpt-best-practices
@@ -276,6 +277,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
   - solving advent of code https://github.com/max-sixty/aoc-gpt/blob/main/openai.py
   - integrating Google Search with GPT3: https://twitter.com/OfirPress/status/1577302733383925762
   - teach AI how to fish - You are X, you can do Y: https://github.com/nat/natbot/blob/main/natbot.py
+  - https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf Prompt Alternating, Editing, Weighting, Blending, Fusion
   - play with gpt-neoX and gpt-j https://neox.labml.ai/playground
   - defense against prompt injection https://twitter.com/goodside/status/1578278974526222336
   - whatever the f this is https://twitter.com/goodside/status/1578614244290924545

@@ -129,6 +129,20 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 
   - **State of AI Report**: [2018](https://www.stateof.ai/2018), [2019](https://www.stateof.ai/2019), [2020](https://www.stateof.ai/2020), [2021](https://www.stateof.ai/2021), [2022](https://www.stateof.ai/)
   - reverse chronological major events https://bleedingedge.ai/
+  - A16z AI Canon https://a16z.com/2023/05/25/ai-canon/
+	  -  **[Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)**: Andrej Karpathy was one of the first to clearly explain (in 2017!) why the new AI wave really matters. His argument is that AI is a new and powerful way to program computers. As LLMs have improved rapidly, this thesis has proven prescient, and it gives a good mental model for how the AI market may progress.
+	-   **[State of GPT](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)**: Also from Karpathy, this is a very approachable explanation of how ChatGPT / GPT models in general work, how to use them, and what directions R&D may take.
+	-   [**What is ChatGPT doing … and why does it work?**](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/): Computer scientist and entrepreneur Stephen Wolfram gives a long but highly readable explanation, from first principles, of how modern AI models work. He follows the timeline from early neural nets to today’s LLMs and ChatGPT.
+	-   **[Transformers, explained](https://daleonai.com/transformers-explained)**: This post by Dale Markowitz is a shorter, more direct answer to the question “what is an LLM, and how does it work?” This is a great way to ease into the topic and develop intuition for the technology. It was written about GPT-3 but still applies to newer models.
+	-   **[How Stable Diffusion works](https://mccormickml.com/2022/12/21/how-stable-diffusion-works/)**: This is the computer vision analogue to the last post. Chris McCormick gives a layperson’s explanation of how Stable Diffusion works and develops intuition around text-to-image models generally. For an even _gentler_ introduction, check out this [comic](https://www.reddit.com/r/StableDiffusion/comments/zs5dk5/i_made_an_infographic_to_explain_how_stable/) from r/StableDiffusion.
+	- Explainers
+		-   [**Deep learning in a nutshell: core concepts**](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/): This four-part series from Nvidia walks through the basics of deep learning as practiced in 2015, and is a good resource for anyone just learning about AI.
+		-   **[Practical deep learning for coders](https://course.fast.ai/)**: Comprehensive, free course on the fundamentals of AI, explained through practical examples and code.
+		-   **[Word2vec explained](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71)**: Easy introduction to embeddings and tokens, which are building blocks of LLMs (and all language models).
+		-   **[Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)**: More in-depth post on back-propagation if you want to understand the details. If you want even more, try the [Stanford CS231n lecture](https://www.youtube.com/watch?v=i94OvYb6noo) on Youtube.
+	- Courses
+		-   **[Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)**: Introduction to Machine Learning with Andrew Ng, covering the fundamentals of machine learning.
+		-   **[Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)**: NLP with Deep Learning with Chris Manning, covering NLP basics through the first generation of LLMs.
   - https://cims.nyu.edu/~sbowman/eightthings.pdf
 	  1. LLMs predictably get more capable with increasing investment, even without targeted innovation. 
 	  2. Many important LLM behaviors emerge unpredictably as a byproduct of increasing investment. 
@@ -370,6 +384,9 @@ This list will be out of date but will get you started. My live list of people t
 -  Appending prompts by default in UI
   -  DALLE: https://twitter.com/levelsio/status/1588588688115912705?s=20&t=0ojpGmH9k6MiEDyVG2I6gg
 - There have been two previous winters, one 1974-1980 and one 1987-1993. https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/
+- It's just matrix multiplication/stochastic parrots
+	- Even LLM skeptic Yann LeCun says LLMs have some level of understanding: https://twitter.com/ylecun/status/1667947166764023808
+	- 
 
 
 

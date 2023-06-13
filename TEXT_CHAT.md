@@ -239,6 +239,7 @@ Subject to limitations
 		- https://github.com/Niek/chatgpt-web
 		- nextjs starter https://github.com/enricoros/nextjs-chatgpt-app
 		- open source chatgpt UIs https://github.com/itsuka-dev/awesome-chatgpt-ui
+			- https://github.com/oobabooga/text-generation-webui/
 		- In addition to the usual speech synthesis/recognition and embedding/vector search features, there are also:
 				- Node layout
 				- Multiple LLMs and parallel output

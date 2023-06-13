@@ -60,6 +60,33 @@ https://kipp.ly/blog/transformer-taxonomy/
 
 attention visualization https://catherinesyeh.github.io/attn-docs/
 
+### Explainers
+
+-   [**The illustrated transformer**](https://jalammar.github.io/illustrated-transformer/): A more technical overview of the transformer architecture by Jay Alammar.
+-   **[The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)**: In-depth post if you want to understand transformers at a source code level. Requires some knowledge of PyTorch.
+-   [**Let’s build GPT: from scratch, in code, spelled out**](https://www.youtube.com/watch?v=kCc8FmEb1nY): For the engineers out there, Karpathy does a video walkthrough of how to build a GPT model.
+-   **[The illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)****:** Introduction to latent diffusion models, the most common type of generative AI model for images.
+-   **[RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)**: Chip Huyen explains RLHF, which can make LLMs behave in more predictable and human-friendly ways. This is one of the most important but least well-understood aspects of systems like ChatGPT.
+-   [**Reinforcement learning from human feedback**](https://www.youtube.com/watch?v=hhiLw5Q_UFg): Computer scientist and OpenAI cofounder John Shulman goes deeper in this great talk on the current state, progress and limitations of LLMs with RLHF.
+
+### Courses
+
+-   [**Stanford CS25**](https://www.youtube.com/watch?v=P127jhj-8-Y): Transformers United, an online seminar on Transformers.
+-   **[Stanford CS324](https://stanford-cs324.github.io/winter2022/)**: Large Language Models with Percy Liang, Tatsu Hashimoto, and Chris Re, covering a wide range of technical and non-technical aspects of LLMs.
+
+### Reference and commentary
+
+-   **[Predictive learning, NIPS 2016](https://www.youtube.com/watch?v=Ount2Y4qxQo&t=1072s)**: In this early talk, Yann LeCun makes a strong case for unsupervised learning as a critical element of AI model architectures at scale. Skip to [19:20](https://youtu.be/Ount2Y4qxQo?t=1160) for the famous cake analogy, which is still one of the best mental models for modern AI.
+-   [**AI for full-self driving at Tesla**](https://www.youtube.com/watch?v=hx7BXih7zx8): Another classic Karpathy talk, this time covering the Tesla data collection engine. Starting at [8:35](https://youtu.be/hx7BXih7zx8?t=515) is one of the great all-time AI rants, explaining why long-tailed problems (in this case stop sign detection) are so hard.
+-   **[The scaling hypothesis](https://gwern.net/scaling-hypothesis)**: One of the most surprising aspects of LLMs is that scaling — adding more data and compute — just keeps increasing accuracy. GPT-3 was the first model to demonstrate this clearly, and Gwern’s post does a great job explaining the intuition behind it.
+-   [**Chinchilla’s wild implications**](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications): Nominally an explainer of the important Chinchilla paper (see below), this post gets to the heart of the big question in LLM scaling: are we running out of data? This builds on the post above and gives a refreshed view on scaling laws.
+-   **[A survey of large language models](https://arxiv.org/pdf/2303.18223v4.pdf)**: Comprehensive breakdown of current LLMs, including development timeline, size, training strategies, training data, hardware, and more.
+-   [**Sparks of artificial general intelligence: Early experiments with GPT-4**](https://arxiv.org/abs/2303.12712): Early analysis from Microsoft Research on the capabilities of GPT-4, the current most advanced LLM, relative to human intelligence.
+-   [**The AI revolution: How Auto-GPT unleashes a new era of automation and creativity**](https://pub.towardsai.net/the-ai-revolution-how-auto-gpt-unleashes-a-new-era-of-automation-and-creativity-2008aa2ca6ae): An introduction to Auto-GPT and AI agents in general. This technology is very early but important to understand — it uses internet access and self-generated sub-tasks in order to solve specific, complex problems or goals.
+-   **[The Waluigi Effect](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post)**: Nominally an explanation of the “Waluigi effect” (i.e., why “alter egos” emerge in LLM behavior), but interesting mostly for its deep dive on the theory of LLM prompting.
+
+
+
 ## flash attention
 
 https://twitter.com/amanrsanger/status/1657835933503479808?s=46&t=90xQ8sGy63D2OtiaoGJuww

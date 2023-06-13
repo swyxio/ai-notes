@@ -360,6 +360,7 @@ Required reading:
 - **iPhone/iPad Distros**
   - https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820
   - another attempt that was paused https://www.cephalopod.studio/blog/on-creating-an-on-device-stable-diffusion-app-amp-deciding-not-to-release-it-adventures-in-ai-ethics
+  - https://snap-research.github.io/SnapFusion/ SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds
 - **Finetuned Distros**
   - [Arcane Diffusion](https://huggingface.co/spaces/anzorq/arcane-diffusion) a fine-tuned Stable Diffusion model trained on images from the TV Show Arcane.
   - [Spider-verse Diffusion](https://huggingface.co/nitrosocke/spider-verse-diffusion) rained on movie stills from Sony's Into the Spider-Verse. Use the tokens spiderverse style in your prompts for the effect.
