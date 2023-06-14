@@ -22,7 +22,7 @@
 - portkey https://twitter.com/jumbld/status/1648684887988117508?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - helicone 
 - Ozone - prompt unit testing https://twitter.com/at_sushi_/status/1667004844153131008
-
+- https://log10.io/ - pivoting to llm quality monitoring
 
 ## lower code level
 
