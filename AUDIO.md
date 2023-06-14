@@ -113,6 +113,7 @@ https://news.ycombinator.com/item?id=33663486
 	- Narakeet
 		- https://twitter.com/jessicard/status/1642867214943412224
 	- https://www.resemble.ai/
+	- https://github.com/coqui-ai/TTS
 - OSS
 	- pyttsx3  [https://pyttsx3.readthedocs.io/en/latest/engine.html](https://pyttsx3.readthedocs.io/en/latest/engine.html)
 	- https://github.com/lucidrains/audiolm-pytorch Implementation of [AudioLM](https://google-research.github.io/seanet/audiolm/examples/), a Language Modeling Approach to Audio Generation out of Google Research, in Pytorch It also extends the work for conditioning with classifier free guidance with T5. This allows for one to do text-to-audio or TTS, not offered in the paper.
