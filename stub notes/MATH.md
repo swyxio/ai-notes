@@ -14,3 +14,7 @@ math benchmarks
 
 
 openai MATH model https://openai.com/research/improving-mathematical-reasoning-with-process-supervision?utm_source=bensbites&utm_medium=newsletter&utm_campaign=openai-s-roadmap
+
+
+
+anton coq proof model https://github.com/atroyn/math-llm https://twitter.com/atroyn/status/1669111844680900609?s=46&t=90xQ8sGy63D2OtiaoGJuww

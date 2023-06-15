@@ -16,6 +16,10 @@ https://txt.cohere.ai/future-of-semantic-search-nils-reimers/
 > A big issue with lexical search is the _lexical gap_. If a user searches for “United States,” then relevant documents mentioning “U.S.” will not be found. Semantic search is a search technique that is focused on understanding the intent of a user’s query and trying to find the most relevant documents for this intent. So, instead of retrieving just the documents that have some word overlap with the search query, semantic search retrieves results that are actually useful for the user. In many cases, this leads to far better search results, and users find information more quickly.
 
 
+most semantic search hallucinates text
+- https://twitter.com/BlancheMinerva/status/1669086718413135875?s=20
+
+
 ## embeddings
 
 - openai embeddings analysis and criticism https://twitter.com/Nils_Reimers/status/1487014195568775173 with alternative embeddings

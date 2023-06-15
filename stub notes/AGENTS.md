@@ -144,3 +144,10 @@ https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven?sd=pf #
 https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/
 
 there was a google thing as well. something like XP1?
+
+
+
+## agent platforms
+
+- https://superagent.sh/
+- e2b
