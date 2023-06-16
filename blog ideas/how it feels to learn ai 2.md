@@ -1,0 +1,17 @@
+
+- 
+- terms
+	- mode collapse (janus lesswrong)
+		- society became extremely mid
+	- waluigi
+	- solidgoldmagikarp
+	- stochastic parrots
+	- biological timelines
+- trends
+	- nobody uses positioninal encoding anymore
+		- rotational encoding
+		- alibi
+		- nope encoding https://twitter.com/a_kazemnejad/status/1664277559968927744?s=20
+	- prompting technique
+- stuff that has a paper but nobody has ever tried
+	- or that you cant use
