@@ -120,6 +120,8 @@ Brief history: https://agi-sphere.com/llama-models/
 		- openllama the release of preview of the 7B OpenLLaMA model that has been trained with 200 billion tokens on the RedPajama dataset.
 			- https://github.com/openlm-research/open_llama
 			- finetune openllama https://twitter.com/akshat_b/status/1658123298654355457
+			- https://huggingface.co/openlm-research/open_llama_13bh
+				- cant be used for code https://news.ycombinator.com/item?id=36383332
 	- [Researchers from  UC Berkeley, CMU, Stanford, and UC San Diego open sourced Vicuna](https://vicuna.lmsys.org/), a fine-tuned version of LLama that matches GPT-4 performance.
 	-   [Berkeley AI Research Institute(BAIR) released Koala](https://bair.berkeley.edu/blog/2023/04/03/koala/), a version of LLama fine-tuned using internet dialogs.
 	-   [Nebuly open sourced ChatLLama](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama), a framework for creating conversational assistants using your own data.

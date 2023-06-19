@@ -137,6 +137,9 @@ https://news.ycombinator.com/item?id=33663486
 	- [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) (for very specific non-english purposes, and I was willing to wrangle IPA)
 	- Vall-E to synthesize https://twitter.com/DrJimFan/status/1622637578112606208?s=20
 		- microsoft?
+- research unreleased
+	- google had something with morgan freeman voice
+	- meta voicebox https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/
 
 ### misc tooling
 
