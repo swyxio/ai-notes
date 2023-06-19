@@ -270,6 +270,8 @@ Subject to limitations
 - python https://github.com/taranjeet/chatgpt-api
 - nodejs https://github.com/transitive-bullshit/chatgpt-api
 - code editors
+	- CodeGPT https://twitter.com/dani_avila7/status/1668740802606952456
+		- Available models: google/flan-t5-xxl HuggingFaceH4/starchat-beta tiiuae/falcon-7b-instruct
 	- vscode 
 		- extension https://github.com/mpociot/chatgpt-vscode
 		- qqbot https://twitter.com/danlovesproofs/status/1610073694222848007

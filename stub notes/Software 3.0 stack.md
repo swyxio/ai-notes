@@ -9,6 +9,9 @@
 
 - owning the endpoint
 	- OpenLM - https://github.com/r2d4/openlm OpenAI-compatible Python client that can call any LLM
+- SDK wrappers
+	- https://github.com/minimaxir/simpleaichat
+	- https://github.com/vercel-labs/ai
 - prompt tooling
 	- langchain
 		- https://www.pinecone.io/learn/langchain/

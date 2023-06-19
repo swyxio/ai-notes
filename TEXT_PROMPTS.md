@@ -29,6 +29,7 @@ prompt engineering techniques
 - https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://github.com/brexhq/prompt-engineering ([HN](https://news.ycombinator.com/item?id=35942583))
 - https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://news.ycombinator.com/item?id=36196113)
 - In [How Many Data Points is a Prompt Worth?](https://arxiv.org/abs/2103.08493) (2021), ​​Scao and Rush found that a prompt is worth approximately 100 examples (caveat: variance across tasks and models is high – see image below). The general trend is that **as you increase the number of examples, finetuning will give better model performance than prompting**. There’s no limit to how many examples you can use to finetune a model.
 	- A cool idea that is between prompting and finetuning is **[prompt tuning](https://arxiv.org/abs/2104.08691)**, introduced by Leister et al. in 2021. Starting with a prompt, instead of changing this prompt, you programmatically change the embedding of this prompt. For prompt tuning to work, you need to be able to input prompts’ embeddings into your LLM model and generate tokens from these embeddings, which currently, can only be done with open-source LLMs and not in OpenAI API. 
 - https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/

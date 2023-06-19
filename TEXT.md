@@ -101,7 +101,7 @@ Model Evolution/Family trees
 
 ### LLaMa and variants
 
-Brief history: https://agi-sphere.com/llama-models/
+Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com/item?id=35736872
 
 - https://github.com/facebookresearch/llama
 	- [Paper](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=vopDLpNfG6gAX84qs6h&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDipCb80g49Ksfxrjxiy7mOOl8ZoBO5QScseom5FDM14Q&oe=641984E2)
@@ -109,6 +109,7 @@ Brief history: https://agi-sphere.com/llama-models/
 	- run on cpus https://github.com/facebookresearch/llama/compare/main...markasoftware:llama-cpu:main (its slow)
 	- run on macs https://github.com/remixer-dec/llama-mps
 	- `npx dalai llama` https://cocktailpeanut.github.io/dalai/#/
+	- run on iphone [https://mlc.ai/mlc-llm/](https://t.co/sSmUeGJu6T)
 	- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
 	- outputs are not very good https://news.ycombinator.com/item?id=35258553
