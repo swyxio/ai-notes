@@ -81,7 +81,8 @@ This Readme is just the high level overview of the space; you should see the mos
 	- base10 market map https://twitter.com/letsenhance_io/status/1594826383305449491
 	- matt shumer market map https://twitter.com/mattshumer_/status/1620465468229451776 https://docs.google.com/document/d/1sewTBzRF087F6hFXiyeOIsGC1N4N3O7rYzijVexCgoQ/edit
 	- nfx https://www.nfx.com/post/generative-ai-tech-5-layers?ref=context-by-cohere
-	- a16z https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/?ref=context-by-cohere
+	- a16z https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
+		- https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/
 	- madrona https://www.madrona.com/foundation-models/
 - game assets - 
 	- emad thread https://twitter.com/EMostaque/status/1591436813750906882
