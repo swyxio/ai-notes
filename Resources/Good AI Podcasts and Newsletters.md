@@ -51,4 +51,6 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Pete Huang's The Neuron https://www.theneurondaily.com/
 	- Lior AlphaSignal https://alphasignal.ai/
 	- Bot Eat Brain https://www.boteatbrain.com/
+	- https://codingwithintelligence.com/ (new but promising)
+	- https://generallyintelligent.substack.com/ (daily bitesize news)
 - Mine :) https://latent.space/
