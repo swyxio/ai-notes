@@ -88,6 +88,9 @@ floating-point operations/second per $ doubles every ~2.5 years. https://epochai
 
 computer requirements to train gpt4 https://twitter.com/matthewjbar/status/1605328925789278209?s=46&t=fAgqJB7GXbFmnqQPe7ss6w
 
+
+1760 Bp takes ~ 1760 Gb of (V)RAM when 8-bit quantized. Plus you will need some memory for state. So you will need at least 1760/24=74 consumer-grade GPUs (3090/4090) or 1760/80=22 professional-grade GPUs (A100/H100). https://news.ycombinator.com/item?id=36421308
+
 ### human equivalent
 
 human brain math https://twitter.com/txhf/status/1613239816770191361?s=20
