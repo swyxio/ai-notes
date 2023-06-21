@@ -137,7 +137,7 @@ https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven?sd=pf #
 ## OSS agent implementations
 
 - Wove https://github.com/zckly/wove long running workflows 
-- 
+- Smallville - similar to the Simulacra paper https://github.com/nickm980/smallville
 
 ## Robotics
 

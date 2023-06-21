@@ -34,6 +34,7 @@ llama datasets
 	-   **Github (4.5%)**: Public GitHub dataset available on Google BigQuery.
 	-   **Wikipedia (4.5%)**: From June-August 2022 period covering 20 languages.
 	-   **Gutenberg and Books3 (4.5%)**: Both are book datasets.
+		- https://gregoreite.com/drilling-down-details-on-the-ai-training-datasets/ books1 and books2
 	-   **ArXiv (45%)**: Scientific data.
 	-   **StackExchange (2%)**: High-quality Q&As covering science and engineering topics.
 
