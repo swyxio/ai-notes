@@ -1,4 +1,4 @@
-Brain Computer Interfaces
+## Brain Computer Interfaces
 - mind-vis 
 	- Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked Modeling for Vision Decoding https://mind-vis.github.io/
 - https://twitter.com/willettneuro/status/1617245600898248704?s=46&t=ZSeI0ovGBee8JBeXEe20Mg
@@ -6,6 +6,7 @@ Brain Computer Interfaces
 	- in a new peer reviewed paper published in nature, researchers reliably recovered actual thoughts by combining fmri data with gpt synthesis.
 - https://roonscape.ai/p/agi-futures
 - apple https://twitter.com/sterlingcrispin/status/1665792422914453506
+- prophetic https://twitter.com/propheticai/status/1671906332058824705?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 ## after transformers
 
