@@ -293,6 +293,7 @@ Subject to limitations
 - open source clones
 	- https://youtu.be/QkhPrdJEqgA yannic clone
 	- Petals distributed chat clone https://github.com/borzunov/chat.petals.ml
+- SimpleAI chat SDK https://github.com/minimaxir/simpleaichat
 
 ### Usecases
 

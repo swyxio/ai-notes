@@ -49,4 +49,4 @@ https://royapakzad.substack.com/p/old-advocacy-new-algorithms
 - cadera
 	- llm security thingy - from the CRV CBRE founders you should know event
 - Credal.ai
-	- https://news.ycombinator.com/item?id=36197607
+	- https://news.ycombinator.com/item?id=36197607 - legal MSAs with all model providers. controls to prevent PII from reaching models

@@ -36,6 +36,9 @@ code improves reasoning
 - March 2023 - Codium AI - 11m seed - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-and-raised-11m/
 - April 2023 - Replit v1 code 3b announced
 - May 2023 - Huggingface/ServiceNow Starcoder https://techcrunch.com/2023/05/04/hugging-face-and-servicenow-release-a-free-code-generating-model/?guccounter=1
+- June 2023 - phi-1 beats chatgpt at coding with 1.3b parameters, and only 7B tokens _for several epochs_ of pretraining data. 1/7th of that data being synthetically generated :O The rest being extremely high quality textbook data https://twitter.com/Teknium1/status/1671336110684012545?s=20
+	- https://twitter.com/EldanRonen/status/1671361731837456385
+	- https://twitter.com/SebastienBubeck/status/1671326369626853376?s=20
 
 ## Known Issues
 

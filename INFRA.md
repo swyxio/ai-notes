@@ -88,12 +88,10 @@ floating-point operations/second per $ doubles every ~2.5 years. https://epochai
 
 computer requirements to train gpt4 https://twitter.com/matthewjbar/status/1605328925789278209?s=46&t=fAgqJB7GXbFmnqQPe7ss6w
 
-
-1760 Bp takes ~ 1760 Gb of (V)RAM when 8-bit quantized. Plus you will need some memory for state. So you will need at least 1760/24=74 consumer-grade GPUs (3090/4090) or 1760/80=22 professional-grade GPUs (A100/H100). https://news.ycombinator.com/item?id=36421308
-
 ### human equivalent
 
 human brain math https://twitter.com/txhf/status/1613239816770191361?s=20
+- Let's say the brain is in the zettaFLOP/s range. That's 10^21 FLOP/s. Training GPT-3 took 10^23 FLOPS total over 34 days. 34 days has 2937600 seconds. 10^23/10^7 is about 10^16 FLOP/s. So by this back of the envelope computation the brain has about 4 orders of magnitude more capacity, or 1000x. This makes a lot of sense, they're using a pettaFLOP/s supercomputer basically which we already knew. We'll have zettaFLOP/s supercomputers soon, yottaFLOP/s, people are worried we're going to hit some fundamental physical limits before we get there. https://news.ycombinator.com/item?id=36414780
 
 2018 - "ai and compute" report
 

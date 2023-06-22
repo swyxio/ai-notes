@@ -34,7 +34,6 @@ llama datasets
 	-   **Github (4.5%)**: Public GitHub dataset available on Google BigQuery.
 	-   **Wikipedia (4.5%)**: From June-August 2022 period covering 20 languages.
 	-   **Gutenberg and Books3 (4.5%)**: Both are book datasets.
-		- https://gregoreite.com/drilling-down-details-on-the-ai-training-datasets/ books1 and books2
 	-   **ArXiv (45%)**: Scientific data.
 	-   **StackExchange (2%)**: High-quality Q&As covering science and engineering topics.
 
@@ -76,5 +75,9 @@ Label errors
 - https://labelerrors.com/
 - https://dcai.csail.mit.edu/
 	- https://www.youtube.com/watch?v=ayzOzZGHZy4&list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5
+
+
+labelers cheating https://arxiv.org/abs/2306.07899
+- We reran an abstract summarization task from the literature on Amazon Mechanical Turk and, through a combination of keystroke detection and synthetic text classification, estimate that 33-46% of crowd workers used LLMs when completing the task.
 
 running out of data - repeat it? https://twitter.com/XueFz/status/1660867457903632385

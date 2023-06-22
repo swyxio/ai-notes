@@ -15,6 +15,8 @@
 - ChatDoctor
 	- To address this issue, we collected more than 700 diseases and their corresponding symptoms, required medical tests, and recommended medications, from which we generated 5K doctor-patient conversations. By fine-tuning LLMs using these tailored doctor-patient conversations, the resulting models emerge with great potential to understand patients' needs, provide informed advice, and offer valuable assistance in a variety of medical-related fields. 
 	- arxiv.org/pdf/2303.14070v2.pdf
+- hippocratic ai https://www.forbes.com/sites/katiejennings/2023/06/12/lawsuits-allege-this-startup-ripped-off-millions-from-vendors-andreessen-horowitz-backed-the-former-ceos-new-company-anyway/?sh=45c7ba2b3268
+
 
 ## Healthcare  products
 

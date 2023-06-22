@@ -91,6 +91,8 @@
 
 ## SD vs DallE vs MJ
 
+June 2023: https://news.ycombinator.com/item?id=36407272
+
 DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025?s=20&t=GCU5prherJvKebRrv9urdw
 
 [![https://i.redd.it/fqgv82ihav9a1.png](https://i.redd.it/fqgv82ihav9a1.png)](https://www.reddit.com/r/dalle2/comments/102eov5/who_did_it_better_dalle_2_midjourney_and_stable/?s=8) but keep in mind that Dalle2 [doesnt respond well](https://www.reddit.com/r/dalle2/comments/waax7p/realistic_and_photorealistic_keywords_give/) to "photorealistic"
@@ -389,6 +391,8 @@ Required reading:
 Main Stable Diffusion repo: https://github.com/CompVis/stable-diffusion
 - Tensorflow/Keras impl: https://github.com/divamgupta/stable-diffusion-tensorflow
 - Diffusers library: https://github.com/huggingface/diffusers ([Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb))
+
+OpenJourney: [https://happyaccidents.ai/](https://happyaccidents.ai/), https://www.bluewillow.ai/
 
 | Name/Link 	| Stars 	| Description 	|
 |---	|---	|---	|
