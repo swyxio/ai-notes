@@ -24,7 +24,7 @@ Big list of Text Models
 
 ## Datasets
 
-see [[Datasets]]
+see [[DATASETS]]
 
 ## Language Models
 
