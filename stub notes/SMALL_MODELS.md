@@ -3,6 +3,7 @@
 - [OpenAI’s CEO says the age of giant AI models is already over](https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/) ([wired.com](https://news.ycombinator.com/from?site=wired.com))
 - [In AI, is bigger always better?](https://www.nature.com/articles/d41586-023-00641-w) (Nature)
 - [Matei Zaharia - The future is small models](https://www.youtube.com/watch?v=sCHGWRlydJ8)
+- economist recap https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road
 
 ## opinions
 
