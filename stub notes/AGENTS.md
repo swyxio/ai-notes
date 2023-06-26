@@ -151,3 +151,14 @@ there was a google thing as well. something like XP1?
 
 - https://superagent.sh/
 - e2b
+
+## Openai Function Calling
+
+- read blogpost [https://openai.com/blog/function-calling-and-other-api-updates](https://openai.com/blog/function-calling-and-other-api-updates)
+- function calling
+    - [https://github.com/openai/openai-cookbook/blob/main/examples/How_to_call_functions_for_knowledge_retrieval.ipynb](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_call_functions_for_knowledge_retrieval.ipynb)
+    - [https://github.com/openai/openai-cookbook/blob/main/examples/How_to_call_functions_with_chat_models.ipynb](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_call_functions_with_chat_models.ipynb)
+- [https://news.ycombinator.com/item?id=36480570](https://news.ycombinator.com/item?id=36480570)
+- [https://twitter.com/jaredpalmer/status/1673350963191508993](https://twitter.com/jaredpalmer/status/1673350963191508993)
+- [https://github.com/steven-tey/chathn](https://github.com/steven-tey/chathn)
+    - [https://github.com/steven-tey/chathn/blob/8c62c12079d9e881444d03c67359d1ff4f8032c7/app/api/chat/functions.ts#L114](https://github.com/steven-tey/chathn/blob/8c62c12079d9e881444d03c67359d1ff4f8032c7/app/api/chat/functions.ts#L114)
