@@ -558,6 +558,9 @@ Dreambooth
 	- produces https://twitter.com/rainisto/status/1600563803912929280
 - Art project - faking entire instagram profile for a month using dreambooth https://www.reddit.com/r/StableDiffusion/comments/zkvnyx/using_stablediffusion_and_dreambooth_i_faked_my/
 
+styledrop
+https://twitter.com/natanielruizg/status/1664653573597065225
+
 Trained examples
 - Pixel art animation spritesheets
 	- https://ps.reddit.com/r/StableDiffusion/comments/yj1kbi/ive_trained_a_new_model_to_output_pixel_art/
