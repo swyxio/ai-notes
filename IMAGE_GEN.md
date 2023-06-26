@@ -386,7 +386,7 @@ Required reading:
   - https://rentry.org/voldy
   - https://rentry.org/GUItard
 
-### SD Major forks
+### SD Major forks and UIs
 
 Main Stable Diffusion repo: https://github.com/CompVis/stable-diffusion
 - Tensorflow/Keras impl: https://github.com/divamgupta/stable-diffusion-tensorflow
@@ -396,7 +396,8 @@ OpenJourney: [https://happyaccidents.ai/](https://happyaccidents.ai/), https://w
 
 | Name/Link 	| Stars 	| Description 	|
 |---	|---	|---	|
-| [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 	| 26000 	| The most well known fork. features: https://github.com/AUTOMATIC1111/stable-diffusion-webui#features launch announcement https://www.reddit.com/r/StableDiffusion/comments/x28a76/stable_diffusion_web_ui/. M1 mac instructions https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon 	|
+| [AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 	| 86000 	| The most well known Web UI. features: https://github.com/AUTOMATIC1111/stable-diffusion-webui#features launch announcement https://www.reddit.com/r/StableDiffusion/comments/x28a76/stable_diffusion_web_ui/. M1 mac instructions https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon 	|
+| [easydiffusion](https://github.com/easydiffusion/easydiffusion) 	| 6900 	| "[Easy Diffusion is easily my favorite UI](https://news.ycombinator.com/item?id=36440462)". While it has a fraction of the features found in stable-diffusion-webui, it has the best out of the box UI I've tried so far.The way it enqueues tasks and renders the generated images beats anything I've seen in the various UIs I've played with. I also like that you can easily write plugins in Javascript, both for the UI and for server-side tweaks. 	|
 | [Disco Diffusion](https://github.com/alembics/disco-diffusion) 	| 6400 	| A frankensteinian amalgamation of notebooks, models and techniques for the generation of AI Art and Animations. 	|
 | [sd-webui](https://github.com/sd-webui/stable-diffusion-webui) (formerly hlky fork) 	| 6000 	| A fully-integrated and easy way to work with Stable Diffusion right from a browser window. Long list of UI and SD features (incl textual inversion, alternative samplers, prompt matrix): https://github.com/sd-webui/stable-diffusion-webui#project-features 	|
 | [InvokeAI](https://github.com/invoke-ai/InvokeAI) (formerly lstein fork) 	| 8800 	| This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. It runs on Windows, Mac and Linux machines, with GPU cards with as little as 4 GB of RAM. Universal Canvas (see [youtube](https://www.youtube.com/watch?v=hIYBfDtKaus&lc=UgydbodXO5Y9w4mnQHN4AaABAg.9j4ORX-gv-w9j78Muvp--w)) 	|
@@ -558,9 +559,6 @@ Dreambooth
 	- produces https://twitter.com/rainisto/status/1600563803912929280
 - Art project - faking entire instagram profile for a month using dreambooth https://www.reddit.com/r/StableDiffusion/comments/zkvnyx/using_stablediffusion_and_dreambooth_i_faked_my/
 
-styledrop
-https://twitter.com/natanielruizg/status/1664653573597065225
-
 Trained examples
 - Pixel art animation spritesheets
 	- https://ps.reddit.com/r/StableDiffusion/comments/yj1kbi/ive_trained_a_new_model_to_output_pixel_art/
@@ -582,6 +580,7 @@ Trained examples
 	- https://www.reddit.com/r/StableDiffusion/comments/11ku886/controlnet_unlimited_album_covers_graphic_design/
 	- https://www.reddit.com/r/StableDiffusion/comments/11bp30o/tech_companies_as_charcuterie_boards_controlnet/
 - controlnet qr code stable diffusion https://twitter.com/ben_ferns/status/1665907480600391682?s=20
+- controlnet v1.1 space - and how to use to make logos https://twitter.com/dr_cintas/status/1670879051572035591?s=20
 
 #### SD Tooling
 

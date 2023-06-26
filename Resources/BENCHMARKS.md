@@ -2,6 +2,7 @@
 Benchmarks exist between the Data and Models, and are the least obvious/glamorous but most influential to language model development. They're also an area of intense specialization that the amateurs are only just discovering, and we want to shine a spotlight on them. When you see Chinchilla paper or GPT4 paper, they publish their [MMLU and BIG-bench scores](https://towardsdatascience.com/a-new-ai-trend-chinchilla-70b-greatly-outperforms-gpt-3-175b-and-gopher-280b-408b9b4510) and it bears understanding.
 
 easiest way i know to run the benchmarks yourself is https://github.com/EleutherAI/lm-evaluation-harness
+- which was forked from the MMLU test https://huggingface.co/blog/evaluating-mmlu-leaderboard and is also related to the stanford HELM impl
 openai evals is promising but doesnt have most of them implemented yet
 
 

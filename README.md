@@ -89,6 +89,7 @@ This Readme is just the high level overview of the space; you should see the mos
 	- scenario.gg https://twitter.com/emmanuel_2m/status/1593356241283125251
 	- [3d game character modeling example](https://www.traffickinggame.com/ai-assisted-graphics/)
 	- MarioGPT https://arxiv.org/pdf/2302.05981.pdf https://www.slashgear.com/1199870/mariogpt-uses-ai-to-generate-endless-super-mario-levels-for-free/ https://github.com/shyamsn97/mario-gpt/blob/main/mario_gpt/level.py
+	- https://news.ycombinator.com/item?id=36295227
 
 ## Top AI Reads
 

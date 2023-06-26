@@ -68,6 +68,7 @@ Where the focus is building AI tools for other developers.
     - https://replicate.com/cjwbw/stable-diffusion-v2
   - **Stable Diffusion UIs**
     - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+    - https://github.com/easydiffusion/easydiffusion
     - https://github.com/carefree0910/carefree-creator
     - https://www.charl-e.com/ 
     - https://github.com/brycedrennan/imaginAIry

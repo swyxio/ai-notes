@@ -24,6 +24,7 @@ most semantic search hallucinates text
 
 - openai embeddings analysis and criticism https://twitter.com/Nils_Reimers/status/1487014195568775173 with alternative embeddings
 	- yannic recap video https://youtu.be/5skIqoO3ku0
+- https://vickiboykis.com/what_are_embeddings/
 
 
 
