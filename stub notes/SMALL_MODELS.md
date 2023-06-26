@@ -1,3 +1,5 @@
+
+https://www.nytimes.com/2023/05/30/science/ai-chatbots-language-learning-models.html
 ## supportive news
 
 - [OpenAI’s CEO says the age of giant AI models is already over](https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/) ([wired.com](https://news.ycombinator.com/from?site=wired.com))
