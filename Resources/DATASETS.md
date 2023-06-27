@@ -81,3 +81,7 @@ labelers cheating https://arxiv.org/abs/2306.07899
 - We reran an abstract summarization task from the literature on Amazon Mechanical Turk and, through a combination of keystroke detection and synthetic text classification, estimate that 33-46% of crowd workers used LLMs when completing the task.
 
 running out of data - repeat it? https://twitter.com/XueFz/status/1660867457903632385
+
+data going dark
+- stackoverflow data dump https://news.ycombinator.com/item?id=36257523
+- reddit api monetization

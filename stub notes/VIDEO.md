@@ -7,3 +7,7 @@ text-to-commercial
 
 text to video
 - https://www.theverge.com/2022/9/29/23378210/meta-text-to-video-ai-generation-make-a-video-model-dall-e
+
+stable diffusion
+video to video
+https://news.ycombinator.com/item?id=36288294
