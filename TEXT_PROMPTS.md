@@ -45,6 +45,7 @@ prompt engineering techniques
 	    -   [Types of CoT prompts](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#types-of-cot-prompts)
 	    -   [Tips and Extensions](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#tips-and-extensions)
 	-   [Automatic Prompt Design](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#automatic-prompt-design)
+- Prompt Engineering 201 https://amatriain.net/blog/prompt201
 - https://wandb.ai/a-sh0ts/langchain_callback_demo/reports/Prompt-Engineering-LLMs-with-LangChain-and-W-B--VmlldzozNjk1NTUw?utm_source=twitter&utm_medium=social&utm_campaign=langchain
 - andrew ng's prompt engineering course with openai https://twitter.com/AndrewYNg/status/1651605660382134274
 - notable people's tests of gpt
