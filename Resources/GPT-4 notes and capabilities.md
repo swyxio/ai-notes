@@ -176,3 +176,6 @@
 		- repeated by connor leahy https://www.youtube.com/watch?v=tYGMfd3_D1o
 	- 1tr params but vague rumor
 - GPT-4 was apparently designed to fit on 2 H-100's which limits parameters to 160GB. https://twitter.com/LetterRip1/status/1670941206019457024?s=20
+- GPT-4 8 x 220B models
+	- https://www.reddit.com/r/mlscaling/comments/14eowmw/comment/jp40uqm/?context=3
+	- estimated $40m cost for training https://colab.research.google.com/drive/1O99z9b1I5O66bT78r9ScslE_nOj5irN9#scrollTo=1ftsdvKjPYiV

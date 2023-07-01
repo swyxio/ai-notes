@@ -26,6 +26,9 @@
 - helicone 
 - Ozone - prompt unit testing https://twitter.com/at_sushi_/status/1667004844153131008
 - https://log10.io/ - pivoting to llm quality monitoring
+- eval
+	- https://twitter.com/ishaan_jaff/status/1665105582804832258
+	- agenteval - the agihouse project via darius
 
 ## lower code level
 

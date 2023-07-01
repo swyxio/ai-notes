@@ -42,6 +42,12 @@ llama datasets
 FLAN 
 - dataset like flan, which is a really, really large dataset that is, I think thousand plus tasks.
 
+
+alpaca instruction tuning dataset - 53k instructions
+https://github.com/tatsu-lab/stanford_alpaca
+- alpaca_data.json contains 52K instruction-following data we used for fine-tuning the Alpaca model.
+- https://twitter.com/tatsu_hashimoto/status/1635309815315705856?s=20
+
 text to sql
 - https://yale-lily.github.io/spider
 

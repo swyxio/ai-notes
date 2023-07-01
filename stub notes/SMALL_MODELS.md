@@ -91,6 +91,7 @@ Dylora https://news.ycombinator.com/item?id=35514228
 ## running in browser
 
 - https://xenova.github.io/transformers.js/ 
+	- visualization https://twitter.com/radamar/status/1664880686304579586?s=20
 
 ## edge/iot/small hardware
 
