@@ -30,6 +30,10 @@ https://text-generator.io/blog/embed-images-text-and-code Embed Images, Text and
 https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research The new ImageBind model combines text, audio, visual, movement, thermal, and depth data.
 
 
+Otter https://twitter.com/liuziwei7/status/1652685051702960128
+*, a multi-modal in-context learning model with instruction tuning: 1) Chatbot w/ image, video, 3D 2) Only need 4x 3090 GPUs 3) Better than OpenFlamingo - Code: [https://github.com/Luodian/otter](https://t.co/Rx5hT53eu6) - Demo: [https://otter.cliangyu.com](https://t.co/xi3mWsBOVv) - Video: [https://youtube.com/watch?v=r-YM4DGGAdE](https://t.co/NR7rWVFlAJ)
+
+
 Gato model - 1.2b param model
 
 ### GPT4 multimodal 
