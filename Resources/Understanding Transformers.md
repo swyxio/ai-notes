@@ -110,4 +110,6 @@ https://twitter.com/generatorman_ai/status/1664410300110766082?s=20
 
 Applications of Transformers New survey paper highlighting major applications of Transformers for deep learning tasks. Includes a comprehensive list of Transformer models. [https://arxiv.org/abs/2306.07303](https://t.co/z0y6R4CUh6)
 
-
+Efficient Methods for Natural Language Processing: A Survey It lists effective techniques that use fewer resources while producing comparable outcomes to resource-intensive NLP systems.
+![https://pbs.twimg.com/media/FhnMjm7WYAA8e18?format=jpg&name=medium]
+abs: [https://arxiv.org/abs/2209.00099](https://t.co/99Gp0rPZHi)
