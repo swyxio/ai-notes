@@ -2,22 +2,23 @@
 
 notes on AI state of the art, with a focus on generative and large language models. These are the "raw materials" for the https://lspace.swyx.io/ newsletter.
 
-> This repo used to be called https://github.com/sw-yx/prompt-eng, but was renamed because [Prompt Engineering is Overhyped](https://twitter.com/swyx/status/1596184757682941953).
+> This repo used to be called https://github.com/sw-yx/prompt-eng, but was renamed because [Prompt Engineering is Overhyped](https://twitter.com/swyx/status/1596184757682941953). This is now an [AI Engineering](https://www.latent.space/p/ai-engineer) notes repo.
 
 This Readme is just the high level overview of the space; you should see the most updates in the OTHER markdown files in this repo:
 
-- `IMAGE_GEN.md` - the most developed file, with the heaviest emphasis notes on Stable Diffusion, and some on midjourney and dalle.
-	- `IMAGE_PROMPTS.md` - a small [swipe file](https://www.swyx.io/swipe-files-strategy) of good image prompts
 - `TEXT.md` - text generation, mostly with GPT-4
 	- `TEXT_CHAT.md` - information on ChatGPT and competitors, as well as derivative products
 	- `TEXT_SEARCH.md` - information on GPT-4 enabled semantic search and other info
 	- `TEXT_PROMPTS.md` - a small [swipe file](https://www.swyx.io/swipe-files-strategy) of good GPT3 prompts
 - `INFRA.md` - raw notes on AI Infrastructure, Hardware and Scaling
 - `AUDIO.md` - tracking audio/music/voice transcription + generation
-- stub notes - very small/lightweight proto pages
-  - `AGENTS.md` - tracking "agentic AI"
-  - `CODE.md` - codegen models, like Copilot
-  - etc...
+- `CODE.md` - codegen models, like Copilot
+- `IMAGE_GEN.md` - the most developed file, with the heaviest emphasis notes on Stable Diffusion, and some on midjourney and dalle.
+	- `IMAGE_PROMPTS.md` - a small [swipe file](https://www.swyx.io/swipe-files-strategy) of good image prompts
+- **Resources**: standing, cleaned up resources that are meant to be permalinked to
+- **stub notes** - very small/lightweight proto pages of future coverage areas
+		  - `AGENTS.md` - tracking "agentic AI"
+- **blog ideas**- potential blog post ideas derived from these notes
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
