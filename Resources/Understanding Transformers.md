@@ -109,3 +109,5 @@ https://twitter.com/generatorman_ai/status/1664410300110766082?s=20
 ## transformer family tree
 
 Applications of Transformers New survey paper highlighting major applications of Transformers for deep learning tasks. Includes a comprehensive list of Transformer models. [https://arxiv.org/abs/2306.07303](https://t.co/z0y6R4CUh6)
+
+
