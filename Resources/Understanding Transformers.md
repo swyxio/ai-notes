@@ -1,6 +1,9 @@
-
+ELI5: https://news.ycombinator.com/item?id=35977891
 2017 paper
 - https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html?m=1
+- 30min video review https://www.youtube.com/watch?v=iDulhoQ2pro
+- 
+The Illustrated Transformer - [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
 
 
 
@@ -40,7 +43,6 @@ A Visual And Interactive Look at Basic Neural Network Math - [https://jalammar.
 
 Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) - [https://jalammar.github.io/visualizing-neural-machine-transl...](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
-The Illustrated Transformer - [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
 
 The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) - [https://jalammar.github.io/illustrated-bert/](https://jalammar.github.io/illustrated-bert/)
 
@@ -90,6 +92,10 @@ attention visualization https://catherinesyeh.github.io/attn-docs/
 ## flash attention
 
 https://twitter.com/amanrsanger/status/1657835933503479808?s=46&t=90xQ8sGy63D2OtiaoGJuww
+
+## hyena
+
+- https://hazyresearch.stanford.edu/blog/2023-03-07-hyena
 
 
 ## transformer interpretability

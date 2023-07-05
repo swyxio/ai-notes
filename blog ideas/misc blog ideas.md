@@ -19,6 +19,7 @@ Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
 
 - RLHF/Finetuning (ylecun cake analogy)
 	- focus model
+	- https://magazine.sebastianraschka.com/p/finetuning-large-language-models#%C2%A7in-context-learning-and-indexing
 - stuff examples in context
 	- search similar knowledge and hallucinate/summarize
 - [ReACT](https://www.geoffreylitt.com/2023/01/29/fun-with-compositional-llms-querying-basketball-stats-with-gpt-3-statmuse-langchain.html) 

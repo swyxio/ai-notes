@@ -168,6 +168,7 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
   - https://twitter.com/togethercompute/status/1597611474771668997
   - https://huggingface.co/spaces/togethercomputer/GPT-JT
 - Falcon
+	- https://huggingface.co/blog/falcon https://huggingface.co/spaces/HuggingFaceH4/falcon-chat
 	- https://twitter.com/Francis_YAO_/status/1666833311279517696
 - GPT 3.5 (https://beta.openai.com/docs/model-index-for-researchers)
   - code-davinci-002 is a base model, so good for pure code-completion tasks
@@ -182,6 +183,9 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
     - We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
 
 ![https://pbs.twimg.com/media/Fknc4rkX0AMY5RF?format=jpg&name=large](https://pbs.twimg.com/media/Fknc4rkX0AMY5RF?format=jpg&name=large)
+
+- Uncensored models
+	- Wizard-Vicuna-30b-Uncensored and WizardLM-Uncensored-Falcon-7b
 
 ## GPT4
 

@@ -247,7 +247,7 @@ Subject to limitations
 				- Selection + custom context menu (for extensions)
 				- Native app integration such as Siri and Calendar (for Shortcut in Apple ecosystem)
 				- ntes from maintainer https://news.ycombinator.com/item?id=35909273
-	- https://www.chatpdf.com/ 
+	- https://www.chatpdf.com/  or https://scholarturbo.com/
 	- https://github.com/npiv/chatblade cli chatgpt
 	- https://github.com/ejfox/coachartie_discord/blob/master/index.js twitter assistant with memory in supabase
 - whatsapp https://github.com/danielgross/whatsapp-gpt https://twitter.com/danielgross/status/1598735800497119232

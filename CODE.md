@@ -162,6 +162,11 @@ Codium - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-a
 - https://github.com/microsoft/guidance/
 	- https://twitter.com/altryne/status/1661237105278988290/photo/1
 
+## function sdks
+
+- Python/pydantic https://twitter.com/AAAzzam/status/1671608335001370625
+	- 
+
 ## misc
 
 - The size of all code/history on Github public repos is 92TB The size of Google's monorepo in 2015 was 86TB (of much higher quality code) If Google were willing to deploy code models trained on their own data, they'd have a noticable advantage over everyone else. https://twitter.com/amanrsanger/status/1656696500339249153
