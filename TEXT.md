@@ -186,6 +186,14 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 
 - Uncensored models
 	- Wizard-Vicuna-30b-Uncensored and WizardLM-Uncensored-Falcon-7b
+- research only models
+	- Baize dataset https://github.com/project-baize/baize-chatbot - chatgpt self chat
+- unreleased but notable
+	- Bloomberg GPT https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/
+
+
+
+
 
 ## GPT4
 

@@ -14,6 +14,7 @@ code improves reasoning
 - Oct 2021: Github Copilot technical preview - [team of 6 working on it](https://twitter.com/alexgraveley/status/1607897474965839872) 
 - Dec 2021: Github Copilot [for businesses](https://www.theregister.com/2022/06/21/githubs_ai_code_assistant_copilot/)
 - Feb 2022: February, DeepMind introduced [AlphaCode](https://www.deeplearning.ai/the-batch/competitive-coder/), a transformer pretrained on 86 million programs in 12 programming languages and fine-tuned on entries to coding contests. At inference, it generates a million possible solutions and filters out the bad ones. In this way, it retroactively beat more than half of contestants in 10 coding competitions.
+- Apr 2022: https://www.allendowney.com/blog/2023/04/02/llm-assisted-programming/ state of programming
 - Jun 2022: Github Copilot GA
 - Sep 2022: Github Copilot [productivity survey](https://visualstudiomagazine.com/articles/2022/09/13/copilot-impact.aspx)
 - Sep 2022: BigCODE https://www.servicenow.com/blogs/2022/bigcode-large-language-models.html

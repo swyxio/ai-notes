@@ -36,8 +36,10 @@
   - Whisper UI https://github.com/hayabhay/whisper-ui
 	  - Streamlit UI [https://github.com/hayabhay/whisper-ui](https://github.com/hayabhay/whisper-ui)
 	  - Whisper playground [https://github.com/saharmor/whisper-playground](https://github.com/saharmor/whisper-playground)
+	  - whisper in the browser https://www.ermine.ai/
   - Transcribe-anything https://github.com/zackees/transcribe-anything automates video fetching and uses whisper to generate .srt, .vtt and .txt files
   - MacWhisper [https://goodsnooze.gumroad.com/l/macwhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+  - ios whisper https://whispermemos.com/ 10 free, paid app
   - 🌟Crossplatform desktop Whisper that supports semi-realtime [https://github.com/chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
   - more whisper tooling https://ramsrigoutham.medium.com/openais-whisper-7-must-know-libraries-and-add-ons-built-on-top-of-it-10825bd08f76
 - https://github.com/ggerganov/whisper.cpp

@@ -155,6 +155,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  6. Human performance on a task isn’t an upper bound on LLM performance. 
 	  7. LLMs need not express the values of their creators nor the values encoded in web text. 
 	  8. Brief interactions with LLMs are often misleading.
+	  9. simonw highlights https://fedi.simonwillison.net/@simon/110144185463887790
   - openai prompt eng cookbook https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
   - on prompt eng overview https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
   - Recap of 2022's major AI developments https://www.deeplearning.ai/the-batch/issue-176/
