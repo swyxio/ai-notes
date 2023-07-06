@@ -144,6 +144,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 
 - https://github.com/di-sukharev/opencommit
 - ai-commit
+- ai CLI from builderio https://github.com/BuilderIO/ai-shell
 
 ### Test generation
 
