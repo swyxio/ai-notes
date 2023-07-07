@@ -163,6 +163,7 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 - Nomic AI GPT4All
 	- https://twitter.com/AlphaSignalAI/status/1640873710717468674
 - FlashAttention - 3-5x faster training ([tweet](https://twitter.com/tri_dao/status/1597580603658231815), [huggingface](https://github.com/HazyResearch/flash-attention/tree/main/training))
+	- Flash attention results in insanely fast speeds for ingesting prompts on long sequences. - [salesforce codegen](https://twitter.com/amanrsanger/status/1677090522589188097)
 - GPT-JT for classification
   - https://news.ycombinator.com/item?id=33796158
   - https://twitter.com/togethercompute/status/1597611474771668997

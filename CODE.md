@@ -61,6 +61,9 @@ code improves reasoning
 - salesforce codegen
 	- Nijkamp, E., Pang, B., Hayashi, H., Tu, L., Wang, H., Zhou, Y., Savarese, S., and Xiong, C. (2022). Codegen: An open large language model for code with multi-turn program synthesis. arXiv preprint arXiv:2203.13474.
 	- Nijkamp, E., Hayashi, H., Xiong, C., Savarese, S., and Zhou, Y. (2023). **Codegen2**: Lessons for training llms on programming and natural languages. arXiv preprint arXiv:2305.02309.
+	- Codegen 2.5
+		- [just one subtle detail added to this model makes codegen 2.5 substantially faster than codegen 2 All it required was increasing the number of attention heads from 16 to 32...](https://twitter.com/amanrsanger/status/1677090522589188097)
+			- 
 - the stack from eleuther
 - Li, R., Allal, L. B., Zi, Y., Muennighoff, N., Kocetkov, D., Mou, C., Marone, M., Akiki, C., Li, J., Chim, J., et al. (2023). Starcoder: may the source be with you! arXiv preprint arXiv:2305.06161.
 
