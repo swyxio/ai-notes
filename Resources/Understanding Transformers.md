@@ -6,6 +6,7 @@ ELI5: https://news.ycombinator.com/item?id=35977891
 The Illustrated Transformer - [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
 
 
+![https://vinija.ai/models/assets/transformers/2.png](https://vinija.ai/models/assets/transformers/2.png)
 
 -  LSTM is dead. Long Live Transformers! ([talk](https://www.youtube.com/watch?v=S27pHKBEp30))
 	-  the evolution of natural language processing (NLP) techniques, starting with the limitations of bag-of-words models and vanilla recurrent neural networks (RNNs), which suffer from vanishing and exploding gradients. 
