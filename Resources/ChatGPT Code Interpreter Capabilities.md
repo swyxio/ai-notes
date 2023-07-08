@@ -14,7 +14,7 @@ and requirements.txt https://twitter.com/swyx/status/1677589535587467264
 ## Confirmed Capabilities at Launch
 
 - Video manipulation
-	- using moviePy
+	- using moviePy https://twitter.com/gdb/status/1638971232443076609
 - Accepted filetypes
 	- .zip files: it can unzip files and continue to open up and inspect those files
 		- "I apologize for the oversight. The variable `unzip_folder` was also lost in the reset. We'll need to extract the data from the zip file again before proceeding"
@@ -22,6 +22,7 @@ and requirements.txt https://twitter.com/swyx/status/1677589535587467264
 	- .xls files https://twitter.com/emollick/status/1652170706312896512
 	- .png files
 		- lightweight image editing and resizing
+	- .mov files
 - Can draw https://twitter.com/swyx/status/1677567255377494016?s=20
 	- but has challenges
 	- create a graphviz chart - of code https://chat.openai.com/share/adc73608-4c80-497b-ad03-31de28bfa919
