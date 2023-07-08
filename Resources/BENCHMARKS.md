@@ -289,6 +289,8 @@ We propose TheoremQA, the first theorem-driven dataset to evaluate LLMs' capabil
 
 Textual entailment is a challenging task for natural language processing models because it requires understanding the meaning and context of the text, as well as the relationships between words and phrases.
 
+Causal reasoning benchmark - Tubingen https://twitter.com/amt_shrma/status/1653457982062219266?s=20
+
 ### World Knowledge 
 
 In this category we focus on knowledge that can clearly be expressed as facts, as well as broader and less common geographical, legal, political, technical, or cultural knowledge. 
