@@ -16,7 +16,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps
 	- [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world
 	- [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps
-	- [The ChatGPT report](https://anchor.fm/ben-meyerhoeffer/episodes/Ep-30-Bard-vs-Bing-e212edr) - 10 minutes on AI news Mondays and Thursdays
+	- [The ChatGPT report](https://anchor.fm/ben-meyerhoeffer/episodes/Ep-30-Bard-vs-Bing-e212edr) - weekly 10 minutes on AI news, nontechnical
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
 - Companies
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host
