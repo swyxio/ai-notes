@@ -9,6 +9,7 @@
 https://chat.openai.com/share/38301a21-bf09-4274-848b-b9cd5523d461
 
 and requirements.txt https://twitter.com/swyx/status/1677589535587467264
+([annotated](https://chat.openai.com/share/a4336af0-6faa-4ffb-b5b0-a3bd7ef8f3aa))
 
 
 ## Confirmed Capabilities at Launch
