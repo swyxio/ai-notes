@@ -27,6 +27,7 @@
   - whisper can be hosted on https://deepinfra.com/
   - whisperX with diarization https://twitter.com/maxhbain/status/1619698716914622466 https://github.com/m-bain/whisperX Improved timestamps and speaker identification
 	  - model served https://replicate.com/thomasmol/whisper-diarization
+	  - https://huggingface.co/spaces/vumichien/Whisper_speaker_diarizationj
   - real time whisper
 	  - https://github.com/davabase/whisper_real_time
 	  - https://github.com/openai/whisper/discussions/608

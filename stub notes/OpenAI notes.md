@@ -10,6 +10,13 @@
 	- apr 2023 - valued at 27b with 400 employees internally https://twitter.com/frantzfries/status/1647976195693182978?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- may 2023 - losing 500m a year? https://twitter.com/amir/status/1654218677074681858?s=20
 	- may - sama and greg brockman podcast with reid hoffman https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/
+	- June - functions
+	- july - code interpreter
+
+## OpenAI deprecation and models
+
+- https://twitter.com/OfficialLoganK/status/1677682265311043584
+	- have to switch models technically every 6 months (we release a new model and then the replacement comes out ~3 months later then the 3 month deprecation window starts).
 
 ## ilya sutskever
 

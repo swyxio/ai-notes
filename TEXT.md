@@ -187,6 +187,7 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 
 - Uncensored models
 	- Wizard-Vicuna-30b-Uncensored and WizardLM-Uncensored-Falcon-7b
+	- origin story of all these models https://twitter.com/cto_junior/status/1677563373704060929?s=20
 - research only models
 	- Baize dataset https://github.com/project-baize/baize-chatbot - chatgpt self chat
 - unreleased but notable
