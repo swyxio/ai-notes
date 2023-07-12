@@ -115,6 +115,10 @@ comparison with gpt and bing https://techcrunch.com/2023/03/21/googles-bard-lags
 - problems
 	- https://twitter.com/mattshumer_/status/1656781729485529089?s=20
 
+### claude 2
+
+- https://twitter.com/IntuitMachine/status/1678870325600108545
+
 ## BingChat notes
 
 - satya presentation https://twitter.com/petergyang/status/1623328335161090049?s=20

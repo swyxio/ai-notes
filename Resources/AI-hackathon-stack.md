@@ -13,6 +13,7 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
   - [Deploying AI Applications on Vercel](https://vercel.com/blog/deploying-ai-applications) Overview and open source templates
 	  - with [streaming edge functions](https://vercel.com/blog/gpt-3-app-next-js-vercel-edge-functions)
   - a16z demo app https://github.com/a16z-infra/ai-getting-started/
+	  - a16z [AI companion starter kit](https://github.com/a16z-infra/companion-app)
   - [LangChain + Pinecone GPT assistant tutorial](https://www.youtube.com/watch?v=15TDwVSpwKc), from PineCone
   - https://github.com/nat/natbot: Drive a browser with GPT-3. [Demo tweet video](https://twitter.com/natfriedman/status/1575631194032549888)
   - https://github.com/menloparklab/langchain-cohere-qdrant-doc-retrieval This Flask backend API takes a document in multiple formats (.txt, .docx, .pptx, .jpg, .png, .eml, .html, and .pdf) and allows you to perform a semantic search in 100+ languages supported by Cohere Multilingual API. Qdrant vector database is used to save embeddings. [tweet](https://twitter.com/MisbahSy/status/1652479189747130368)
