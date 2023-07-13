@@ -1,4 +1,5 @@
 ## Timeline
+
 - March 23 - plugins preview https://openai.com/blog/chatgpt-plugins
 - gdb video clip https://twitter.com/gdb/status/1638971232443076609
 	- It's writing & executing MoviePy code ([https://zulko.github.io/moviepy/](https://t.co/SHPNZOLCHp)), which uses ffmpeg under the hood. So the time here is basically all waiting for ffmpeg to run (a big step up from the usual bottleneck of looking up the set of arguments to do what I want!).
@@ -76,7 +77,7 @@ and requirements.txt https://twitter.com/swyx/status/1677589535587467264
 	
 
 ## Deprecated Research Preview capabilities
-
+- running subprocess.run (according to Simonw)
 
 
 
@@ -101,4 +102,8 @@ and requirements.txt https://twitter.com/swyx/status/1677589535587467264
 - Unfortunately, without more data and given the constraints of this environment, it's not possible to perform a detailed spatial analysis of the crime data. For a complete analysis, I would recommend using a GIS (Geographic Information System) software or library (like `geopandas` in Python) and obtaining more detailed spatial data.
 - clustering and naming
 	- cant call openai api to embed text, doesnt have transformers, and no UMAP
-	- 
+
+## collections of code interpreter capabilities and other lists
+
+- manual Chat GPT Code Interpret git scraper. Includes libraries, env vars, complete filepath listing. Can track changes. Todo: system package list, home folder content etc,. added some file system extracts like the `ace_client` which is part of the jupyter notebook setup https://github.com/tomviner/scrape-ai/tree/main#chatgpt-code-interpreter
+- https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments
