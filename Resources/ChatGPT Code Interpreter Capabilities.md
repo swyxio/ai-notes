@@ -1,9 +1,10 @@
 ## Timeline
 
 - March 23 - plugins preview https://openai.com/blog/chatgpt-plugins
-- gdb video clip https://twitter.com/gdb/status/1638971232443076609
+	- gdb video clip https://twitter.com/gdb/status/1638971232443076609
 	- It's writing & executing MoviePy code ([https://zulko.github.io/moviepy/](https://t.co/SHPNZOLCHp)), which uses ffmpeg under the hood. So the time here is basically all waiting for ffmpeg to run (a big step up from the usual bottleneck of looking up the set of arguments to do what I want!).
-- Jul 6-13 - GA release https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+- Jul 6-8 - GA release https://help.openai.com/en/articles/6825453-chatgpt-release-notes
+- Jul 10 - Latent Space Writeup: https://www.latent.space/p/code-interpreter#details
 
 ## Code Interpreter system prompt
 
@@ -45,6 +46,9 @@ and requirements.txt https://twitter.com/swyx/status/1677589535587467264
 		- and maps https://github.com/emollick/GPTflightmap.github.io
 	- Dataviz
 		- ![https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55543b86-b8ec-45db-84ec-649fe0237097_3208x2000.png](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55543b86-b8ec-45db-84ec-649fe0237097_3208x2000.png)
+- Can upload more libraries and dependencies
+	- how to: https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments#install-external-python-packages
+	- running GPT-2 with GGML: https://twitter.com/sdand/status/1678476411416498178
 - Behavior
 	- **Giving options, and pausing for confirmation** 
 		- Great! Before we proceed, we need to further refine the scope of our predictive task. As you might notice, we have a large number of potential powers (labels) to predict, which could make the problem very complex. Would you like to predict all possible powers, or focus on a specific subset of powers?
