@@ -155,7 +155,8 @@ comparison with gpt and bing https://techcrunch.com/2023/03/21/googles-bard-lags
 - JWST fail https://twitter.com/IsabelNAngelo/status/1623013720011194368
 - google will shut it down in 2 yes https://twitter.com/killedbygoogle/status/1638311005024387072
 - 2+3=5 is incorrect https://twitter.com/hwchung27/status/1638743317063274496?s=20
-
+- June 2023 update: implicit code execution: https://news.ycombinator.com/item?id=36229782
+- July 2023 update: UI features, more languages and countries https://news.ycombinator.com/item?id=36709895
 
 Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gDKU
 
