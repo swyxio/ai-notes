@@ -113,6 +113,11 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 	- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
 	- outputs are not very good https://news.ycombinator.com/item?id=35258553
+	- LLaMA distros you can run
+		- https://huggingface.co/TheBloke/LLaMa-13B-GGML/blob/main/llama-13b.ggmlv3.q4_0.bin via https://github.com/smol-ai/menubar
+		- https://faraday.dev/
+		- https://gpt4all.io/
+		- the dalai llama project
 - https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/
 - llama alternatives https://thesequence.substack.com/p/the-llama-effect-how-an-accidental
 	- Redpajama

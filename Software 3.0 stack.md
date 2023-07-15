@@ -44,8 +44,6 @@
 - qdrant
 - postgres
 	- supabase vector
-	- problems with it:   
-https://twitter.com/nirantk/status/1674110063286571008?s=46
 
 ETL
 - psychic.dev
