@@ -1,4 +1,10 @@
 
+## ai waifu
+
+### langchain backlash
+
+- mckay wrigley
+
 ## alibi and the context of infinity
 
 gpt4 demo

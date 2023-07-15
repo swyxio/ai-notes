@@ -158,6 +158,7 @@
 	- Anthropic claude
 		- ["claude+ better than claude"](https://twitter.com/adamdangelo/status/1635690630289723394?s=20)
 		- compare claude vs gpt on 5 whys https://twitter.com/dzhng/status/1677931017750089729
+		- claude provided via [Kagi FastGPT](https://news.ycombinator.com/item?id=35719482)
 	- coincidence? or just [pi day shenanigans](https://twitter.com/EigenGender/status/1635766846719934465?s=20)
 - [Scaling predictability](https://twitter.com/swyx/status/1635688942354980865?s=20)
 - 10 years ago, andrej karpathy [didn't feel optimistic](https://twitter.com/ramsri_goutham/status/1635852572727836673)
