@@ -245,6 +245,7 @@ Subject to limitations
 		- nextjs starter https://github.com/enricoros/nextjs-chatgpt-app
 		- open source chatgpt UIs https://github.com/itsuka-dev/awesome-chatgpt-ui
 			- https://github.com/oobabooga/text-generation-webui/
+			- https://github.com/LostRuins/koboldcpp
 		- In addition to the usual speech synthesis/recognition and embedding/vector search features, there are also:
 				- Node layout
 				- Multiple LLMs and parallel output

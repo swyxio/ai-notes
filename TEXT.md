@@ -421,7 +421,10 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 	  - https://twitter.com/zachtratar/status/1623015294569713665?s=20&t=hw_somO_R_JxGp4zQpFz0Q
 	  - competes with Dust XP1
 - Writing
+  - NovelAI https://novelai.net/
+  - https://tavernai.net/
   - Verb (fiction) https://twitter.com/verbforwriters/status/1603051444134895616
+	  - (now dead)
   - Orchard https://www.orchard.ink/doc/201a7f63-731e-4487-926a-fdf348f1b00c
     - https://twitter.com/alexjkwang/status/1603408050005557249?s=20
   - Deepmind Dramatron https://deepmind.github.io/dramatron/details.html for **co-writing** theatre scripts and screenplays. Starting from a log line, Dramatron interactively generates character descriptions, plot points, location descriptions and dialogue. These generations provide human authors with material for compilation, editing, and rewriting.

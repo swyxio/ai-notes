@@ -292,6 +292,7 @@ SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
   - https://www.reddit.com/r/StableDiffusion/comments/z3ferx/xy_plot_comparisons_of_sd_v15_ema_vs_sd_20_x768/
   - compare it yourself https://app.gooey.ai/CompareText2Img/?example_id=1uONp1IBt0Y
   - depth2img produces more coherence for animations https://www.reddit.com/r/StableDiffusion/comments/zk32dg/a_quick_demo_to_show_how_structurally_coherent/
+  - July 2023: "[nobody uses v2 for people generation](https://twitter.com/levelsio/status/1680699101719982081?s=20)"
 - https://twitter.com/EMostaque/status/1595731398450634755
   - V2 prompts different and will take a while for folk to get used to. V2 is trained on two models, a generator model and a image-to-text model (CLIP).
   - We supported @laion_ai in their creation of an OpenCLIP Vit-H14 https://twitter.com/wightmanr/status/1570503598538379264

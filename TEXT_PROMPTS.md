@@ -20,6 +20,7 @@ prompt engineering techniques
 		- [implemented in llama.cpp](https://twitter.com/GrantSlatton/status/1657559506069463040)
 	- microsoft guidance 
 		- "Guidance programs allow you to interleave generation, prompting, and logical control" Also internally handles subtle but important tokenization-related issues, e.g. "token healing".
+	- automorphic trex https://automorphic.ai/#why
 - constrained sampling methods
 	- reLLM and Parserllm 
 		- coerce LLMs into only generating a specific structure for a given regex pattern (ReLLM). Now for ParserLLM. The natural next step was context-free grammars (e.g., a language of all strings with balanced parentheses -- you can’t do this with regular languages).
