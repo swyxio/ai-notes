@@ -6,10 +6,12 @@
 ## notable community stuff
 
 - Ruby: https://github.com/andreibondarev/langchainrb
+- Java https://twitter.com/langchain4j
 - alternatives/competitors:
 	- Litechain: https://github.com/rogeriochaves/litechain
 	- [Microsoft Guardrails](https://github.com/microsoft/guidance)
 	- [Stanford DSP](https://github.com/stanfordnlp/dsp/)
+	- Autochain 
 
 ## Langchain Timeline
 
@@ -28,3 +30,8 @@
 ## interesting apps
 
 - https://github.com/mayooear/gpt4-pdf-chatbot-langchain GPT-4 & LangChain - Create a ChatGPT Chatbot for Your PDF Files - open source https://www.chatpdf.com/
+
+## langchain criticisms
+
+- langchain is pointless https://news.ycombinator.com/item?id=36645575
+- the problem with langchain from minimaxir

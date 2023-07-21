@@ -111,3 +111,11 @@ and requirements.txt https://twitter.com/swyx/status/1677589535587467264
 
 - manual Chat GPT Code Interpret git scraper. Includes libraries, env vars, complete filepath listing. Can track changes. Todo: system package list, home folder content etc,. added some file system extracts like the `ace_client` which is part of the jupyter notebook setup https://github.com/tomviner/scrape-ai/tree/main#chatgpt-code-interpreter
 - https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments
+
+## open source clones
+
+- https://github.com/approximatelabs/datadm
+- https://twitter.com/hwchase17/status/1680620252433117184?s=20
+	- https://blog.langchain.dev/code-interpreter-api/
+	- https://github.com/shroominic/codeinterpreter-api
+- 

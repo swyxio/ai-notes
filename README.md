@@ -109,6 +109,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - google LAMDA intro https://aitestkitchen.withgoogle.com/how-lamda-works
   - DALLE2 prompt writing book http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
+  - [How to use AI to do stuff](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) across getting information, working with data, and making images
   - https://ourworldindata.org/brief-history-of-ai ai progress overview with nice charts
   - Jon Stokes' [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine)
   - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/) - maybe [a bit too high level](https://news.ycombinator.com/item?id=35577138)

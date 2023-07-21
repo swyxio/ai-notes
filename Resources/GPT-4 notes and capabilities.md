@@ -182,3 +182,10 @@
 - GPT-4 8 x 220B models
 	- https://www.reddit.com/r/mlscaling/comments/14eowmw/comment/jp40uqm/?context=3
 	- estimated $40m cost for training https://colab.research.google.com/drive/1O99z9b1I5O66bT78r9ScslE_nOj5irN9#scrollTo=1ftsdvKjPYiV
+	- https://the-decoder.com/gpt-4-architecture-datasets-costs-and-more-leaked/
+		- or 16x110B models with 2 consulted per forward pass?
+		- 13T Tokens
+		- training costs for GPT-4 was around $63 million
+		- GPT-4 costs 3 times more than the 175B parameter Davinci, due to the larger clusters required and lower utilization rates.
+		- Inference Architecture: The inference runs on a cluster of 128 GPUs, using 8-way tensor parallelism and 16-way pipeline parallelism.
+		- Vision Multi-Modal: GPT-4 includes a vision encoder for autonomous agents to read web pages and transcribe images and videos. The architecture is similar to Flamingo. This adds more parameters on top and it is fine-tuned with another ~2 trillion tokens.
