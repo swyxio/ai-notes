@@ -45,6 +45,7 @@ https://royapakzad.substack.com/p/old-advocacy-new-algorithms
 
 - https://www.lakera.ai/llms
 	- https://gandalf.lakera.ai/
+	- https://prompting.ai.immersivelabs.com/
 	- list of injections https://news.ycombinator.com/item?id=35905876#35910655
 - cadera
 	- llm security thingy - from the CRV CBRE founders you should know event

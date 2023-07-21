@@ -1,3 +1,7 @@
+**Published: [https://www.latent.space/p/datasets-101#details](https://www.latent.space/p/datasets-101#details)**
+
+Podcast prep notes: https://docs.google.com/document/d/1VK5Zs7rYggF0qiceghlR2xtlGgk-g4pkEgJqnsG_sys/edit?usp=sharing
+
 WebText and OpenWebText
   - GPT-2’s training data is based on Reddit, which according to Pew Internet Research’s 2016 survey, 67% of Reddit users in the US are men, 64% between ages 18 and 29. https://stanford-cs324.github.io/winter2022/lectures/data/
 - Common Crawl: https://commoncrawl.org/
