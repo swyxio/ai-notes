@@ -163,6 +163,10 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 ## ChatGPT notes
 
 
+### Chatgpt Timeline
+
+- July 20 - Custom Instructions ([new system prompt](https://twitter.com/swyx/status/1682095347303346177))
+
 ### insider notes
 
 - how it was built https://www.technologyreview.com/2023/03/03/1069311/inside-story-oral-history-how-chatgpt-built-openai/
