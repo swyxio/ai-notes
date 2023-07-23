@@ -3,6 +3,7 @@ ELI5: https://news.ycombinator.com/item?id=35977891
 - https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html?m=1
 - 30min video review https://www.youtube.com/watch?v=iDulhoQ2pro
 - 2018 - Noam Shazeer on why you should train >1B models https://youtu.be/9P_VAMyb-7k and https://youtu.be/P8FJVfg3Z44
+- FT coverage of the paper authors and when and how they left https://archive.is/2023.07.23-044102/https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50
 The Illustrated Transformer - [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
 
 
