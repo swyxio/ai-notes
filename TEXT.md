@@ -103,6 +103,11 @@ Model Evolution/Family trees
 
 Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com/item?id=35736872
 
+- llama2: [Latent Space writeup](https://www.latent.space/p/llama2#details)
+	- [ylecun announcement](https://twitter.com/ylecun/status/1681336284453781505)
+	- ways to run
+		- https://github.com/jmorganca/ollama
+		- https://gpt4all.io/index.html
 - https://github.com/facebookresearch/llama
 	- [Paper](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=vopDLpNfG6gAX84qs6h&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDipCb80g49Ksfxrjxiy7mOOl8ZoBO5QScseom5FDM14Q&oe=641984E2)
 	- https://github.com/ggerganov/llama.cpp/
@@ -398,7 +403,8 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 	- kagi universal summarizer https://labs.kagi.com/ai/sum?url=airbyte.io
 	- https://github.com/josStorer/chatGPTBox Integrating ChatGPT into your browser deeply, everything you need is here
 - SQL
-	  - preplexity.ai/sql
+	  - https://yale-lily.github.io/spider
+	  - perplexity.ai/sql
 	    - https://twitter.com/perplexity_ai/status/1605250295780773889
 	- seekai
 	- censusgpt 

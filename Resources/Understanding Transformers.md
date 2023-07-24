@@ -1,3 +1,8 @@
+swyx's to-read list (incl a lot of history)
+- https://aman.ai/primers/ai/transformers/
+- https://magazine.sebastianraschka.com/p/understanding-large-language-models
+
+
 ELI5: https://news.ycombinator.com/item?id=35977891
 2017 paper
 - https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html?m=1

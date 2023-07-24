@@ -11,7 +11,8 @@
 	- Litechain: https://github.com/rogeriochaves/litechain
 	- [Microsoft Guardrails](https://github.com/microsoft/guidance)
 	- [Stanford DSP](https://github.com/stanfordnlp/dsp/)
-	- Autochain 
+	- [Autochain](https://github.com/Forethought-Technologies/AutoChain)
+	- [haystack](https://github.com/deepset-ai/haystack)
 
 ## Langchain Timeline
 

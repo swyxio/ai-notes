@@ -110,6 +110,8 @@ Stacking Agents: task delegation & collaboration
 - langchain https://twitter.com/hwchase17/status/1629929531678265344
 	- problems with agents - hallucinating answer while showing steps https://vgel.me/posts/tools-not-needed/ if poorly implemented 
 - minion ai https://twitter.com/alexgraveley/status/1631693523748519940
+- multi-on
+- [TaxyAI: Open-source browser automation with GPT-4](https://github.com/TaxyAI/browser-extension) ([github.com/taxyai](https://news.ycombinator.com/from?site=github.com/taxyai))
 - embra ai
 	- agent on desktop
 - Uni ai - embra competitor
