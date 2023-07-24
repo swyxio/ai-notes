@@ -108,6 +108,7 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 	- ways to run
 		- https://github.com/jmorganca/ollama
 		- https://gpt4all.io/index.html
+		- https://faraday.dev/
 - https://github.com/facebookresearch/llama
 	- [Paper](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=vopDLpNfG6gAX84qs6h&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDipCb80g49Ksfxrjxiy7mOOl8ZoBO5QScseom5FDM14Q&oe=641984E2)
 	- https://github.com/ggerganov/llama.cpp/
