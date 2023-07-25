@@ -405,6 +405,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 	- https://github.com/josStorer/chatGPTBox Integrating ChatGPT into your browser deeply, everything you need is here
 - SQL
 	  - https://yale-lily.github.io/spider
+	  - https://huggingface.co/NumbersStation/nsql-6B
 	  - perplexity.ai/sql
 	    - https://twitter.com/perplexity_ai/status/1605250295780773889
 	- seekai

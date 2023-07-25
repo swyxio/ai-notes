@@ -54,6 +54,7 @@ https://github.com/tatsu-lab/stanford_alpaca
 
 text to sql
 - https://yale-lily.github.io/spider
+- https://huggingface.co/NumbersStation/nsql-6B
 
 BigCode dataset
 
