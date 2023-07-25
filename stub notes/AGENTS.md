@@ -1,5 +1,6 @@
 ## timeline
 
+- 1990-2010s schmidhuber work https://people.idsia.ch/~juergen/lecun-rehash-1990-2022.html https://twitter.com/SchmidhuberAI/status/1683870175299239937
 - adept fundraising
 - webgpt
 - nov 2022 - [harrison included agents](https://twitter.com/hwchase17/status/1595456660507459585)
