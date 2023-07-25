@@ -1,3 +1,15 @@
+OWASP top 10 security concerns for LLMs [https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-Slides-v09.pdf](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-Slides-v09.pdf "https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-Slides-v09.pdf")
+-   Prompt Injections
+-   Data Leakage
+-   Inadequate Sandboxing
+-   Unauthorized Code Execution
+-   SSRF Vulnerabilities
+-   Overreliance on LLM-generated Content
+-   Inadequate AI Alignment
+-   Insufficient Access Controls
+-   Improper Error Handling
+-   Training Data Poisoning
+
 
 - https://github.com/greshake/llm-security
 	- https://arxiv.org/abs/2302.12173

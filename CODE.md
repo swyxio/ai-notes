@@ -155,7 +155,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 	- https://www.grit.io/
 	- https://twitter.com/MrHunterBrooks/status/1639373651010109442?s=20
 	- https://github.com/gitstart
-	- AutoPR, a Github Action that autonomously writes a pull request in response to an issue https://twitter.com/IrgolicR/status/1652451501015457798
+	- [AutoPR](https://github.com/irgolic/AutoPR), a Github Action that autonomously writes a pull request in response to an issue https://twitter.com/IrgolicR/status/1652451501015457798
 - code generation
 	- codegen.ai
 	- https://github.com/paul-gauthier/aider

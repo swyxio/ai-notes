@@ -64,3 +64,5 @@ ETL
 - AI relational database https://github.com/georgia-tech-db/eva
 - finetune industry
 	- https://predibase.com/
+- AI devtools
+	- codegen.ai

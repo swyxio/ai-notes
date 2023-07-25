@@ -70,6 +70,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 - originality.ai https://originality.ai/?lmref=KAmPVQ
 - openai's detector kinda sucks https://twitter.com/debarghya_das/status/1620501424781291522?s=46&t=h7E2w6SsShO93GgYVM5d8w
 	- zerogpt prompt eludes it https://twitter.com/yazinsai/status/1663442139945025536?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- https://www.gptminus1.com/ ## Fool GPT by randomly replacing words with synonyms in your text.
 
 
 ## video generation
