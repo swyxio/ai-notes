@@ -134,6 +134,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 
   - **State of AI Report**: [2018](https://www.stateof.ai/2018), [2019](https://www.stateof.ai/2019), [2020](https://www.stateof.ai/2020), [2021](https://www.stateof.ai/2021), [2022](https://www.stateof.ai/)
   - reverse chronological major events https://bleedingedge.ai/
+  - Jay alammar's guide to all the things: https://llm.university/
   - A16z AI Canon https://a16z.com/2023/05/25/ai-canon/
 	  -  **[Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)**: Andrej Karpathy was one of the first to clearly explain (in 2017!) why the new AI wave really matters. His argument is that AI is a new and powerful way to program computers. As LLMs have improved rapidly, this thesis has proven prescient, and it gives a good mental model for how the AI market may progress.
 	-   **[State of GPT](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)**: Also from Karpathy, this is a very approachable explanation of how ChatGPT / GPT models in general work, how to use them, and what directions R&D may take.
