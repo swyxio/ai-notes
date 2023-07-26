@@ -169,3 +169,7 @@ there was a google thing as well. something like XP1?
 - [https://twitter.com/jaredpalmer/status/1673350963191508993](https://twitter.com/jaredpalmer/status/1673350963191508993)
 - [https://github.com/steven-tey/chathn](https://github.com/steven-tey/chathn)
     - [https://github.com/steven-tey/chathn/blob/8c62c12079d9e881444d03c67359d1ff4f8032c7/app/api/chat/functions.ts#L114](https://github.com/steven-tey/chathn/blob/8c62c12079d9e881444d03c67359d1ff4f8032c7/app/api/chat/functions.ts#L114)
+
+## agent collaboration
+
+- https://arxiv.org/abs/2307.05300v2 # Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration
