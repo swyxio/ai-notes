@@ -13,8 +13,9 @@
 - State Space Models - in theory infinite context window
 	- https://arxiv.org/abs/2111.00396 S4 paper - We propose the Structured State Space sequence model (S4)
 	- https://overcast.fm/+Y_EGDVIU4/8:00 aidan gomez explanation of s4
-	- hungry hungry hippos (h3) - a form of SSMs
+	- hungry hungry hippos (h3) - a form of SSMs [S4](https://arxiv.org/abs/2111.00396), [H3](https://arxiv.org/abs/2212.14052), [Hyena](https://arxiv.org/abs/2302.10866), [HyenaDNA](https://arxiv.org/abs/2306.15794)
+	-  [BiGS](https://arxiv.org/abs/2212.10544), [Mega](https://arxiv.org/abs/2209.10655), [Liquid](https://arxiv.org/abs/2209.12951),
 - unlimiformer https://news.ycombinator.com/item?id=35832802 
 - RWKVs
 	- https://news.ycombinator.com/item?id=36038868
-	- 
+- monarch mixers https://hazyresearch.stanford.edu/blog/2023-07-25-m2-bert
