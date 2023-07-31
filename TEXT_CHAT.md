@@ -92,7 +92,8 @@ We explain each of these terms and why they are relevant to ChatGPT by comparing
 	- https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain This application, developed by [James L. Weaver](https://www.linkedin.com/in/javafxpert/), demonstrates a conversational agent implemented with OpenAI GPT-3.5 and LangChain. When necessary, it leverages tools for complex math, searching the internet, and accessing news and weather. Uses talking heads from [Ex-Human](https://exh.ai/). For faster inference without waiting in queue, you may duplicate the space.
 - [Show HN: ChatBotKit – The simplest way to build AI chat bots like ChatGPT](https://chatbotkit.com/)
 - [IngestAI – NoCode ChatGPT-bot creator from your knowledge base in Slack](https://ingestai.io/)
-- Comparison of OSS chat models with ELO and leaderboard https://chat.lmsys.org/?leaderboard
+- Comparison of OSS chat models with ELO and leaderboard https://chat.lmsys.org/?leaderboard https://github.com/chatarena/chatarena
+	- can also blind judge the outputs from LLaMa 2 vs ChatGPT-3.5: [https://llmboxing.com/](https://llmboxing.com/)
 - one app for ChatGPT, Claude, and Bard: https://github.com/chathub-dev/chathub/blob/main/README.md
 
 ## Anthropic Claude notes

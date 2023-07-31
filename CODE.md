@@ -79,7 +79,7 @@ Liu, Jiawei, Chunqiu Steven Xia, Yuyao Wang, and Lingming Zhang. “Is Your Code
 	- Nijkamp, E., Hayashi, H., Xiong, C., Savarese, S., and Zhou, Y. (2023). **Codegen2**: Lessons for training llms on programming and natural languages. arXiv preprint arXiv:2305.02309.
 	- Codegen 2.5
 		- [just one subtle detail added to this model makes codegen 2.5 substantially faster than codegen 2 All it required was increasing the number of attention heads from 16 to 32...](https://twitter.com/amanrsanger/status/1677090522589188097)
-			- 
+		- grafted onto openllama https://twitter.com/abacaj/status/1677333465996353541
 - the stack from eleuther
 - Li, R., Allal, L. B., Zi, Y., Muennighoff, N., Kocetkov, D., Mou, C., Marone, M., Akiki, C., Li, J., Chim, J., et al. (2023). Starcoder: may the source be with you! arXiv preprint arXiv:2305.06161.
 
@@ -115,6 +115,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - custom languages
 	- LMQL
 	- https://github.com/georgia-tech-db/eva EVA DB is an AI-SQL database system for developing applications powered by AI models. We aim to simplify the development and deployment of AI-powered applications that operate on structured (tables, feature stores) and unstructured data (videos, text, podcasts, PDFs, etc.). EVA DB accelerates AI pipelines by 10-100x using a collection of performance optimizations inspired by time-tested SQL database systems, including data-parallel query execution, function caching, sampling, and cost-based predicate reordering. EVA supports an AI-oriented SQL-like query language tailored for analyzing both structured and unstructured data. It has first-class support for PyTorch, Hugging Face, YOLO, and Open AI models.
+	- https://github.com/alantech/marsha LLM-based programming language. Describe what you want done with a simple syntax, provide examples of usage, and the Marsha compiler will guide an LLM to produce tested Python software.
 - copilot labs
 	- https://redmonk.com/jgovernor/2023/01/06/the-future-just-happened-developer-experience-and-ai-are-now-inextricably-linked/
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds

@@ -18,7 +18,7 @@ This Readme is just the high level overview of the space; you should see the mos
 - **Resources**: standing, cleaned up resources that are meant to be permalinked to
 - **stub notes** - very small/lightweight proto pages of future coverage areas
 		  - `AGENTS.md` - tracking "agentic AI"
-- **blog ideas**- potential blog post ideas derived from these notes
+- **blog ideas**- potential blog post ideas derived from these notes bc
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -162,6 +162,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  9. simonw highlights https://fedi.simonwillison.net/@simon/110144185463887790
   - openai prompt eng cookbook https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
   - on prompt eng overview https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+  - https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/ comparing search vs ai
   - Recap of 2022's major AI developments https://www.deeplearning.ai/the-batch/issue-176/
   - DALLE2 asset generation + inpainting https://twitter.com/aifunhouse/status/1576202480936886273?s=20&t=5EXa1uYDPVa2SjZM-SxhCQ
   - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w

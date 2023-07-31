@@ -36,3 +36,4 @@
 
 - langchain is pointless https://news.ycombinator.com/item?id=36645575
 - the problem with langchain from minimaxir
+- voyager commentary on langchain https://twitter.com/DrJimFan/status/1678089693920133120
