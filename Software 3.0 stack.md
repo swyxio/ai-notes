@@ -29,6 +29,8 @@
 - eval
 	- https://twitter.com/ishaan_jaff/status/1665105582804832258
 	- agenteval - the agihouse project via darius
+	- [Hegel AI Prompttools](https://news.ycombinator.com/item?id=36958175)
+	- https://github.com/promptfoo/promptfoo
 ## typing/json structure libraries 
 
 - Microsoft TypeChat https://news.ycombinator.com/item?id=36803124
