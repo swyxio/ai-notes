@@ -92,6 +92,8 @@
 
 ## SD vs DallE vs MJ
 
+July 2023: compare models: https://zoo.replicate.dev/
+
 June 2023: https://news.ycombinator.com/item?id=36407272
 
 DallE banned so SD https://twitter.com/almost_digital/status/1556216820788609025?s=20&t=GCU5prherJvKebRrv9urdw
@@ -294,6 +296,7 @@ SD2 Prompt Book from Stability: https://stability.ai/sdv2-prompt-book
   - https://www.reddit.com/r/StableDiffusion/comments/z3ferx/xy_plot_comparisons_of_sd_v15_ema_vs_sd_20_x768/
   - compare it yourself https://app.gooey.ai/CompareText2Img/?example_id=1uONp1IBt0Y
   - depth2img produces more coherence for animations https://www.reddit.com/r/StableDiffusion/comments/zk32dg/a_quick_demo_to_show_how_structurally_coherent/
+  - https://replicate.com/lucataco/animate-diff 
   - July 2023: "[nobody uses v2 for people generation](https://twitter.com/levelsio/status/1680699101719982081?s=20)"
 - https://twitter.com/EMostaque/status/1595731398450634755
   - V2 prompts different and will take a while for folk to get used to. V2 is trained on two models, a generator model and a image-to-text model (CLIP).

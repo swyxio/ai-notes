@@ -26,6 +26,7 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
 - **Tools to explore**
   - **LLM APIs**
     - **OpenAI** needs no introduction. [Cookbook](https://github.com/openai/openai-cookbook/), [Docs](https://platform.openai.com/docs/introduction/overview)
+    - Replicate - OSS models galore, esp image stuff. [Showcase](https://replicate.com/showcase), [Chat template](https://github.com/replicate/llama-chat)
   - **Prompt Engineering Libraries**
     - [**LangChain**](https://github.com/hwchase17/langchain/) - Building applications with LLMs through composability. [Discord](https://discord.gg/6adMQxSpJS). [ChatGPT tutorial](https://twitter.com/sjwhitmore/status/1601254826947784705).
     - [**Lambdaprompt**](https://github.com/approximatelabs/lambdaprompt) - Build, compose and call templated LLM prompts
