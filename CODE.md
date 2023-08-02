@@ -56,6 +56,7 @@ Liu, Jiawei, Chunqiu Steven Xia, Yuyao Wang, and Lingming Zhang. “Is Your Code
 - June 2023 - phi-1 beats chatgpt at coding with 1.3b parameters, and only 7B tokens _for several epochs_ of pretraining data. 1/7th of that data being synthetically generated :O The rest being extremely high quality textbook data https://twitter.com/Teknium1/status/1671336110684012545?s=20
 	- https://twitter.com/EldanRonen/status/1671361731837456385
 	- https://twitter.com/SebastienBubeck/status/1671326369626853376?s=20
+- aug 2023 - july shanghai newhope model https://twitter.com/mathemagic1an/status/1686814347287486464?s=20
 
 ## Known Issues
 

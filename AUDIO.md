@@ -212,6 +212,14 @@ https://news.ycombinator.com/item?id=33663486
 
 general consensus is that it's just not very good right now
 
+- Meta https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
+	- AudioCraft consists of three models: [MusicGen](https://huggingface.co/spaces/facebook/MusicGen), [AudioGen](https://felixkreuk.github.io/audiogen/), and [EnCodec](https://ai.meta.com/blog/ai-powered-audio-compression-technique/). 
+	- MusicGen, which was trained with Meta-owned and specifically licensed music, generates music from text-based user inputs, 
+	- while AudioGen, which was trained on public sound effects, generates audio from text-based user inputs. 
+	- Today, we’re excited to release an improved version of 
+		- our EnCodec decoder, which allows for higher quality music generation with fewer artifacts; 
+		- our pre-trained AudioGen model, which lets you generate environmental sounds and sound effects like a dog barking, cars honking, or footsteps on a wooden floor; and 
+		- all of the AudioCraft model weights and code. 
 - disco diffusion?
 - img-to-music via CLIP interrogator => Mubert ([HF space](https://huggingface.co/spaces/fffiloni/img-to-music), [tweet](https://twitter.com/fffiloni/status/1585698118137483276))
 - https://soundraw.io/ https://news.ycombinator.com/item?id=33727550
@@ -230,6 +238,7 @@ general consensus is that it's just not very good right now
 	- beatbot.fm https://news.ycombinator.com/item?id=34994444
 - sovitz svc - taylor swift etc voice synth
 	- https://www.vulture.com/article/ai-singers-drake-the-weeknd-voice-clones.html
+
 
 ## misc
 
