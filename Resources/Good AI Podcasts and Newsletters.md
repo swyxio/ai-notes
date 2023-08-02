@@ -14,21 +14,20 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 - News/Youtubers
 	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
 	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps
-	- [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world
+	- ⭐ [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world
 	- [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps
-	- [The ChatGPT report](https://anchor.fm/ben-meyerhoeffer/episodes/Ep-30-Bard-vs-Bing-e212edr) - weekly 10 minutes on AI news, nontechnical
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
 - Companies
-	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host
+	- ⭐ [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host
 	- ⭐ [Robot Brains](https://www.therobotbrains.ai/) - Pieter Abbeel - decent backlog
-	- ⭐ [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - kinda new, some good chats
-	- [Generally Intelligent](https://generallyintelligent.com/podcast) - Kanjun Qiu - very cerebral/RL focused
+	- ⭐ [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - great new pod
+	- [Generally Intelligent](https://generallyintelligent.com/podcast) - Kanjun Qiu - very cerebral/RL focused. dormant.
 	- [Weaviate Podcast](https://podcasters.spotify.com/pod/show/weaviate/episodes/Erika-Cardenas--Roman-Grebennikov--and-Vsevolod-Goloviznin-on-Recommendation-and-Metarank---Pod-43-e2280u3) - good technical discussions
 	- [NLP Highlights](https://www.listennotes.com/podcasts/nlp-highlights-allen-institute-for-f9Yt4vD_ger/) by the Allen Institute (infrequent but good pre 2020 backlog. Check episode 36)
 - VCs
 	- ⭐ [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil - new
 	- [Unsupervised Learning](https://podtail.com/en/podcast/unsupervised-learning/) - Redpoint - new
-- Mine :) https://latent.space/ - new
+- Mine :) https://latent.space/
 
 ## Newsletters
 
