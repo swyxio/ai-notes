@@ -122,7 +122,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - http://www.useadrenaline.com/ Show HN: Fully LLM powered code repair – fix and explain your code in seconds
 - [Gptcommit: Never write a commit message again (with the help of GPT-3)](https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/)
 	- yet another https://news.ycombinator.com/item?id=34591733
-	- https://github.com/Nutlope/aicommits
+	- https://github.com/Nutlope/aicommits - or [chadCommit](https://marketplace.visualstudio.com/items?itemName=lennartlence.chadcommit) inside vscode
 	- https://github.com/di-sukharev/opencommit
 - https://github.com/paul-gauthier/aider
 - vscode extensions
