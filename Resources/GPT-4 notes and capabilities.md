@@ -177,6 +177,7 @@
 	- $40m single run https://twitter.com/abacaj/status/1650187242202189824?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- >$100m total
 		- repeated by connor leahy https://www.youtube.com/watch?v=tYGMfd3_D1o
+		- <$100m ajeya cotra https://twitter.com/ajeya_cotra/status/1687135321551716353?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- 1tr params but vague rumor
 - GPT-4 was apparently designed to fit on 2 H-100's which limits parameters to 160GB. https://twitter.com/LetterRip1/status/1670941206019457024?s=20
 - GPT-4 8 x 220B models
