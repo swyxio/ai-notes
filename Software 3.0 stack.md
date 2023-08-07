@@ -8,6 +8,8 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 - prototyping
 	- nat.dev
 	- https://play.vercel.ai/
+- prompt engineering
+	- https://github.com/ianarawjo/ChainForge An open-source visual programming environment for LLM experimentation and prompt evaluation.
 
 ## highest code level
 

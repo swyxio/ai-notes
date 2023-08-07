@@ -115,6 +115,8 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 		- wizard-vicuna dataset
 		- nous hermes -   Llama 2 13B model fine-tuned on over 300,000 instructions. This model stands out for its long responses, lower hallucination rate, and absence of OpenAI censorship mechanisms
 		- Eric Hartford’s [Wizard Vicuna 13B uncensored](https://huggingface.co/ehartford/Wizard-Vicuna-13B-Uncensored)
+	- llama2 finetune for code
+		- https://www.numbersstation.ai/post/nsql-llama-2-7b
 - https://github.com/facebookresearch/llama
 	- [Paper](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=vopDLpNfG6gAX84qs6h&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDipCb80g49Ksfxrjxiy7mOOl8ZoBO5QScseom5FDM14Q&oe=641984E2)
 	- https://github.com/ggerganov/llama.cpp/
@@ -412,6 +414,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 - SQL
 	  - https://yale-lily.github.io/spider
 	  - https://huggingface.co/NumbersStation/nsql-6B
+		  - https://www.numbersstation.ai/post/nsql-llama-2-7b
 	  - perplexity.ai/sql
 	    - https://twitter.com/perplexity_ai/status/1605250295780773889
 	- seekai
