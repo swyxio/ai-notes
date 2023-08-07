@@ -207,6 +207,8 @@ https://news.ycombinator.com/item?id=33663486
 ## Stem separation
 
 - https://github.com/deezer/spleeter (and bpm detection)
+- https://github.com/facebookresearch/demucs demux model - used at outside lands llm ahackathon can strip vocals from a sound https://sonauto.app/
+	- used in lalal.ai as well
 
 ## Music generation
 
