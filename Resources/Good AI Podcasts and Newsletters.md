@@ -1,9 +1,10 @@
+A live updating list of good ai podcasts and newsletters by swyx. Please feel free to PR your additions and I'll take a look.
 
 > this ended up being the best list — [Andrew Chen](https://twitter.com/andrewchen/status/1642626083962130432?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 
 ## Podcasts
 
-some of these are on youtube too, i dont really bother separating them. ⭐  represents personal faves
+some of these are on youtube too, i dont really bother separating them. ⭐  represents particular faves, ask me IRL
 
 - Researchers & Specialists
 	- [The Gradient](https://thegradientpub.substack.com/s/podcast) (Daniel Bashir) - great practitioner interviews
@@ -25,7 +26,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [Weaviate Podcast](https://podcasters.spotify.com/pod/show/weaviate/episodes/Erika-Cardenas--Roman-Grebennikov--and-Vsevolod-Goloviznin-on-Recommendation-and-Metarank---Pod-43-e2280u3) - good technical discussions
 	- [NLP Highlights](https://www.listennotes.com/podcasts/nlp-highlights-allen-institute-for-f9Yt4vD_ger/) by the Allen Institute (infrequent but good pre 2020 backlog. Check episode 36)
 - VCs
-	- ⭐ [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil - new
+	- [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil - new
 	- [Unsupervised Learning](https://podtail.com/en/podcast/unsupervised-learning/) - Redpoint - new
 - Mine :) https://latent.space/
 
@@ -41,7 +42,10 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Carlos's Data Machina https://datamachina.substack.com/
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
 	- Semi Analysis https://www.semianalysis.com/p/ai-server-cost-analysis-memory-is
-	- https://www.supervised.news/ is new but promising quality 
+	- https://www.supervised.news/ is new but promising quality
+ 	- infrequent but great when they post
+  		- https://eugeneyan.com/writing/
+    		- https://lilianweng.github.io/
 - Aggregators
 	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly (has [chrome extension](https://github.com/labmlai/chrome-extension)) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
 	- TheSequence https://thesequence.substack.com/about (paid & free)
