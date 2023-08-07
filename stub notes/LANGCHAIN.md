@@ -10,6 +10,7 @@
 - alternatives/competitors:
 	- Litechain: https://github.com/rogeriochaves/litechain
 	- [Microsoft Guardrails](https://github.com/microsoft/guidance)
+		- alternative https://blog.normalcomputing.ai/posts/2023-07-27-regex-guided-generation/regex-guided-generation.html
 	- [Stanford DSP](https://github.com/stanfordnlp/dsp/)
 	- [Autochain](https://github.com/Forethought-Technologies/AutoChain)
 	- [haystack](https://github.com/deepset-ai/haystack)

@@ -185,6 +185,7 @@ Codium - https://www.codium.ai/blog/codiumai-powered-by-testgpt-accounces-beta-a
 - https://github.com/eth-sri/lmql 
 - https://github.com/microsoft/guidance/
 	- https://twitter.com/altryne/status/1661237105278988290/photo/1
+	- alternative https://blog.normalcomputing.ai/posts/2023-07-27-regex-guided-generation/regex-guided-generation.html
 
 ## function sdks
 

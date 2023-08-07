@@ -10,6 +10,9 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 	- https://play.vercel.ai/
 - prompt engineering
 	- https://github.com/ianarawjo/ChainForge An open-source visual programming environment for LLM experimentation and prompt evaluation.
+		- alternatives
+		- [https://github.com/logspace-ai/langflow](https://github.com/logspace-ai/langflow)
+		- [https://github.com/FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 
 ## highest code level
 
