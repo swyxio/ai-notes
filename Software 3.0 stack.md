@@ -1,4 +1,8 @@
 
+## high quality guides and tutorial
+
+full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/
+
 ## no code
 
 - prototyping
