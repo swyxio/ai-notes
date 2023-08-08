@@ -18,6 +18,8 @@
 	- https://www.geoffreylitt.com/2023/01/29/fun-with-compositional-llms-querying-basketball-stats-with-gpt-3-statmuse-langchain.html
 - Automatic Reasoning & Tool-Use of LLMs
 	- Retrieves examples of reasoning & tool use from task library -Writes its own program, pauses when tool call is encountered, integrates output -Much better than few-shot prompting [tweet](https://mobile.twitter.com/johnjnay/status/1636555772082499584?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- alternative
+	- Karpas, E., Abend, O., Belinkov, Y., Lenz, B., Lieber, O., Ratner, N., . . ., Tenenholtz, M., MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning, 2022.
 
 ## other agent paradigms
 
