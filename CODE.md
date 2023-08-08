@@ -108,6 +108,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - Code IDEs
 	- Introducing Cursor!! ([https://cursor.so](https://t.co/wT5wRe22O2))Cursor IDE https://twitter.com/amanrsanger/status/1615539968772050946
 		- why is this not a vscode extension?
+	- https://idx.dev/ Project IDX is an entirely web-based workspace for full-stack application development, complete with the latest generative AI (powered by Codey and PaLM 2), and full-fidelity app previews
 	- E2b - from vasek https://github.com/e2b-dev/e2b
 - the pandas extension thing - https://github.com/approximatelabs/sketch 
  	- built on lambdaprompt https://github.com/approximatelabs/lambdaprompt

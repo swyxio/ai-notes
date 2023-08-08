@@ -166,7 +166,12 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 
 ### Chatgpt Timeline
 
-- July 20 - Custom Instructions ([new system prompt](https://twitter.com/swyx/status/1682095347303346177))
+- July 20 - Custom Instructions ([new system prompt](https://twitter.com/swyx/status/1682095347303346177)) [example](https://news.ycombinator.com/item?id=37055149)
+    Avoid disclaimers about your knowledge cutoff.
+    Avoid mentioning you are an AI language model.
+    Only discuss safety when it is not obvious and very important
+    You should act as an expert in the relevant fields.
+
 
 ### insider notes
 
@@ -408,6 +413,7 @@ sorted in rough descending order of impact
 
 more longform recap of fails https://garymarcus.substack.com/p/large-language-models-like-chatgpt together with corpus of ChatGPT errors
 
+- Aug 8 2023 - Bing Sydney like fails in ChatGPT https://news.ycombinator.com/item?id=37054241
 - switching roles in converation https://twitter.com/parafactual/status/1598212029479026689
 - failed spatial relationships https://twitter.com/paulharter/status/1598304656236875781
 - cant do math 
