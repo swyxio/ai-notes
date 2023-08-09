@@ -3,6 +3,8 @@
 - Notable posts
 	- [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
 	- Aug 8 2023 - Bing Sydney like fails in ChatGPT https://news.ycombinator.com/item?id=37054241
+- Learning
+	- [How RLHF Preference Model Tuning Works (And How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
 - Models
 	- Audio - Meta audiocraft https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
 	- Code - shanghai newhope https://twitter.com/mathemagic1an/status/1686814347287486464?s=20
@@ -13,3 +15,8 @@
 	- https://github.com/psychic-api/rag-stack Deploy a private ChatGPT alternative hosted within your VPC. Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.
 - Agents
 	- https://github.com/simonmesmith/agentflow Complex LLM Workflows from Simple JSON.
+	- https://github.com/plowsai/stableagents  _A collective list of Stable Agents_
+	- autogpt benchmarks https://docs.google.com/spreadsheets/d/1WXm16P2AHNbKpkOI0LYBpcsGG0O7D8HYTG5Uj0PaJjA/edit#gid=1782380512
+	- https://github.com/THUDM/AgentBench A Comprehensive Benchmark to Evaluate LLMs as Agents - [my comments](https://twitter.com/swyx/status/1689350837733306371)
+	- https://www.junglegym.ai/ open Source Analytics Playground for AI agents
+	- https://dangbot.com/ an experimental autonomous agent platform.
