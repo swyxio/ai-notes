@@ -5,6 +5,7 @@
 	- Aug 8 2023 - Bing Sydney like fails in ChatGPT https://news.ycombinator.com/item?id=37054241
 - Learning
 	- [How RLHF Preference Model Tuning Works (And How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
+	- [Comprehensive RAG research recap](https://acl2023-retrieval-lm.github.io/) 
 - Models
 	- Audio - Meta audiocraft https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
 	- Code - shanghai newhope https://twitter.com/mathemagic1an/status/1686814347287486464?s=20
