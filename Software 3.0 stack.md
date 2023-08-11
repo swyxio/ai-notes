@@ -25,6 +25,7 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 	- langchain
 		- https://www.pinecone.io/learn/langchain/
 	- llamaindex
+	- deepset [haystack](https://haystack.deepset.ai/)
 	- guardrails 
 	- [scale spellbook](https://twitter.com/russelljkaplan/status/1590183663819718658)
 - vector databases
