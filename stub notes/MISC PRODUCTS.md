@@ -1,7 +1,17 @@
 
+
+
+
 Sequoia - jess lee image - [Almost every new social network has begun with an innovation in creation.](https://twitter.com/jesskah/status/1615759018999545857/photo/1) Funnily enough, the seminal Dreambooth paper actually has a great consumer social pitch embedded in it: It's like a photo booth, but once the subject is captured, it can be synethsized wherever your dreams take you.
 
 devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingface
+
+### personal content summarization
+
+- wondercraft ai - pg essays - hn recap
+- https://about.reca.st/
+- https://www.podshorty.com/
+- https://pod-genie.com/
 
 
 ## design / figma
