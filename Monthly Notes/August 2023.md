@@ -14,6 +14,7 @@
 	- This [repository](https://github.com/hegelai/prompttools) offers a set of free, open-source tools for testing and experimenting with prompts. The core idea is to enable developers to evaluate prompts using familiar interfaces like _code_ and _notebooks_.
 - Templates
 	- https://github.com/psychic-api/rag-stack Deploy a private ChatGPT alternative hosted within your VPC. Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.
+	- smol https://github.com/FanaHOVA/smol-podcaster podcaster ([tweet](https://twitter.com/FanaHOVA/status/1689352217499930624)) We use smol-podcaster to take care of most of [Latent Space](https://latent.space/) transcription work. What it will do for you:
 - Agents
 	- https://github.com/simonmesmith/agentflow Complex LLM Workflows from Simple JSON.
 	- https://github.com/plowsai/stableagents  _A collective list of Stable Agents_
@@ -21,3 +22,7 @@
 	- https://github.com/THUDM/AgentBench A Comprehensive Benchmark to Evaluate LLMs as Agents - [my comments](https://twitter.com/swyx/status/1689350837733306371)
 	- https://www.junglegym.ai/ open Source Analytics Playground for AI agents
 	- https://dangbot.com/ an experimental autonomous agent platform.
+	- https://arxiv.org/pdf/2308.00352.pdf we introduce MetaGPT, an innovative framework that incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration. Specifically, MetaGPT encodes Standardized Operating Procedures (SOPs) into prompts to enhance structured coordination. Subsequently, it mandates modular outputs, empowering agents with domain expertise comparable to human professionals, to validate outputs and minimize compounded errors. In this way, MetaGPT leverages the assembly line paradigm to assign diverse roles to various agents, thereby establishing a framework that can effectively and cohesively deconstruct complex multi-agent collaborative problems
+- notable news
+	- Huggingface relicensing HFOIL
+	- Weights and Biases $50m
