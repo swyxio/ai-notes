@@ -205,6 +205,7 @@ Bard comparing favilorably with Bing on conciseness https://overcast.fm/+-Myp4gD
 ### Plugins
 
 - https://github.com/Jeadie/awesome-chatgpt-plugins
+	- https://openpm.ai/  OpenAPI package manager For AI plugins
 - https://twitter.com/OfficialLoganK/status/1638952666310103040?s=20
 - https://platform.openai.com/docs/plugins/examples
 - https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/
