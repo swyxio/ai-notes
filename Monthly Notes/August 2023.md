@@ -3,6 +3,7 @@
 - Notable posts
 	- [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
 	- Aug 8 2023 - Bing Sydney like fails in ChatGPT https://news.ycombinator.com/item?id=37054241
+	- [why host your own LLM?](https://news.ycombinator.com/item?id=37133504)
 - Learning
 	- [How RLHF Preference Model Tuning Works (And How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
 	- [Comprehensive RAG research recap](https://acl2023-retrieval-lm.github.io/) 
@@ -10,8 +11,11 @@
 	- Audio - Meta audiocraft https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
 	- Code - shanghai newhope https://twitter.com/mathemagic1an/status/1686814347287486464?s=20
 	- Wizard/Uncensored Llama2 https://news.ycombinator.com/item?id=36973584
-- Prompt tools - Hegel AI https://prompttools.readthedocs.io/en/latest/
-	- This [repository](https://github.com/hegelai/prompttools) offers a set of free, open-source tools for testing and experimenting with prompts. The core idea is to enable developers to evaluate prompts using familiar interfaces like _code_ and _notebooks_.
+- Prompt tools 
+	- Hegel AI https://prompttools.readthedocs.io/en/latest/
+		- This [repository](https://github.com/hegelai/prompttools) offers a set of free, open-source tools for testing and experimenting with prompts. The core idea is to enable developers to evaluate prompts using familiar interfaces like _code_ and _notebooks_.
+	- Outlines from Normal Computing https://news.ycombinator.com/item?id=37125118 - generate valid JSON matching a regex
+		- in each state we get a list of symbols which correspond to completions that partially match the regular expression. We mask the other symbols in the logits returned by a large language model, sample a new symbol and move to the next state. The subtelty is that language models work with tokens, not symbols, so we derive a new FSM whose alphabet is the model's vocabulary. We can do this in only one pass over the vocabulary.
 - Templates
 	- https://github.com/psychic-api/rag-stack Deploy a private ChatGPT alternative hosted within your VPC. Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.
 	- smol https://github.com/FanaHOVA/smol-podcaster podcaster ([tweet](https://twitter.com/FanaHOVA/status/1689352217499930624)) We use smol-podcaster to take care of most of [Latent Space](https://latent.space/) transcription work. What it will do for you:
@@ -23,6 +27,11 @@
 	- https://www.junglegym.ai/ open Source Analytics Playground for AI agents
 	- https://dangbot.com/ an experimental autonomous agent platform.
 	- https://arxiv.org/pdf/2308.00352.pdf we introduce MetaGPT, an innovative framework that incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration. Specifically, MetaGPT encodes Standardized Operating Procedures (SOPs) into prompts to enhance structured coordination. Subsequently, it mandates modular outputs, empowering agents with domain expertise comparable to human professionals, to validate outputs and minimize compounded errors. In this way, MetaGPT leverages the assembly line paradigm to assign diverse roles to various agents, thereby establishing a framework that can effectively and cohesively deconstruct complex multi-agent collaborative problems
+	- Generative Agents paper was open sourced
+		- https://github.com/a16z-infra/ai-town - open source/JS reimplementation
 - notable news
 	- Huggingface relicensing HFOIL
 	- Weights and Biases $50m
+	- Anthropic $100m
+- Safety et al
+	- hotz v yud https://www.youtube.com/watch?v=6yQEA18C-XI
