@@ -20,6 +20,9 @@ prompt engineering techniques
 		- [implemented in llama.cpp](https://twitter.com/GrantSlatton/status/1657559506069463040)
 	- microsoft guidance 
 		- "Guidance programs allow you to interleave generation, prompting, and logical control" Also internally handles subtle but important tokenization-related issues, e.g. "token healing".
+	- outlines https://github.com/normal-computing/outlines
+		- https://news.ycombinator.com/item?id=37125118
+		- compared with guidance/jsonformer https://arxiv.org/pdf/2307.09702.pdf
 	- automorphic trex https://automorphic.ai/#why
 - constrained sampling methods
 	- reLLM and Parserllm 
