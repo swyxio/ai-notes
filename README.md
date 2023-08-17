@@ -278,6 +278,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 
 - https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d
 - https://github.com/underlines/awesome-marketing-datascience/blob/master/awesome-ai.md#llama-models
+- https://github.com/imaurer/awesome-decentralized-llm
 
 ## Communities
 
