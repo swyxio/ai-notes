@@ -4,7 +4,6 @@
 	- [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
 	- Aug 8 2023 - Bing Sydney like fails in ChatGPT https://news.ycombinator.com/item?id=37054241
 	- [why host your own LLM?](https://news.ycombinator.com/item?id=37133504)
-	- [open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 - Learning
 	- [How RLHF Preference Model Tuning Works (And How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
 	- [Comprehensive RAG research recap](https://acl2023-retrieval-lm.github.io/) 
@@ -26,7 +25,7 @@
 	- https://github.com/simonmesmith/agentflow Complex LLM Workflows from Simple JSON.
 	- https://github.com/plowsai/stableagents  _A collective list of Stable Agents_
 	- autogpt benchmarks https://docs.google.com/spreadsheets/d/1WXm16P2AHNbKpkOI0LYBpcsGG0O7D8HYTG5Uj0PaJjA/edit#gid=1782380512
-	- https://github.com/THUDM/AgentBench A Comprehensive Benchmark to Evaluate LLMs as Agents - [my comments](https://twitter.com/swyx/status/1689350837733306371)
+	- https://github.com/THUDM/AgentBench A Comprehensive Benchmark to Evaluate LLMs as Agents - [my comments](https://twitter.com/swyx/status/1689350837733306371) and read out https://papersread.ai/e/agentbench-evaluating-llms-as-agents/
 	- https://www.junglegym.ai/ open Source Analytics Playground for AI agents
 	- https://dangbot.com/ an experimental autonomous agent platform.
 	- https://arxiv.org/pdf/2308.00352.pdf we introduce MetaGPT, an innovative framework that incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration. Specifically, MetaGPT encodes Standardized Operating Procedures (SOPs) into prompts to enhance structured coordination. Subsequently, it mandates modular outputs, empowering agents with domain expertise comparable to human professionals, to validate outputs and minimize compounded errors. In this way, MetaGPT leverages the assembly line paradigm to assign diverse roles to various agents, thereby establishing a framework that can effectively and cohesively deconstruct complex multi-agent collaborative problems

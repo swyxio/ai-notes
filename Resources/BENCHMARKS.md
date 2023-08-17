@@ -393,3 +393,9 @@ https://youtu.be/EzEuylNSn-Q
 
 information retrieval benchmark
 - https://github.com/beir-cellar/beir
+
+### agent benchmarks 
+
+
+- https://papersread.ai/e/agentbench-evaluating-llms-as-agents/
+- autogpt benchmarking framework
