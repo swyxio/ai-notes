@@ -4,6 +4,7 @@
 	- [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
 	- Aug 8 2023 - Bing Sydney like fails in ChatGPT https://news.ycombinator.com/item?id=37054241
 	- [why host your own LLM?](https://news.ycombinator.com/item?id=37133504)
+	- [open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 - Learning
 	- [How RLHF Preference Model Tuning Works (And How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
 	- [Comprehensive RAG research recap](https://acl2023-retrieval-lm.github.io/) 
