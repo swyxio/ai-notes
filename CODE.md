@@ -128,6 +128,7 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - https://github.com/paul-gauthier/aider
 - vscode extensions
 	- https://newsletter.pragmaticengineer.com/p/ai-coding-tools
+	- https://continue.dev/
 	- ![https://media.licdn.com/dms/image/D4D22AQEA0JDCbyh_lQ/feedshare-shrink_2048_1536/0/1681887453686?e=1686182400&v=beta&t=0HfD2mXzDFC1Oc0S6twegX09lRb1WIui97jpcWK5qV8](https://media.licdn.com/dms/image/D4D22AQEA0JDCbyh_lQ/feedshare-shrink_2048_1536/0/1681887453686?e=1686182400&v=beta&t=0HfD2mXzDFC1Oc0S6twegX09lRb1WIui97jpcWK5qV8)
 - santacoder typosaurus https://twitter.com/corbtt/status/1616270918774575105?s=46&t=ZSeI0ovGBee8JBeXEe20Mg semantic linter that spots errors in code
 - GPT Prompt Engineer https://github.com/mshumer/gpt-prompt-engineer
