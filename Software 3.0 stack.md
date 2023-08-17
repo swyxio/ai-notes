@@ -37,8 +37,10 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 - Ozone - prompt unit testing https://twitter.com/at_sushi_/status/1667004844153131008
 - https://log10.io/ - pivoting to llm quality monitoring
 - eval
-	- https://twitter.com/ishaan_jaff/status/1665105582804832258
-	- agenteval - the agihouse project via darius
+	- https://github.com/BerriAI/bettertest https://twitter.com/ishaan_jaff/status/1665105582804832258
+	- https://github.com/AgentOps-AI/agentops
+	- https://www.ycombinator.com/launches/JFc-baserun-ai-ship-llm-features-with-confidence
+	- https://github.com/mr-gpt/deepeval
 	- [Hegel AI Prompttools](https://news.ycombinator.com/item?id=36958175)
 	- https://github.com/promptfoo/promptfoo
 ## typing/json structure libraries 
