@@ -69,6 +69,7 @@ https://news.ycombinator.com/item?id=36943318
 - pinecone
 - weaviate
 - qdrant
+- [marqo vector search](https://news.ycombinator.com/item?id=37147140)
 - postgres
 	- supabase vector
 	- problems with it:   
