@@ -44,6 +44,10 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 	- [Hegel AI Prompttools](https://news.ycombinator.com/item?id=36958175)
 	- https://github.com/promptfoo/promptfoo
 	- https://benchllm.com/
+	- [https://www.getscorecard.ai](https://www.getscorecard.ai/)
+	- [https://arxiv.org/abs/2308.03688](https://arxiv.org/abs/2308.03688)
+	- [https://withmartian.com](https://withmartian.com/)
+	- [https://aihero.studio/](https://aihero.studio/)
 ## typing/json structure libraries 
 
 - Microsoft TypeChat https://news.ycombinator.com/item?id=36803124
