@@ -114,6 +114,14 @@ Source: _Large Language Models are Zero-Shot Reasoners_ by Takeshi Kojima et a
 - "For instance,{expert_name} would answer[ANSWER]"
 
 
+https://arxiv.org/pdf/2308.05342.pdf
+metaprompt stages:
+1. comprehension clarification
+2. preliminary judgment
+3. critical evaluation
+4. decision confirmation
+5. confidence assessment
+
 ## self critique prompting (reflexion)
 
 Reflexion style self critique works well to fix first shot problems 
