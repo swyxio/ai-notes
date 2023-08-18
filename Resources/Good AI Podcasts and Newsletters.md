@@ -55,5 +55,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Lior AlphaSignal https://alphasignal.ai/
 	- Bot Eat Brain https://www.boteatbrain.com/
 	- https://codingwithintelligence.com/ (new but promising)
+ 	- https://www.therundown.ai/ (recommended by Software Defined Talk #428)
+  	- https://www.neatprompts.com/subscribe (recommended by Software Defined Talk #428)
 	- https://generallyintelligent.substack.com/ (daily bitesize news)
 - Mine :) https://latent.space/
