@@ -46,7 +46,7 @@ Agent Duos: collaborative problem-solving
 Stacking Agents: task delegation & collaboration
 
 
-## agent 
+## major agents projects
 
 - AutoGPT
 	- https://twitter.com/karpathy/status/1642598890573819905
@@ -142,6 +142,12 @@ thread on GPT3 agents https://twitter.com/GrantSlatton/status/160089024345213747
 
 https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven?sd=pf # The Near Future of AI is Action-Driven …and it will look a lot like AGI
 
+
+## low code agents
+
+- https://magicloops.dev/
+- https://flowiseai.com/
+- 
 
 ## OSS agent implementations
 
