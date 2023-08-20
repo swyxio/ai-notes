@@ -10,6 +10,8 @@ ELI5: https://news.ycombinator.com/item?id=35977891
 - 2018 - Noam Shazeer on why you should train >1B models https://youtu.be/9P_VAMyb-7k and https://youtu.be/P8FJVfg3Z44
 - FT coverage of the paper authors and when and how they left https://archive.is/2023.07.23-044102/https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50
 The Illustrated Transformer - [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
+- then read https://kipp.ly/transformer-inference-arithmetic/
+- then read https://finbarr.ca/how-is-llama-cpp-possible/
 
 
 ![https://vinija.ai/models/assets/transformers/2.png](https://vinija.ai/models/assets/transformers/2.png)

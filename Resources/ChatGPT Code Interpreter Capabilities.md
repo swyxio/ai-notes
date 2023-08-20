@@ -118,4 +118,4 @@ and requirements.txt https://twitter.com/swyx/status/1677589535587467264
 - https://twitter.com/hwchase17/status/1680620252433117184?s=20
 	- https://blog.langchain.dev/code-interpreter-api/
 	- https://github.com/shroominic/codeinterpreter-api
-- 
+	- https://twitter.com/arghzero/status/1691768136431988783
