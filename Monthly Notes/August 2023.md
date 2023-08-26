@@ -14,6 +14,7 @@
 	- Wizard/Uncensored Llama2 https://news.ycombinator.com/item?id=36973584
 	- Modular 600m valuation https://www.theinformation.com/articles/modular-ai-startup-challenging-nvidia-discusses-funding-at-600-million-valuation
 	- CodeLLama
+		- beat gpt4 https://news.ycombinator.com/item?id=37267597
 	- IDEFICS https://huggingface.co/spaces/HuggingFaceM4/idefics_playground
 - Prompt tools 
 	- Hegel AI https://prompttools.readthedocs.io/en/latest/
