@@ -40,5 +40,6 @@
 	- Anthropic $100m
 	- openai sdk https://x.com/officiallogank/status/1691875240647758123?s=12&t=c0zm9zMa5rGVx4afMXMoNA
 	- openai acquisition https://discord.com/channels/822583790773862470/1075282825051385876/1141775394576551967
+	- chatgpt enterprise https://news.ycombinator.com/item?id=37297304
 - Safety et al
 	- hotz v yud https://www.youtube.com/watch?v=6yQEA18C-XI
