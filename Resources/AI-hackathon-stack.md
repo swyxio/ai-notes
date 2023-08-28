@@ -118,7 +118,7 @@ This category is for **infra and tools** catering to AI app developers, in contr
   - **Model Serving**
     - https://www.baseten.co/ Serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
     - https://replicate.com/ Run models in the cloud at scale.
-    - https://www.cerebrium.ai AWS Sagemaker alternative. Deploy to serverless CPUs/GPUs with ~2 second cold start times. Models run 30% faster and 40%+ cheaper.
+    - https://www.cerebrium.ai AWS Sagemaker alternative. Deploy to serverless CPUs/GPUs with ~2 second cold start times. 40%+ cost saving.
     - (emerging) https://docs.preemo.io/docs host oss models
     - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot), [BERT in 34 lines of code](https://news.ycombinator.com/item?id=35792481)
     - https://www.steamship.com/ Managed Backend for AI services [LangChain example](https://www.steamship.com/build/langchain-apps)
