@@ -1,4 +1,5 @@
 
+1 year of stable diffusion
 
 - Notable posts
 	- [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
