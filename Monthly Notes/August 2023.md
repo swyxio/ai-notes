@@ -8,6 +8,7 @@
 	- [How RLHF Preference Model Tuning Works (And How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
 	- [Comprehensive RAG research recap](https://acl2023-retrieval-lm.github.io/) 
 	- [GPT LLM Trainer notebook from Matt shumer](https://twitter.com/mattshumer_/status/1689323331395231754)
+	- LangChain RAG ragas webinar https://www.youtube.com/watch?v=fWC4VxolWAk
 - Models
 	- Audio - Meta audiocraft https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
 	- Code - shanghai newhope https://twitter.com/mathemagic1an/status/1686814347287486464?s=20
@@ -21,6 +22,7 @@
 		- This [repository](https://github.com/hegelai/prompttools) offers a set of free, open-source tools for testing and experimenting with prompts. The core idea is to enable developers to evaluate prompts using familiar interfaces like _code_ and _notebooks_.
 	- Outlines from Normal Computing https://news.ycombinator.com/item?id=37125118 - generate valid JSON matching a regex
 		- in each state we get a list of symbols which correspond to completions that partially match the regular expression. We mask the other symbols in the logits returned by a large language model, sample a new symbol and move to the next state. The subtelty is that language models work with tokens, not symbols, so we derive a new FSM whose alphabet is the model's vocabulary. We can do this in only one pass over the vocabulary.
+	- Langfuse - opens ource o11y for LLM apps https://news.ycombinator.com/item?id=37310070
 - Templates
 	- https://github.com/psychic-api/rag-stack Deploy a private ChatGPT alternative hosted within your VPC. Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.
 	- smol https://github.com/FanaHOVA/smol-podcaster podcaster ([tweet](https://twitter.com/FanaHOVA/status/1689352217499930624)) We use smol-podcaster to take care of most of [Latent Space](https://latent.space/) transcription work. What it will do for you:
