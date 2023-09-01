@@ -57,7 +57,6 @@ ai hype peak
 		- https://finbarr.ca/how-is-llama-cpp-possible/
 		- dr k https://twitter.com/karpathy/status/1691571869051445433
 - Models
-	- Audio - Meta audiocraft https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
 	- Code - shanghai newhope https://twitter.com/mathemagic1an/status/1686814347287486464?s=20
 	- Wizard/Uncensored Llama2 https://news.ycombinator.com/item?id=36973584
 	- OpenOrca + Platypus https://twitter.com/alignment_lab/status/1691477139001114625
@@ -81,6 +80,7 @@ ai hype peak
 			- we held a finetuning meetup
 			- and https://github.com/getumbrel/llama-gpt self hosting
 				- while https://github.com/jmorganca/ollama conitinue to gain steam
+			- [sharon zhou and andrew ng launched a course](https://twitter.com/AndrewYNg/status/1694369880873873779)
 	- IDEFICS https://huggingface.co/spaces/HuggingFaceM4/idefics_playground
 		- https://twitter.com/DrJimFan/status/1694039363779445009
 	- [alibaba GTE embeddings](https://huggingface.co/thenlper/gte-base)  and [BAAI bge](https://huggingface.co/BAAI/bge-large-en) beats ada-002 
@@ -152,6 +152,7 @@ ai hype peak
 	- [John Carmack talking about overtraining](https://twitter.com/ID_AA_Carmack/status/1687832371159093249)
 	- Bloomberg hit pieces on [Stability AI continuing](https://www.bloomberg.com/news/articles/2023-08-08/stability-ai-s-lead-threatened-by-departures-concerns-over-ceo)
 	- seamless M4T translation https://ai.meta.com/resources/models-and-libraries/seamless-communication/ s the first multimodal model representing a significant breakthrough in speech-to-speech and speech-to-text translation and transcription. Publicly-released under a CC BY-NC 4.0 license, the model supports nearly 100 languages for input (speech + text), 100 languages for text output and 35 languages (plus English) for speech output.
+	- Audio - Meta audiocraft https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
 	- Vall-E-X https://github.com/Plachtaa/VALL-E-X
 	- DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales https://arxiv.org/abs/2308.01320 is paper introduces DeepSpeed-Chat, a novel system that democratizes RLHF training, making it accessible to the AI community. DeepSpeed-Chat offers three key capabilities: an easy-to-use training and inference experience for ChatGPT-like models, a DeepSpeed-RLHF pipeline that replicates the training pipeline from InstructGPT, and a robust DeepSpeed-RLHF system that combines various optimizations for training and inference in a unified way.
 	- webLLM - llama2 70b in browser https://news.ycombinator.com/item?id=37301991 - reference our MLC AI episode
