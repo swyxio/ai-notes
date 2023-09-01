@@ -11,8 +11,8 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 - prompt engineering
 	- https://github.com/ianarawjo/ChainForge An open-source visual programming environment for LLM experimentation and prompt evaluation.
 		- alternatives
-		- [https://github.com/logspace-ai/langflow](https://github.com/logspace-ai/langflow)
-		- [https://github.com/FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+		- [https://github.com/logspace-ai/langflow](https://github.com/logspace-ai/langflow) a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
+		- [https://github.com/FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - visual langchain buidler
 
 ## highest code level
 

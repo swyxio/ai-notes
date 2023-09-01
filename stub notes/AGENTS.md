@@ -146,7 +146,7 @@ https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven?sd=pf #
 ## low code agents
 
 - https://magicloops.dev/
-- https://flowiseai.com/
+- https://flowiseai.com/ - visual langchain builder
 - 
 
 ## OSS agent implementations

@@ -30,6 +30,11 @@ see [[DATASETS]]
 
 <img src="https://pbs.twimg.com/media/FkwdJnEXgAAoteg?format=png&name=small" height=300 />
 
+- model benchmarks
+	- https://www.mosaicml.com/llm-evaluation
+	- [https://gpt4all.io/index.html](https://gpt4all.io/index.html "https://gpt4all.io/index.html")
+	- stanford CRFM
+	- [https://github.com/eugeneyan/open-llms/pulls?q=is%3Apr+is%3Aclosed](https://github.com/eugeneyan/open-llms/pulls?q=is%3Apr+is%3Aclosed "https://github.com/eugeneyan/open-llms/pulls?q=is%3Apr+is%3Aclosed")
 - history from Knowledge Graphs -> ELMO (LSTMs) -> Transformers -> BERT -> T5
 	- told via [MLST YouTube/Tim Scarfe](https://www.youtube.com/watch?v=N-7rdJK4xlE)
 	- R/CNNs couldnt model long range, very lossy

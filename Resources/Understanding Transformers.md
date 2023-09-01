@@ -63,6 +63,10 @@ The Illustrated Retrieval Transformer - [https://jalammar.github.io/illustrated
 
 The Illustrated Stable Diffusion - [https://jalammar.github.io/illustrated-stable-diffusion/](https://jalammar.github.io/illustrated-stable-diffusion/)
 
+This one shows the math behind the Keys, Queries, and Values matrices, in a friendly pictorial way using diagrams and linear transformations
+https://www.youtube.com/watch?v=UPtG_38Oq8o
+
+
 If you want to learn how to code them, this book is great: [https://d2l.ai/chapter_attention-mechanisms-and-transformers...](https://d2l.ai/chapter_attention-mechanisms-and-transformers/index.html)
 
 Transformer Taxonomy (the last lit review)

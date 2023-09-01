@@ -37,6 +37,9 @@
 	  - Over 100 million court cases are filed in the US each year. Even if the average court case had one page this would be on the scale of the Pile. [https://iaals.du.edu/sites/default/files/documents/publications/judge_faq.pdf](https://t.co/GDLUP6mNhw)
 	  - Estimates for the number of academic papers published are around 50 million, or 30 Piles if we assume an average length of 10 pages (which I think is a substantial underestimate):
 	  - So books + academic papers + US court cases from the past 10 years is approximately 150x the size of the Pile, or enough to train a chinchilla optimal 22.5T parameter model.
+	- https://www.semianalysis.com/p/the-ai-brick-wall-a-practical-limit
+![https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d30755f-7ece-47d4-bb91-acad82473df8_3362x2035.png](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d30755f-7ece-47d4-bb91-acad82473df8_3362x2035.png)
+
 
 ## Infrastructure
 
@@ -189,6 +192,8 @@ see also asionometry youtube video
 
 ## cost trends 
 
+https://www.semianalysis.com/p/the-ai-brick-wall-a-practical-limit
+![https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95802dd0-c7c3-4fc0-9bef-be31971cbf85_1677x822.png](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95802dd0-c7c3-4fc0-9bef-be31971cbf85_1677x822.png)
 ark's wright's law
 
 - We believe the cost to train a neural net will fall 2.5x per year through 2030. AND we expect budgets to continue to balloon, doubling annually at least through 2025. Combine the two: Neural net capability should increase by ~5,000x by 2025

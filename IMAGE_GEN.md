@@ -226,7 +226,7 @@ Misc
 - Pixelvibe (search + gen) https://twitter.com/lishali88/status/1595029444988649472
 
 product placement
-- Pebbley -  inpainting  https://twitter.com/alfred_lua/status/1610641101265981440?s=46&t=RMPT1jJedELVkL2Aby-40g
+- Pebbley -  inpainting  https://twitter.com/alfred_lua/status/1610641101265981440 
 - Flair AI https://twitter.com/mickeyxfriedman/status/1613251965634465792
 - scale AI forge https://twitter.com/alexandr_wang/status/1614998087176720386
 

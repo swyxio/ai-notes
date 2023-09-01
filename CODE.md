@@ -155,14 +155,17 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - socket.dev ai security scanning https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis
 	- https://www.theregister.com/2023/03/30/socket_chatgpt_malware/
 - agent writing its own code in a loop https://github.com/pHaeusler/micro-agent
-- autogenerate PRs
-	- https://www.grit.io/
-	- https://twitter.com/MrHunterBrooks/status/1639373651010109442?s=20
-	- https://github.com/gitstart
-	- [AutoPR](https://github.com/irgolic/AutoPR), a Github Action that autonomously writes a pull request in response to an issue https://twitter.com/IrgolicR/status/1652451501015457798
+
+### autogenerate PRs
+
+- https://www.grit.io/
+- https://twitter.com/MrHunterBrooks/status/1639373651010109442?s=20
+- https://github.com/gitstart
+- [AutoPR](https://github.com/irgolic/AutoPR), a Github Action that autonomously writes a pull request in response to an issue https://twitter.com/IrgolicR/status/1652451501015457798
 - code generation
 	- codegen.ai
 	- https://github.com/paul-gauthier/aider
+- Sweep.dev https://news.ycombinator.com/item?id=36987454
 
 ## commit msg generation
 
