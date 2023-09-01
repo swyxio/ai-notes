@@ -116,8 +116,7 @@ ai hype peak
 	- https://github.com/THUDM/AgentBench A Comprehensive Benchmark to Evaluate LLMs as Agents - [my comments](https://twitter.com/swyx/status/1689350837733306371) and read out https://papersread.ai/e/agentbench-evaluating-llms-as-agents/
 	- https://www.junglegym.ai/ open Source Analytics Playground for AI agents
 	- https://dangbot.com/ an experimental autonomous agent platform.
-	- https://arxiv.org/pdf/2308.00352.pdf we introduce MetaGPT, an innovative framework that incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration. 
-		- Specifically, MetaGPT encodes Standardized Operating Procedures (SOPs) into prompts to enhance structured coordination. Subsequently, it mandates modular outputs, empowering agents with domain expertise comparable to human professionals, to validate outputs and minimize compounded errors. In this way, MetaGPT leverages the assembly line paradigm to assign diverse roles to various agents, thereby establishing a framework that can effectively and cohesively deconstruct complex multi-agent collaborative problems
+	- 
 	- Generative Agents paper was open sourced
 		- https://github.com/joonspk-research/generative_agents
 		- https://twitter.com/DrJimFan/status/1689315683958652928
@@ -141,14 +140,14 @@ ai hype peak
 	- cloudflare ai microsite https://ai.cloudflare.com/
 	- poozle -  "Plaid for LLMs" https://news.ycombinator.com/item?id=37180017
 - Safety et al
-	- hotz v yud https://www.youtube.com/watch?v=6yQEA18C-XI
+	- hotz v yud 
 - misc
-	- anti hype LLM reading list https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
+	- Anti hype LLM reading list https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
 	- mosaicml model gauntlet https://www.mosaicml.com/llm-evaluation
 	- LegalBench - open source legal reasoning benchmark https://twitter.com/NeelGuha/status/1694375959334670643
 	- discussion redux
 		- emergence [suleyman vs lecun vs wei](https://twitter.com/_jasonwei/status/1687624276827062279)
-		- [grokking - great explainer](https://pair.withgoogle.com/explorables/grokking/)
+		- [grokking - great explainer]()
 	- [John Carmack talking about overtraining](https://twitter.com/ID_AA_Carmack/status/1687832371159093249)
 	- Bloomberg hit pieces on [Stability AI continuing](https://www.bloomberg.com/news/articles/2023-08-08/stability-ai-s-lead-threatened-by-departures-concerns-over-ceo)
 	- seamless M4T translation https://ai.meta.com/resources/models-and-libraries/seamless-communication/ s the first multimodal model representing a significant breakthrough in speech-to-speech and speech-to-text translation and transcription. Publicly-released under a CC BY-NC 4.0 license, the model supports nearly 100 languages for input (speech + text), 100 languages for text output and 35 languages (plus English) for speech output.
