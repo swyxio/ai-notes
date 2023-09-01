@@ -399,6 +399,7 @@ Main Stable Diffusion repo: https://github.com/CompVis/stable-diffusion
 - Diffusers library: https://github.com/huggingface/diffusers ([Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb))
 
 OpenJourney: [https://happyaccidents.ai/](https://happyaccidents.ai/), https://www.bluewillow.ai/
+- launched by prompthero: https://twitter.com/prompthero/status/1593682465486413826
 
 | Name/Link 	| Stars 	| Description 	|
 |---	|---	|---	|

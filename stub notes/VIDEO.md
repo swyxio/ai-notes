@@ -12,3 +12,4 @@ text to video
 stable diffusion
 video to video
 https://news.ycombinator.com/item?id=36288294
+warpfusion example - https://twitter.com/devdef/status/1591912833427570690

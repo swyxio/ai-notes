@@ -37,6 +37,7 @@
 	- https://arxiv.org/pdf/2308.00352.pdf we introduce MetaGPT, an innovative framework that incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration. Specifically, MetaGPT encodes Standardized Operating Procedures (SOPs) into prompts to enhance structured coordination. Subsequently, it mandates modular outputs, empowering agents with domain expertise comparable to human professionals, to validate outputs and minimize compounded errors. In this way, MetaGPT leverages the assembly line paradigm to assign diverse roles to various agents, thereby establishing a framework that can effectively and cohesively deconstruct complex multi-agent collaborative problems
 	- Generative Agents paper was open sourced
 		- https://github.com/a16z-infra/ai-town - open source/JS reimplementation
+		- chat dev https://twitter.com/bhutanisanyam1/status/1697236591985434751
 - notable news
 	- Huggingface relicensing HFOIL
 	- Weights and Biases $50m
