@@ -79,7 +79,10 @@ ETL
 - psychic.dev
 
 
+## infra
 
+- https://mlfoundry.com/
+- together.ai
 
 
 ## misc
