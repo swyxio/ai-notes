@@ -48,6 +48,10 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 	- [https://arxiv.org/abs/2308.03688](https://arxiv.org/abs/2308.03688)
 	- [https://withmartian.com](https://withmartian.com/)
 	- [https://aihero.studio/](https://aihero.studio/)
+- evals 
+	- scorecard
+	- https://www.arthur.ai/blog/introducing-arthur-bench
+
 ## typing/json structure libraries 
 
 - Microsoft TypeChat https://news.ycombinator.com/item?id=36803124
