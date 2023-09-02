@@ -13,9 +13,10 @@
 
 ## model size and requirements
 
-- https://github.com/amirgholami/ai_and_memory_wall We report the number of paramters, feature size, as well as the total FLOPs for inference/training for SOTA models in CV, Speech Learning, and NLP.
+- https://github.com/amirgholami/ai_and_memory_wall  ([article](https://medium.com/riselab/ai-and-memory-wall-2cb4265cb0b8))We report the number of paramters, feature size, as well as the total FLOPs for inference/training for SOTA models in CV, Speech Learning, and NLP.
   - https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/ai_and_compute.png?raw=true
   - https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/hw_scaling.png?raw=true
+  - ![https://pbs.twimg.com/media/F3mlttAa4AIg4VX?format=jpg&name=large](https://pbs.twimg.com/media/F3mlttAa4AIg4VX?format=jpg&name=large)
   - analysis https://www.youtube.com/watch?v=5tmGKTNW8DQ
 - https://blog.eleuther.ai/transformer-math/
 	-  This is optimal in one very specific sense: in a resource regime where using 1,000 GPUs for 1 hour and 1 GPU for 1,000 hours cost you the same amount, if your goal is to maximize performance while minimizing the cost in GPU-hours to train a model you should use the above equation.

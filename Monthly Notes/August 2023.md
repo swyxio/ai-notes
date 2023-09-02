@@ -56,6 +56,8 @@ ai hype peak
 	- How is Llama.cpp possible?
 		- https://finbarr.ca/how-is-llama-cpp-possible/
 		- dr k https://twitter.com/karpathy/status/1691571869051445433
+			- TLDR at batch_size=1 (i.e. just generating a single stream of prediction on your computer), the inference is super duper memory-bound. The on-chip compute units are twiddling their thumbs while sucking model weights through a straw from DRAM. Every individual weight that is expensively loaded from DRAM onto the chip is only used for a single instant multiply to process each new input token. So the stat to look at is not FLOPS but the memory bandwidth.
+		- memory constraints mean taking the same time to running on a batch of tokens vs single token enables [speculative execution locally](https://twitter.com/finbarrtimbers/status/1697343267791421922?s=20)
 - Models
 	- Code - shanghai newhope https://twitter.com/mathemagic1an/status/1686814347287486464?s=20
 	- Wizard/Uncensored Llama2 https://news.ycombinator.com/item?id=36973584

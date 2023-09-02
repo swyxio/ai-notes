@@ -11,7 +11,7 @@ ELI5: https://news.ycombinator.com/item?id=35977891
 - FT coverage of the paper authors and when and how they left https://archive.is/2023.07.23-044102/https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50
 The Illustrated Transformer - [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
 - then read https://kipp.ly/transformer-inference-arithmetic/
-- then read https://finbarr.ca/how-is-llama-cpp-possible/
+- then read https://finbarr.ca/how-is-llama-cpp-possible/ ([andrej commentary](https://twitter.com/karpathy/status/1691571869051445433))
 
 
 ![https://vinija.ai/models/assets/transformers/2.png](https://vinija.ai/models/assets/transformers/2.png)
@@ -63,7 +63,7 @@ The Illustrated Retrieval Transformer - [https://jalammar.github.io/illustrated
 
 The Illustrated Stable Diffusion - [https://jalammar.github.io/illustrated-stable-diffusion/](https://jalammar.github.io/illustrated-stable-diffusion/)
 
-This one shows the math behind the Keys, Queries, and Values matrices, in a friendly pictorial way using diagrams and linear transformations
+The math behind Attention Mechanisms - math behind the Keys, Queries, and Values matrices, in a friendly pictorial way using diagrams and linear transformations
 https://www.youtube.com/watch?v=UPtG_38Oq8o
 
 
