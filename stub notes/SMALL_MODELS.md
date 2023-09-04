@@ -14,9 +14,17 @@ naveen rao https://twitter.com/NaveenGRao/status/1625176665746964480 Smaller mod
 
 https://www.harmdevries.com/post/model-size-vs-compute-overhead/ Why we should train smaller LLMs on more tokens
 
+why smol models
+
+https://news.ycombinator.com/item?id=37382733
+
 ## sparse models
 
 https://changelog.com/practicalai/221
+
+## student model finetune
+
+prompt2model https://twitter.com/swyx/status/1698628503040844144
 
 
 ## history
