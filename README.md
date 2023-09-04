@@ -428,6 +428,7 @@ This list will be out of date but will get you started. My live list of people t
 	- research on stable diffusion copying https://twitter.com/officialzhvng/status/1620535905298817024?s=20&t=NC-nW7pfDa8nyRD08Lx1Nw This paper used Stable Diffusion to generate 175 million images over 350,000 prompts and only found 109 near copies of training data. Am I right that my main takeaway from this is how good Stable Diffusion is at *not* memorizing training examples?
 - scraping content 
 	- https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm
+	- sarah silverman case - openai response https://arstechnica.com/tech-policy/2023/08/openai-disputes-authors-claims-that-every-chatgpt-response-is-a-derivative-work/
 - Licensing
 	- [AI weights are not open "source" - Sid Sijbrandij](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
 - Diversity and Equity
