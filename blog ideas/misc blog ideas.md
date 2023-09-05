@@ -10,6 +10,8 @@
 gpt4 demo
 anthropic https://news.ycombinator.com/item?id=35904773
 
+alibi, lex and position interpolation https://www.reddit.com/r/LocalLLaMA/comments/14lz7j5/ntkaware_scaled_rope_allows_llama_models_to_have/
+
 ## data augmented retrieval
 
 llamaindex
