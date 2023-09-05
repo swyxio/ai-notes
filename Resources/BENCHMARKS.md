@@ -247,7 +247,9 @@ openai evals is promising but doesnt have most of them implemented yet
 	- text-davinci-002 does WORSE than text-davinci-003
 		- text-davinci-003 improves over text-davinci-002 on 10/16 core scenarios but underperforms significantly on IMDB (82.4% versus 94.6%), causing it to be ranked lower.
 		- Digging in a bit deeper, text-davinci-003 outputs an invalid category “Neutral” for some reviews despite being prompted with only “Positive” and “Negative” in the in-context examples. It seems to have a stronger prior that is harder to override.
-
+- 2023 - Multi-PLE benchmark
+	- used in codellama paper
+	- "we evaluate our models on a more diverse set of programming languages. For that, we use the MultiPL-E benchmark (Cassano et al., 2023). We report results for Python, C++, Java, PHP, TypeScript, C#, and Bash in Table 4.""
 
 ### 2023 - GPT-4
 
