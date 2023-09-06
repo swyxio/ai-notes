@@ -284,24 +284,31 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 
 ## Communities
 
-- StableDiffusion Discord https://discord.com/invite/stablediffusion
-- LAION discord https://discord.gg/xBPBXfcFHd
-- Eleuther discord: https://www.eleuther.ai/get-involved/ ([primer](https://blog.eleuther.ai/year-one/))
-- https://reddit.com/r/stableDiffusion
-- Akhaliq Discord: https://discord.gg/nYqfg4gnBt
-- Karpathy Discord: https://discord.gg/3zy8kqD9Cp
-- HuggingFace Discord: https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263
-- Deforum Discord https://discord.gg/upmXXsrwZc
-- Lexica Discord https://discord.com/invite/bMHBjJ9wRh
-- Perplexity Discord https://discord.com/invite/kWJZsxPDuX
-- Chatgpt Hackers https://www.chatgpthackers.dev/
-- Agents
-	- AutoGPT discord
-	- BabyAGI discord
-- Midjourney's discord
-  - how to use midjourney v4 https://twitter.com/fabianstelzer/status/1588856386540417024?s=20&t=PlgLuGAEEds9HwfegVRrpg
+- Discords
+	- [Latent Space Discord](https://discord.gg/xJJMRaWCRt) (ours!)
+	- General hacking and learning
+		- [ChatGPT Hackers Discord](https://www.chatgpthackers.dev/)
+		- [AI Alignment Lab Discord](https://discord.com/invite/k36qjUxyJC)
+		- Akhaliq Discord: https://discord.gg/nYqfg4gnBt
+		- Karpathy Discord: https://discord.gg/3zy8kqD9Cp
+		- [HuggingFace Discord](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
+	- Art
+		- [StableDiffusion Discord](https://discord.com/invite/stablediffusion) 
+		- Deforum Discord https://discord.gg/upmXXsrwZc
+		- Lexica Discord https://discord.com/invite/bMHBjJ9wRh
+	- AI research
+		- LAION discord https://discord.gg/xBPBXfcFHd
+		- Eleuther discord: https://www.eleuther.ai/get-involved/ ([primer](https://blog.eleuther.ai/year-one/))
+	- Various startups
+		- Perplexity Discord https://discord.com/invite/kWJZsxPDuX
+		- Midjourney's discord
+		  - how to use midjourney v4 https://twitter.com/fabianstelzer/status/1588856386540417024?s=20&t=PlgLuGAEEds9HwfegVRrpg
 - https://stablehorde.net/
-- don't forget reddit
+	- Agents
+		- AutoGPT discord
+		- BabyAGI discord
+- Reddit
+	- https://reddit.com/r/stableDiffusion
 	- https://www.reddit.com/r/LocalLLaMA/
 	- https://www.reddit.com/r/bing
 	- https://www.reddit.com/r/openai
