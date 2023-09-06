@@ -87,7 +87,7 @@ prompt engineering techniques
 ## Prompt Tuning
 
 - https://magazine.sebastianraschka.com/p/finetuning-large-language-models#%C2%A7in-context-learning-and-indexing
-- 
+- you can "evolve" prompts in WizardLM style - see appendices in https://arxiv.org/pdf/2304.12244.pdf for example "complicater prompts"
 
 ## chain of thought prompting
 
