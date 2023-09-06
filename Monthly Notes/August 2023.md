@@ -1,4 +1,6 @@
 
+> published as https://www.latent.space/p/aug-2023
+
 1 year of stable diffusion - aug 22
 - https://twitter.com/EMostaque/status/1692795590969565502
 - SDXL control loras https://twitter.com/EMostaque/status/1692658010256982389

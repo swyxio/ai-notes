@@ -13,6 +13,8 @@
 	- may - sama and greg brockman podcast with reid hoffman https://fortune.com/2023/05/04/openai-success-chatgpt-business-technology-rule-greg-brockman/
 	- June - functions
 	- july - code interpreter
+	- aug - finetuning
+
 
 ## OpenAI deprecation and models
 
@@ -25,3 +27,12 @@
 	- Unsupervised learning through compression. Turns out, if you want to compress a lot of data, you have to discover the secrets that live in it.
 	- Reinforcement learning is impt. But the RL from playing Dota merged with Transformers to give us Reinforcement Learning from Human Feedback. 
 	- Bigger is better. predict text + scale => world model
+
+## mainstream puff pieces
+
+- https://www.wired.com/story/what-openai-really-wants/
+	- OpenAI’s road to relevance really started with its hire of an as-yet-unheralded researcher named Alec Radford, who joined in 2016, leaving the small Boston AI company he’d cofounded in his dorm room. After accepting OpenAI’s offer, he told his high school alumni magazine that taking this new role was “kind of similar to joining a graduate program”—an open-ended, low-pressure perch to research AI.
+	- The role he would actually play was more like Larry Page inventing PageRank.
+	- Radford, who is press-shy and hasn’t given interviews on his work, responds to my questions about his early days at OpenAI via a long email exchange. His biggest interest was in getting neural nets to interact with humans in lucid conversation. This was a departure from the traditional scripted model of making a chatbot, an approach used in everything from the primitive ELIZA to the popular assistants Siri and Alexa—all of which kind of sucked. “The goal was to see if there was any task, any setting, any domain, any _anything_ that language models could be useful for,” he writes. At the time, he explains, “language models were seen as novelty toys that could only generate a sentence that made sense once in a while, and only then if you really squinted.” His first experiment involved scanning 2 billion Reddit comments to train a language model. Like a lot of OpenAI’s early experiments, it flopped. No matter. The 23-year-old had permission to keep going, to fail again. “We were just like, Alec is great, let him do his thing,” says Brockman.
+
+His next major experiment was shaped by OpenAI’s limitations of computer power, a constraint that led him to experiment on a smaller data set that focused on a single domain—Amazon product reviews. A researcher had gathered about 100 million of those. Radford trained a language model to simply predict the next character in generating a user review.
