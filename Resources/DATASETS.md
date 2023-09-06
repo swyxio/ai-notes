@@ -22,7 +22,7 @@ WebText and OpenWebText
   - an 825 GiB English text corpus targeted at training large-scale language models. The Pile is constructed from 22 diverse high-quality subsets -- both existing and newly constructed -- many of which derive from academic or professional sources
   - behind the scenes of the collection https://news.ycombinator.com/item?id=34359453
   - ![https://stanford-cs324.github.io/winter2022/lectures/images/the-pile.png](https://stanford-cs324.github.io/winter2022/lectures/images/the-pile.png)
-- [Books3](https://www.wired.com/story/battle-over-books3/) lawsuit and copyright issues
+- [Books3](https://www.wired.com/story/battle-over-books3/) lawsuit and copyright issues. [discussion](https://news.ycombinator.com/item?id=37379297)
 
 GitHub code data
 - The size of all code/history on Github public repos is 92TB The size of Google's monorepo in 2015 was 86TB (of much higher quality code) If Google were willing to deploy code models trained on their own data, they'd have a noticable advantage over everyone else. https://twitter.com/amanrsanger/status/1656696500339249153
