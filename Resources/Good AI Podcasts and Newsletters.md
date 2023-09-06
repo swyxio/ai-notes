@@ -48,8 +48,9 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
     		- https://lilianweng.github.io/
 - Aggregators
 	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly (has [chrome extension](https://github.com/labmlai/chrome-extension)) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
-	- TheSequence https://thesequence.substack.com/about (paid & free)
+ 	- Amplify/Sarah Catanzaro's PTK https://www.amplifypartners.com/projects-to-know
 	- Ben's Bites https://bensbites.beehiiv.com/
+	- TheSequence https://thesequence.substack.com/about (paid & free)
 	- Rachel Woods' The AI Exchange https://theaiexchange.beehiiv.com/
 	- Pete Huang's The Neuron https://www.theneurondaily.com/
 	- Lior AlphaSignal https://alphasignal.ai/
