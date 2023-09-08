@@ -134,7 +134,10 @@ sourcegraph list https://github.com/sourcegraph/awesome-code-ai
 - GPT Prompt Engineer https://github.com/mshumer/gpt-prompt-engineer
 - Buildt -  AI-powered search allows you to find code by searching for what it does, not just what it is.
 	- https://twitter.com/AlistairPullen/status/1611011712345317378
-- grid.io
+- https://www.grit.io/
+- codegen ai
+- Continue.dev VSCode downloads ~15K, Rift ~2,100
+- morph labs rift
 - qqbot - dan robinson?
 - YC
 	- code generation - second.dev https://news.ycombinator.com/item?id=35083093
