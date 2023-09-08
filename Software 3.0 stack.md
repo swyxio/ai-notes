@@ -51,6 +51,11 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 - evals 
 	- scorecard
 	- https://www.arthur.ai/blog/introducing-arthur-bench
+- data quality
+	- cleanlab.ai
+	- deepchecks <- bigger
+	- lilac ai
+	- gallileo
 
 ## typing/json structure libraries 
 
