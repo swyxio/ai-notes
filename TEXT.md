@@ -110,6 +110,7 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 
 - llama2: [Latent Space writeup](https://www.latent.space/p/llama2#details)
 	- [ylecun announcement](https://twitter.com/ylecun/status/1681336284453781505)
+	- [finetuning recipes](https://github.com/facebookresearch/llama-recipes)
 	- ways to run
 		- https://github.com/jmorganca/ollama
 		- https://gpt4all.io/index.html
