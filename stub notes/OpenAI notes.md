@@ -1,5 +1,8 @@
 
 - origins and recruiting researchers - 2016 https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/
+- openai 2017 501c3 tax disclosures with key members and original founding statement https://regmedia.co.uk/2019/05/02/openai_tax_2017.pdf
+	- 2016 http://990s.foundationcenter.org/990_pdf_archive/810/810861541/810861541_201612_990.pdf
+	- news https://www.nytimes.com/2018/04/19/technology/artificial-intelligence-salaries-openai.html
 - openai policy thinking with jack clark and amanda askell - 2019 https://share.transistor.fm/s/dfbe0ca7
 - GPT2 and leadership team - 2020 https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/
 - openai-anthropic split was over the GPT3 api https://archive.is/YTOeD#selection-333.226-337.82
