@@ -17,6 +17,8 @@
 	- June - functions
 	- july - code interpreter
 	- aug - finetuning
+	- aug - superalignment
+		- jan leike https://axrpodcast.libsyn.com/24-superalignment-with-jan-leike
 
 
 ## OpenAI deprecation and models
