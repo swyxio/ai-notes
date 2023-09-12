@@ -1,4 +1,9 @@
 
+## 1950-70s
+
+The [Dartmouth Summer Research Project on Artificial Intelligence](http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf), held from 18 June through 17 August of 1956, is widely considered the event that kicked off AI as a research discipline. Organized by [John McCarthy](https://amturing.acm.org/award_winners/mccarthy_1118322.cfm), [Marvin Minsky](https://web.media.mit.edu/~minsky/), [Claude Shannon](https://spectrum.ieee.org/claude-shannon-tinkerer-prankster-and-father-of-information-theory), and [Nathaniel Rochester](https://en.wikipedia.org/wiki/Nathaniel_Rochester_(computer_scientist)). https://spectrum.ieee.org/dartmouth-ai-workshop
+
+
 ## Nov 2022
 
 https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis
