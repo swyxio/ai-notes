@@ -1,9 +1,13 @@
 
+
+### crrwative fiction
+
+
+harrison bergeron story but with ai being shackled to human preferences
+
+
 ## ai waifu
 
-### langchain backlash
-
-- mckay wrigley
 
 ## alibi and the context of infinity
 
