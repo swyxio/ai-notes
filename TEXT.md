@@ -117,10 +117,11 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 		- https://faraday.dev/
 		- https://replicate.com/blog/run-llama-locally
 	- 32k llama2 https://twitter.com/togethercompute/status/1685048832168714240
-	- lalam2 uncensored: https://huggingface.co/georgesung/llama2_7b_chat_uncensored
+	- llama2 uncensored: https://huggingface.co/georgesung/llama2_7b_chat_uncensored
 		- wizard-vicuna dataset
 		- nous hermes -   Llama 2 13B model fine-tuned on over 300,000 instructions. This model stands out for its long responses, lower hallucination rate, and absence of OpenAI censorship mechanisms
 		- Eric Hartford’s [Wizard Vicuna 13B uncensored](https://huggingface.co/ehartford/Wizard-Vicuna-13B-Uncensored)
+		- [GPT4-x-alpaca uncensored model](https://huggingface.co/chavinlo/gpt4-x-alpaca) - 
 	- llama2 finetune for code
 		- https://www.numbersstation.ai/post/nsql-llama-2-7b
 - https://github.com/facebookresearch/llama

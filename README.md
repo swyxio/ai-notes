@@ -413,7 +413,7 @@ This list will be out of date but will get you started. My live list of people t
   -  via emad
 -  Appending prompts by default in UI
   -  DALLE: https://twitter.com/levelsio/status/1588588688115912705?s=20&t=0ojpGmH9k6MiEDyVG2I6gg
-- There have been two previous winters, one 1974-1980 and one 1987-1993. https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/
+- There have been two previous winters, one 1974-1980 and one 1987-1993. https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/. bit more commentary [here](https://news.ycombinator.com/item?id=37474528). related - [AI Effect](https://www.sequoiacap.com/article/ai-paradox-perspective/) - "once it works its not AI"
 - It's just matrix multiplication/stochastic parrots
 	- Even LLM skeptic Yann LeCun says LLMs have some level of understanding: https://twitter.com/ylecun/status/1667947166764023808
 	- 
