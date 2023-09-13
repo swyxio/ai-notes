@@ -1,7 +1,18 @@
 
+- mechanical turk story
 - https://spectrum.ieee.org/dartmouth-ai-workshop
+	- progress from research to games
+		- alphago
+		- dota
+	- nlp - from translation and named entity recognition to 
+	- transformer
 - "to do what i do, you have to be xxx"
 	- https://www.listennotes.com/podcasts/goldman-sachs/a-conversation-with-qPOKzGLCH7i/ ending
 	- comparison with seth klarman baupost
 	- comparison with garry kasparov
-	- 
+- Virtual humans
+	- virtual machines
+	- virtual networks/clouds
+	- virtual data warehouse
+	- virtual DOM
+	- virtual repos

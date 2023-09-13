@@ -1,6 +1,6 @@
 
 
-### crrwative fiction
+### creative fiction
 
 
 harrison bergeron story but with ai being shackled to human preferences
