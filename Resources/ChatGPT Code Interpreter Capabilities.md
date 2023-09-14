@@ -121,3 +121,4 @@ and requirements.txt https://twitter.com/swyx/status/1677589535587467264
 	- https://twitter.com/arghzero/status/1691768136431988783
 - https://github.com/e2b-dev/llm-code-interpreter
 - https://github.com/tomviner/scrape-ai/tree/main/openai/code-interpreter/filesystem
+- openinterpreter

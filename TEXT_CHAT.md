@@ -245,7 +245,8 @@ Subject to limitations
 	- https://github.com/reorx/awesome-chatgpt-api
 	- chatgpt ui oss clones https://www.typingmind.com/
 		- open source https://github.com/chatgptui/desktop
-		- mckay wrigley chabot-ui https://t.co/QkP2zMi2FL
+		- https://chat-gpt-next-web.vercel.app/
+		- mckay wrigley chabot-ui https://t.co/QkP2zMi2FL - now takeoffui
 		- open [https://github.com/Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt)
 		- https://www.chatwithme.chat/tutorial https://github.com/kierangilliam/chatwithme.chat
 		- https://github.com/cogentapps/chat-with-gpt with voice synthesis
