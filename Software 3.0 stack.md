@@ -72,6 +72,8 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 
 ## vector databases
 
+comparisons https://thedataquarry.com/posts/vector-db-1/
+
 https://news.ycombinator.com/item?id=36943318
 ![https://miro.medium.com/v2/resize:fit:720/format:webp/1*fqiIXM6cHcOoEh_4WX0o1A.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*fqiIXM6cHcOoEh_4WX0o1A.png)
 

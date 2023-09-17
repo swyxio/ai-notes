@@ -55,6 +55,9 @@
   - C-style API
   - a fork of whisper.cpp that uses DirectCompute to run it on GPUs without Cuda on Windows: https://github.com/Const-me/Whisper
 - Whisper.cpp small model is best traadeoff of performance vs accuracy https://blog.lopp.net/open-source-transcription-software-comparisons/
+- Whisper.api - [Open-source, self-hosted speech-to-text with fast transcription](https://github.com/innovatorved/whisper.api)
+	- https://news.ycombinator.com/item?id=37226221
+-  [https://superwhisper.com](https://superwhisper.com/) is using these whisper.cpp models to provide really good Dictation on macOS.
 - Whisper with JAX - 70x faster
 	- https://twitter.com/sanchitgandhi99/status/1649046650793648128?s=20
 - whisper openai api https://twitter.com/calumbirdo/status/1614826199527690240?s=46&t=-lurfKb2OVOpdzSMz0juIw
