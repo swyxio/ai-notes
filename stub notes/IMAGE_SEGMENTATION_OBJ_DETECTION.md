@@ -7,6 +7,9 @@
 	- [Our podcast and interview with roboflow](https://www.latent.space/p/segment-anything-roboflow#details)
 	- https://segment-anything.com/
 	- https://github.com/sail-sg/EditAnything [EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion](https://github.com/sail-sg/EditAnything)
+- IDEFICS (open repro of Flamingo) https://huggingface.co/spaces/HuggingFaceM4/idefics_playground
+		- https://twitter.com/DrJimFan/status/1694039363779445009
+		- https://github.com/huggingface/m4-logs/tree/master/memos
 
 
 ## Saliency Cropping

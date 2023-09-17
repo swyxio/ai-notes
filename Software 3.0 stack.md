@@ -13,6 +13,7 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 		- alternatives
 		- [https://github.com/logspace-ai/langflow](https://github.com/logspace-ai/langflow) a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 		- [https://github.com/FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - visual langchain buidler
+	- [vellum.ai](https://techcrunch.com/2023/07/11/prompt-engineering-startup-vellum-ai/) has a visual flow editor thing.  tools for prompt engineering, semantic search, version control, quantitative testing, and performance monitoring.
 
 ## highest code level
 

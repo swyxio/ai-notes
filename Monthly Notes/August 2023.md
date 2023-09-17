@@ -87,6 +87,7 @@ ai hype peak
 			- [sharon zhou and andrew ng launched a course](https://twitter.com/AndrewYNg/status/1694369880873873779)
 	- IDEFICS https://huggingface.co/spaces/HuggingFaceM4/idefics_playground
 		- https://twitter.com/DrJimFan/status/1694039363779445009
+		- https://github.com/huggingface/m4-logs/tree/master/memos
 	- [alibaba GTE embeddings](https://huggingface.co/thenlper/gte-base)  and [BAAI bge](https://huggingface.co/BAAI/bge-large-en) beats ada-002 
 		- https://twitter.com/amanrsanger/status/1690496000769892352
 	- Qwen 7B https://www.maginative.com/article/alibaba-open-sources-qwen-a-7b-parameter-ai-model/
