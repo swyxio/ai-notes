@@ -19,7 +19,7 @@ ai hype peak
 	- openai acquisition https://discord.com/channels/822583790773862470/1075282825051385876/1141775394576551967 global illumination
 	- chatgpt enterprise https://news.ycombinator.com/item?id=37297304
 		- azure chatgpt disappeared https://news.ycombinator.com/item?id=37112741
-	- Shewin Wu from OpenAI gave a talk on function calling https://www.infoq.com/presentations/bicycle-ai-gpt-4-tools/
+	- Sherwin Wu from OpenAI gave a talk on function calling https://www.infoq.com/presentations/bicycle-ai-gpt-4-tools/
 	- Logan pick of [top 7 openai cookbook notebooks](https://twitter.com/OfficialLoganK/status/1691104898698330112?s=20)
 	- openai chatgpt updates 
 		- https://venturebeat.com/ai/openai-adds-huge-set-of-chatgpt-updates-including-suggested-prompts-multiple-file-uploads/
