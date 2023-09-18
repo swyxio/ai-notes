@@ -18,7 +18,6 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- ⭐ [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world
 	- [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
-   	- [Hard Fork](https://www.nytimes.com/column/hard-fork) - Weekly news from NYT and Platformer tech journalists. Not exclusively AI focused but covers major AI stories and has interviews with AI leaders.
 - Companies
 	- ⭐ [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host
 	- ⭐ [Robot Brains](https://www.therobotbrains.ai/) - Pieter Abbeel - decent backlog
