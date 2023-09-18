@@ -14,8 +14,9 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [The Inside View](https://theinsideview.ai/) (Michael Trazzi) - safety researcher interviews. infrequent.
 - News/Youtubers
 	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
-	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps
-	- ⭐ [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world
+	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps. less frequent these days.
+	- ⭐ [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world. daily news coverage, [quality video](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA)
+ 	- ⭐ [ThursdAI by @altryne](https://sub.thursdai.news/podcast?nthPub=531) - Twitter Spaces at least once a week on all the top AI news, esp good interviews with OSS innovators
 	- [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
 	- [Matthew Berman](https://www.youtube.com/@matthew_berman) - short explainer videos of AI Engineering related projects and news
