@@ -106,8 +106,9 @@ This category is for **infra and tools** catering to AI app developers, in contr
   - **Serverless GPUs**
 	- https://lambdalabs.com/ GPU cloud built for deep learning. Instant access to the best prices for cloud GPUs on the market. No commitments or negotiations required. Save over 73% vs AWS, Azure, and GCP. Configured for deep learning with PyTorch®, TensorFlow, Jupyter
     - https://www.banana.dev/ Scale your machine learning inference and training on serverless GPUs.
+    - [Cerebrium](https://www.cerebrium.ai) Deploy to serverless CPUs/GPUs with ~2 second cold start times.
     - https://brev.dev/ The simplest way to create a dev environment with a GPU. Don't worry about dependencies, CUDA, SSH, or anything else. Up to 94% cheaper GPUs than AWS. For example: here's a guide to get a GPU dev environment to train your own Dreambooth model in ~4 min 🤙 https://brev.dev/docs/guides/dreambooth
-  
+
     - [https://www.coreweave.com/](https://www.coreweave.com/)
     - vast.ai ([strong rec](https://news.ycombinator.com/item?id=36934798))
     - runpod, fluidstack, potentialy [sfcompute.org](https://news.ycombinator.com/item?id=36933603)
@@ -117,6 +118,7 @@ This category is for **infra and tools** catering to AI app developers, in contr
   - **Model Serving**
     - https://www.baseten.co/ Serverless backend for building ML-powered applications. Build apps with auto-scaling, GPU access, CRON jobs, and serverless functions.
     - https://replicate.com/ Run models in the cloud at scale.
+    - https://www.cerebrium.ai AWS Sagemaker alternative. Deploy to serverless CPUs/GPUs with ~2 second cold start times. 40%+ cost saving.
     - (emerging) https://docs.preemo.io/docs host oss models
     - https://modal.com run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.. Example [serving Stable Diffusion API](https://modal.com/docs/guide/ex/stable_diffusion_slackbot), [BERT in 34 lines of code](https://news.ycombinator.com/item?id=35792481)
     - https://www.steamship.com/ Managed Backend for AI services [LangChain example](https://www.steamship.com/build/langchain-apps)
@@ -125,6 +127,7 @@ This category is for **infra and tools** catering to AI app developers, in contr
     - _Seeking: tutorials for serving Whisper, other LLMs_
   - **Fine-tuning**
     - [Blueprint by Baseten](https://app.baseten.co/blueprint/signup/) Fine-tuning and serving of foundation models. [Docs](https://docs.blueprint.baseten.co/). In alpha; reach out on Discord to Amir H. for help. 
+    - [Cerebrium](https://www.cerebrium.ai) Fine-tune and deploy foundational models or bring your own models. Serverless ML Infrastructure. [Docs](https://docs.cerebrium.ai/cerebrium/fine-tuning/language-models/introduction)
   - **Evaluation**
     - [Zeno](https://zenoml.com) Interactive data management and evaluation for foundational models. [Docs](https://zenoml.com/docs/intro) and [Demos](https://zenoml.com/docs/demos).
   - _have something to add? send a PR!_
