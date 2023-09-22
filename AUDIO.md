@@ -134,6 +134,11 @@ https://news.ycombinator.com/item?id=33663486
 			- https://github.com/yacineMTB/scribepod/blob/master/lib/processWebpage.ts#L27
 	- https://github.com/coqui-ai/TTS
 		- previously mozilla TTS
+	- https://github.com/suno-ai/bark
+		- tried Bark... at least on CPU-only it's very very slow
+		- like 20 seconds to generate a few sentences
+	- [dimfeld](https://discord.com/channels/822583790773862470/1154150004437561405/1154169073509351606) likes Mycroft Mimic 3 for locally run, chat assistant usecases that require realtime
+	- https://huggingface.co/facebook/mms-tts
 	- custom voices
 		- https://github.com/neonbjb/tortoise-tts#voice-customization-guide
 		- microsoft and google cloud have apis
