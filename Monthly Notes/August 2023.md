@@ -91,6 +91,7 @@ ai hype peak
 	- [alibaba GTE embeddings](https://huggingface.co/thenlper/gte-base)  and [BAAI bge](https://huggingface.co/BAAI/bge-large-en) beats ada-002 
 		- https://twitter.com/amanrsanger/status/1690496000769892352
 	- Qwen 7B https://www.maginative.com/article/alibaba-open-sources-qwen-a-7b-parameter-ai-model/
+		- The results for Qwen-14b seems really really good. Take a look here. They are already SOTA in multimodal, now they seem to have become SOTA in LLM as well. https://twitter.com/artificialguybr/status/1706326341744771405
 - Prompt tools 
 	- Langchain expression language https://blog.langchain.dev/langchain-expression-language/
 		- benchmarking Q&A over CSV https://www.youtube.com/watch?v=jGnf4OhptbA
