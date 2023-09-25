@@ -13,8 +13,6 @@ The Illustrated Transformer - [https://jalammar.github.io/illustrated-transform
 - GPT in 60LOC https://jaykmody.com/blog/gpt-from-scratch/
 	- pre read https://jaykmody.com/blog/attention-intuition/
 	- starts simple, ramps up. Fills in all the gaps between Attention is All You Need right up to coding every single line of a working GPT2 implementation yourself. Even ends with explanations of finetuning for classification, summarization, instruction tuning, and PEFT. 
-	- very very simple hand tuned impementation with 8 dimensions and context window of 2 https://vgel.me/posts/handmade-transformer/
-		- [HN discussion](https://news.ycombinator.com/item?id=37609393) recommended [this](https://www.youtube.com/watch?v=kWLed8o5M2Y)
 - then read https://kipp.ly/transformer-inference-arithmetic/
 - then read https://finbarr.ca/how-is-llama-cpp-possible/ ([andrej commentary](https://twitter.com/karpathy/status/1691571869051445433))
 
@@ -56,6 +54,14 @@ A Visual and Interactive Guide to the Basics of Neural Networks - [https://jala
 A Visual And Interactive Look at Basic Neural Network Math - [https://jalammar.github.io/feedforward-neural-networks-visua...](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
 
 Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) - [https://jalammar.github.io/visualizing-neural-machine-transl...](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+[I made a transformer by hand (no training)](https://vgel.me/posts/handmade-transformer/) 
+"Thinking Like Transformers" [1]. They introduce a primitive programming language, RASP, which is composed of operations capable of being modeled with transformer components, and demonstrate how different programs can be written with it, e.g. histograms, sorting. Sasha Rush and Gail Weiss have an excellent blog post on it as well [2]. Follow on work actually demonstrated how RASP-like programs could actually be compiled into model weights without training [3].
+
+[1] [https://arxiv.org/abs/2106.06981](https://arxiv.org/abs/2106.06981)
+
+[2] [https://srush.github.io/raspy/](https://srush.github.io/raspy/)
+
+[3] [https://arxiv.org/abs/2301.05062](https://arxiv.org/abs/2301.05062)
 
 
 The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) - [https://jalammar.github.io/illustrated-bert/](https://jalammar.github.io/illustrated-bert/)
