@@ -182,6 +182,9 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - note that BPEs are suboptimal https://www.lesswrong.com/posts/dFbfCLZA4pejckeKc/a-mechanistic-explanation-for-solidgoldmagikarp-like-tokens?commentId=9jNdKscwEWBB4GTCQ
 		  - causes math and string character issues https://news.ycombinator.com/item?id=35363769
 	  - https://platform.openai.com/tokenizer and https://github.com/openai/tiktoken (more up to date: https://tiktokenizer.vercel.app/)
+	  - Wordpiece -> BPE -> SentenceTransformer
+		  - https://youtu.be/QdDoFfkVkcw?si=qefZSDDSpxDNd313
+		  - use MTEB benchmark to track embedding performance
 	  - https://observablehq.com/@simonw/gpt-3-token-encoder-decoder
 	  - karpathy wants tokenization to go away https://twitter.com/karpathy/status/1657949234535211009
 	  - positional encoding not needed for decoder only https://twitter.com/a_kazemnejad/status/1664277559968927744?s=20
