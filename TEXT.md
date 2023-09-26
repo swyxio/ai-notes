@@ -116,6 +116,7 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 		- https://gpt4all.io/index.html
 		- https://faraday.dev/
 		- https://replicate.com/blog/run-llama-locally
+	- list of openai compatibility layers https://llm-tracker.info/books/llms/page/openai-api-compatibility
 	- 32k llama2 https://twitter.com/togethercompute/status/1685048832168714240
 	- llama2 uncensored: https://huggingface.co/georgesung/llama2_7b_chat_uncensored
 		- wizard-vicuna dataset
