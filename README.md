@@ -183,8 +183,10 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 		  - causes math and string character issues https://news.ycombinator.com/item?id=35363769
 	  - https://platform.openai.com/tokenizer and https://github.com/openai/tiktoken (more up to date: https://tiktokenizer.vercel.app/)
 	  - Wordpiece -> BPE -> SentenceTransformer
+		  -  [Preliminary reading on Embeddings](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526?gi=ee46baab0d8f)
 		  - https://youtu.be/QdDoFfkVkcw?si=qefZSDDSpxDNd313
-		  - use MTEB benchmark to track embedding performance
+		-   [Huggingface MTEB Benchmark of a bunch of Embeddings](https://huggingface.co/blog/mteb)
+		-   [notable issues with GPT3 Embeddings](https://twitter.com/Nils_Reimers/status/1487014195568775173) and alternatives to consider
 	  - https://observablehq.com/@simonw/gpt-3-token-encoder-decoder
 	  - karpathy wants tokenization to go away https://twitter.com/karpathy/status/1657949234535211009
 	  - positional encoding not needed for decoder only https://twitter.com/a_kazemnejad/status/1664277559968927744?s=20
