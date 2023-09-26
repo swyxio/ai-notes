@@ -115,6 +115,7 @@ https://news.ycombinator.com/item?id=33663486
 		- https://news.ycombinator.com/item?id=34361651
 	- convai -
 		- not as flexible, the indian fella at roboflow ai demo wanted to move to elevenlabs
+	- murf - a16z ai presentation
 	- bigclouds
 		- [ https://aws.amazon.com/polly/](https://aws.amazon.com/polly/)
 		- [https://cloud.google.com/text-to-speech](https://cloud.google.com/text-to-speech)
