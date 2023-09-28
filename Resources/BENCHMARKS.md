@@ -172,6 +172,7 @@ openai evals is promising but doesnt have most of them implemented yet
 	- Roberta 85
 	- GPT3.5 85
 	- GPT4 95
+	- "36% of hellaswag contains errors" https://old.reddit.com/r/LanguageTechnology/comments/zkia03/36_of_hellaswag_benchmark_contains_errors/
 - 2019 DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs https://arxiv.org/pdf/1903.00161.pdf
 	- The DROP benchmark consists of a set of questions that require discrete reasoning over paragraphs of text.
 	- That year, his Untitled (1981), a painting of a haloed, black-headed man with a bright red skeletal body, depicted amid the artists signature scrawls, was sold by Robert Lehrman for $16.3 million, well above its $12 million high estimate. 
