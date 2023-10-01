@@ -162,7 +162,7 @@
 	- coincidence? or just [pi day shenanigans](https://twitter.com/EigenGender/status/1635766846719934465?s=20)
 - [Scaling predictability](https://twitter.com/swyx/status/1635688942354980865?s=20)
 - 10 years ago, andrej karpathy [didn't feel optimistic](https://twitter.com/ramsri_goutham/status/1635852572727836673)
-- [Jakub Pachocki](https://twitter.com/sama/status/1635700851619819520?s=20) - from Dota team
+- [Jakub Pachocki](https://twitter.com/sama/status/1635700851619819520?s=20) - from Dota team [was key player](https://twitter.com/ilyasut/status/1697713317660500407)
 - logank's repies https://twitter.com/OfficialLoganK/status/1636037282280112128?s=20
 - possibility
 	- Not sure I can think of a time where there was this much unexplored territory with this much new capability in the hands of this many users/developers. - [karpathy](https://twitter.com/karpathy/status/1635749104059056128)

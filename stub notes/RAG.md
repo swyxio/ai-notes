@@ -2,6 +2,8 @@
 https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/
 
 - [Building RAG-based LLM Applications for Production (Part 1)](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) full guide from Anyscale
+- LlamaIndex
+	- [Slide deck](https://docs.google.com/presentation/d/1uzhz1aFWbyXSrWBzQ1FPQWtVjMgJqAYGoGoVzEnNmAg/edit#slide=id.p) ([addl resources](https://twitter.com/jerryjliu0/status/1700531889239437784))
 
 https://www.hebbia.ai/
 
