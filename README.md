@@ -105,6 +105,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - "The development of AI is as fundamental as the creation of the microprocessor, the personal computer, the Internet, and the mobile phone. It will change the way people work, learn, travel, get health care, and communicate with each other."
   - [Steve Yegge on AI for developers](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
   - [Why this AI moment might be the real deal](https://www.thenewatlantis.com/publications/why-this-ai-moment-may-be-the-real-deal)
+  - Sam Altman - [Moore's Law for Everything](https://moores.samaltman.com/)
   - excellent introduction to foundation models from MSR https://youtu.be/HQI6O5DlyFc
   - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
   - google LAMDA intro https://aitestkitchen.withgoogle.com/how-lamda-works
