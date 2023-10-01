@@ -19,7 +19,14 @@
 	- virtual repos
 
 speech inspo
-- https://www.youtube.com/watch?v=pxBQLFLei70
+- adm mcraven https://www.youtube.com/watch?v=pxBQLFLei70
+	- what starts here can change the world
+	- you cant change the world alone. find someone to help you paddle
+	- if you want to change the world dont be afraid of circuses
+	- if you want to change the world you have to slide down the obstacles head first
+	- if you want to change the world dont back down from the sharks
+	- the power of hope - start singing when your neck is in mud
+	- if you want to change the world, dont ring the bell
 - jobs speech https://www.youtube.com/watch?v=UF8uR6Z6KLc
 - denzel https://www.youtube.com/watch?v=JEFbfwg9dek
 - ufc winner https://www.youtube.com/watch?v=ZNoODFgTq3c
