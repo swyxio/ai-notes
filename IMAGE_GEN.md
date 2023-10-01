@@ -83,6 +83,7 @@
 	- Stability 2022 recap https://twitter.com/StableDiffusion/status/1608661612776550401
 	- https://stablediffusionlitigation.com
 	- SDXL https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/
+		- - [Doodly](https://twitter.com/RisingSayak/status/1700163109363859720) - scribble and generate art from it using language guidance using SDXL and T2I adapters
 - important papers
 	- 2019 Razavi, Oord, Vinyals, [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446)
 	- 2020 Esser, Rombach, Ommer, [Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)

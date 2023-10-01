@@ -333,3 +333,4 @@ Other kinds of prompts are worth trying too!
 
 - sticker prompts https://twitter.com/followmarcos/status/1642189080984158208?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - landscape and fruit setting prompts https://twitter.com/nickfloats/status/1638679555107094528
+- sampler chart generates a bunch of variations easily https://twitter.com/techhalla/status/1700658718692556931
