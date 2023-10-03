@@ -1,4 +1,8 @@
+### where are all the ai engineers?
 
+- ai skepticism
+- ??? skepticism (i said this on cogrev podcast)
+- self skepticism
 
 ### creative fiction
 

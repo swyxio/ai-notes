@@ -46,6 +46,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
 	- Semi Analysis https://www.semianalysis.com/p/ai-server-cost-analysis-memory-is
 	- https://www.supervised.news/ is new but promising quality
+	- https://nextword.substack.com/ is new but promising quality
  	- infrequent but great when they post
   		- https://eugeneyan.com/writing/
     		- https://lilianweng.github.io/
@@ -53,10 +54,11 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly (has [chrome extension](https://github.com/labmlai/chrome-extension)) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
 	- Amplify/Sarah Catanzaro's PTK https://www.amplifypartners.com/projects-to-know
 	- Ben's Bites https://bensbites.beehiiv.com/
-	- TheSequence https://thesequence.substack.com/about (paid & free)
+	- TheSequence https://thesequence.substack.com/about
 	- Rachel Woods' The AI Exchange https://theaiexchange.beehiiv.com/
 	- Pete Huang's The Neuron https://www.theneurondaily.com/
-	- Lior AlphaSignal https://alphasignal.ai/
+	- Lior's AlphaSignal https://alphasignal.ai/
+	- Rowan Cheung's Rundown AI https://www.therundown.ai/
 	- Bot Eat Brain https://www.boteatbrain.com/
 	- https://codingwithintelligence.com/ (new but promising)
  	- https://www.therundown.ai/ (recommended by Software Defined Talk #428)

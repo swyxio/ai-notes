@@ -87,6 +87,14 @@ https://news.ycombinator.com/item?id=36943318
 	- problems with it:   
 https://twitter.com/nirantk/status/1674110063286571008?s=46
 
+https://nextword.substack.com/p/vector-database-is-not-a-separate
+-   [Cloudflare launches vectorize,](https://blog.cloudflare.com/vectorize-vector-database-open-beta/) announced on September 27th, 2023
+-   [MongoDB Atlas Vector Search](https://www.mongodb.com/blog/post/introducing-atlas-vector-search-build-intelligent-applications-semantic-search-ai) launched on June 22nd, 2023
+-   [Databricks](https://www.databricks.com/company/newsroom/press-releases/databricks-introduces-new-generative-ai-tools-investing-lakehouse) announced on June 28th, 2023
+-   [Oracle integrated vector database](https://www.oracle.com/news/announcement/ocw-integrated-vector-database-augments-generative-ai-2023-09-19/) announced on September 19th, 2023
+-   [IBM to announce vector database preview in Q4 2023](https://newsroom.ibm.com/2023-09-07-IBM-Advances-watsonx-AI-and-Data-Platform-with-Tech-Preview-for-watsonx-governance-and-Planned-Release-of-New-Models-and-Generative-AI-in-watsonx-data)
+-   of course, companies such as Elastic and Microsoft already had vector DB offerings much earlier.
+
 ETL
 - psychic.dev
 
