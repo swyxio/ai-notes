@@ -108,6 +108,7 @@ Model Evolution/Family trees
 
 Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com/item?id=35736872
 
+- leaderboard https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
 - llama2: [Latent Space writeup](https://www.latent.space/p/llama2#details)
 	- [ylecun announcement](https://twitter.com/ylecun/status/1681336284453781505)
 	- [finetuning recipes](https://github.com/facebookresearch/llama-recipes)
