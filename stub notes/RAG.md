@@ -7,6 +7,12 @@ https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-cre
 
 https://www.hebbia.ai/
 
+## Vector DBs
+
+- [ Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html) ([HN](https://news.ycombinator.com/item?id=37764489))
+- "Vector Database 101" series that covers vector search and vector indexes as well: [https://zilliz.com/learn/what-is-vector-database](https://zilliz.com/learn/what-is-vector-database)
+	
+
 
 ## evaluation
 
