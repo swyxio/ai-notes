@@ -295,9 +295,11 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 	- General hacking and learning
 		- [ChatGPT Hackers Discord](https://www.chatgpthackers.dev/)
 		- [AI Alignment Lab Discord](https://discord.com/invite/k36qjUxyJC)
+		- [Nous Research Discord]([https://discord.gg/T3kTZfYzs6](https://t.co/D3omqAxP04))
 		- Akhaliq Discord: https://discord.gg/nYqfg4gnBt
 		- Karpathy Discord: https://discord.gg/3zy8kqD9Cp
 		- [HuggingFace Discord](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
+		- [Skunkworks AI Discord](https://discord.gg/3Sfmpd3Njt) (new)
 	- Art
 		- [StableDiffusion Discord](https://discord.com/invite/stablediffusion) 
 		- Deforum Discord https://discord.gg/upmXXsrwZc

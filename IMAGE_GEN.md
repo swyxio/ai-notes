@@ -132,12 +132,14 @@ nice trick to mix images https://twitter.com/javilopen/status/161310708395973836
 
 or emojis: https://twitter.com/LinusEkenstam/status/1616841985599365120
 
-### DallE
+### DallE 3
 
 - dallery gallery + prompt book https://news.ycombinator.com/item?id=32322329
 
 DallE vs Imagen vs Parti  architecture
 - https://twitter.com/savvyRL/status/1540555792331378688
+
+DallE 3 writeup and links https://www.latent.space/p/sep-2023
 
 ### Runway Gen-1/2
 
@@ -401,6 +403,8 @@ Main Stable Diffusion repo: https://github.com/CompVis/stable-diffusion
 
 OpenJourney: [https://happyaccidents.ai/](https://happyaccidents.ai/), https://www.bluewillow.ai/
 - launched by prompthero: https://twitter.com/prompthero/status/1593682465486413826
+
+an embedded version of SD named Tiny Dream: [https://github.com/symisc/tiny-dream](https://github.com/symisc/tiny-dream) which let you generate high definition output images (2048x2048) in less than 10 seconds, and consumes less than 5GB per inference unlike this one which takes 11 hours to generate a 512x512 pixels output despite being memory efficient.
 
 | Name/Link 	| Stars 	| Description 	|
 |---	|---	|---	|
