@@ -94,6 +94,7 @@ attention visualization https://catherinesyeh.github.io/attn-docs/
 -   **[The illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)****:** Introduction to latent diffusion models, the most common type of generative AI model for images.
 -   **[RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)**: Chip Huyen explains RLHF, which can make LLMs behave in more predictable and human-friendly ways. This is one of the most important but least well-understood aspects of systems like ChatGPT.
 -   [**Reinforcement learning from human feedback**](https://www.youtube.com/watch?v=hhiLw5Q_UFg): Computer scientist and OpenAI cofounder John Shulman goes deeper in this great talk on the current state, progress and limitations of LLMs with RLHF.
+- _Linearized Transformers are Secretly Fast Weight Programmers_, [How Transformers Work](https://ig.ft.com/generative-ai/), https://news.ycombinator.com/item?id=37774676
 
 ### Courses
 

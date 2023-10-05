@@ -5,6 +5,7 @@
 	- news https://www.nytimes.com/2018/04/19/technology/artificial-intelligence-salaries-openai.html
 - openai policy thinking with jack clark and amanda askell - 2019 https://share.transistor.fm/s/dfbe0ca7
 - GPT2 and leadership team - 2020 https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/
+- 2021 openai fund https://x.com/gdb/status/1397610307699281921?s=20
 - openai-anthropic split was over the GPT3 api https://archive.is/YTOeD#selection-333.226-337.82
 - openai rebrand and identity https://twitter.com/asselinpaul/status/1636938731398787074
 - elon and sama split - 2023 https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai
@@ -32,6 +33,18 @@
 	- Unsupervised learning through compression. Turns out, if you want to compress a lot of data, you have to discover the secrets that live in it.
 	- Reinforcement learning is impt. But the RL from playing Dota merged with Transformers to give us Reinforcement Learning from Human Feedback. 
 	- Bigger is better. predict text + scale => world model
+
+## greg brockman
+
+- https://blog.gregbrockman.com/my-path-to-openai
+- https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner
+- https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer
+- his rescuetime https://twitter.com/sama/status/792898456650076160/photo/1 
+	- 2021 https://twitter.com/gdb/status/1359603222491451394
+
+## sama
+
+- 
 
 ## mainstream puff pieces
 

@@ -18,7 +18,8 @@
 	- virtual DOM
 	- virtual repos
 
-speech inspo
+## speech inspo
+
 - adm mcraven https://www.youtube.com/watch?v=pxBQLFLei70
 	- what starts here can change the world
 	- you cant change the world alone. find someone to help you paddle
@@ -65,16 +66,24 @@ speech inspo
 	- https://x.com/volodarik/status/1600854937419665408?s=20
 - human AI engineer
 - artificial AI engineer
-- 
+- levels.fyi https://www.levels.fyi/blog/ai-engineer-compensation.html
 
 ## structure
 
-- 0 min - what is an AI engineer?
-	- 
+- 0 min - What is an AI engineer?
+	- SWE enhanced by AI tools
+	- SWE building AI products
+	- AI that codes for you
 - 1 min - 
-- 2 min
-- 3 min
-- 4 min
-- 5 min
-- 6 min
+- 2 min - 
+- 3 min - 
+- 4 min - 
+- 5 min  - we live in a special moment
+	- AGI timelines - all in our lifetimes
+	- from research to production
+- 6 min - responsibility
+	- underrepresented
+	- security - prompt injections, data security
+	- safety - AGI risk
 - Closing point
+	- 10x engineer is person who 10x'es everyone around them

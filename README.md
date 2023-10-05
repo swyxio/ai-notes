@@ -109,6 +109,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - excellent introduction to foundation models from MSR https://youtu.be/HQI6O5DlyFc
   - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
   - google LAMDA intro https://aitestkitchen.withgoogle.com/how-lamda-works
+  - FT visual storytelling on "[how transformers work](https://ig.ft.com/generative-ai/)"
   - DALLE2 prompt writing book http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
   - [How to use AI to do stuff](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) across getting information, working with data, and making images
