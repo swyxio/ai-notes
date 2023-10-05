@@ -64,9 +64,27 @@
 	- https://x.com/TejasKumar_/status/1493955785117863938?s=20
 - 0 to 1 engineer
 	- https://x.com/volodarik/status/1600854937419665408?s=20
-- human AI engineer
-- artificial AI engineer
+- the types of 1000x AI engineer
+	- SWE enhanced by AI tools
+		- 10x - copilot
+		- 10x - build your own tools
+		- 10x - general productivity
+	- SWE building AI products
+		- 10x - app frameworks
+		- 10x - infra & finetuning
+		- 10x - AI UX & virality
+	- AI that codes for you
+		- 10x - writes faster, knows more
+		- 10x - in parallel
+		- 10x - while you sleep
 - levels.fyi https://www.levels.fyi/blog/ai-engineer-compensation.html
+- How to 10x generically
+	- thinking in systems https://twitter.com/swyx/status/1694820301564223895
+	- working hard https://twitter.com/gdb/status/1359603222491451394
+	- picking impactful problems - jeff dean
+- avoiding bad habits
+	- AI snake oil - https://x.com/RylanSchaeffer/status/1702346986329108703?s=20 - training on tokens
+	- 
 
 ## structure
 
@@ -74,16 +92,59 @@
 	- SWE enhanced by AI tools
 	- SWE building AI products
 	- AI that codes for you
-- 1 min - 
-- 2 min - 
-- 3 min - 
-- 4 min - 
-- 5 min  - we live in a special moment
+- 1 min - Economics
+	- giant skills bottleneck
+		- 5-50k MLE/Rs ([data](https://gradientflow.com/where-do-machine-learning-engineers-work/))
+		- 500k/5m AIEs <- 1000x from this room
+	- cant buy GPUs
+		- GPUs < PMF, 
+		- buy APIs
+	- can move faster with foundation models
+		- waterfall
+		- prompting
+- 2 min - job description
+	- MLE
+		- label
+		- maintianing data pipelines
+		- 8mins in to karpathy talk https://towardsdatascience.com/3-lectures-that-changed-my-data-science-career-5b78e02acb30#43a1
+		- tooling:
+			- 1.0: IDE
+			- 2.0: WandB, visualizer, annotator ?
+			- 3.0: ?
+- 3 min - tools
+	- the types of 1000x AI engineer
+	- SWE enhanced by AI tools
+		- 10x - copilot
+		- 10x - build your own tools
+		- 10x - general productivity
+	- SWE building AI products
+		- 10x - models, infra & finetuning
+		- 10x - app frameworks
+		- 10x - AI UX & virality
+	- AI that codes for you
+		- 10x - writes faster, knows more
+		- 10x - in parallel
+		- 10x - while you sleep
+- 4 min - but its not about tools
+	- working hard https://twitter.com/gdb/status/1359603222491451394
+		- [andrej 10k hours](https://www.youtube.com/watch?v=I2ZK3ngNvvI) and what have you done in the last week?
+	- picking impactful problems - jeff dean
+	- ability to dive into details - jasonwei https://twitter.com/_jasonwei/status/1708921475829481683 manually inspect lots of data
+	- JIT and JIC learning of fundamentals
+	- change the tradeoffs <- RLAIF papers
+- 5 min - we live in a special moment
 	- AGI timelines - all in our lifetimes
 	- from research to production
+	- history stopped in 2021 - we are the training data
 - 6 min - responsibility
-	- underrepresented
+	- underrepresented populations
 	- security - prompt injections, data security
-	- safety - AGI risk
+	- safety - AGI risk, reducing speed, taming AI
 - Closing point
 	- 10x engineer is person who 10x'es everyone around them
+		- 10x - learning (exposure to problems)
+		- 10x - connecting
+		- 10x - franchising
+	- teaching and learning in public is a form of understanding
+	- hashnode shoutout, pls blog
+	- learn from each other
