@@ -64,6 +64,8 @@
 	- https://x.com/TejasKumar_/status/1493955785117863938?s=20
 - 0 to 1 engineer
 	- https://x.com/volodarik/status/1600854937419665408?s=20
+	- https://blog.replit.com/building-my-first-slack-bot
+	- 
 - the types of 1000x AI engineer
 	- SWE enhanced by AI tools
 		- 10x - copilot
