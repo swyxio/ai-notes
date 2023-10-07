@@ -1,5 +1,44 @@
 
-- mechanical turk story
+- history
+	- 5BC - Talos Greek
+	- 11th C - Al Jazari [peacock handwashing](https://en.wikipedia.org/wiki/Ismail_al-Jazari)
+	- 13th C - Golem middle ages - system prompt
+	- 18th C - Faust - homonculus breaking out
+	- 18th C - Frankenstein
+	- 18th C - [mechanical turk story](https://en.wikipedia.org/wiki/Mechanical_Turk)
+	- 1950 - Alan Turing [Turing Test paper](https://en.wikipedia.org/wiki/Computing_machinery_and_intelligence)
+		- benchmarks > solutions
+	- 1956 - Dartmouth Workshop
+		- Newell and Simon debuted the "[Logic Theorist](https://en.wikipedia.org/wiki/Logic_Theorist "Logic Theorist")" - prove 38 of the first 52 theorems in Russell and Whitehead's Principia Mathematica,  
+		- McCarthy "Artificial Intelligence" > "Cybernetics"
+		- Marvin Minsky: Micro-worlds simulations
+		- 1958, H. A. Simon and Allen Newell: "within ten years a digital computer will be the world's chess champion" and "within ten years a digital computer will discover and prove an important new mathematical theorem."[94]
+		- 1965, H. A. Simon: "machines will be capable, within twenty years, of doing any work a man can do."[95]
+		- 1970, Marvin Minsky (in Life Magazine): "In from three to eight years we will have a machine with the general intelligence of an average human being."
+		- 1966 - Eliza - [chatbot](https://en.wikipedia.org/wiki/ELIZA)
+		- 1970s AI winter - end of funding
+			- 1969 Minsky and Papert - end of Perceptrons
+			- 1973 - NRC and UK Gov end AI research
+			- 1976 - Hans Moravec's paradox
+	- 1980 - expert systems - XCON for DEC - 1b/yr
+		- Cyc - massive commonsense knowledge DB - doug lenat
+		- 1982 - Geoff Hinton, David Rumelhart - Backpropagation
+		- 1989 - HiTech & Deep Thought -> Chess
+		- winter: XCON difficult to update/maintain
+		- 1990 - Strategic Computing Initiative and 5G computer cut
+		- 2000s - NYT:  "Computer scientists and software engineers avoided the term artificial intelligence for fear of being viewed as wild-eyed dreamers."
+	- Revival
+		- 1997 - Deep Blue
+		- 2005 - DARPA grand challenge - 131 miles
+		- 2007 - DARPA urban challenge - 55 miles
+		- 2011 - Watson beat Jeopardy
+		- 2000s - Nick Bostrom - goalpost moving "A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labeled AI anymore."
+		- 2016 - mini summer, Big Data era
+	- Foundatino Models
+		- 2017 - Transformers
+	- https://moores.samaltman.com/
+		- Compare how the world looked 15 years ago (no smartphones, really), 150 years ago (no combustion engine, no home electricity), 1,500 years ago (no industrial machines), and 15,000 years ago (no agriculture).
+		- The coming change will center around the most impressive of our capabilities: the phenomenal ability to think, create, understand, and reason. To the three great technological revolutions–the agricultural, the industrial, and the computational–we will add a fourth: the AI revolution.
 - https://spectrum.ieee.org/dartmouth-ai-workshop
 	- progress from research to games
 		- alphago
@@ -57,28 +96,34 @@
 - 100x eninger drjimfan https://twitter.com/DrJimFan/status/1638558742391451649
 - amjad youtube https://www.youtube.com/watch?v=ji5rdhzT53o
 - 6 orders of magnitude - nat friedman
+	- https://twitter.com/realGeorgeHotz/status/1690894647755988993
+	- 1 year of person compute, 100 years of person compute
 - notes on sanjay and jeff dean productivity
 - memes
 	- what's stopping you from coding like this?
 	- https://blog.selinazawacki.com/2020/09/27/whats-stopping-you-from-coding-like-this/
 	- https://x.com/TejasKumar_/status/1493955785117863938?s=20
+	- born too late, born to early https://knowyourmeme.com/memes/born-too-late-early-just-in-time-to-explore-x
 - 0 to 1 engineer
 	- https://x.com/volodarik/status/1600854937419665408?s=20
 	- https://blog.replit.com/building-my-first-slack-bot
-	- 
 - the types of 1000x AI engineer
 	- SWE enhanced by AI tools
 		- 10x - copilot
 		- 10x - build your own tools
 		- 10x - general productivity
 	- SWE building AI products
-		- 10x - app frameworks
-		- 10x - infra & finetuning
+		- 10x - RAG and Agent frameworks
 		- 10x - AI UX & virality
+		- 10x - infra & finetuning
 	- AI that codes for you
 		- 10x - writes faster, knows more
 		- 10x - in parallel
 		- 10x - while you sleep
+- AI Engineer dont do
+	- Futurism
+	- Regulation and Law
+	- We are about X-risk
 - levels.fyi https://www.levels.fyi/blog/ai-engineer-compensation.html
 - How to 10x generically
 	- thinking in systems https://twitter.com/swyx/status/1694820301564223895
@@ -86,14 +131,13 @@
 	- picking impactful problems - jeff dean
 - avoiding bad habits
 	- AI snake oil - https://x.com/RylanSchaeffer/status/1702346986329108703?s=20 - training on tokens
-	- 
 
 ## structure
 
 - 0 min - What is an AI engineer?
 	- SWE enhanced by AI tools
 	- SWE building AI products
-	- AI that codes for you
+	- AI tools building AI products
 - 1 min - Economics
 	- giant skills bottleneck
 		- 5-50k MLE/Rs ([data](https://gradientflow.com/where-do-machine-learning-engineers-work/))
@@ -104,10 +148,11 @@
 	- can move faster with foundation models
 		- waterfall
 		- prompting
+		- language agnostic - python + javascript
 - 2 min - job description
 	- MLE
 		- label
-		- maintianing data pipelines
+		- maintaining data pipelines
 		- 8mins in to karpathy talk https://towardsdatascience.com/3-lectures-that-changed-my-data-science-career-5b78e02acb30#43a1
 		- tooling:
 			- 1.0: IDE

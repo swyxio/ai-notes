@@ -44,7 +44,7 @@
 
 ## sama
 
-- 
+- https://moores.samaltman.com/
 
 ## mainstream puff pieces
 
