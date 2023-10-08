@@ -36,9 +36,6 @@
 		- 2016 - mini summer, Big Data era
 	- Foundatino Models
 		- 2017 - Transformers
-	- https://moores.samaltman.com/
-		- Compare how the world looked 15 years ago (no smartphones, really), 150 years ago (no combustion engine, no home electricity), 1,500 years ago (no industrial machines), and 15,000 years ago (no agriculture).
-		- The coming change will center around the most impressive of our capabilities: the phenomenal ability to think, create, understand, and reason. To the three great technological revolutions–the agricultural, the industrial, and the computational–we will add a fourth: the AI revolution.
 - https://spectrum.ieee.org/dartmouth-ai-workshop
 	- progress from research to games
 		- alphago
@@ -96,26 +93,24 @@
 - 100x eninger drjimfan https://twitter.com/DrJimFan/status/1638558742391451649
 - amjad youtube https://www.youtube.com/watch?v=ji5rdhzT53o
 - 6 orders of magnitude - nat friedman
-	- https://twitter.com/realGeorgeHotz/status/1690894647755988993
-	- 1 year of person compute, 100 years of person compute
 - notes on sanjay and jeff dean productivity
 - memes
 	- what's stopping you from coding like this?
 	- https://blog.selinazawacki.com/2020/09/27/whats-stopping-you-from-coding-like-this/
 	- https://x.com/TejasKumar_/status/1493955785117863938?s=20
-	- born too late, born to early https://knowyourmeme.com/memes/born-too-late-early-just-in-time-to-explore-x
 - 0 to 1 engineer
 	- https://x.com/volodarik/status/1600854937419665408?s=20
 	- https://blog.replit.com/building-my-first-slack-bot
+	- 
 - the types of 1000x AI engineer
 	- SWE enhanced by AI tools
 		- 10x - copilot
 		- 10x - build your own tools
 		- 10x - general productivity
 	- SWE building AI products
-		- 10x - RAG and Agent frameworks
-		- 10x - AI UX & virality
+		- 10x - app frameworks
 		- 10x - infra & finetuning
+		- 10x - AI UX & virality
 	- AI that codes for you
 		- 10x - writes faster, knows more
 		- 10x - in parallel
@@ -131,13 +126,14 @@
 	- picking impactful problems - jeff dean
 - avoiding bad habits
 	- AI snake oil - https://x.com/RylanSchaeffer/status/1702346986329108703?s=20 - training on tokens
+	- 
 
 ## structure
 
 - 0 min - What is an AI engineer?
 	- SWE enhanced by AI tools
 	- SWE building AI products
-	- AI tools building AI products
+	- AI that codes for you
 - 1 min - Economics
 	- giant skills bottleneck
 		- 5-50k MLE/Rs ([data](https://gradientflow.com/where-do-machine-learning-engineers-work/))
@@ -148,11 +144,10 @@
 	- can move faster with foundation models
 		- waterfall
 		- prompting
-		- language agnostic - python + javascript
 - 2 min - job description
 	- MLE
 		- label
-		- maintaining data pipelines
+		- maintianing data pipelines
 		- 8mins in to karpathy talk https://towardsdatascience.com/3-lectures-that-changed-my-data-science-career-5b78e02acb30#43a1
 		- tooling:
 			- 1.0: IDE
