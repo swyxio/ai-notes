@@ -1,91 +1,57 @@
-
 - history
-	- 5BC - Talos Greek
-	- 11th C - Al Jazari [peacock handwashing](https://en.wikipedia.org/wiki/Ismail_al-Jazari)
-	- 13th C - Golem middle ages - system prompt
-	- 18th C - Faust - homonculus breaking out
-	- 18th C - Frankenstein
-	- 18th C - [mechanical turk story](https://en.wikipedia.org/wiki/Mechanical_Turk)
-	- 1950 - Alan Turing [Turing Test paper](https://en.wikipedia.org/wiki/Computing_machinery_and_intelligence)
-		- benchmarks > solutions
-	- 1956 - Dartmouth Workshop
-		- Newell and Simon debuted the "[Logic Theorist](https://en.wikipedia.org/wiki/Logic_Theorist "Logic Theorist")" - prove 38 of the first 52 theorems in Russell and Whitehead's Principia Mathematica,  
-		- McCarthy "Artificial Intelligence" > "Cybernetics"
-		- Marvin Minsky: Micro-worlds simulations
-		- 1958, H. A. Simon and Allen Newell: "within ten years a digital computer will be the world's chess champion" and "within ten years a digital computer will discover and prove an important new mathematical theorem."[94]
-		- 1965, H. A. Simon: "machines will be capable, within twenty years, of doing any work a man can do."[95]
-		- 1970, Marvin Minsky (in Life Magazine): "In from three to eight years we will have a machine with the general intelligence of an average human being."
-		- 1966 - Eliza - [chatbot](https://en.wikipedia.org/wiki/ELIZA)
-		- 1970s AI winter - end of funding
-			- 1969 Minsky and Papert - end of Perceptrons
-			- 1973 - NRC and UK Gov end AI research
-			- 1976 - Hans Moravec's paradox
-	- 1980 - expert systems - XCON for DEC - 1b/yr
-		- Cyc - massive commonsense knowledge DB - doug lenat
-		- 1982 - Geoff Hinton, David Rumelhart - Backpropagation
-		- 1989 - HiTech & Deep Thought -> Chess
-		- winter: XCON difficult to update/maintain
-		- 1990 - Strategic Computing Initiative and 5G computer cut
-		- 2000s - NYT:  "Computer scientists and software engineers avoided the term artificial intelligence for fear of being viewed as wild-eyed dreamers."
-	- Revival
-		- 1997 - Deep Blue
-		- 2005 - DARPA grand challenge - 131 miles
-		- 2007 - DARPA urban challenge - 55 miles
-		- 2011 - Watson beat Jeopardy
-		- 2000s - Nick Bostrom - goalpost moving "A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labeled AI anymore."
-		- 2016 - mini summer, Big Data era
-	- Foundatino Models
-		- 2017 - Transformers
+  - 5BC - Talos Greek
+  - 11th C - Al Jazari [peacock handwashing](https://en.wikipedia.org/wiki/Ismail_al-Jazari)
+  - 13th C - Golem middle ages - system prompt
+  - 18th C - Faust - homonculus breaking out
+  - 18th C - Frankenstein
+  - 18th C - [mechanical turk story](https://en.wikipedia.org/wiki/Mechanical_Turk)
+  - 1950 - Alan Turing [Turing Test paper](https://en.wikipedia.org/wiki/Computing_machinery_and_intelligence)
+    - benchmarks > solutions
+  - 1956 - Dartmouth Workshop
+    - Newell and Simon debuted the "[Logic Theorist](https://en.wikipedia.org/wiki/Logic_Theorist "Logic Theorist")" - prove 38 of the first 52 theorems in Russell and Whitehead's Principia Mathematica,
+    - McCarthy "Artificial Intelligence" > "Cybernetics"
+    - Marvin Minsky: Micro-worlds simulations
+    - 1958, H. A. Simon and Allen Newell: "within ten years a digital computer will be the world's chess champion" and "within ten years a digital computer will discover and prove an important new mathematical theorem."[94]
+    - 1965, H. A. Simon: "machines will be capable, within twenty years, of doing any work a man can do."[95]
+    - 1970, Marvin Minsky (in Life Magazine): "In from three to eight years we will have a machine with the general intelligence of an average human being."
+    - 1966 - Eliza - [chatbot](https://en.wikipedia.org/wiki/ELIZA)
+    - 1970s AI winter - end of funding
+      - 1969 Minsky and Papert - end of Perceptrons
+      - 1973 - NRC and UK Gov end AI research
+      - 1976 - Hans Moravec's paradox
+  - 1980 - expert systems - XCON for DEC - 1b/yr
+    - Cyc - massive commonsense knowledge DB - doug lenat
+    - 1982 - Geoff Hinton, David Rumelhart - Backpropagation
+    - 1989 - HiTech & Deep Thought -> Chess
+    - winter: XCON difficult to update/maintain
+    - 1990 - Strategic Computing Initiative and 5G computer cut
+    - 2000s - NYT: "Computer scientists and software engineers avoided the term artificial intelligence for fear of being viewed as wild-eyed dreamers."
+  - Revival
+    - 1997 - Deep Blue
+    - 2005 - DARPA grand challenge - 131 miles
+    - 2007 - DARPA urban challenge - 55 miles
+    - 2011 - Watson beat Jeopardy
+    - 2000s - Nick Bostrom - goalpost moving "A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labeled AI anymore."
+    - 2016 - mini summer, Big Data era
+  - Foundatino Models
+    - 2017 - Transformers
 - https://spectrum.ieee.org/dartmouth-ai-workshop
-	- progress from research to games
-		- alphago
-		- dota
-	- nlp - from translation and named entity recognition to 
-	- transformer
+  - progress from research to games
+    - alphago
+    - dota
+  - nlp - from translation and named entity recognition to
+  - transformer
 - gatekeeping
-	- "to do what i do, you have to be xxx"
-		- https://www.listennotes.com/podcasts/goldman-sachs/a-conversation-with-qPOKzGLCH7i/ ending
-		- comparison with seth klarman baupost
-		- comparison with garry kasparov
+  - "to do what i do, you have to be xxx"
+    - https://www.listennotes.com/podcasts/goldman-sachs/a-conversation-with-qPOKzGLCH7i/ ending
+    - comparison with seth klarman baupost
+    - comparison with garry kasparov
 - Virtual humans
-	- virtual machines
-	- virtual networks/clouds
-	- virtual data warehouse
-	- virtual DOM
-	- virtual repos
-
-## speech inspo
-
-- adm mcraven https://www.youtube.com/watch?v=pxBQLFLei70
-	- what starts here can change the world
-	- you cant change the world alone. find someone to help you paddle
-	- if you want to change the world dont be afraid of circuses
-	- if you want to change the world you have to slide down the obstacles head first
-	- if you want to change the world dont back down from the sharks
-	- the power of hope - start singing when your neck is in mud
-	- if you want to change the world, dont ring the bell
-- jobs speech https://www.youtube.com/watch?v=UF8uR6Z6KLc
-- denzel https://www.youtube.com/watch?v=JEFbfwg9dek
-	- fail forward
-	- you have talent to fail - do you have the guts to fail
-- ufc winner https://www.youtube.com/watch?v=ZNoODFgTq3c
-- ufc winner https://www.youtube.com/watch?v=pnMGm0MRYt8
-	- "look at me now", "from the trenches"
-- dan kohn https://www.youtube.com/watch?v=zSdqHxvB0s4
-	- pace: 1066 words / 8 mins = 133 wpm
-	- me: 869 words / 5 mins = 173 wpm
-	- what is CNCF 30 secs
-	- introduces humans -> minecraft story "why are you staring at a black screen" 90 secs
-	- "this story is a metaphor" - applause line 2.13 mins
-	- "hiding in a hole is precautionary software practices"
-	- "the zombies are real"
-	- 3 mins: 4th grader to come over 
-	- 4 min: teach people minecraft
-	- 5 min: k8s components - "has an awesome logo"
-	- 6 min: "k8s is like a crafting table"
-	- 6.30min: where do 2nd and 4th graders come together, kubecon
-	- 7 min: k8s is only 5 yrs old, which means we are all in elementry school. i look forward to 
-
+  - virtual machines
+  - virtual networks/clouds
+  - virtual data warehouse
+  - virtual DOM
+  - virtual repos
 
 ## notes
 
@@ -95,98 +61,143 @@
 - 6 orders of magnitude - nat friedman
 - notes on sanjay and jeff dean productivity
 - memes
-	- what's stopping you from coding like this?
-	- https://blog.selinazawacki.com/2020/09/27/whats-stopping-you-from-coding-like-this/
-	- https://x.com/TejasKumar_/status/1493955785117863938?s=20
+  - what's stopping you from coding like this?
+  - https://blog.selinazawacki.com/2020/09/27/whats-stopping-you-from-coding-like-this/
+  - https://x.com/TejasKumar_/status/1493955785117863938?s=20
 - 0 to 1 engineer
-	- https://x.com/volodarik/status/1600854937419665408?s=20
-	- https://blog.replit.com/building-my-first-slack-bot
-	- 
+  - https://x.com/volodarik/status/1600854937419665408?s=20
+  - https://blog.replit.com/building-my-first-slack-bot
+  -
 - the types of 1000x AI engineer
-	- SWE enhanced by AI tools
-		- 10x - copilot
-		- 10x - build your own tools
-		- 10x - general productivity
-	- SWE building AI products
-		- 10x - app frameworks
-		- 10x - infra & finetuning
-		- 10x - AI UX & virality
-	- AI that codes for you
-		- 10x - writes faster, knows more
-		- 10x - in parallel
-		- 10x - while you sleep
+  - SWE enhanced by AI tools
+    - 10x - copilot
+    - 10x - build your own tools
+    - 10x - general productivity
+  - SWE building AI products
+    - 10x - app frameworks
+    - 10x - infra & finetuning
+    - 10x - AI UX & virality
+  - AI that codes for you
+    - 10x - writes faster, knows more
+    - 10x - in parallel
+    - 10x - while you sleep
 - AI Engineer dont do
-	- Futurism
-	- Regulation and Law
-	- We are about X-risk
+  - Futurism
+  - Regulation and Law
+  - We are about X-risk
 - levels.fyi https://www.levels.fyi/blog/ai-engineer-compensation.html
 - How to 10x generically
-	- thinking in systems https://twitter.com/swyx/status/1694820301564223895
-	- working hard https://twitter.com/gdb/status/1359603222491451394
-	- picking impactful problems - jeff dean
+  - thinking in systems https://twitter.com/swyx/status/1694820301564223895
+  - working hard https://twitter.com/gdb/status/1359603222491451394
+  - picking impactful problems - jeff dean
 - avoiding bad habits
-	- AI snake oil - https://x.com/RylanSchaeffer/status/1702346986329108703?s=20 - training on tokens
-	- 
+  - AI snake oil - https://x.com/RylanSchaeffer/status/1702346986329108703?s=20 - training on tokens
+  -
 
 ## structure
 
-- 0 min - What is an AI engineer?
-	- SWE enhanced by AI tools
-	- SWE building AI products
-	- AI that codes for you
+- 0 min - We were born just in time
+  - Human population
+  - Math foom
+  - Physics foom
+  - Industry foom
+  - Sama
+    - agricultural
+    - industrial
+    - computing
+    - AI
+  - Carlota Perez
+    - https://i0.wp.com/reactionwheel.net/wp-content/uploads/2015/09/The-Deployment-Age.001.png
+- ?? What is an AI engineer?
+  - SWE enhanced by AI tools - AI Enhanced Engineer
+  - SWE building AI products - AI Product Engineers
+  - AI tools building AI products - Engineer Agent
 - 1 min - Economics
-	- giant skills bottleneck
-		- 5-50k MLE/Rs ([data](https://gradientflow.com/where-do-machine-learning-engineers-work/))
-		- 500k/5m AIEs <- 1000x from this room
-	- cant buy GPUs
-		- GPUs < PMF, 
-		- buy APIs
-	- can move faster with foundation models
-		- waterfall
-		- prompting
+  - giant skills bottleneck
+    - 5-50k MLE/Rs ([data](https://gradientflow.com/where-do-machine-learning-engineers-work/))
+    - 500k/5m AIEs <- 1000x from this room
+  - cant buy GPUs
+    - GPUs < PMF,
+    - buy APIs
+  - can move faster with foundation models
+    - waterfall
+    - prompting
 - 2 min - job description
-	- MLE
-		- label
-		- maintianing data pipelines
-		- 8mins in to karpathy talk https://towardsdatascience.com/3-lectures-that-changed-my-data-science-career-5b78e02acb30#43a1
-		- tooling:
-			- 1.0: IDE
-			- 2.0: WandB, visualizer, annotator ?
-			- 3.0: ?
+  - MLE
+    - label
+    - maintianing data pipelines
+    - 8mins in to karpathy talk https://towardsdatascience.com/3-lectures-that-changed-my-data-science-career-5b78e02acb30#43a1
+    - tooling:
+      - 1.0: IDE
+      - 2.0: WandB, visualizer, annotator ?
+      - 3.0: ?
 - 3 min - tools
-	- the types of 1000x AI engineer
-	- SWE enhanced by AI tools
-		- 10x - copilot
-		- 10x - build your own tools
-		- 10x - general productivity
-	- SWE building AI products
-		- 10x - models, infra & finetuning
-		- 10x - app frameworks
-		- 10x - AI UX & virality
-	- AI that codes for you
-		- 10x - writes faster, knows more
-		- 10x - in parallel
-		- 10x - while you sleep
+  - the types of 1000x AI engineer
+  - SWE enhanced by AI tools
+    - 10x - copilot
+    - 10x - build your own tools
+    - 10x - general productivity
+  - SWE building AI products
+    - 10x - models, infra & finetuning
+    - 10x - app frameworks
+    - 10x - AI UX & virality
+  - AI that codes for you
+    - 10x - writes faster, knows more
+    - 10x - in parallel
+    - 10x - while you sleep
 - 4 min - but its not about tools
-	- working hard https://twitter.com/gdb/status/1359603222491451394
-		- [andrej 10k hours](https://www.youtube.com/watch?v=I2ZK3ngNvvI) and what have you done in the last week?
-	- picking impactful problems - jeff dean
-	- ability to dive into details - jasonwei https://twitter.com/_jasonwei/status/1708921475829481683 manually inspect lots of data
-	- JIT and JIC learning of fundamentals
-	- change the tradeoffs <- RLAIF papers
+  - working hard https://twitter.com/gdb/status/1359603222491451394
+    - [andrej 10k hours](https://www.youtube.com/watch?v=I2ZK3ngNvvI) and what have you done in the last week?
+  - picking impactful problems - jeff dean
+  - ability to dive into details - jasonwei https://twitter.com/_jasonwei/status/1708921475829481683 manually inspect lots of data
+  - JIT and JIC learning of fundamentals
+  - change the tradeoffs <- RLAIF papers
 - 5 min - we live in a special moment
-	- AGI timelines - all in our lifetimes
-	- from research to production
-	- history stopped in 2021 - we are the training data
+  - AGI timelines - all in our lifetimes
+  - from research to production
+  - history stopped in 2021 - we are the training data
 - 6 min - responsibility
-	- underrepresented populations
-	- security - prompt injections, data security
-	- safety - AGI risk, reducing speed, taming AI
+  - underrepresented populations
+  - security - prompt injections, data security
+  - safety - AGI risk, reducing speed, taming AI
 - Closing point
-	- 10x engineer is person who 10x'es everyone around them
-		- 10x - learning (exposure to problems)
-		- 10x - connecting
-		- 10x - franchising
-	- teaching and learning in public is a form of understanding
-	- hashnode shoutout, pls blog
-	- learn from each other
+  - 10x engineer is person who 10x'es everyone around them
+    - 10x - learning (exposure to problems)
+    - 10x - connecting
+    - 10x - franchising
+  - teaching and learning in public is a form of understanding
+  - learn from each other
+
+---
+
+## misc speech inspo
+
+- adm mcraven https://www.youtube.com/watch?v=pxBQLFLei70
+  - what starts here can change the world
+  - you cant change the world alone. find someone to help you paddle
+  - if you want to change the world dont be afraid of circuses
+  - if you want to change the world you have to slide down the obstacles head first
+  - if you want to change the world dont back down from the sharks
+  - the power of hope - start singing when your neck is in mud
+  - if you want to change the world, dont ring the bell
+- jobs speech https://www.youtube.com/watch?v=UF8uR6Z6KLc
+- denzel https://www.youtube.com/watch?v=JEFbfwg9dek
+  - fail forward
+  - you have talent to fail - do you have the guts to fail
+- ufc winner https://www.youtube.com/watch?v=ZNoODFgTq3c
+- ufc winner https://www.youtube.com/watch?v=pnMGm0MRYt8
+  - "look at me now", "from the trenches"
+- dan kohn https://www.youtube.com/watch?v=zSdqHxvB0s4
+  - pace: 1066 words / 8 mins = 133 wpm
+  - me: 869 words / 5 mins = 173 wpm
+  - what is CNCF 30 secs
+  - introduces humans -> minecraft story "why are you staring at a black screen" 90 secs
+  - "this story is a metaphor" - applause line 2.13 mins
+  - "hiding in a hole is precautionary software practices"
+  - "the zombies are real"
+  - 3 mins: 4th grader to come over
+  - 4 min: teach people minecraft
+  - 5 min: k8s components - "has an awesome logo"
+  - 6 min: "k8s is like a crafting table"
+  - 6.30min: where do 2nd and 4th graders come together, kubecon
+  - 7 min: k8s is only 5 yrs old, which means we are all in elementry school. i look forward to
