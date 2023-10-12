@@ -139,6 +139,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - **State of AI Report**: [2018](https://www.stateof.ai/2018), [2019](https://www.stateof.ai/2019), [2020](https://www.stateof.ai/2020), [2021](https://www.stateof.ai/2021), [2022](https://www.stateof.ai/)
   - reverse chronological major events https://bleedingedge.ai/
   - [What we Know about LLMs](https://willthompson.name/what-we-know-about-llms-primer#block-920907dc37394adcac5bf4e7318adc10) - great recap of research
+  - [LLMs overview from Flyte](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
   - [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/) - great recap
 	  - [Evals](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance): To measure performance
 	-   [RAG](https://eugeneyan.com/writing/llm-patterns/#retrieval-augmented-generation-to-add-knowledge): To add recent, external knowledge
