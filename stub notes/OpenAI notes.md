@@ -20,6 +20,7 @@
 	- aug - finetuning
 	- aug - superalignment
 		- jan leike https://axrpodcast.libsyn.com/24-superalignment-with-jan-leike
+	- oct 2023 - [openai explains what they do for global affairs people](https://openai.com/global-affairs/openai-technology-explained)
 
 
 ## OpenAI deprecation and models

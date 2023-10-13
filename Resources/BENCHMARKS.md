@@ -316,6 +316,7 @@ The problem of benchmark contamination in the context of large language model (L
 
 - Leetcode - I just tested GPT-4 code output using a Leetcode test. I choose a more challenging example. GPT-4 solved it with-in 5 seconds and placed it in the #1 spot for execution time out 975K entries. https://twitter.com/raymonnnddd/status/1636159008183558144
 - Of the easiest problems on Codeforces, it solved 10/10 pre-2021 problems and 0/10 recent problems. https://twitter.com/cHHillee/status/1635790330854526981
+	- https://www.aisnakeoil.com/p/gpt-4-and-professional-benchmarks
 
 ## Other benchmarking issues
 

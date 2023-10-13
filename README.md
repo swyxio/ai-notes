@@ -115,6 +115,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - [How to use AI to do stuff](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated) across getting information, working with data, and making images
   - https://ourworldindata.org/brief-history-of-ai ai progress overview with nice charts
   - Jon Stokes' [AI Content Generation, Part 1: Machine Learning Basics](https://www.jonstokes.com/p/ai-content-generation-part-1-machine)
+  - [Andrew Ng - Opportunities in AI](https://www.youtube.com/watch?v=5p248yoa3oE)
   - [What are transformer models and how do they work?](https://txt.cohere.ai/what-are-transformer-models/) - maybe [a bit too high level](https://news.ycombinator.com/item?id=35577138)
   - text generation
 	  - humanloop's [prompt engineering 101](https://website-olo3k29b2-humanloopml.vercel.app/blog/prompt-engineering-101)
