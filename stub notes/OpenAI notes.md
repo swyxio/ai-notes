@@ -34,6 +34,7 @@
 	- Unsupervised learning through compression. Turns out, if you want to compress a lot of data, you have to discover the secrets that live in it.
 	- Reinforcement learning is impt. But the RL from playing Dota merged with Transformers to give us Reinforcement Learning from Human Feedback. 
 	- Bigger is better. predict text + scale => world model
+	- highlights from https://youtu.be/GI4Tpi48DlA?si=u7guXWVvIS5OsRaH
 
 ## greg brockman
 
