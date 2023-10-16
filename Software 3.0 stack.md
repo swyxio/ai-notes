@@ -57,6 +57,7 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 	- deepchecks <- bigger
 	- lilac ai
 	- gallileo
+	- 
 
 ## typing/json structure libraries 
 
@@ -103,6 +104,9 @@ ETL
 
 - https://mlfoundry.com/
 - together.ai
+- model hosting and finetuning
+	- LLM Engine ([https://llm-engine.scale.com](https://llm-engine.scale.com/)) at Scale, which is our open source, self-hostable framework for open source LLM inference and fine-tuning. ([source](https://news.ycombinator.com/item?id=37492776))
+	- replicate
 
 
 ## misc
