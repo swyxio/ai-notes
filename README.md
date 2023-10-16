@@ -490,6 +490,7 @@ This list will be out of date but will get you started. My live list of people t
 -   U.S. President Joe Biden [issued](https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VVt-xv1bfQFxVTDC381T3c1vVLsY3L4_gp1wN1FQ0s55nCT_V3Zsc37CgQX9W7wTfL38m-2KKW3mGNtx8sgMgJW10rjg65dMw5qN3jtZLMqRgQbV_3DXH2yr2HbW4vs2Tm43thGvW6fK8f72N6w37N53TdBst-8D1W6yzHrb70MHkTW1ckbRd5NfDP9W2j6yWK34KFvtW18lscs3lQ0G6W4GFgyx486-vdW5NJBQv4tvxYpW36FqGc4md2XfW2Fgj6n2fd-BSW3PyPVH9bD8W3N61PDTSyzVy1W2QSSm07tHjwWW8zG-Kl3TPwmfVMNjLb7Nnhk4W2B_zlf7n91mNW806djL3zxyMFW5RpR1Q9kcL0yW7ss_7m92D7Z-W4fWJYk3xBb3yN5bZbNkSvb14N2kgsftyLf7cN1WmZDl5Sw63W4FcWFn65g7DsVzPJZP2qtH36W3vfw782XRtSbW834rhB5jGZ7RW6K9z1d87ns4N38SY1) a strategic plan for AI. The initiative calls on U.S. regulatory agencies to develop public datasets, benchmarks, and standards for training, measuring, and evaluating AI systems.
 -   Earlier this month, France’s data privacy regulator [announced](https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VVt-xv1bfQFxVTDC381T3c1vVLsY3L4_gp1wN1FQ0s_3q3nJV1-WJV7CgTpxW8C6yq247bfj8W4mQv0-4hl35_W8SPtZ52JXPlxW1Fkb5p54f30RW6sj0m71XsJ4yF7-b6kBx5vTW7cwGKJ6RcqpFW5325sQ2R54VbW79rbsP4wh6MyW2MwyS_6CSJfwW8VBz1y1M5_4nW2nhxPD5vZw17MCVDrTvH8ljW1JYH0t8DPm23W3BPQvW69f5TFW5ms3_413vDbJVw9GyW1yMYBfW6zpGVw12swbdV_wmsh11rtb0Vlzk0b6ZkhpZW1XWkdG7yNYpsW38p95C5jXCx7W4qrc4w1_q_sdW5RD3Jv7bdxpv2Gp1) a framework for regulating generative AI.
 - regulation vs Xrisk https://1a3orn.com/sub/essays-regulation-stories.html
+- [Multimodal Prompt Injection in GPT4V](https://news.ycombinator.com/item?id=37877605) 
 
 ## Misc
 

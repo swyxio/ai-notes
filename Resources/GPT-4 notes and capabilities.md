@@ -190,3 +190,14 @@
 		- GPT-4 costs 3 times more than the 175B parameter Davinci, due to the larger clusters required and lower utilization rates.
 		- Inference Architecture: The inference runs on a cluster of 128 GPUs, using 8-way tensor parallelism and 16-way pipeline parallelism.
 		- Vision Multi-Modal: GPT-4 includes a vision encoder for autonomous agents to read web pages and transcribe images and videos. The architecture is similar to Flamingo. This adds more parameters on top and it is fine-tuned with another ~2 trillion tokens.
+- [System Prompts](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
+- -   [**Baseline GPT-4**](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/base.md)
+    -   [Advanced Data Analysis](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/advanced-data-analysis.md)
+    -   [Browse with Bing](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/browse-with-bing.md)
+    -   [DALL•E](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/dall-e.md)
+    -   [Mobile App (iOS)](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/mobile-app-ios.md)
+    -   [Mobile App (Android)](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/mobile-app-android.md)
+    -   [Plugins (Example: Zapier)](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/plugins.md)
+    -   [Vision](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/vision.md)
+    -   [Voice Conversation](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/voice-conversation.md)
+    - [**Custom Instructions**](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/_custom-instructions.md)
