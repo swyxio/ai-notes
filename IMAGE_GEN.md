@@ -141,6 +141,8 @@ DallE vs Imagen vs Parti  architecture
 
 DallE 3 writeup and links https://www.latent.space/p/sep-2023
 
+DallE 3 paper and system card https://twitter.com/swyx/status/1715075287262597236
+
 ### Runway Gen-1/2
 
 usage example https://twitter.com/nickfloats/status/1639709828603084801?s=20
