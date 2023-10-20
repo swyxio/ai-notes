@@ -452,6 +452,7 @@ This list will be out of date but will get you started. My live list of people t
 - Diversity and Equity
 	- sexualizing minorities https://twitter.com/lanadenina/status/1680238883206832129 the reason is [porn is good at bodies](https://twitter.com/levelsio/status/1680665706235404288)
 	- [OpenAI tacking on "black" randomly to make DallE diverse](https://twitter.com/rzhang88/status/1549472829304741888?s=20)
+- Privacy - confidential computing https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/
 
 ## Alignment, Safety
 
