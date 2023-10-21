@@ -46,7 +46,7 @@
 
 ## sama
 
-- 
+- intentionally did not give chatgpt a human name - want to distance from “person-ness” but accept that others will do it https://overcast.fm/+SusunrACk/12:51
 
 ## mainstream puff pieces
 
