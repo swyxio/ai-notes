@@ -40,9 +40,11 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 - eval
 	- https://github.com/BerriAI/bettertest https://twitter.com/ishaan_jaff/status/1665105582804832258
 	- https://github.com/AgentOps-AI/agentops
-	- https://www.ycombinator.com/launches/JFc-baserun-ai-ship-llm-features-with-confidence
+	- [Baserun.ai](https://www.ycombinator.com/launches/JFc-baserun-ai-ship-llm-features-with-confidence)
+	- [https://hegel-ai.com](https://hegel-ai.com/), [https://www.vellum.ai/](https://www.vellum.ai/), [https://www.parea.ai](https://www.parea.ai/), [http://baserun.ai](http://baserun.ai/), [https://www.trychatter.ai](https://www.trychatter.ai/), [https://talc.ai](https://talc.ai/), [https://github.com/BerriAI/bettertest](https://github.com/BerriAI/bettertest), [https://langfuse.com](https://langfuse.com/)
 	- https://github.com/mr-gpt/deepeval
 	- [Hegel AI Prompttools](https://news.ycombinator.com/item?id=36958175)
+		- [Show HN: OpenLLMetry – OpenTelemetry-based observability for LLMs](https://github.com/traceloop/openllmetry) ([github.com/traceloop](https://news.ycombinator.com/from?site=github.com/traceloop)) https://news.ycombinator.com/item?id=37843907
 	- https://github.com/promptfoo/promptfoo
 	- https://benchllm.com/
 	- [https://www.getscorecard.ai](https://www.getscorecard.ai/)
