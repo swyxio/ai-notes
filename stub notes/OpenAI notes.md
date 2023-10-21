@@ -47,6 +47,9 @@
 - at mit conference with sal khan
 	- identifies as a self taught programmer
 	- after stripe considered  going into VR and programming education inspired by sal khan
+	- inspired by alan turing turjng test paper https://academic.oup.com/mind/article/LIX/236/433/986238
+		- said you need rewards and punishment
+		- machine can learn things that i dont even know
 ## sama
 
 - intentionally did not give chatgpt a human name - want to distance from “person-ness” but accept that others will do it https://overcast.fm/+SusunrACk/12:51
