@@ -44,6 +44,9 @@
 - his rescuetime https://twitter.com/sama/status/792898456650076160/photo/1 
 	- 2021 https://twitter.com/gdb/status/1359603222491451394
 
+- at mit conference with sal khan
+	- identifies as a self taught programmer
+	- after stripe considered  going into VR and programming education inspired by sal khan
 ## sama
 
 - intentionally did not give chatgpt a human name - want to distance from “person-ness” but accept that others will do it https://overcast.fm/+SusunrACk/12:51
