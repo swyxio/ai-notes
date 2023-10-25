@@ -1,7 +1,9 @@
+
 ## langchain first party stuff
 
 - https://chat.langchain.dev/ chat with docs
 - https://autoevaluator.langchain.com/ This is an app to evaluate the performance of question-answering LLM chains.
+- their weekly newsletter is now pretty good https://blog.langchain.dev/
 
 ## notable community stuff
 
@@ -21,6 +23,7 @@
 - Jan: HN post https://news.ycombinator.com/item?id=34422627
 - Apr: [$10m Seed Round with Benchmark](https://news.ycombinator.com/item?id=35442483), [Langchain A round with Sequoia](https://news.ycombinator.com/item?id=35632520)
 - July: [Langchain is Pointless](https://news.ycombinator.com/item?id=36645575), [The Problem with Langchain](https://news.ycombinator.com/item?id=36725982)
+- Oct: Langserve https://blog.langchain.dev/introducing-langserve/
 
 ## good langchain tutorials
 

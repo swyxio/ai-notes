@@ -37,7 +37,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 
 - Leaders
 	- ⭐ Andrew Ng's [The Batch](https://www.deeplearning.ai/the-batch/)  picks 3 things each week and summarizes approachably
-	- Jack Clark's [Import AI](https://importai.substack.com/) focused more on policy given Jack's role
+	- ⭐ Jack Clark's [Import AI](https://importai.substack.com/) focused more on policy given Jack's role, but has great coverage of the top news
 	- Sebastian Raschka [Ahead of AI](https://magazine.sebastianraschka.com/) deeply technical recaps
 	- Arvind Narayanan [AI Snake Oil](https://www.aisnakeoil.com/) - "to dispel hype, remove misconceptions, and clarify the limits of AI."
 - Commentators/ML Eng's
@@ -57,7 +57,6 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Ben's Bites https://bensbites.beehiiv.com/
 	- TheSequence https://thesequence.substack.com/about
 	- Rachel Woods' The AI Exchange https://theaiexchange.beehiiv.com/
-	- Pete Huang's The Neuron https://www.theneurondaily.com/
 	- Lior's AlphaSignal https://alphasignal.ai/
 	- Rowan Cheung's Rundown AI https://www.therundown.ai/
 	- Bot Eat Brain https://www.boteatbrain.com/
