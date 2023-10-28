@@ -62,4 +62,4 @@
 	- volunteering for nontechnical activities
 	- lack of inter-project cohesion
 	- the N+1th member, the LF! -> be firm in LF engagement
-		- say no to the LF
+		- say no to the LFj

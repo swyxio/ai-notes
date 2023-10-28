@@ -78,6 +78,9 @@ chatbot dataset
 		    
 		5.  Twitter Conversation Corpus: A dataset containing conversations from Twitter. It includes a wide range of topics and conversational patterns found on the platform.
 
+MAD-LAD 400 is a dataset comprising of more than ~400 distinct languages spread across 3 trillion tokens (5 trillion for the uncleaned and therefore noisier dataset). They gathered the dataset by training a LangID model on ~500 languages, then using that model to filter a large Common Crawl corpus, resulting in MAD-LAD 400 noisy. Once they had that dataset, they applied a bunch of quality filtering steps to filter out low-quality or erroneous content. Through this process, they ended up omitting 79 of the languages found in the dataset, reducing the size of the cleaned MADLAD-400 dataset to 419 languages or so.
+-    **Read the paper**: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset (arXiv)](https://substack.com/redirect/580fad73-63b4-497b-b3f0-d586cc6892ad?j=eyJ1IjoiMXJpMWl2In0.C0Ak4MTmgoSYyoS5SIGPMgVtwuoX_jfRLexEFRuZ7SI).  
+   **Get the models and data**: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset (GitHub)](https://substack.com/redirect/8feac410-f81f-4eaa-847d-a72d294ca7d8?j=eyJ1IjoiMXJpMWl2In0.C0Ak4MTmgoSYyoS5SIGPMgVtwuoX_jfRLexEFRuZ7SI).
 
 ## data issues
 
@@ -99,3 +102,5 @@ running out of data - repeat it? https://twitter.com/XueFz/status/16608674579036
 data going dark
 - stackoverflow data dump https://news.ycombinator.com/item?id=36257523
 - reddit api monetization
+
+
