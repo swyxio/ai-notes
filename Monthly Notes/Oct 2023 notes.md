@@ -108,6 +108,7 @@
 - Baidu claims their new model Ernie 4 rivals GPT4 but cant be proven - ERNIE 4, multimodal foundational model, integrated with many applications ([Announcement](https://substack.com/redirect/163df6af-340d-4957-88c3-d911531f7284?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), [Thread](https://substack.com/redirect/c3d12d8a-4560-46ed-87e4-bdb95ae5e01e?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
 - Adobe releases Firefly 2 - lifelike and realistic images, generative match, prompt remix and prompt suggestions ([X](https://substack.com/redirect/de20b453-ad97-499e-b02f-995d460477c8?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), Firefly)
 - [Play.ht](http://play.ht/) shows off an impressive <300ms voice generation for agents After spending almost 2 hours talking to chatGPT, I was thinking, why aren't all AI assistants like this, and the answer was, well... generating voice takes time, which takes you out of your "conversation flow" And then today, [play.ht](https://substack.com/redirect/fe90d888-07d3-4441-9301-3c8bdbe35c0a?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE) showed off a new update to their API that generates voice in <300ms, and that can be a clone of your voice, with your accent and all. We truly live in unprecedented times.
+- [Defog Agents: AI Assistants for complex data workflows](https://defog.ai/blog/agents/)
 
 ## Papers and Good Reads
 
@@ -176,6 +177,21 @@
 - learning
 	- This page contains interactive charts for exploring how large language models represent truth https://saprmarks.github.io/geometry-of-truth/dataexplorer/
 	- [Language Modeling is Compression](https://arxiv.org/pdf/2309.10668) from DeepMind echoes what Ilya Sutskever said in a [recent talk](https://youtu.be/GI4Tpi48DlA?si=u7guXWVvIS5OsRaH)
+	- Large Language Models in 2023 from Hyung Won Chung, OpenAI & Google Brain
+		- emergence (Wei et al) is still underappreciated
+		- Perspective of "yet": "This idea doesn't work" -> "This idea doesn't work YET" 
+			- Document experiments that failed because of insufficient “intelligence”
+			- Do not declare failure yet and make it easy to rerun in the future
+			- As soon as the new model comes out, rerun them
+			- Learn what works and what doesn’t
+			- Update your intuition on emergent abilities and scale
+		- We need post-training
+			- instruction tuning - FLAN
+			- Reward Model training
+			- Policy model training
+		- bitter lesson
+			- Many Transformer variants have been proposed but almost all fancy variations don’t scale well
+			- More useful to abstract away Transformer as sequence of functions and think about input and output shapes and types
 
 ## Fundraising
 

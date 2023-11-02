@@ -2,6 +2,11 @@
 ## math/numbers ai eng should know 
 
 - PetaFLOP/s-days is a terrible unit. I propose the "person" = 20 PFLOPS, and the "person-year". GPT-3 was 1024 A100s for 34 days. (1024*312e12*34 / (20e15*365)) 1.5 person-years GPT-4 was 25k A100s for 90 days. (25e3*312e12*90 / (20e15*365)) 96 person-years https://twitter.com/karpathy/status/1690906227981905920
+- cost per token
+	- boris power got rekt
+	- https://twitter.com/borismpower/status/1709641395659780452?s=12&t=90xQ8sGy63D2OtiaoGJuww
+	- its more like 70b model - $1 / M on anyscale, 0.8/M on lepton, 0.7/M on fireworks
+		- can see on openrouter https://x.com/xanderatallah/status/1709717677730636102?s=20
 
 ### where are all the ai engineers?
 

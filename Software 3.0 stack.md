@@ -102,6 +102,9 @@ ETL
 - psychic.dev
 
 
+fully vertically integrated RAG cloud
+- vectara -29m raised and from former cloudera founder
+
 ## infra
 
 - https://mlfoundry.com/
