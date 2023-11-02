@@ -19,7 +19,7 @@ June 2023 [stable diffusion guide](https://news.ycombinator.com/item?id=36409650
 - 1. Use a good checkpoint. Vanilla stable diffusion is relatively bad. There are plenty of good ones on civitai. Here's mine: [https://civitai.com/models/94176](https://civitai.com/models/94176)
 2. Use a good negative prompt with good textual inversions. (e.g. "ng_deepnegative_v1_75t", "verybadimagenegative_v1.3", etc.; you can download those from civitai too) Even if you have a good checkpoint this is essential to get good results.
 3. Use a better sampling method instead of the default one. (e.g. I like to use "DPM++ SDE Karras")
-
+- [using Midjourney and GPT4 to code an Angry Birds clone](https://twitter.com/javilopen/status/1719363262179938401)
 
 ## prompt tooling
 

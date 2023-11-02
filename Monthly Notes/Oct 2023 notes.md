@@ -28,18 +28,17 @@
 - [OpenAI’s technology explained](https://twitter.com/OfficialLoganK/status/1712483165380415828)
 - Collection of [ChatGPT System Prompts](https://news.ycombinator.com/item?id=37879077) including Voice and Custom Instructions
 - gpt4 date updated to apr 2023 https://x.com/simonw/status/1717626503121576435?s=20
-- gradual rollout of gpt4 all tools
-	- including PDF uploads that can accurately read 100 page PDFs
-		- some stress from [PDF plugin/wrapper makers](https://x.com/8teAPi/status/1718575610287841677?s=20)
-	- https://twitter.com/ldjconfirmed/status/1718433263105004006?s=12&t=90xQ8sGy63D2OtiaoGJuww
+- gpt4 all tools
 	- https://twitter.com/DataChaz/status/1719660354743976342 32k context
 - preparedness challenge https://news.ycombinator.com/item?id=38029307
 - openai new office
+- openai 86b tender offer https://web.archive.org/web/20231027165729mp_/https://www.afr.com/markets/equity-markets/openai-is-in-talks-to-sell-shares-at-136b-valuation-20231020-p5edqj
 
 
 ## other frontier models
 - -   Inflection Pi got internet access & New therapy mode ([Announcement](https://substack.com/redirect/f141031f-3686-47d7-a62c-897237629219?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
 - -   Anthropic [Claude.ai](http://claude.ai/) is rolled out to additional 95 countries ([Announcement](https://substack.com/redirect/077443fe-35d4-4f0d-aa59-88524f729880?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
+- all Metamates [given GPT-4 access internally](https://x.com/JBasedos/status/1719381484413571510?s=20), while Google Gemini is still nowhere to be found
     
 
 ## Models
@@ -60,14 +59,6 @@
 			- Pieter Abbeel: "[convnets again?](https://x.com/AravSrinivas/status/1712337087306092914?s=20)"
 			- likely a [red herring](https://x.com/main_horse/status/1712340876633235526?s=20)
 			- [no info on data at all](https://x.com/leavittron/status/1715247384941498761?s=20)
-		- Brev released a [popular guide on finetuning Mistral for $1](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb)
-	- Zephyr: Direct Distillation of LM Alignment
-		- Zephyr-7b-beta "[might be the best 7B LLM today](https://x.com/llama_index/status/1719800388852072606?s=20)"
-		- A small language model aimed at aligning with user intent, using distilled direct preference optimization (dDPO). Shows significant improvement in task accuracy
-		- [Thom Wolf learnings recap](https://twitter.com/Thom_Wolf/status/1717821614467739796)
-		- abs: [https://arxiv.org/abs/2310.16944](https://t.co/Ll16TF9ImT) 
-		- pdf: [https://arxiv.org/pdf/2310.16944.pdf…](https://t.co/PFJHxR7R6u) 
-		- site: [https://github.com/huggingface/alignment-handbook…](https://t.co/hTZ69u5xdJ)
 	- Announcing Open Hermes 2!! A continuation of the Hermes series of models, now built on Mistral 7B! The Hermes 2 model was trained on 900,000 instructions, and surpasses all previous versions of Hermes 13B and below, and matches 70B on some benchmarks! Hermes 2 changes the game with strong multiturn chat skills, system prompt capabilities, and uses ChatML format. It's quality, diversity and scale is unmatched in the current OS LM landscape. Not only does it do well in benchmarks, but also in unmeasured capabilities, like Roleplaying, Tasks, and more. [https://fxtwitter.com/Teknium1/status/1714010838959612329](https://fxtwitter.com/Teknium1/status/1714010838959612329 "https://fxtwitter.com/Teknium1/status/1714010838959612329")
 - Small
   - [ Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices) https://news.ycombinator.com/item?id=37739965
@@ -88,19 +79,21 @@
 
 - Daniel Gross’ [LocalPilot](https://x.com/danielgross/status/1708855228122964291?s=20)- “In my experience, 7b isn't usefully fast enough for autocomplete on M1, but M2 Max is the punctuated equilibrium; it's suddenly good enough. (34b quantized models are fast enough for Q&A.)“
 - [headshot AI project](https://x.com/svpino/status/1711003548073504886?s=20)
-  - https://twitter.com/leap_api
-- Llama 2 in C https://x.com/karpathy/status/1710061549677613469?s=46&t=6FDPaNxZcbSsELal6Sv7Ug
-  - https://news.ycombinator.com/item?id=37785442
-- [ SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
-- Mistal finetunes
-	- https://dadjokes.dfdx.me/
-- [select LLM, and GPU, and see if can run locally](https://x.com/victormustar/status/1712754193784520966?s=20)
+  - uses https://twitter.com/leap_api
+- Llama 2 in C ([Karpathy]( https://x.com/karpathy/status/1710061549677613469?s=46&t=6FDPaNxZcbSsELal6Sv7Ug))
+  - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)https://news.ycombinator.com/item?id=37785442
+- Local LLM calculator: [select LLM, and GPU, and see if can run locally](https://x.com/victormustar/status/1712754193784520966?s=20)
+- [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
+- Finetunes
+	- https://dadjokes.dfdx.me/ mistral finetune on /r/dadjokes
 - fast whisper distributions
 	- [whisper turbo](https://whisper-turbo.com) - purely in browser ([tweet context](https://twitter.com/fleetwood___/status/1709364288358662479)), using webgpu
+	- [ Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
 
 ## other launches
 
 - Langchain langserve - https://twitter.com/LangChainAI/status/1712526285313102091
+	- [Langchain templates](https://twitter.com/langchainai/status/1719377131313172556) - a collection of easily deployable reference architectures for a wide variety of tasks (aka [Langserve Hub]([https://blog.langchain.dev/langserve-hub/](https://t.co/8YO5pjlPWl)))
 - Lexica Aperture 3.5
 - Pplx Mistral 7B, Llama2 13B, Code Llama 34B, and Llama2 70B models supported [https://blog.perplexity.ai/blog/introducing-pplx-api](https://blog.perplexity.ai/blog/introducing-pplx-api "https://blog.perplexity.ai/blog/introducing-pplx-api")
   - currently included with perplexity pro, no $/token (for now? I'm assuming only in public beta, that won't scale)
@@ -120,6 +113,7 @@
 - Adobe releases Firefly 2 - lifelike and realistic images, generative match, prompt remix and prompt suggestions ([X](https://substack.com/redirect/de20b453-ad97-499e-b02f-995d460477c8?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), Firefly)
 - [Play.ht](http://play.ht/) shows off an impressive <300ms voice generation for agents After spending almost 2 hours talking to chatGPT, I was thinking, why aren't all AI assistants like this, and the answer was, well... generating voice takes time, which takes you out of your "conversation flow" And then today, [play.ht](https://substack.com/redirect/fe90d888-07d3-4441-9301-3c8bdbe35c0a?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE) showed off a new update to their API that generates voice in <300ms, and that can be a clone of your voice, with your accent and all. We truly live in unprecedented times.
 - [Defog Agents: AI Assistants for complex data workflows](https://defog.ai/blog/agents/)
+- Databricks [MLflow 2.8](https://www.databricks.com/blog/announcing-mlflow-28-llm-judge-metrics-and-best-practices-llm-evaluation-rag-applications-part?utm_source=twitter&utm_medium=organic-social) supports LLM-as-a-judge metrics - resulting in significant savings in time (from 2 weeks with human workforce to 30 minutes with LLM judges) and costs (from $20 per task to $0.20 per task)
 
 ## Papers and Good Reads
 
@@ -128,7 +122,6 @@
 		-   **Attention Sinks:** Use and maintain "attention sinks", initial tokens that the model focuses on.
 		-   **Rolling Cache:** Keep a rolling collection of recent tokens to optimize speed without sacrificing accuracy.
 		-   **Placeholder Token:** Add a special token during training to act as a dedicated attention sink, enhancing streaming deployment.
-		- made some pretty wild/confusing claims https://x.com/UseContinuum/status/1708930576080855103?s=20
 	- [Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226) ([HN](https://news.ycombinator.com/item?id=37764382))
 		- adding up to 10 "pause tokens" lets models improve reasoning - tested up to 1B params on C4
 		- seems similar to [the backspace token paper](https://arxiv.org/pdf/2306.05426)
@@ -143,6 +136,7 @@
   - -   When given a task, the LLM is prompted to:
       -   First, create relevant examples (problems and their solutions) for the task.  
       -   Then, use these examples as guidance to solve the main task.
+  - [using Midjourney and GPT4 to code an Angry Birds clone](https://twitter.com/javilopen/status/1719363262179938401)
 - RAG
   - https://arxiv.org/pdf/2310.05029
   - RAG vs Long Context
@@ -180,7 +174,6 @@
 - Multimodality
 	- LMMs > LLMs
 	- [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) ([simonwillison.net](https://news.ycombinator.com/from?site=simonwillison.net))
-		- [GPT4-V vs NeuralTalk2 comparisons from 7 years ago](https://gonzoml.substack.com/p/building-machines-that-learn-and)
 	- [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com//2023/10/10/multimodal.html)
 	- [Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://arxiv.org/abs/2310.07704) - nice attempt at Open GPT4-V, and has a nice GRIT dataset others can use
 	- meta released MetaCLIP - fully OSS replication of CLIP pipeline
@@ -216,7 +209,7 @@
   - We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning.
   - https://twitter.com/aryxnsharma/status/1709289742310010970
 - Anthropic funding
-	- google https://www.wsj.com/tech/ai/google-commits-2-billion-in-funding-to-ai-startup-anthropic-db4d4c50?mod=followamazon https://news.ycombinator.com/item?id=38048155
+	- google
 	- amazon
 
 ## prior discussions
@@ -231,10 +224,9 @@
 - Pmarca [Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/) 
 	- [Marc Andreessen's AI manifesto hurts his own cause](https://www.axios.com/2023/10/17/marc-andreessens-ai-manifesto-hurts-his-own-cause) ([axios.com](https://news.ycombinator.com/from?site=axios.com))
 - Mojo 🔥 is working on Apple silicon Macs and has LLaMa.cpp level performance ([Announcement](https://substack.com/redirect/b1038bcf-ae72-427f-af0f-9e311554d030?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), [Performance thread](https://substack.com/redirect/57b061be-a190-4942-8b81-564e85d77749?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
-- Interpretability
-	- Anthropic [presented](https://twitter.com/anthropicai/status/1709986949711200722?s=12&t=90xQ8sGy63D2OtiaoGJuww) a way to isolate "superpositioned" polysemantic LLM neurons, using [Dictionary Learning](https://x.com/AnthropicAI/status/1709986957818819047?s=20) - making models directly steerable via weights - as [teased by Dario in the Logan Bartlett podcast](https://www.youtube.com/watch?v=gAaCqj6j5sQ)
-- Biden Executive Order
-	- https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
+- safety
+	- Biden executive order
+	- [Andrew Ng](https://web.archive.org/web/20231027165729mp_/https://www.afr.com/markets/equity-markets/openai-is-in-talks-to-sell-shares-at-136b-valuation-20231020-p5edqj) v
 
 ## memes
 

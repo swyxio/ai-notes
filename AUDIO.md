@@ -43,6 +43,7 @@
   - ios whisper https://whispermemos.com/ 10 free, paid app
   - 🌟Crossplatform desktop Whisper that supports semi-realtime [https://github.com/chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
   - more whisper tooling https://ramsrigoutham.medium.com/openais-whisper-7-must-know-libraries-and-add-ons-built-on-top-of-it-10825bd08f76
+- [https://github.com/dscripka/openWakeWord](https://github.com/dscripka/openWakeWord). The models are readily available in tflite and ONNX formats and are impressively "light" in terms of compute requirements and performance.
 - https://github.com/ggerganov/whisper.cpp
   High-performance inference of OpenAI's Whisper automatic speech recognition (ASR) model:
   - Plain C/C++ implementation without dependencies
