@@ -28,7 +28,10 @@
 - [OpenAI’s technology explained](https://twitter.com/OfficialLoganK/status/1712483165380415828)
 - Collection of [ChatGPT System Prompts](https://news.ycombinator.com/item?id=37879077) including Voice and Custom Instructions
 - gpt4 date updated to apr 2023 https://x.com/simonw/status/1717626503121576435?s=20
-- gpt4 all tools
+- gradual rollout of gpt4 all tools
+	- including PDF uploads that can accurately read 100 page PDFs
+		- some stress from [PDF plugin/wrapper makers](https://x.com/8teAPi/status/1718575610287841677?s=20)
+	- https://twitter.com/ldjconfirmed/status/1718433263105004006?s=12&t=90xQ8sGy63D2OtiaoGJuww
 	- https://twitter.com/DataChaz/status/1719660354743976342 32k context
 - preparedness challenge https://news.ycombinator.com/item?id=38029307
 - openai new office
@@ -213,7 +216,7 @@
   - We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning.
   - https://twitter.com/aryxnsharma/status/1709289742310010970
 - Anthropic funding
-	- google
+	- google https://www.wsj.com/tech/ai/google-commits-2-billion-in-funding-to-ai-startup-anthropic-db4d4c50?mod=followamazon https://news.ycombinator.com/item?id=38048155
 	- amazon
 
 ## prior discussions
@@ -230,6 +233,8 @@
 - Mojo 🔥 is working on Apple silicon Macs and has LLaMa.cpp level performance ([Announcement](https://substack.com/redirect/b1038bcf-ae72-427f-af0f-9e311554d030?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), [Performance thread](https://substack.com/redirect/57b061be-a190-4942-8b81-564e85d77749?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
 - Interpretability
 	- Anthropic [presented](https://twitter.com/anthropicai/status/1709986949711200722?s=12&t=90xQ8sGy63D2OtiaoGJuww) a way to isolate "superpositioned" polysemantic LLM neurons, using [Dictionary Learning](https://x.com/AnthropicAI/status/1709986957818819047?s=20) - making models directly steerable via weights - as [teased by Dario in the Logan Bartlett podcast](https://www.youtube.com/watch?v=gAaCqj6j5sQ)
+- Biden Executive Order
+	- https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/
 
 ## memes
 
