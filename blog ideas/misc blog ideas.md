@@ -8,6 +8,9 @@
 	- its more like 70b model - $1 / M on anyscale, 0.8/M on lepton, 0.7/M on fireworks
 		- can see on openrouter https://x.com/xanderatallah/status/1709717677730636102?s=20
 	- there are concurrency/multitenancy nuances to this https://x.com/_philschmid/status/1709893718004965401?s=20
+		- more numbers https://huggingface.co/blog/llama-sagemaker-benchmark#most-cost-effective-deployment
+- speed
+	- For reference, the average human reading speed is 5 tokens/seconds, meaning pplx-api **is able to serve at a rate faster than one can read.** https://blog.perplexity.ai/blog/introducing-pplx-api?utm_medium=twitter&ref=twitter&utm_content=tweet-link&utm_source=twitter&utm_campaign=pplx-api
 
 ### where are all the ai engineers?
 

@@ -57,6 +57,14 @@
 			- Pieter Abbeel: "[convnets again?](https://x.com/AravSrinivas/status/1712337087306092914?s=20)"
 			- likely a [red herring](https://x.com/main_horse/status/1712340876633235526?s=20)
 			- [no info on data at all](https://x.com/leavittron/status/1715247384941498761?s=20)
+		- Brev released a [popular guide on finetuning Mistral for $1](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb)
+	- Zephyr: Direct Distillation of LM Alignment
+		- Zephyr-7b-beta "[might be the best 7B LLM today](https://x.com/llama_index/status/1719800388852072606?s=20)"
+		- A small language model aimed at aligning with user intent, using distilled direct preference optimization (dDPO). Shows significant improvement in task accuracy
+		- [Thom Wolf learnings recap](https://twitter.com/Thom_Wolf/status/1717821614467739796)
+		- abs: [https://arxiv.org/abs/2310.16944](https://t.co/Ll16TF9ImT) 
+		- pdf: [https://arxiv.org/pdf/2310.16944.pdf…](https://t.co/PFJHxR7R6u) 
+		- site: [https://github.com/huggingface/alignment-handbook…](https://t.co/hTZ69u5xdJ)
 	- Announcing Open Hermes 2!! A continuation of the Hermes series of models, now built on Mistral 7B! The Hermes 2 model was trained on 900,000 instructions, and surpasses all previous versions of Hermes 13B and below, and matches 70B on some benchmarks! Hermes 2 changes the game with strong multiturn chat skills, system prompt capabilities, and uses ChatML format. It's quality, diversity and scale is unmatched in the current OS LM landscape. Not only does it do well in benchmarks, but also in unmeasured capabilities, like Roleplaying, Tasks, and more. [https://fxtwitter.com/Teknium1/status/1714010838959612329](https://fxtwitter.com/Teknium1/status/1714010838959612329 "https://fxtwitter.com/Teknium1/status/1714010838959612329")
 - Small
   - [ Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices) https://news.ycombinator.com/item?id=37739965
@@ -117,6 +125,7 @@
 		-   **Attention Sinks:** Use and maintain "attention sinks", initial tokens that the model focuses on.
 		-   **Rolling Cache:** Keep a rolling collection of recent tokens to optimize speed without sacrificing accuracy.
 		-   **Placeholder Token:** Add a special token during training to act as a dedicated attention sink, enhancing streaming deployment.
+		- made some pretty wild/confusing claims https://x.com/UseContinuum/status/1708930576080855103?s=20
 	- [Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226) ([HN](https://news.ycombinator.com/item?id=37764382))
 		- adding up to 10 "pause tokens" lets models improve reasoning - tested up to 1B params on C4
 		- seems similar to [the backspace token paper](https://arxiv.org/pdf/2306.05426)
@@ -168,6 +177,7 @@
 - Multimodality
 	- LMMs > LLMs
 	- [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/) ([simonwillison.net](https://news.ycombinator.com/from?site=simonwillison.net))
+		- [GPT4-V vs NeuralTalk2 comparisons from 7 years ago](https://gonzoml.substack.com/p/building-machines-that-learn-and)
 	- [Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com//2023/10/10/multimodal.html)
 	- [Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://arxiv.org/abs/2310.07704) - nice attempt at Open GPT4-V, and has a nice GRIT dataset others can use
 	- meta released MetaCLIP - fully OSS replication of CLIP pipeline
@@ -218,6 +228,8 @@
 - Pmarca [Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/) 
 	- [Marc Andreessen's AI manifesto hurts his own cause](https://www.axios.com/2023/10/17/marc-andreessens-ai-manifesto-hurts-his-own-cause) ([axios.com](https://news.ycombinator.com/from?site=axios.com))
 - Mojo 🔥 is working on Apple silicon Macs and has LLaMa.cpp level performance ([Announcement](https://substack.com/redirect/b1038bcf-ae72-427f-af0f-9e311554d030?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), [Performance thread](https://substack.com/redirect/57b061be-a190-4942-8b81-564e85d77749?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
+- Interpretability
+	- Anthropic [presented](https://twitter.com/anthropicai/status/1709986949711200722?s=12&t=90xQ8sGy63D2OtiaoGJuww) a way to isolate "superpositioned" polysemantic LLM neurons, using [Dictionary Learning](https://x.com/AnthropicAI/status/1709986957818819047?s=20) - making models directly steerable via weights - as [teased by Dario in the Logan Bartlett podcast](https://www.youtube.com/watch?v=gAaCqj6j5sQ)
 
 ## memes
 
