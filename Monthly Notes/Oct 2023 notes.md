@@ -28,6 +28,8 @@
 - [OpenAI’s technology explained](https://twitter.com/OfficialLoganK/status/1712483165380415828)
 - Collection of [ChatGPT System Prompts](https://news.ycombinator.com/item?id=37879077) including Voice and Custom Instructions
 - gpt4 date updated to apr 2023 https://x.com/simonw/status/1717626503121576435?s=20
+- gpt4 all tools
+	- https://twitter.com/DataChaz/status/1719660354743976342 32k context
 - preparedness challenge https://news.ycombinator.com/item?id=38029307
 - openai new office
 
@@ -43,6 +45,13 @@
   - Lemur-70B & Lemur-70B-Chat: 🚀Open & SOTA Foundation Models for Language Agents! The closest open model to GPT-3.5 on 15 agent tasks ([tweet](https://twitter.com/yihengxu_/status/1712537543688990940), [paper](https://arxiv.org/abs/2310.06830))
 - Medium
 	- [Mistral 7B paper](https://arxiv.org/pdf/2310.06825.pdf) 
+		- [mission](https://x.com/abacaj/status/1709455939231772962?s=20) "Our ambition is to become the leading supporter of the open generative Al community, and bring open models to state-of-the-art
+			performance. We will make them the go-to solutions for most of the generative Al applications. Many of us played pivotal roles in
+			important episodes in the development of LLMs; we're thrilled to be working together on new frontier models with a community-
+			oriented mindset.
+			In the coming months, Mistral Al will progressively and methodically release new models that close the performance gap between
+			black-box and open solutions - making open solutions the best options on a growing range of enterprise use-cases.
+			Simultaneously, we will seek to empower community efforts to improve the next generations of models."
 		- Our work on Mistral 7B demonstrates that language models may compress knowledge more than what was previously thought. This opens up interesting perspectives: the field has so far put the emphasis on scaling laws in 2 dimensions (directly associating model capabilities to training cost) the problem is rather 3 dimensional (model capabilities, training cost, inference cost), and much remains to be explored to obtain the best performance with the smallest possible model.
 		- introduces [Sliding Window Attention](https://twitter.com/marktenenholtz/status/1707412664308138218) 
 			- Pieter Abbeel: "[convnets again?](https://x.com/AravSrinivas/status/1712337087306092914?s=20)"
@@ -51,7 +60,7 @@
 	- Announcing Open Hermes 2!! A continuation of the Hermes series of models, now built on Mistral 7B! The Hermes 2 model was trained on 900,000 instructions, and surpasses all previous versions of Hermes 13B and below, and matches 70B on some benchmarks! Hermes 2 changes the game with strong multiturn chat skills, system prompt capabilities, and uses ChatML format. It's quality, diversity and scale is unmatched in the current OS LM landscape. Not only does it do well in benchmarks, but also in unmeasured capabilities, like Roleplaying, Tasks, and more. [https://fxtwitter.com/Teknium1/status/1714010838959612329](https://fxtwitter.com/Teknium1/status/1714010838959612329 "https://fxtwitter.com/Teknium1/status/1714010838959612329")
 - Small
   - [ Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices) https://news.ycombinator.com/item?id=37739965
-  - Rift coder 7B https://twitter.com/morph_labs/status/1709288051195998375 finetune of ???
+  - Rift coder 7B https://twitter.com/morph_labs/status/1709288051195998375 finetuned from glaive-coder-7b.
   - [CollectiveCognition v1](https://twitter.com/Teknium1/status/1709750388528939473) finetune of Mistral 7B
   - [TinyLanguage Models come of age](https://news.ycombinator.com/item?id=37787350)
   - Adept multimodal model ([twitter]([https://twitter.com/AdeptAILabs/status/1714682075763405257](https://twitter.com/AdeptAILabs/status/1714682075763405257 "https://twitter.com/AdeptAILabs/status/1714682075763405257"))) - Fuyu-8B
@@ -62,9 +71,7 @@
     - Retrieval augmented generation - Yasa can be taught to understand private datasets. Our API and on-premise deployment setup allows seamless integration of internal datasets of any modality type.
     - Code Interpreter - Yasa is more than just a passive AI assistant; it has the capability to actively execute code. This feature is enabled via a simple flag. When active, Yasa automatically identifies the code block within its response, executes the code, and appends the result at the end of the block.
 - [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199) ([arxiv.org](https://news.ycombinator.com/from?site=arxiv.org))
-- TimeGPT https://news.ycombinator.com/item?id=37874891
-
-Below is an example of the feature’s ability to perform arithmetic operations, analyze spreadsheets, or create visualizations.
+- TimeGPT https://news.ycombinator.com/item?id=37874891 
 
 ## open source projects and templates
 
@@ -77,6 +84,8 @@ Below is an example of the feature’s ability to perform arithmetic operations,
 - Mistal finetunes
 	- https://dadjokes.dfdx.me/
 - [select LLM, and GPU, and see if can run locally](https://x.com/victormustar/status/1712754193784520966?s=20)
+- fast whisper distributions
+	- [whisper turbo](https://whisper-turbo.com) - purely in browser ([tweet context](https://twitter.com/fleetwood___/status/1709364288358662479)), using webgpu
 
 ## other launches
 
@@ -103,14 +112,17 @@ Below is an example of the feature’s ability to perform arithmetic operations,
 ## Papers and Good Reads
 
 - Models
-  - [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm) ([HN](https://news.ycombinator.com/item?id=37740932#37742452))
-    -   **Attention Sinks:** Use and maintain "attention sinks", initial tokens that the model focuses on.
-    -   **Rolling Cache:** Keep a rolling collection of recent tokens to optimize speed without sacrificing accuracy.
-    -   **Placeholder Token:** Add a special token during training to act as a dedicated attention sink, enhancing streaming deployment.
-  - [Expressive text-to-image generation with rich text](https://rich-text-to-image.github.io/) ([HN](https://news.ycombinator.com/item?id=37770260)) - being able to modify generated images by modifying text using fonts and text colors. going from words -> token maps (masks).
-    - [Notable criticism of this method over regular prompting](https://news.ycombinator.com/item?id=37772250)
-  - [FontoGen](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font) -  The model takes a font description as an input, and produces a font file as an output.
-  - NEFTune - a "one simple trick" to get higher quality finetunes by adding noise ([Thread](https://substack.com/redirect/ded46fe9-fe20-4547-8166-696390a6a05b?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), [Github](https://substack.com/redirect/434db4cd-f376-4aef-81ef-0d6c4aa34f0d?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
+	- [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm) ([HN](https://news.ycombinator.com/item?id=37740932#37742452))
+		-   **Attention Sinks:** Use and maintain "attention sinks", initial tokens that the model focuses on.
+		-   **Rolling Cache:** Keep a rolling collection of recent tokens to optimize speed without sacrificing accuracy.
+		-   **Placeholder Token:** Add a special token during training to act as a dedicated attention sink, enhancing streaming deployment.
+	- [Think before you speak: Training Language Models With Pause Tokens](https://arxiv.org/abs/2310.02226) ([HN](https://news.ycombinator.com/item?id=37764382))
+		- adding up to 10 "pause tokens" lets models improve reasoning - tested up to 1B params on C4
+		- seems similar to [the backspace token paper](https://arxiv.org/pdf/2306.05426)
+	- [Expressive text-to-image generation with rich text](https://rich-text-to-image.github.io/) ([HN](https://news.ycombinator.com/item?id=37770260)) - being able to modify generated images by modifying text using fonts and text colors. going from words -> token maps (masks).
+	- [Notable criticism of this method over regular prompting](https://news.ycombinator.com/item?id=37772250)
+	- [FontoGen](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font) -  The model takes a font description as an input, and produces a font file as an output.
+	- NEFTune - a "one simple trick" to get higher quality finetunes by adding noise ([Thread](https://substack.com/redirect/ded46fe9-fe20-4547-8166-696390a6a05b?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), [Github](https://substack.com/redirect/434db4cd-f376-4aef-81ef-0d6c4aa34f0d?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
 - Prompting
   - emotional jailbreaks work. [https://arxiv.org/abs/2307.11760](https://arxiv.org/abs/2307.11760) "This is very important to my career" and [the dead grandma jailbreak](https://news.ycombinator.com/item?id=37743759)
   - [https://arxiv.org/abs/2310.04406v1](https://arxiv.org/abs/2310.04406v1 "https://arxiv.org/abs/2310.04406v1") 94.4 on HumanEval with gpt4 86.9 on HumanEval with gpt3.5 wild
@@ -134,7 +146,7 @@ Below is an example of the feature’s ability to perform arithmetic operations,
     - "Everyone I talk to who is building some vector db based thing sooner or later realizes they also care about the features of a full-text search engine.
     - They care about filtering, they care to some degree about direct lexical matches, they care about paging, getting groups / facet counts, etc.
     - Vectors, IMO, are just one feature that a regular search engine should have. IMO currently Vespa does the best job of this, though lately it seems Lucene (Elasticsearch and Opensearch) are really working hard to compete"
-  - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/)
+  - [Vespa.ai is spinning out of Yahoo as a separate company](https://blog.vespa.ai/vespa-is-becoming-its-own-company/) people speak highly of Vespa, it is targeting search and recsys problems rather than specifically vector db problems
 - Evals
   - [Evaluating LLMs is a minefield](https://twitter.com/random_walker/status/1709583031001124889)
     - the reports of ChatGPT having a liberal bias were a result of oversensitive prompts
@@ -163,6 +175,7 @@ Below is an example of the feature’s ability to perform arithmetic operations,
 	- https://news.ycombinator.com/item?id=37946023
 - learning
 	- This page contains interactive charts for exploring how large language models represent truth https://saprmarks.github.io/geometry-of-truth/dataexplorer/
+	- [Language Modeling is Compression](https://arxiv.org/pdf/2309.10668) from DeepMind echoes what Ilya Sutskever said in a [recent talk](https://youtu.be/GI4Tpi48DlA?si=u7guXWVvIS5OsRaH)
 
 ## Fundraising
 
@@ -177,12 +190,15 @@ Below is an example of the feature’s ability to perform arithmetic operations,
 	- google
 	- amazon
 
-## prior discussion
+## prior discussions
 
 - watermarking
   - researchers broke all watermarks? https://news.ycombinator.com/item?id=37767633
   - Truepic C2PA content credentials + Huggingface https://twitter.com/mmitchell_ai/status/1710123404706378233
 - Custom Instructions - nice template https://github.com/spdustin/ChatGPT-AutoExpert/
+- [Security weaknesses of Copilot generated code in GitHub](https://arxiv.org/abs/2310.02059)
+	- "If a weakness is common, then of course Copilot is going to suggest it. Copilot gives you popular responses not correct ones. Yet if a weakness is common, it also means that human coders frequently make the same mistake as well."
+- Phind defaults to their own model that beats GPT4 at coding with GPT3.5 speed ([HN](https://news.ycombinator.com/item?id=38088538), previously reported)
 - Pmarca [Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/) 
 	- [Marc Andreessen's AI manifesto hurts his own cause](https://www.axios.com/2023/10/17/marc-andreessens-ai-manifesto-hurts-his-own-cause) ([axios.com](https://news.ycombinator.com/from?site=axios.com))
 - Mojo 🔥 is working on Apple silicon Macs and has LLaMa.cpp level performance ([Announcement](https://substack.com/redirect/b1038bcf-ae72-427f-af0f-9e311554d030?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), [Performance thread](https://substack.com/redirect/57b061be-a190-4942-8b81-564e85d77749?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))

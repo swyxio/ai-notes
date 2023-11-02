@@ -86,6 +86,7 @@ https://news.ycombinator.com/item?id=33663486
 ### Products
 
 - productized whisper https://goodsnooze.gumroad.com/l/macwhisper
+	- [whisper turbo](https://whisper-turbo.com) - purely in browser ([tweet context](https://twitter.com/fleetwood___/status/1709364288358662479)), using webgpu
 - other speech to text apis
 	- rev.com
 	- https://text-generator.io/blog/cost-effective-speech-to-text-api
