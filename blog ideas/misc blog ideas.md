@@ -7,6 +7,7 @@
 	- https://twitter.com/borismpower/status/1709641395659780452?s=12&t=90xQ8sGy63D2OtiaoGJuww
 	- its more like 70b model - $1 / M on anyscale, 0.8/M on lepton, 0.7/M on fireworks
 		- can see on openrouter https://x.com/xanderatallah/status/1709717677730636102?s=20
+	- there are concurrency/multitenancy nuances to this https://x.com/_philschmid/status/1709893718004965401?s=20
 
 ### where are all the ai engineers?
 
