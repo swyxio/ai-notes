@@ -101,7 +101,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 
 ### Beginner Reads
 
-  - [Bill Gates on AI]([https://www.gatesnotes.com/The-Age-of-AI-Has-Begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun) ([tweet](https://twitter.com/gdb/status/1638310597325365251?s=20))
+  - [Bill Gates on AI](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun) ([tweet](https://twitter.com/gdb/status/1638310597325365251?s=20))
 	  - "The development of AI is as fundamental as the creation of the microprocessor, the personal computer, the Internet, and the mobile phone. It will change the way people work, learn, travel, get health care, and communicate with each other."
   - [Steve Yegge on AI for developers](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
   - [Why this AI moment might be the real deal](https://www.thenewatlantis.com/publications/why-this-ai-moment-may-be-the-real-deal)
@@ -299,7 +299,6 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 		- [ChatGPT Hackers Discord](https://www.chatgpthackers.dev/)
 		- [AI Alignment Lab Discord](https://discord.com/invite/k36qjUxyJC)
 		- [Nous Research Discord]([https://discord.gg/T3kTZfYzs6](https://t.co/D3omqAxP04))
-		- Akhaliq Discord: https://discord.gg/nYqfg4gnBt
 		- Karpathy Discord: https://discord.gg/3zy8kqD9Cp
 		- [HuggingFace Discord](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
 		- [Skunkworks AI Discord](https://discord.gg/3Sfmpd3Njt) (new)
