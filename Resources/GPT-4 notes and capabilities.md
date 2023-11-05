@@ -202,3 +202,7 @@
     -   [Vision](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/vision.md)
     -   [Voice Conversation](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/voice-conversation.md)
     - [**Custom Instructions**](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/_custom-instructions.md)
+
+### GPT5
+
+Source says GPT-5 will cost $2.0-$2.5B to train, 500k H100s for 90 days or another configuration. Starts next year. https://twitter.com/wagieeacc/status/1714458385624506679?s=12&t=90xQ8sGy63D2OtiaoGJuww

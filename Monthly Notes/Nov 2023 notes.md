@@ -12,3 +12,12 @@
 
 - Mistral @ 2bn https://archive.ph/hkWD3
 - Factory.ai $5m seed https://www.factory.ai/blog https://x.com/matanSF/status/1720106297096593672?s=20
+
+
+## other launches
+
+- Elon Musk's X.ai Grok model was announced but not widely released [HN](https://news.ycombinator.com/item?id=38148396)
+	- "A unique and fundamental advantage of Grok is that it has real-time knowledge of the world via the X platform."
+	- The engine powering Grok is Grok-1, our frontier LLM, which we developed over the last four months. Grok-1 has gone through many iterations over this span of time. [Model Card](https://x.ai/model-card/)
+	- [https://x.ai/](https://x.ai/) - Link to waitlist: [https://grok.x.ai/](https://grok.x.ai/) 
+	- [UI demo](https://twitter.com/TobyPhln/status/1721053802235621734)
