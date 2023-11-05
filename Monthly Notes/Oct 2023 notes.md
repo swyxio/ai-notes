@@ -25,6 +25,7 @@
 - Exciting news for @OpenAI devs: we are close to a 1.0 release of the OpenAI Python SDK 🎊. You can test the beta version of 1.0 today, we would love to get your early feedback! [changelog](https://twitter.com/StainlessAPI/status/1709650331972379060)
 - sama podcast on joe rogan experience
 - finetuning ui has end to end job creation, no code required ([tweet](https://twitter.com/OfficialLoganK/status/1710434050274734110) - [not our fault](https://x.com/OfficialLoganK/status/1710680533574045781?s=20))
+- [openai dalle3 in chatgpt plus and enterprise](https://openai.com/blog/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise) together with [research paper](https://cdn.openai.com/papers/dall-e-3.pdf)
 - [OpenAI’s technology explained](https://twitter.com/OfficialLoganK/status/1712483165380415828)
 - Collection of [ChatGPT System Prompts](https://news.ycombinator.com/item?id=37879077) including Voice and Custom Instructions
 - gpt4 date updated to apr 2023 https://x.com/simonw/status/1717626503121576435?s=20
@@ -59,6 +60,8 @@
 			- Pieter Abbeel: "[convnets again?](https://x.com/AravSrinivas/status/1712337087306092914?s=20)"
 			- likely a [red herring](https://x.com/main_horse/status/1712340876633235526?s=20)
 			- [no info on data at all](https://x.com/leavittron/status/1715247384941498761?s=20)
+	- zephyr 7b
+		- Zephyr 7b beats Llama 70b on MT Bench https://twitter.com/huggingface/status/1711780979574976661
 	- Announcing Open Hermes 2!! A continuation of the Hermes series of models, now built on Mistral 7B! The Hermes 2 model was trained on 900,000 instructions, and surpasses all previous versions of Hermes 13B and below, and matches 70B on some benchmarks! Hermes 2 changes the game with strong multiturn chat skills, system prompt capabilities, and uses ChatML format. It's quality, diversity and scale is unmatched in the current OS LM landscape. Not only does it do well in benchmarks, but also in unmeasured capabilities, like Roleplaying, Tasks, and more. [https://fxtwitter.com/Teknium1/status/1714010838959612329](https://fxtwitter.com/Teknium1/status/1714010838959612329 "https://fxtwitter.com/Teknium1/status/1714010838959612329")
 - Small
   - [ Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices) https://news.ycombinator.com/item?id=37739965
@@ -84,6 +87,8 @@
   - [Llama 2 Everywhere (L2E): Standalone, Binary Portable, Bootable Llama 2](https://github.com/trholding/llama2.c)https://news.ycombinator.com/item?id=37785442
 - Local LLM calculator: [select LLM, and GPU, and see if can run locally](https://x.com/victormustar/status/1712754193784520966?s=20)
 - [SlowLlama: Finetune llama2-70B and codellama on MacBook Air without quantization](https://github.com/okuvshynov/slowllama)
+- Cloudflare AI projects
+	- [LlamaResearcher](https://twitter.com/ritakozlov_/status/1712100386717237603?s=12&t=90xQ8sGy63D2OtiaoGJuww): personalized research assistant that sends summaries of papers of interest straight to your inbox
 - Finetunes
 	- https://dadjokes.dfdx.me/ mistral finetune on /r/dadjokes
 - fast whisper distributions
@@ -223,12 +228,17 @@
 - Phind defaults to their own model that beats GPT4 at coding with GPT3.5 speed ([HN](https://news.ycombinator.com/item?id=38088538), previously reported)
 - Pmarca [Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/) 
 	- [Marc Andreessen's AI manifesto hurts his own cause](https://www.axios.com/2023/10/17/marc-andreessens-ai-manifesto-hurts-his-own-cause) ([axios.com](https://news.ycombinator.com/from?site=axios.com))
-- Mojo 🔥 is working on Apple silicon Macs and has LLaMa.cpp level performance ([Announcement](https://substack.com/redirect/b1038bcf-ae72-427f-af0f-9e311554d030?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), [Performance thread](https://substack.com/redirect/57b061be-a190-4942-8b81-564e85d77749?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
+- Mojo 🔥 is now available on Apple silicon Macs and has LLaMa.cpp level performance ([Announcement](https://news.ycombinator.com/item?id=37942574), [Performance thread](https://substack.com/redirect/57b061be-a190-4942-8b81-564e85d77749?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
 - safety
 	- Biden executive order
-	- [Andrew Ng](https://web.archive.org/web/20231027165729mp_/https://www.afr.com/markets/equity-markets/openai-is-in-talks-to-sell-shares-at-136b-valuation-20231020-p5edqj) v
+	- [Andrew Ng](https://web.archive.org/web/20231027165729mp_/https://www.afr.com/markets/equity-markets/openai-is-in-talks-to-sell-shares-at-136b-valuation-20231020-p5edqj) 
+- is copilot making money?
+	- losing 20-80/month/user https://twitter.com/abacaj/status/1711754522794533046?s=12&t=90xQ8sGy63D2OtiaoGJuww
+	- but denied and 100m ARR
 
 ## memes
 
 - grandma is the new sudo https://twitter.com/latentspacepod/status/1708982643294146690
 - its a rock https://x.com/itsmingjie/status/1709039235913719973?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- mistral gigachad memes https://twitter.com/nearcyan/status/1714850537194025208?s=12&t=90xQ8sGy63D2OtiaoGJuww
+- aggressive apple eating was a meme? https://twitter.com/abacaj/status/1715034087902032253?s=12&t=90xQ8sGy63D2OtiaoGJuww

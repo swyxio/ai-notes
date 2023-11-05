@@ -105,6 +105,7 @@ ETL
 fully vertically integrated RAG cloud
 - vectara -29m raised and from former cloudera founder
 - https://pezzo.ai - "enables you to build, test, monitor and instantly ship AI all in one platform, while constantly optimizing for cost and performance." - used by Meltwater CTO - from shack15
+- https://www.pulze.ai maybe?
 
 ## infra
 
