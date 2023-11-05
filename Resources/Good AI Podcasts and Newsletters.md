@@ -38,7 +38,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 - Leaders
 	- ⭐ Andrew Ng's [The Batch](https://www.deeplearning.ai/the-batch/)  picks 3 things each week and summarizes approachably
 	- ⭐ Jack Clark's [Import AI](https://importai.substack.com/) focused more on policy given Jack's role, but has great coverage of the top news
-	- Sebastian Raschka [Ahead of AI](https://magazine.sebastianraschka.com/) deeply technical recaps
+	- ⭐️ Sebastian Raschka [Ahead of AI](https://magazine.sebastianraschka.com/) deeply technical recaps deep dives
 	- Arvind Narayanan [AI Snake Oil](https://www.aisnakeoil.com/) - "to dispel hype, remove misconceptions, and clarify the limits of AI."
 - Commentators/ML Eng's
 	- Alan Thompson's Life Architect https://lifearchitect.substack.com (note [his credentials sus](https://news.ycombinator.com/item?id=35588974))

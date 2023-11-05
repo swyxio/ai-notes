@@ -10,4 +10,5 @@
 
 ### Fundraising
 
+- Mistral @ 2bn https://archive.ph/hkWD3
 - Factory.ai $5m seed https://www.factory.ai/blog https://x.com/matanSF/status/1720106297096593672?s=20
