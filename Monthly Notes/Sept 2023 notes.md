@@ -130,7 +130,7 @@
 
 - [LangChain Hub](https://twitter.com/LangChainAI/status/1699095883512778823) ([blog](https://blog.langchain.dev/langchain-prompt-hub/)) - prompt publishing, discovery, sharing
 - [Ironclad Rivet](https://rivet.ironcladapp.com/) ([tweet](https://twitter.com/gogwilt/status/1700130166343713031)) - Open-Source Visual AI Programming Environment
-- [DSPy](https://news.ycombinator.com/item?id=37417698) - we covered this last month, but seems to have done its HN launch this month. lots of discussion and confusion over what exactly it does for automatic prompt engineering. DSPy is built on DSP - A paper is [forthcoming](https://news.ycombinator.com/item?id=37423746).
+- [DSPy](https://news.ycombinator.com/item?id=37417698) - we covered this last month, but seems to have done its HN launch this month. lots of discussion and confusion over what exactly it does for automatic prompt engineering. DSPy is built on DSP - A paper is [forthcoming](https://news.ycombinator.com/item?id=37423746) ([released in Oct](https://twitter.com/_akhaliq/status/1710105224843501937), with a [llamaindex webinar](https://twitter.com/llama_index/status/1711062276382539912?s=12&t=90xQ8sGy63D2OtiaoGJuww))
 - [Lantern](https://news.ycombinator.com/item?id=37499375) is a PostgreSQL vector database extension for building AI applications. match or outperform pgvector and pg_embedding (Neon) on CREATE INDEX time, SELECT throughput, and SELECT latency.
 - [ZodGPT](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models. A library for
 	-   Receiving structured outputs from models with complete type safety. All responses are fully validated & typed, works with [zod](https://github.com/colinhacks/zod) as a peer dep.

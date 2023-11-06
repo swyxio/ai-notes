@@ -34,6 +34,7 @@
 - preparedness challenge https://news.ycombinator.com/item?id=38029307
 - openai new office
 - openai 86b tender offer https://web.archive.org/web/20231027165729mp_/https://www.afr.com/markets/equity-markets/openai-is-in-talks-to-sell-shares-at-136b-valuation-20231020-p5edqj
+- [Ilya Sutskever on No Priors pod](https://www.youtube.com/watch?v=Ft0gTO2K85A)
 
 
 ## other frontier models
@@ -56,13 +57,16 @@
 			black-box and open solutions - making open solutions the best options on a growing range of enterprise use-cases.
 			Simultaneously, we will seek to empower community efforts to improve the next generations of models."
 		- Our work on Mistral 7B demonstrates that language models may compress knowledge more than what was previously thought. This opens up interesting perspectives: the field has so far put the emphasis on scaling laws in 2 dimensions (directly associating model capabilities to training cost) the problem is rather 3 dimensional (model capabilities, training cost, inference cost), and much remains to be explored to obtain the best performance with the smallest possible model.
+		- Mistral 7B outperforms Llama 13B on all tested benchmarks
 		- introduces [Sliding Window Attention](https://twitter.com/marktenenholtz/status/1707412664308138218) 
 			- Pieter Abbeel: "[convnets again?](https://x.com/AravSrinivas/status/1712337087306092914?s=20)"
 			- likely a [red herring](https://x.com/main_horse/status/1712340876633235526?s=20)
 			- [no info on data at all](https://x.com/leavittron/status/1715247384941498761?s=20)
 	- zephyr 7b
 		- Zephyr 7b beats Llama 70b on MT Bench https://twitter.com/huggingface/status/1711780979574976661
-	- Announcing Open Hermes 2!! A continuation of the Hermes series of models, now built on Mistral 7B! The Hermes 2 model was trained on 900,000 instructions, and surpasses all previous versions of Hermes 13B and below, and matches 70B on some benchmarks! Hermes 2 changes the game with strong multiturn chat skills, system prompt capabilities, and uses ChatML format. It's quality, diversity and scale is unmatched in the current OS LM landscape. Not only does it do well in benchmarks, but also in unmeasured capabilities, like Roleplaying, Tasks, and more. [https://fxtwitter.com/Teknium1/status/1714010838959612329](https://fxtwitter.com/Teknium1/status/1714010838959612329 "https://fxtwitter.com/Teknium1/status/1714010838959612329")
+		- [nathan lambert take](https://twitter.com/natolambert/status/1711767611586035884?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
+		- noncommercial license [for now](https://x.com/natolambert/status/1711947441057276227?s=20)
+	- Announcing Open Hermes 2!! A continuation of the Hermes series of models, now. built on Mistral 7B! The Hermes 2 model was trained on 900,000 instructions, and surpasses all previous versions of Hermes 13B and below, and matches 70B on some benchmarks! Hermes 2 changes the game with strong multiturn chat skills, system prompt capabilities, and uses ChatML format. It's quality, diversity and scale is unmatched in the current OS LM landscape. Not only does it do well in benchmarks, but also in unmeasured capabilities, like Roleplaying, Tasks, and more. [https://fxtwitter.com/Teknium1/status/1714010838959612329](https://fxtwitter.com/Teknium1/status/1714010838959612329 "https://fxtwitter.com/Teknium1/status/1714010838959612329")
 - Small
   - [ Stable LM 3B: Bringing Sustainable, High-Performance LMs to Smart Devices](https://stability.ai/blog/stable-lm-3b-sustainable-high-performance-language-models-smart-devices) https://news.ycombinator.com/item?id=37739965
   - Rift coder 7B https://twitter.com/morph_labs/status/1709288051195998375 finetuned from glaive-coder-7b.
@@ -70,6 +74,7 @@
   - [TinyLanguage Models come of age](https://news.ycombinator.com/item?id=37787350)
   - Adept multimodal model ([twitter]([https://twitter.com/AdeptAILabs/status/1714682075763405257](https://twitter.com/AdeptAILabs/status/1714682075763405257 "https://twitter.com/AdeptAILabs/status/1714682075763405257"))) - Fuyu-8B
 	  - compare to nougat  https://facebookresearch.github.io/nougat/
+  - [gte-tiny](https://x.com/xenovacom/status/1710347897793810586?s=20) - a distilled version of gte-small that is half the size (20m params). [bge-micro is 5m params](https://twitter.com/andersonbcdefg/status/1710708732534108413)
 
 - ?
   - Reka Yasa-1 Multimodal LLM ([tweet](https://twitter.com/YiTayML/status/1709265184576204820), [blog](https://reka.ai/announcing-our-multimodal-ai-assistant/) - natively supports images, audio, and short video clips as inputs. )
@@ -97,6 +102,7 @@
 
 ## other launches
 
+- Stanformd CRFM [ecosystem graphs](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table): tracks foundation models, upstream datasets, and downstream products
 - Langchain langserve - https://twitter.com/LangChainAI/status/1712526285313102091
 	- [Langchain templates](https://twitter.com/langchainai/status/1719377131313172556) - a collection of easily deployable reference architectures for a wide variety of tasks (aka [Langserve Hub]([https://blog.langchain.dev/langserve-hub/](https://t.co/8YO5pjlPWl)))
 - Lexica Aperture 3.5
@@ -119,9 +125,11 @@
 - [Play.ht](http://play.ht/) shows off an impressive <300ms voice generation for agents After spending almost 2 hours talking to chatGPT, I was thinking, why aren't all AI assistants like this, and the answer was, well... generating voice takes time, which takes you out of your "conversation flow" And then today, [play.ht](https://substack.com/redirect/fe90d888-07d3-4441-9301-3c8bdbe35c0a?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE) showed off a new update to their API that generates voice in <300ms, and that can be a clone of your voice, with your accent and all. We truly live in unprecedented times.
 - [Defog Agents: AI Assistants for complex data workflows](https://defog.ai/blog/agents/)
 - Databricks [MLflow 2.8](https://www.databricks.com/blog/announcing-mlflow-28-llm-judge-metrics-and-best-practices-llm-evaluation-rag-applications-part?utm_source=twitter&utm_medium=organic-social) supports LLM-as-a-judge metrics - resulting in significant savings in time (from 2 weeks with human workforce to 30 minutes with LLM judges) and costs (from $20 per task to $0.20 per task)
+- [Morph Code Index](https://x.com/morph_labs/status/1711803918764966017?s=20) is an OSS semantic code search engine for you, your codebase, and your personal AI SWE.
 
 ## Papers and Good Reads
 
+- Nathan Benaich's annual [State of AI Report](https://twitter.com/nathanbenaich/status/1712358033194688701?s=12&t=90xQ8sGy63D2OtiaoGJuww) is out
 - Models
 	- [Efficient streaming language models with attention sinks](https://github.com/mit-han-lab/streaming-llm) ([HN](https://news.ycombinator.com/item?id=37740932#37742452))
 		-   **Attention Sinks:** Use and maintain "attention sinks", initial tokens that the model focuses on.
@@ -167,7 +175,9 @@
 - Efficiency
   - [Running Stable Diffusion XL 1.0 in 298MB of RAM](https://github.com/vitoplantamura/OnnxStream/tree/846da873570a737b49154e8f835704264864b0fe)
     - OnnxStream is based on the idea of decoupling the inference engine from the component responsible of providing the model weights, which is a class derived from `WeightsProvider`. A `WeightsProvider` specialization can implement any type of loading, caching and prefetching of the model parameters. For example a custom `WeightsProvider` can decide to download its data from an HTTP server directly, without loading or writing anything to disk (hence the word "Stream" in "OnnxStream"). Two default `WeightsProviders` are available: `DiskNoCache` and `DiskPrefetch`.
-  - Mistral 7B outperforms Llama 13B on all tested benchmarks - guide showing how to fine-tune it cost-effectively using QLoRA ([brev tweet](https://twitter.com/HarperSCarroll/status/1709000201963532429))
+  - Mistral 7B finetuning guide
+	  - guide showing how to fine-tune it cost-effectively using QLoRA ([brev tweet](https://twitter.com/HarperSCarroll/status/1709000201963532429))
+	  - guide from wandb: https://news.ycombinator.com/item?id=37813806
   - [LLMs overview from Flyte](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
   - [OpenAI is too cheap to beat](https://generatingconversation.substack.com/p/openai-is-too-cheap-to-beat) - "At $366K ($166K AWS + $200K talent), we’re paying around $80 per-fine-tuning run, about 8-20x higher than what we’re paying OpenAI!"
     - [Open, general-purpose LLM companies might not be viable](https://www.interconnects.ai/p/are-open-llms-viable)
@@ -188,7 +198,7 @@
 - learning
 	- This page contains interactive charts for exploring how large language models represent truth https://saprmarks.github.io/geometry-of-truth/dataexplorer/
 	- [Language Modeling is Compression](https://arxiv.org/pdf/2309.10668) from DeepMind echoes what Ilya Sutskever said in a [recent talk](https://youtu.be/GI4Tpi48DlA?si=u7guXWVvIS5OsRaH)
-	- Large Language Models in 2023 from Hyung Won Chung, OpenAI & Google Brain
+	- Large Language Models in 2023 ([tweet](https://twitter.com/hwchung27/status/1710003293223821658?s=12&t=90xQ8sGy63D2OtiaoGJuww), [recorded talk](https://www.youtube.com/watch?app=desktop&v=dbo3kNKPaUA&feature=youtu.be)) from Hyung Won Chung, OpenAI & Google Brain
 		- emergence (Wei et al) is still underappreciated
 		- Perspective of "yet": "This idea doesn't work" -> "This idea doesn't work YET" 
 			- Document experiments that failed because of insufficient “intelligence”
@@ -217,7 +227,7 @@
 	- google
 	- amazon
 
-## prior discussions
+## misc & prior discussions
 
 - watermarking
   - researchers broke all watermarks? https://news.ycombinator.com/item?id=37767633
@@ -235,6 +245,7 @@
 - is copilot making money?
 	- losing 20-80/month/user https://twitter.com/abacaj/status/1711754522794533046?s=12&t=90xQ8sGy63D2OtiaoGJuww
 	- but denied and 100m ARR
+- [The New Yorker on the future of training methods](https://www.newyorker.com/science/annals-of-artificial-intelligence/how-will-ai-learn-next) ([HN](https://news.ycombinator.com/item?id=37785416))
 
 ## memes
 

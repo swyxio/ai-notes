@@ -35,6 +35,7 @@
 	- Reinforcement learning is impt. But the RL from playing Dota merged with Transformers to give us Reinforcement Learning from Human Feedback. 
 	- Bigger is better. predict text + scale => world model
 	- highlights from https://youtu.be/GI4Tpi48DlA?si=u7guXWVvIS5OsRaH
+- [Ilya Sutskever on No Priors pod](https://www.youtube.com/watch?v=Ft0gTO2K85A
 
 ## greg brockman
 
