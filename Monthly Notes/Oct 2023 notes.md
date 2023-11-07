@@ -99,6 +99,7 @@
 - fast whisper distributions
 	- [whisper turbo](https://whisper-turbo.com) - purely in browser ([tweet context](https://twitter.com/fleetwood___/status/1709364288358662479)), using webgpu
 	- [ Distil-Whisper: distilled version of Whisper that is 6 times faster, 49% smaller](https://github.com/huggingface/distil-whisper)
+- Redpajama Dataset v2 https://news.ycombinator.com/item?id=38077521
 
 ## other launches
 
