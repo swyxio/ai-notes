@@ -1,3 +1,5 @@
+## OpenAI
+- [Ilya Sutskever on No Priors pod](https://www.youtube.com/watch?v=Ft0gTO2K85A)
 
 ### models
 

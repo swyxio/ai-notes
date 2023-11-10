@@ -34,7 +34,6 @@
 - preparedness challenge https://news.ycombinator.com/item?id=38029307
 - openai new office
 - openai 86b tender offer https://web.archive.org/web/20231027165729mp_/https://www.afr.com/markets/equity-markets/openai-is-in-talks-to-sell-shares-at-136b-valuation-20231020-p5edqj
-- [Ilya Sutskever on No Priors pod](https://www.youtube.com/watch?v=Ft0gTO2K85A)
 
 
 ## other frontier models
