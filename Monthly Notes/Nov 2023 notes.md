@@ -26,8 +26,17 @@
 	- The engine powering Grok is Grok-1, our frontier LLM, which we developed over the last four months. Grok-1 has gone through many iterations over this span of time. [Model Card](https://x.ai/model-card/)
 	- [https://x.ai/](https://x.ai/) - Link to waitlist: [https://grok.x.ai/](https://grok.x.ai/) 
 	- [UI demo](https://twitter.com/TobyPhln/status/1721053802235621734)
+- GitHub Copilot GA
+	- https://twitter.com/HamelHusain/status/1723047256180355386
+	- workspace https://twitter.com/ashtom/status/1722631796482085227
+	- chat https://x.com/ashtom/status/1722330209867993471?s=20
+	- mitchell: https://x.com/mitchellh/status/1722346134130348504?s=20
+- consistency models
+	- krea https://news.ycombinator.com/item?id=38223822
 
 ## misc and other discussions
 
 - MFU calculation
 	- [Stas Bekman](https://twitter.com/StasBekman/status/1721207940168987113) - This study from 2020 publishes the actual achievable TFLOPS in half-precision for the high-end gpus. e.g., 88% for V100, 93% for A100. Showing that A100@BF16's peak performance is 290 and not 312 TFLOPS. So that means that when we calculate MFU (Model FLOPS Utilization) our reference point shouldn't be the advertised theoretical TFLOPS, but rather the adjusted achievable TFLOPS.
+- other good reads
+	- [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai) ([builder.io](https://news.ycombinator.com/from?site=builder.io))[103 comments](https://news.ycombinator.com/item?id=38221552)|
