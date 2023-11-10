@@ -297,7 +297,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 	- [Latent Space Discord](https://discord.gg/xJJMRaWCRt) (ours!)
 	- General hacking and learning
 		- [ChatGPT Hackers Discord](https://www.chatgpthackers.dev/)
-		- [AI Alignment Lab Discord](https://discord.com/invite/k36qjUxyJC)
+		- [Alignment Lab AI Discord](https://discord.com/invite/k36qjUxyJC)
 		- [Nous Research Discord]([https://discord.gg/T3kTZfYzs6](https://t.co/D3omqAxP04))
 		- Karpathy Discord: https://discord.gg/3zy8kqD9Cp
 		- [HuggingFace Discord](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
@@ -352,6 +352,14 @@ This list will be out of date but will get you started. My live list of people t
   - https://twitter.com/karpathy
   - https://twitter.com/pirroh
   - https://twitter.com/eerac
+  - https://twitter.com/teknium
+  - https://twitter.com/alignment_lab
+  - https://twitter.com/picocreator
+  - https://twitter.com/charlespacker
+  - https://twitter.com/ldjconfirmed
+  - https://twitter.com/nisten
+  - https://twitter.com/far__el
+  - https://twitter.com/i/lists/1713824630241202630
 - News/Aggregators
   - https://twitter.com/ai__pub
   - https://twitter.com/WeirdStableAI
