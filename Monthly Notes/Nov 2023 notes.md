@@ -1,5 +1,8 @@
 ## OpenAI
 - [Ilya Sutskever on No Priors pod](https://www.youtube.com/watch?v=Ft0gTO2K85A)
+- dev day
+	- vision
+		- https://twitter.com/hellokillian/status/1723106008061587651
 
 ### models
 
