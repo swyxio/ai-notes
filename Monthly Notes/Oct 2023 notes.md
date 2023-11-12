@@ -34,6 +34,7 @@
 - preparedness challenge https://news.ycombinator.com/item?id=38029307
 - openai new office
 - openai 86b tender offer https://web.archive.org/web/20231027165729mp_/https://www.afr.com/markets/equity-markets/openai-is-in-talks-to-sell-shares-at-136b-valuation-20231020-p5edqj
+- [Ilya Sutskever on No Priors pod](https://www.youtube.com/watch?v=Ft0gTO2K85A)
 
 
 ## other frontier models
@@ -241,7 +242,7 @@
 - Mojo 🔥 is now available on Apple silicon Macs and has LLaMa.cpp level performance ([Announcement](https://news.ycombinator.com/item?id=37942574), [Performance thread](https://substack.com/redirect/57b061be-a190-4942-8b81-564e85d77749?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
 - safety
 	- Biden executive order
-	- [Andrew Ng](https://web.archive.org/web/20231027165729mp_/https://www.afr.com/markets/equity-markets/openai-is-in-talks-to-sell-shares-at-136b-valuation-20231020-p5edqj) 
+	- [Andrew Ng](https://web.archive.org/web/20231027165729mp_/https://www.afr.com/markets/equity-markets/openai-is-in-talks-to-sell-shares-at-136b-valuation-20231020-p5edqj)  tweet
 - is copilot making money?
 	- losing 20-80/month/user https://twitter.com/abacaj/status/1711754522794533046?s=12&t=90xQ8sGy63D2OtiaoGJuww
 	- but denied and 100m ARR
