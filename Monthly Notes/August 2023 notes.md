@@ -1,0 +1,173 @@
+
+> published as https://www.latent.space/p/aug-2023
+
+1 year of stable diffusion - aug 22
+- https://twitter.com/EMostaque/status/1692795590969565502
+- SDXL control loras https://twitter.com/EMostaque/status/1692658010256982389
+- SDXL activities - https://news.ycombinator.com/item?id=37211519
+- [stablecode](https://twitter.com/StabilityAI/status/1688931312122675200?s=20) 
+
+ai hype peak
+- https://twitter.com/Suhail/status/1696326766821061031
+- https://sparktoro.com/blog/we-analyzed-millions-of-chatgpt-user-sessions-visits-are-down-29-since-may-programming-assistance-is-30-of-use/
+	- Visits are Down 29% since May
+- https://twitter.com/saranormous/status/1690350563752366081?s=20
+- but... https://twitter.com/saranormous/status/1695486785760145602?s=20
+
+- openai news
+	- openai sdk https://x.com/officiallogank/status/1691875240647758123?s=12&t=c0zm9zMa5rGVx4afMXMoNA
+	- openai acquisition https://discord.com/channels/822583790773862470/1075282825051385876/1141775394576551967 global illumination
+	- chatgpt enterprise https://news.ycombinator.com/item?id=37297304
+		- azure chatgpt disappeared https://news.ycombinator.com/item?id=37112741
+	- Sherwin Wu from OpenAI gave a talk on function calling https://www.infoq.com/presentations/bicycle-ai-gpt-4-tools/
+	- Logan pick of [top 7 openai cookbook notebooks](https://twitter.com/OfficialLoganK/status/1691104898698330112?s=20)
+	- openai chatgpt updates 
+		- https://venturebeat.com/ai/openai-adds-huge-set-of-chatgpt-updates-including-suggested-prompts-multiple-file-uploads/
+	- openai finetuning api
+		- https://twitter.com/DrJimFan/status/1694090535441703181
+		- https://jxnl.github.io/instructor/finetune/
+		- https://scale.com/blog/open-ai-scale-partnership-gpt-3-5-fine-tuning
+		- https://twitter.com/jerryjliu0/status/1694370574808887496 We successfully made gpt-3.5-turbo output GPT-4 quality responses in an e2e RAG system 🔥 Stack: automated training dataset creation in @llama_index + new @OpenAI finetuning + ragas ( @Shahules786 ) eval
+		- LIMA high quality [1000 examples](https://twitter.com/rasbt/status/1695183793663955152?s=20) are relevant
+	- OpenAI Passes $1 Billion Revenue Pace as Big Companies Boost AI Spending https://www.theinformation.com/articles/openai-passes-1-billion-revenue-pace-as-big-companies-boost-ai-spending
+		- The billion-dollar revenue figure implies that the Microsoft-backed company, which was valued on paper at $27 billion when investors bought stock from existing shareholders earlier this year, is generating more than $80 million in revenue per month. OpenAI generated just $28 million in reven
+- Notable posts
+	- [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/) - Eugene Yan
+	- [Weird World of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) and [Making LLMs work for you](https://simonwillison.net/2023/Aug/27/wordcamp-llms/) - Simon Willison
+	- Aug 8 2023 - Bing Sydney like fails in ChatGPT https://news.ycombinator.com/item?id=37054241
+	- [why host your own LLM?](https://news.ycombinator.com/item?id=37133504)
+	- 10 open challenges in LLM research https://huyenchip.com/2023/08/16/llm-research-open-challenges.html
+	- The GPU Poors https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini
+	- AI IDEs
+		- Cursor
+		- [IDX](https://twitter.com/simpsoka/status/1688980766003433472) - [screenshots](https://twitter.com/_davideast/status/1689735117118316544?s=20)
+		- [Rift 2.0](https://twitter.com/morph_labs/status/1689321673151979536)
+	- text to SQL
+		- https://supabase.com/blog/supabase-studio-3-0
+		- https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c
+		- https://www.snowflake.com/blog/meta-code-llama-testing/
+	- Stackoverflow used Weaviate for open source + hybrid
+- Learning
+	- [How RLHF Preference Model Tuning Works (And How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
+	- [Comprehensive RAG research recap](https://acl2023-retrieval-lm.github.io/) 
+	- [GPT LLM Trainer notebook from Matt shumer](https://twitter.com/mattshumer_/status/1689323331395231754)
+	- LangChain RAG ragas webinar https://www.youtube.com/watch?v=fWC4VxolWAk
+	- Anthropic says use [XML tags](https://twitter.com/AnthropicAI/status/1696201327712534733?s=20), including `<thinking>` tags
+	- Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models https://arxiv.org/abs/2308.00675
+		- https://twitter.com/abacaj/status/1688739586606870528
+	- How is Llama.cpp possible?
+		- https://finbarr.ca/how-is-llama-cpp-possible/
+		- dr k https://twitter.com/karpathy/status/1691571869051445433
+			- TLDR at batch_size=1 (i.e. just generating a single stream of prediction on your computer), the inference is super duper memory-bound. The on-chip compute units are twiddling their thumbs while sucking model weights through a straw from DRAM. Every individual weight that is expensively loaded from DRAM onto the chip is only used for a single instant multiply to process each new input token. So the stat to look at is not FLOPS but the memory bandwidth.
+		- memory constraints mean taking the same time to running on a batch of tokens vs single token enables [speculative execution locally](https://twitter.com/finbarrtimbers/status/1697343267791421922?s=20)
+- Models
+	- Code - shanghai newhope https://twitter.com/mathemagic1an/status/1686814347287486464?s=20
+	- Wizard/Uncensored Llama2 https://news.ycombinator.com/item?id=36973584
+	- OpenOrca + Platypus https://twitter.com/alignment_lab/status/1691477139001114625
+	- Giraffe: long context oss llm - 32k https://twitter.com/bindureddy/status/1694126931174977906
+	
+	- CodeLLama
+		- https://twitter.com/b_roziere/status/1694732373332508783
+		- https://twitter.com/ylecun/status/1694741307652964600
+		- https://twitter.com/DrJimFan/status/1694757383267053863
+		- https://twitter.com/yacineMTB/status/1694773832156954830?s=20
+		- https://news.ycombinator.com/item?id=37248494
+		- https://news.ycombinator.com/item?id=37321032
+			- https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models
+		- Phind beat gpt4 https://news.ycombinator.com/item?id=37267597
+		- community continued to finetune llama 
+			- for function calling
+			- https://github.com/MeetKai/functionary/
+			- https://twitter.com/jxnlco/status/1687492227998662656
+			- with qlora
+				- https://twitter.com/mattshumer_/status/1688958387973734400
+			- we held a finetuning meetup
+			- and https://github.com/getumbrel/llama-gpt self hosting
+				- while https://github.com/jmorganca/ollama conitinue to gain steam
+			- [sharon zhou and andrew ng launched a course](https://twitter.com/AndrewYNg/status/1694369880873873779)
+	- IDEFICS https://huggingface.co/spaces/HuggingFaceM4/idefics_playground
+		- https://twitter.com/DrJimFan/status/1694039363779445009
+		- https://github.com/huggingface/m4-logs/tree/master/memos
+	- [alibaba GTE embeddings](https://huggingface.co/thenlper/gte-base)  and [BAAI bge](https://huggingface.co/BAAI/bge-large-en) beats ada-002 
+		- https://twitter.com/amanrsanger/status/1690496000769892352
+	- Qwen 7B https://www.maginative.com/article/alibaba-open-sources-qwen-a-7b-parameter-ai-model/
+		- The results for Qwen-14b seems really really good. Take a look here. They are already SOTA in multimodal, now they seem to have become SOTA in LLM as well. https://twitter.com/artificialguybr/status/1706326341744771405
+- Prompt tools 
+	- Langchain expression language https://blog.langchain.dev/langchain-expression-language/
+		- benchmarking Q&A over CSV https://www.youtube.com/watch?v=jGnf4OhptbA
+	- LlamaIndex 0.8.0 huge changes https://twitter.com/llama_index/status/1690081661453803520
+		- and Data Agents intro https://www.youtube.com/watch?v=GkIEEdIErm8&t=1s
+	- Hegel AI https://prompttools.readthedocs.io/en/latest/
+		- This [repository](https://github.com/hegelai/prompttools) offers a set of free, open-source tools for testing and experimenting with prompts. The core idea is to enable developers to evaluate prompts using familiar interfaces like _code_ and _notebooks_.
+	- Outlines from Normal Computing https://news.ycombinator.com/item?id=37125118 - generate valid JSON matching a regex
+		- in each state we get a list of symbols which correspond to completions that partially match the regular expression. We mask the other symbols in the logits returned by a large language model, sample a new symbol and move to the next state. The subtelty is that language models work with tokens, not symbols, so we derive a new FSM whose alphabet is the model's vocabulary. We can do this in only one pass over the vocabulary.
+	- Langfuse - opens ource o11y for LLM apps https://news.ycombinator.com/item?id=37310070
+	- Wrappers Delight https://twitter.com/yoheinakajima/status/1690994947258974208 Light-weight open-source OpenAI wrapper: 😎 Use existing code 📝 Auto-log every interaction 📊 Simple analytics 🔍 AI-assisted query of logs 🧐 (optional) Reflection of prompts 💻 UI-template
+	- Thiggle - ReLLM and ParserLLM projects
+		- https://twitter.com/mattrickard/status/1691191429983539203
+	- DSPy - CoT
+		- Demonstrate–Search–Predict (𝗗𝗦𝗣), a framework for composing search and LMs w/ up to 120% gains over GPT-3.5. No more prompt engineering.❌ Describe a high-level strategy as imperative code and let 𝗗𝗦𝗣 deal with prompts and queries.🧵 [from january](https://twitter.com/lateinteraction/status/1617953413576425472)
+		- https://twitter.com/lateinteraction/status/1694748401374490946
+- Templates
+	- https://github.com/psychic-api/rag-stack Deploy a private ChatGPT alternative hosted within your VPC. Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.
+	- smol https://github.com/FanaHOVA/smol-podcaster podcaster ([tweet](https://twitter.com/FanaHOVA/status/1689352217499930624)) We use smol-podcaster to take care of most of [Latent Space](https://latent.space/) transcription work. What it will do for you:
+- Agents
+	- https://github.com/e2b-dev/awesome-sdks-for-ai-agents
+	- https://github.com/e2b-dev/awesome-ai-agents
+	- https://github.com/Paitesanshi/LLM-Agent-Survey#more-comprehensive-summarization
+		- https://abyssinian-molybdenum-f76.notion.site/237e9f7515d543c0922c74f4c3012a77?v=0a309e53d6454afcbe7a5a7e169be0f9
+	- https://github.com/simonmesmith/agentflow Complex LLM Workflows from Simple JSON.
+	- https://github.com/plowsai/stableagents  _A collective list of Stable Agents_
+	- autogpt benchmarks https://docs.google.com/spreadsheets/d/1WXm16P2AHNbKpkOI0LYBpcsGG0O7D8HYTG5Uj0PaJjA/edit#gid=1782380512
+	- https://github.com/THUDM/AgentBench A Comprehensive Benchmark to Evaluate LLMs as Agents - [my comments](https://twitter.com/swyx/status/1689350837733306371) and read out https://papersread.ai/e/agentbench-evaluating-llms-as-agents/
+	- https://www.junglegym.ai/ open Source Analytics Playground for AI agents
+	- https://dangbot.com/ an experimental autonomous agent platform.
+	- 
+	- Generative Agents paper was open sourced
+		- https://github.com/joonspk-research/generative_agents
+		- https://twitter.com/DrJimFan/status/1689315683958652928
+		- https://github.com/a16z-infra/ai-town - open source/JS reimplementation
+		- chat dev https://twitter.com/bhutanisanyam1/status/1697236591985434751
+- notable news
+	- Huggingface relicensing HFOIL
+		- series D at 4b valuation https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/
+	- Weights and Biases $50m [led by nat and dan](https://twitter.com/mattturck/status/1689311243335606288) 
+	- Anthropic $100m
+	- Modular 600m valuation https://www.theinformation.com/articles/modular-ai-startup-challenging-nvidia-discusses-funding-at-600-million-valuation
+		- https://twitter.com/Modular_AI/status/1694740419605831960
+- launches
+	- sweep launched https://news.ycombinator.com/item?id=36987454
+		- vs our Cursor episode. level 2 vs 4 self driving.
+	- glaive function calling https://glaive.ai/blog/seed-round-announcement
+	- ideogram, imagen
+		- https://twitter.com/ideogram_ai/status/1694024927853129757
+		- https://twitter.com/emollick/status/1696732019357516077
+		- https://twitter.com/DrJimFan/status/1694358069638275463
+	- cloudflare ai microsite https://ai.cloudflare.com/
+	- poozle -  "Plaid for LLMs" https://news.ycombinator.com/item?id=37180017
+- Safety et al
+	- hotz v yud 
+- misc
+	- Anti hype LLM reading list https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
+	- mosaicml model gauntlet https://www.mosaicml.com/llm-evaluation
+	- LegalBench - open source legal reasoning benchmark https://twitter.com/NeelGuha/status/1694375959334670643
+	- discussion redux
+		- emergence [suleyman vs lecun vs wei](https://twitter.com/_jasonwei/status/1687624276827062279)
+		- [grokking - great explainer]()
+	- [John Carmack talking about overtraining](https://twitter.com/ID_AA_Carmack/status/1687832371159093249)
+	- Bloomberg hit pieces on [Stability AI continuing](https://www.bloomberg.com/news/articles/2023-08-08/stability-ai-s-lead-threatened-by-departures-concerns-over-ceo)
+	- seamless M4T translation https://ai.meta.com/resources/models-and-libraries/seamless-communication/ s the first multimodal model representing a significant breakthrough in speech-to-speech and speech-to-text translation and transcription. Publicly-released under a CC BY-NC 4.0 license, the model supports nearly 100 languages for input (speech + text), 100 languages for text output and 35 languages (plus English) for speech output.
+	- Audio - Meta audiocraft https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
+	- Vall-E-X https://github.com/Plachtaa/VALL-E-X
+	- DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales https://arxiv.org/abs/2308.01320 is paper introduces DeepSpeed-Chat, a novel system that democratizes RLHF training, making it accessible to the AI community. DeepSpeed-Chat offers three key capabilities: an easy-to-use training and inference experience for ChatGPT-like models, a DeepSpeed-RLHF pipeline that replicates the training pipeline from InstructGPT, and a robust DeepSpeed-RLHF system that combines various optimizations for training and inference in a unified way.
+	- webLLM - llama2 70b in browser https://news.ycombinator.com/item?id=37301991 - reference our MLC AI episode
+	- interesting data contamination [discussion on WizardCoder](https://twitter.com/Teknium1/status/1695511841865338910?s=20)
+	- [Civit AI writeup](https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/)
+	- more Custom Instructions
+		- [for coding](https://twitter.com/Teknium1/status/1688044531823116288) (thread of threads)
+		- from Ethan Mollick - [for step by step](https://twitter.com/emollick/status/1697414812353900916) and [for educators](https://twitter.com/emollick/status/1697310522889130333)
+		- nisten [for planning and 5 whys](https://twitter.com/nisten/status/1696229059183730833)
+		- [my default one from july](https://twitter.com/swyx/status/1682110807751139332?s=20)
+	- [Pieter Levels made 1m with AI](https://twitter.com/levelsio/status/1689464320965619712) 
+	- [Kaggle LLM Science exam questions using LLMs](https://www.kaggle.com/code/jhoward/getting-started-with-llms/) guide from [Jeremy Howard](https://twitter.com/jeremyphoward/status/1688673397138690048)
+	- a16z ai grant https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/
