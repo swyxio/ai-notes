@@ -80,8 +80,6 @@
   - Reka Yasa-1 Multimodal LLM ([tweet](https://twitter.com/YiTayML/status/1709265184576204820), [blog](https://reka.ai/announcing-our-multimodal-ai-assistant/) - natively supports images, audio, and short video clips as inputs. )
     - Retrieval augmented generation - Yasa can be taught to understand private datasets. Our API and on-premise deployment setup allows seamless integration of internal datasets of any modality type.
     - Code Interpreter - Yasa is more than just a passive AI assistant; it has the capability to actively execute code. This feature is enabled via a simple flag. When active, Yasa automatically identifies the code block within its response, executes the code, and appends the result at the end of the block.
-- [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199) ([arxiv.org](https://news.ycombinator.com/from?site=arxiv.org))
-- TimeGPT https://news.ycombinator.com/item?id=37874891 
 
 ## open source projects and templates
 
@@ -214,6 +212,9 @@
 		- bitter lesson
 			- Many Transformer variants have been proposed but almost all fancy variations don’t scale well
 			- More useful to abstract away Transformer as sequence of functions and think about input and output shapes and types
+- misc
+	- [PaLI-3 Vision Language Models](https://arxiv.org/abs/2310.09199) ([arxiv.org](https://news.ycombinator.com/from?site=arxiv.org))
+	- TimeGPT https://news.ycombinator.com/item?id=37874891 
 
 ## Fundraising
 
