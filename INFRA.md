@@ -58,6 +58,7 @@
 - specific list of gpu costs https://fullstackdeeplearning.com/cloud-gpus/
 	- ![https://fullstackdeeplearning.com/cloud-gpus/dettmers_recs.png](https://fullstackdeeplearning.com/cloud-gpus/dettmers_recs.png)
 - H100 gpu discussions https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/#how-much-do-these-gpus-cost
+	- h100 is 11x more powerful than a100, h200 will be 18x more powerful https://www.nvidia.com/en-gb/data-center/h200/
 - cost of chatgpt - https://twitter.com/tomgoldsteincs/status/1600196981955100694
 
   - A 3-billion parameter model can generate a token in about 6ms on an A100 GPU
