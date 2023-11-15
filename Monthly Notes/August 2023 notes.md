@@ -168,6 +168,7 @@ ai hype peak
 		- from Ethan Mollick - [for step by step](https://twitter.com/emollick/status/1697414812353900916) and [for educators](https://twitter.com/emollick/status/1697310522889130333)
 		- nisten [for planning and 5 whys](https://twitter.com/nisten/status/1696229059183730833)
 		- [my default one from july](https://twitter.com/swyx/status/1682110807751139332?s=20)
+		- [professor synapse prompt](https://github.com/ProfSynapse/Synapse_CoR)
 	- [Pieter Levels made 1m with AI](https://twitter.com/levelsio/status/1689464320965619712) 
 	- [Kaggle LLM Science exam questions using LLMs](https://www.kaggle.com/code/jhoward/getting-started-with-llms/) guide from [Jeremy Howard](https://twitter.com/jeremyphoward/status/1688673397138690048)
 	- a16z ai grant https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/

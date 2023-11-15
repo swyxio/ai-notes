@@ -108,6 +108,7 @@
 - [Large Language Models as Optimizers](https://arxiv.org/pdf/2309.03409.pdf)  found that "Take a deep breath and work on this problem step by step" on PaLM 2 offered 8 points of improvement over "Let's think step by step"
 - Expressive Text-to-Image Generation with Rich Text [https://rich-text-to-image.github.io](https://t.co/fXjXiBP3eC) https://huggingface.co/spaces/songweig/rich-text-to-image
 - ["Reversal Curse" paper](https://owainevans.github.io/reversal_curse.pdf) ([tweet thread](https://twitter.com/goodside/status/1705452625838149823)) - LLMs trained on “A is B” fail to learn “B is A”
+	- but... is it real? [a response from Andrew Mayne](https://andrewmayne.com/2023/11/14/is-the-reversal-curse-real/)
 - [Compositional Foundation Models for Hierarchical Planning](https://twitter.com/du_yilun/status/1703786005612929214) for multimodal FMs 
 - [PyTorch visualization of Mmult and Attention](https://pytorch.org/blog/inside-the-matrix/)
 - Nice flowchart on RAG vs Finetuning ![https://pbs.twimg.com/media/F5g4PxqXMAA16mP?format=jpg&name=large](https://pbs.twimg.com/media/F5g4PxqXMAA16mP?format=jpg&name=large) via [Jerry Liu](https://twitter.com/jerryjliu0/status/1700170811783471350/photo/1)

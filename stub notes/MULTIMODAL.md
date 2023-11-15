@@ -9,6 +9,8 @@
 - Palm E robotics and vision demo https://twitter.com/dannydriess/status/1632904675124035585?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - google MUM https://blog.google/products/search/introducing-mum/
 - "this is not a pipe" really is a pipe
+- Adept Fuyu 8B https://www.adept.ai/blog/fuyu-8b
+	- It's noteworthy that Fuyu passes the input patches directly into a linear projection (or embedding layer) to learn its own image patch embeddings rather than relying on an additional pretrained image encoder like other models and methods do (examples include [LLaVA](https://github.com/haotian-liu/LLaVA) and [MiniGPT-V](https://github.com/Vision-CAIR/MiniGPT-4). This greatly simplifies the architecture and training setup.
 - Flamingo models take advantage of two complementary  models: a vision model that analyzes visual scenes and a large language model   which performs a basic form of reasoning. The language model is trained on a  large amount of text data. https://arxiv.org/pdf/2301.04655.pdf
 	- independent reproductions https://twitter.com/sanhestpasmoi/status/1632775840135016448?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- Openflamingo https://laion.ai/blog/open-flamingo/  an open-source reproduction of DeepMind's Flamingo model. At its core, OpenFlamingo is a framework that enables training and evaluation of large multimodal models (LMMs).

@@ -2,7 +2,10 @@
 - [Ilya Sutskever on No Priors pod](https://www.youtube.com/watch?v=Ft0gTO2K85A)
 - dev day
 	- vision
-		- https://twitter.com/hellokillian/status/1723106008061587651
+		- openinterpreter integration https://twitter.com/hellokillian/status/1723106008061587651
+	- gpts
+		- useful for low level systems developers [reading docs](https://news.ycombinator.com/item?id=38192094)
+- nov 14: paused chatgpt plus signups, ebay at premium https://x.com/sdand/status/1724629169483719104?s=20
 
 ### models
 
@@ -43,3 +46,4 @@
 	- [Stas Bekman](https://twitter.com/StasBekman/status/1721207940168987113) - This study from 2020 publishes the actual achievable TFLOPS in half-precision for the high-end gpus. e.g., 88% for V100, 93% for A100. Showing that A100@BF16's peak performance is 290 and not 312 TFLOPS. So that means that when we calculate MFU (Model FLOPS Utilization) our reference point shouldn't be the advertised theoretical TFLOPS, but rather the adjusted achievable TFLOPS.
 - other good reads
 	- [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai) ([builder.io](https://news.ycombinator.com/from?site=builder.io))[103 comments](https://news.ycombinator.com/item?id=38221552)|
+- Galactica postmortem https://twitter.com/rosstaylor90/status/1724547381092573352
