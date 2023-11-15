@@ -5,6 +5,9 @@
 		- openinterpreter integration https://twitter.com/hellokillian/status/1723106008061587651
 	- gpts
 		- useful for low level systems developers [reading docs](https://news.ycombinator.com/item?id=38192094)
+	- json mode
+		- [does not guarantee output will match your schema](https://community.openai.com/t/json-mode-vs-function-calling/476994/6) but will improve
+		- [functions param deprecated!! no notice!](https://x.com/Tangpin78255362/status/1722049314103705650?s=20)
 - nov 14: paused chatgpt plus signups, ebay at premium https://x.com/sdand/status/1724629169483719104?s=20
 
 ### models
