@@ -135,7 +135,8 @@ Stacking Agents: task delegation & collaboration
 	- learns how to use tools before using them by searching docs
 	- When given a task, SLAPA knows to search for the API documentation and learn all the information. Then he create API calls. If they don't work, he learns from his mistake and tries again.
 	- https://twitter.com/DYtweetshere/status/1631349179934203904
-
+- Autogen: https://github.com/microsoft/autogen
+	- https://arxiv.org/pdf/2308.08155v1.pdf
 - Whatsapp + ChatGPT
   - https://twitter.com/danielgross/status/1598735800497119232
   - telegram port https://twitter.com/altryne/status/1598822052760195072
@@ -192,3 +193,12 @@ there was a google thing as well. something like XP1?
 ## agent collaboration
 
 - https://arxiv.org/abs/2307.05300v2 # Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration
+
+
+## finetuning for agents/reasoning
+
+- AgentTuning: Enabling Generalized Agent Abilities for LLMs https://arxiv.org/pdf/2310.12823.pdf
+	- We construct AgentInstruct, a lightweight instruction-tuning dataset containing high-quality interaction trajectories. 
+	- We employ a hybrid instruction-tuning strategy by combining AgentInstruct with open-source instructions from general domains. 
+	- AgentTuning is used to instruction-tune the Llama 2 series, resulting in AgentLM.
+	- Our evaluations show that AgentTuning enables LLMs' agent capabilities without compromising general abilities. The AgentLM-70B is comparable to GPT-3.5-turbo on unseen agent tasks, demonstrating generalized agent capabilities.
