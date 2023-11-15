@@ -52,6 +52,7 @@
 	- [Chrome extension](https://twitter.com/jakebrowatzke/status/1635882037319008258)
 	- [security vulnerability explanation](https://twitter.com/jconorgrogan/status/1635695064692273161) haha its [not GPT4](https://twitter.com/jconorgrogan/status/1635699514668351509?s=20)
 	- [using Midjourney and GPT4 to code an Angry Birds clone](https://twitter.com/javilopen/status/1719363262179938401) in 3 days and 10 hrs
+	- [Effective GPT-4 Programming](https://news.ycombinator.com/item?id=38270714) from Gwern
 - World knowledge
 	- It knows many esoteric facts (e.g., the meaning of obscure songs, knows what area a researcher works in, can contrast ML optimizers like Adam vs AdamW like in a PhD oral exam, and so on). https://twitter.com/DanHendrycks/status/1635706823373377538?s=20
 	- General causal reasoning - 96% on Tubingen (across Zoology, Engineering, Physics, Epidemiology, etc), 92% accuracy on CRASS benchmark, 86% on others https://twitter.com/amt_shrma/status/1653458009333587969?s=20
