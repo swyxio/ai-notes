@@ -46,6 +46,17 @@ Agent Duos: collaborative problem-solving
 Stacking Agents: task delegation & collaboration
 
 
+### Roleplaying / Multi-Agent systems
+- camel and autogen
+	- https://arxiv.org/pdf/2308.08155v1.pdf 
+	- https://github.com/camel-ai/camel
+- metagpt
+- Multi-Agent Systems: • 
+	- BabyAGI: BabyAGI [6] is an example implementation of an AI-powered task management system in a Python script (according to its own documentation). In this implemented system, multiple LLM-based agents are used. For example, there is an agent for creating new tasks based on the objective and the result of the previous task, an agent for prioritizing the task list, and an agent for completing tasks/sub-tasks. BabyAGI is a multi-agent system with a static agent communication pattern, i.e., a predefined order of agent communication. • 
+	- CAMEL: CAMEL [28] is a communicative agent framework. It demonstrates how role-playing can be used to let chat agents communicate with each other for task completion. It also records agent conversations for behavior analysis and capability understanding. CAMEL does not support tool-using, such as code execution. Inception prompting technique is used to achieve autonomous cooperation between agents. • 
+	- MetaGPT: MetaGPT [20] is a multi-agent framework for assigning different roles to GPTs to form a collaborative software entity for complex tasks. It is a specialized LLM-based multi-agent framework for collaborative software development. • 
+	- Multi-Agent Debate: Two recent works investigate and show that multi-agent debate is an effective way to encourage divergent thinking in LLMs [29] and to improve the factuality and reasoning of LLMs [16]. In both works, multiple LLM inference instances are constructed as multiple agents to solve problems with agent debate. Each agent is simply an LLM inference instance, while no tool or human is involved. The conversation also needs to follow a pre-defined order.
+
 ## major agents projects
 
 - AutoGPT
