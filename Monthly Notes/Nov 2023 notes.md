@@ -19,6 +19,10 @@
 	- https://twitter.com/MatthewBerman/status/1719758392510824505
 - Elon X.ai Grok
 	- grok vs openchat - https://twitter.com/alignment_lab/status/1721308271946965452
+- Microsoft Phi-2 at Ignite - 2.7b params, 50% better at math
+	- https://x.com/abacaj/status/1724850925741768767?s=20
+	- 213b tokens
+	- synthetic data from GPT3.5
 
 
 ### Fundraising
@@ -42,6 +46,8 @@
 	- mitchell: https://x.com/mitchellh/status/1722346134130348504?s=20
 - consistency models
 	- krea https://news.ycombinator.com/item?id=38223822
+- TLDraw [Make real](https://x.com/tldraw/status/1724892287304646868?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+- [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers
 
 ## misc and other discussions
 
@@ -50,3 +56,5 @@
 - other good reads
 	- [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai) ([builder.io](https://news.ycombinator.com/from?site=builder.io))[103 comments](https://news.ycombinator.com/item?id=38221552)|
 - Galactica postmortem https://twitter.com/rosstaylor90/status/1724547381092573352
+- [Notable resignation](https://twitter.com/ednewtonrex/status/1724902327151452486) from Stability AI Audio team, over copyright fair use training
+- [beautiful illustrated piece](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot) on Stochastic Parrots by the New Yorker
