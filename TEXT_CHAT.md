@@ -598,3 +598,4 @@ threads that recap stuff above
 - https://gpt4all.io/index.html GPT4All - A free-to-use, locally running, privacy-aware chatbot. **No GPU or internet required.**
 - UL2 chat 
 	- Interested in real Open AI? Announcing Transformers-Chat, a 100% open source knowledge-grounded chatbot that allows you to ask questions and chat with the ![🤗](Transformers docs. Powered by Flan-UL2, https://twitter.com/EnoReyes/status/1635723920480567298
+- the 6 types of convos with generative ai chatbots https://www.nngroup.com/articles/AI-conversation-types/

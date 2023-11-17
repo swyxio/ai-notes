@@ -44,6 +44,8 @@
 	- workspace https://twitter.com/ashtom/status/1722631796482085227
 	- chat https://x.com/ashtom/status/1722330209867993471?s=20
 	- mitchell: https://x.com/mitchellh/status/1722346134130348504?s=20
+- Adept Experiments: https://www.adept.ai/blog/experiments
+	- Workflows: Workflows is powered by ACT-2, a model fine-tuned from the Fuyu family and optimized for UI understanding, knowledge worker data comprehension, and action taking. 
 - consistency models
 	- krea https://news.ycombinator.com/item?id=38223822
 - TLDraw [Make real](https://x.com/tldraw/status/1724892287304646868?s=46&t=90xQ8sGy63D2OtiaoGJuww)
