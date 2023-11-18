@@ -5,10 +5,17 @@
 		- openinterpreter integration https://twitter.com/hellokillian/status/1723106008061587651
 	- gpts
 		- useful for low level systems developers [reading docs](https://news.ycombinator.com/item?id=38192094)
+		- typist https://twitter.com/_Borriss_/status/1725208054185046071
+	- chatgpt memory "rumor" https://twitter.com/yupiop12/status/1724915477900656857
 	- json mode
 		- [does not guarantee output will match your schema](https://community.openai.com/t/json-mode-vs-function-calling/476994/6) but will improve
 		- [functions param deprecated!! no notice!](https://x.com/Tangpin78255362/status/1722049314103705650?s=20)
 - nov 14: paused chatgpt plus signups, ebay at premium https://x.com/sdand/status/1724629169483719104?s=20
+- sama fired nov 17
+	- was at cabridge https://www.youtube.com/watch?v=NjpNG0CJRMM
+	- was at apec summit https://www.youtube.com/watch?v=ZFFvqRemDv8
+- gpt3.5 issues https://twitter.com/sharifshameem/status/1725422821730636236
+	- zephyr great
 
 ### models
 
@@ -31,6 +38,13 @@
 - Factory.ai $5m seed https://www.factory.ai/blog https://x.com/matanSF/status/1720106297096593672?s=20
 - [Modal labs raised $16m series A with Redpoint](https://twitter.com/modal_labs/status/1711748224610943163?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 
+
+## open source projects
+
+- david attenborough project
+	- launch https://news.ycombinator.com/item?id=38281079 
+	- [github](https://github.com/cbh123/narrator)
+	- [arstechnica](https://news.ycombinator.com/item?id=38302319)
 
 ## other launches
 
