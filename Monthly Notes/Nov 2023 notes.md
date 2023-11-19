@@ -1,15 +1,23 @@
 ## OpenAI
 - [Ilya Sutskever on No Priors pod](https://www.youtube.com/watch?v=Ft0gTO2K85A)
 - dev day
+	- GPTs: Custom versions of ChatGPT - https://news.ycombinator.com/item?id=38166431
+	- OpenAI releases Whisper v3, new generation open source ASR model - https://news.ycombinator.com/item?id=38166965
+		- https://twitter.com/YoungPhlo_/status/1721606700082336013
+	- OpenAI DevDay, Opening Keynote Livestream [video] - https://news.ycombinator.com/item?id=38165090
 	- vision
 		- openinterpreter integration https://twitter.com/hellokillian/status/1723106008061587651
 	- gpts
+		- [gdb personal favorite](https://twitter.com/gdb/status/1721638249414947235)
 		- useful for low level systems developers [reading docs](https://news.ycombinator.com/item?id=38192094)
+		- https://news.ycombinator.com/item?id=38166431
 		- typist https://twitter.com/_Borriss_/status/1725208054185046071
 	- chatgpt memory "rumor" https://twitter.com/yupiop12/status/1724915477900656857
 	- json mode
 		- [does not guarantee output will match your schema](https://community.openai.com/t/json-mode-vs-function-calling/476994/6) but will improve
 		- [functions param deprecated!! no notice!](https://x.com/Tangpin78255362/status/1722049314103705650?s=20)
+	- dalle3
+		- the consistency model VAE decoder (used in DALL-E 3) for the Stable Diffusion 1.4/1.5 VAE https://twitter.com/iScienceLuvr/status/1721601915975528683
 - nov 14: paused chatgpt plus signups, ebay at premium https://x.com/sdand/status/1724629169483719104?s=20
 - sama fired nov 17
 	- was at cabridge https://www.youtube.com/watch?v=NjpNG0CJRMM
@@ -22,9 +30,11 @@
 - [Yarn-Mistral-7b-128k](https://x.com/mattshumer_/status/1720115354884514042?s=20): 
 	- 4x more context than GPT-4. Open-source is the new long-context king! This thing can easily fit entire books in a prompt.
 	- [tweet](https://x.com/theemozilla/status/1720107186850877662?s=20)
+- Yi 01 ai https://twitter.com/kaifulee/status/1721321096727994590
 - Amazon Mistral - 32k
 	- https://twitter.com/MatthewBerman/status/1719758392510824505
 - Elon X.ai Grok
+	- Grok-1 is a autoregressive Transformer-based model pre-trained to perform next-token prediction. The model was then fine-tuned using extensive feedbacks from both human and the early Grok-0 models. The initial Grok-1 has a context length of 8,192 tokens and is released in Oct 2023. https://twitter.com/altryne/status/1721028995456647286
 	- grok vs openchat - https://twitter.com/alignment_lab/status/1721308271946965452
 - Microsoft Phi-2 at Ignite - 2.7b params, 50% better at math
 	- https://x.com/abacaj/status/1724850925741768767?s=20
@@ -58,6 +68,7 @@
 	- The engine powering Grok is Grok-1, our frontier LLM, which we developed over the last four months. Grok-1 has gone through many iterations over this span of time. [Model Card](https://x.ai/model-card/)
 	- [https://x.ai/](https://x.ai/) - Link to waitlist: [https://grok.x.ai/](https://grok.x.ai/) 
 	- [UI demo](https://twitter.com/TobyPhln/status/1721053802235621734)
+	- xAI PromptIDE is an integrated development environment for prompt engineering and interpretability research. https://x.ai/prompt-ide/ https://twitter.com/xai/status/1721568361883279850
 - GitHub Copilot GA
 	- https://twitter.com/HamelHusain/status/1723047256180355386
 	- workspace https://twitter.com/ashtom/status/1722631796482085227
