@@ -63,6 +63,7 @@
 - consistency models
 	- krea https://news.ycombinator.com/item?id=38223822
 - TLDraw [Make real](https://x.com/tldraw/status/1724892287304646868?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- small todo app https://twitter.com/Altimor/status/1725678615751438396
 - [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers
 
 ## misc and other discussions

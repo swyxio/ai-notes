@@ -18,3 +18,8 @@ openai MATH model https://openai.com/research/improving-mathematical-reasoning-w
 [Llemma: An Open Language Model for Mathematics](https://arxiv.org/abs/2310.10631) ([arxiv.org](https://news.ycombinator.com/from?site=arxiv.org))
 
 anton coq proof model https://github.com/atroyn/math-llm https://twitter.com/atroyn/status/1669111844680900609?s=46&t=90xQ8sGy63D2OtiaoGJuww
+
+## Meta Nougat
+
+- Nougat: an open-source OCR model that accurately scans books with heavy math/scientific notations. It's ages ahead of other open OCR options. Meta is doing extraordinary open-source AI, sometimes without as much fanfare as Llama. https://twitter.com/DrJimFan/status/1702322181928259586
+	- use Mathpix instead https://twitter.com/erhartford/status/1713854710375944200
