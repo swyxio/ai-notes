@@ -75,6 +75,8 @@
 	- workspace https://twitter.com/ashtom/status/1722631796482085227
 	- chat https://x.com/ashtom/status/1722330209867993471?s=20
 	- mitchell: https://x.com/mitchellh/status/1722346134130348504?s=20
+- Microsoft Ignite - copilot everything
+	- https://www.theverge.com/23961007/microsoft-ignite-2023-news-ai-announcements-copilot-windows-azure-office
 - Adept Experiments: https://www.adept.ai/blog/experiments
 	- Workflows: Workflows is powered by ACT-2, a model fine-tuned from the Fuyu family and optimized for UI understanding, knowledge worker data comprehension, and action taking. 
 - consistency models
@@ -92,6 +94,8 @@
 - standard pretraining stack
 	- Use flash attention 2, parallel attention and feedforward layers, rotary embeddings, pre-layer norm, and probably 8/3 h multipliers but that doesn't matter too much. Basically Mistral + parallel layers (they left a free +10% performance on the table). https://x.com/BlancheMinerva/status/1721380386515669209?s=20
 	- Train on a large and diverse dataset, something like C4 along plus high quality known components (academic papers, books, code). Ideally you'd scrape these things freshly instead of using Pile / RP. You want to balance clean w/ diverse. Dedupe, but train for 4 epochs (3T+ total)
+	- RLHF HISTORY Entangled Preferences: The History and Risks of Reinforcement Learning and Human Feedback
+		- https://x.com/natolambert/status/1721250884481634420?s=20
 - MFU calculation
 	- [Stas Bekman](https://twitter.com/StasBekman/status/1721207940168987113) - This study from 2020 publishes the actual achievable TFLOPS in half-precision for the high-end gpus. e.g., 88% for V100, 93% for A100. Showing that A100@BF16's peak performance is 290 and not 312 TFLOPS. So that means that when we calculate MFU (Model FLOPS Utilization) our reference point shouldn't be the advertised theoretical TFLOPS, but rather the adjusted achievable TFLOPS.
 - other good reads
