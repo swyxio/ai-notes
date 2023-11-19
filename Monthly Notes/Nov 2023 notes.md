@@ -45,6 +45,11 @@
 	- launch https://news.ycombinator.com/item?id=38281079 
 	- [github](https://github.com/cbh123/narrator)
 	- [arstechnica](https://news.ycombinator.com/item?id=38302319)
+- anyscale llm benchmarking standards https://twitter.com/robertnishihara/status/1719760646211010997
+- Replicate labs
+	- YouTune - [finetune image models on yt videos](https://x.com/charliebholtz/status/1719847667495231700?s=20)
+- Finetuning
+	- [gpt evaluator as judge](https://x.com/llama_index/status/1719868813318271242?s=20) - from llamaindex
 
 ## other launches
 
@@ -65,6 +70,7 @@
 - TLDraw [Make real](https://x.com/tldraw/status/1724892287304646868?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- small todo app https://twitter.com/Altimor/status/1725678615751438396
 - [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers
+- Lindy.ai https://twitter.com/Altimor/status/1721250514946732190
 
 ## misc and other discussions
 
