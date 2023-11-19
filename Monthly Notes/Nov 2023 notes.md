@@ -60,6 +60,7 @@
 	- YouTune - [finetune image models on yt videos](https://x.com/charliebholtz/status/1719847667495231700?s=20)
 - Finetuning
 	- [gpt evaluator as judge](https://x.com/llama_index/status/1719868813318271242?s=20) - from llamaindex
+- llama index + pplx api https://x.com/llama_index/status/1725975990911086932?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 ## other launches
 
@@ -82,9 +83,15 @@
 	- small todo app https://twitter.com/Altimor/status/1725678615751438396
 - [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers
 - Lindy.ai https://twitter.com/Altimor/status/1721250514946732190
+- Pplx api 
+	- 
+	- 
 
 ## misc and other discussions
 
+- standard pretraining stack
+	- Use flash attention 2, parallel attention and feedforward layers, rotary embeddings, pre-layer norm, and probably 8/3 h multipliers but that doesn't matter too much. Basically Mistral + parallel layers (they left a free +10% performance on the table). https://x.com/BlancheMinerva/status/1721380386515669209?s=20
+	- Train on a large and diverse dataset, something like C4 along plus high quality known components (academic papers, books, code). Ideally you'd scrape these things freshly instead of using Pile / RP. You want to balance clean w/ diverse. Dedupe, but train for 4 epochs (3T+ total)
 - MFU calculation
 	- [Stas Bekman](https://twitter.com/StasBekman/status/1721207940168987113) - This study from 2020 publishes the actual achievable TFLOPS in half-precision for the high-end gpus. e.g., 88% for V100, 93% for A100. Showing that A100@BF16's peak performance is 290 and not 312 TFLOPS. So that means that when we calculate MFU (Model FLOPS Utilization) our reference point shouldn't be the advertised theoretical TFLOPS, but rather the adjusted achievable TFLOPS.
 - other good reads
