@@ -1,3 +1,11 @@
+
+## monthly theme
+
+- voice cloning red alert
+	- voice cloning https://twitter.com/martin_casado/status/1726707806492131819
+	- and here https://x.com/notcapnamerica/status/1725901659270742084?s=20
+
+
 ## OpenAI
 - [Ilya Sutskever on No Priors pod](https://www.youtube.com/watch?v=Ft0gTO2K85A)
 - dev day
@@ -40,6 +48,9 @@
 	- https://x.com/abacaj/status/1724850925741768767?s=20
 	- 213b tokens
 	- synthetic data from GPT3.5
+- [Gorilla OpenFunctions](https://gorilla.cs.berkeley.edu/blogs/4_open_functions.html)
+	- open-source function calling model, and are thrilled to present Gorilla OpenFunctions. And yes, we've made parallel functions a reality in open-source!
+	- https://twitter.com/shishirpatil_/status/1725251917394444452
 
 
 ### Fundraising
@@ -103,3 +114,12 @@
 - Galactica postmortem https://twitter.com/rosstaylor90/status/1724547381092573352
 - [Notable resignation](https://twitter.com/ednewtonrex/status/1724902327151452486) from Stability AI Audio team, over copyright fair use training
 - [beautiful illustrated piece](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot) on Stochastic Parrots by the New Yorker
+- Google Switch C 1.6T MoE model
+	- https://news.ycombinator.com/item?id=38352794
+
+
+## best memes
+
+- https://twitter.com/EMostaque/status/1726591847282421871
+- good meme material https://x.com/AISafetyMemes/status/1726595374402662497?s=20
+- check latent space discord meme channel theres just too many

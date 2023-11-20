@@ -3,6 +3,9 @@ HuggingGPT, JARVIS, ToolFormer, TaskMatrix, Chameleon.
 https://www.reddit.com/r/MachineLearning/comments/137rxgw/comment/jiuof1w/?utm_source=reddit&utm_medium=web2x&context=3
 
 
+Google Switch C 1.6T MoE model
+	- https://news.ycombinator.com/item?id=38352794
+
 Switch Transformers
 - https://twitter.com/TheTuringPost/status/1670793833964097537?s=20
 
