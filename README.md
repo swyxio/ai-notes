@@ -72,7 +72,7 @@ This Readme is just the high level overview of the space; you should see the mos
 	- has a list of usecases at the end https://huyenchip.com/2023/04/11/llm-engineering.html
   - Jasper
   - GPT for Obsidian https://reasonabledeviations.com/2023/02/05/gpt-for-second-brain/
-  - gpt3 email https://github.com/sw-yx/gpt3-email
+  - gpt3 email https://github.com/sw-yx/gpt3-email and [email clustering](https://github.com/danielgross/embedland/blob/main/bench.py#L281)
   - gpt3() in google sheet [2020](https://twitter.com/pavtalk/status/1285410751092416513?s=20&t=ppZhNO_OuQmXkjHQ7dl4wg), [2022](https://twitter.com/shubroski/status/1587136794797244417) - [sheet](https://docs.google.com/spreadsheets/d/1YzeQLG_JVqHKz5z4QE9wUsYbLoVZZxbGDnj7wCf_0QQ/edit) google sheets https://twitter.com/mehran__jalali/status/1608159307513618433
 	  - https://gpt3demo.com/apps/google-sheets
 	  - Charm https://twitter.com/shubroski/status/1620139262925754368?s=20
