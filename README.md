@@ -109,6 +109,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - excellent introduction to foundation models from MSR https://youtu.be/HQI6O5DlyFc
   - openAI prompt tutorial https://beta.openai.com/docs/quickstart/add-some-examples
   - google LAMDA intro https://aitestkitchen.withgoogle.com/how-lamda-works
+  - karpathy gradient descent course
   - FT visual storytelling on "[how transformers work](https://ig.ft.com/generative-ai/)"
   - DALLE2 prompt writing book http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
   - https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117
@@ -159,7 +160,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 		-   [**Deep learning in a nutshell: core concepts**](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/): This four-part series from Nvidia walks through the basics of deep learning as practiced in 2015, and is a good resource for anyone just learning about AI.
 		-   **[Practical deep learning for coders](https://course.fast.ai/)**: Comprehensive, free course on the fundamentals of AI, explained through practical examples and code.
 		-   **[Word2vec explained](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71)**: Easy introduction to embeddings and tokens, which are building blocks of LLMs (and all language models).
-		-   **[Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)**: More in-depth post on back-propagation if you want to understand the details. If you want even more, try the [Stanford CS231n lecture](https://www.youtube.com/watch?v=i94OvYb6noo) on Youtube.
+		-   **[Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)**: More in-depth post on back-propagation if you want to understand the details. If you want even more, try the [Stanford CS231n lecture](https://www.youtube.com/watch?v=i94OvYb6noo) ([course here](http://cs231n.stanford.edu/2016/)) on Youtube.
 	- Courses
 		-   **[Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)**: Introduction to Machine Learning with Andrew Ng, covering the fundamentals of machine learning.
 		-   **[Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)**: NLP with Deep Learning with Chris Manning, covering NLP basics through the first generation of LLMs.
@@ -302,7 +303,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 		- Karpathy Discord: https://discord.gg/3zy8kqD9Cp
 		- [HuggingFace Discord](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
 		- [Skunkworks AI Discord](https://discord.gg/3Sfmpd3Njt) (new)
-		- [Jeff Wang/LLM Perf enthusiasts discord](https://discord.com/invite/PD4h2a43)
+		- [Jeff Wang/LLM Perf enthusiasts discord](https://twitter.com/wangzjeff)
 	- Art
 		- [StableDiffusion Discord](https://discord.com/invite/stablediffusion) 
 		- Deforum Discord https://discord.gg/upmXXsrwZc
