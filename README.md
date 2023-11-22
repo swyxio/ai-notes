@@ -302,6 +302,7 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 		- Karpathy Discord: https://discord.gg/3zy8kqD9Cp
 		- [HuggingFace Discord](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
 		- [Skunkworks AI Discord](https://discord.gg/3Sfmpd3Njt) (new)
+		- [Jeff Wang/LLM Perf enthusiasts discord](https://discord.com/invite/PD4h2a43)
 	- Art
 		- [StableDiffusion Discord](https://discord.com/invite/stablediffusion) 
 		- Deforum Discord https://discord.gg/upmXXsrwZc
