@@ -30,11 +30,17 @@
 - sama fired nov 17
 	- was at cabridge https://www.youtube.com/watch?v=NjpNG0CJRMM
 	- was at apec summit https://www.youtube.com/watch?v=ZFFvqRemDv8
+	- you all know what happened
+	- [sama's last interview](https://podcasts.apple.com/us/podcast/mayhem-at-openai-our-interview-with-sam-altman/id1528594034?i=1000635486878) before being fired
 - gpt3.5 issues https://twitter.com/sharifshameem/status/1725422821730636236
 	- zephyr great
 
-### models
+## models
 
+- Claude 2.1
+	- https://www.anthropic.com/index/claude-2-1
+	- model card https://www-files.anthropic.com/production/images/ModelCardClaude2_with_appendix.pdf?dm=1700589594
+	- $1k test showing [declining utilization](https://twitter.com/GregKamradt/status/1727018183608193393) of the 200k context
 - [Yarn-Mistral-7b-128k](https://x.com/mattshumer_/status/1720115354884514042?s=20): 
 	- 4x more context than GPT-4. Open-source is the new long-context king! This thing can easily fit entire books in a prompt.
 	- [tweet](https://x.com/theemozilla/status/1720107186850877662?s=20)
@@ -51,6 +57,9 @@
 - [Gorilla OpenFunctions](https://gorilla.cs.berkeley.edu/blogs/4_open_functions.html)
 	- open-source function calling model, and are thrilled to present Gorilla OpenFunctions. And yes, we've made parallel functions a reality in open-source!
 	- https://twitter.com/shishirpatil_/status/1725251917394444452
+- Stable Video Diffusion
+	- https://news.ycombinator.com/item?id=38368287
+	- and video LLaVA https://news.ycombinator.com/item?id=38366830
 
 
 ### Fundraising
@@ -122,4 +131,7 @@
 
 - https://twitter.com/EMostaque/status/1726591847282421871
 - good meme material https://x.com/AISafetyMemes/status/1726595374402662497?s=20
+- https://x.com/paularambles/status/1726606909069988141?s=20
+- https://x.com/202accepted/status/1726505578405695713?s=20
 - check latent space discord meme channel theres just too many
+- 
