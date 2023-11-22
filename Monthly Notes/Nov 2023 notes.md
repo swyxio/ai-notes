@@ -4,6 +4,8 @@
 - voice cloning red alert
 	- voice cloning https://twitter.com/martin_casado/status/1726707806492131819
 	- and here https://x.com/notcapnamerica/status/1725901659270742084?s=20
+	- https://github.com/w-okada/voice-changer/
+		- https://www.weights.gg/
 
 
 ## OpenAI
@@ -101,6 +103,9 @@
 	- Workflows: Workflows is powered by ACT-2, a model fine-tuned from the Fuyu family and optimized for UI understanding, knowledge worker data comprehension, and action taking. 
 - consistency models
 	- krea https://news.ycombinator.com/item?id=38223822
+	- live hf space https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model
+	- latent consistency and LCM-LoRA are the incremental innovations that spawned the recent work https://huggingface.co/collections/latent-consistency/latent-consistency-model-demos-654e90c52adb0688a0acbe6f
+		- https://twitter.com/javilopen/status/1724398666889224590
 - TLDraw [Make real](https://x.com/tldraw/status/1724892287304646868?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- small todo app https://twitter.com/Altimor/status/1725678615751438396
 - [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers
