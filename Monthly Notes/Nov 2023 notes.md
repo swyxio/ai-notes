@@ -43,6 +43,10 @@
 	- https://www.anthropic.com/index/claude-2-1
 	- model card https://www-files.anthropic.com/production/images/ModelCardClaude2_with_appendix.pdf?dm=1700589594
 	- $1k test showing [declining utilization](https://twitter.com/GregKamradt/status/1727018183608193393) of the 200k context
+- Inflection 2
+	- https://news.ycombinator.com/item?id=38380377
+	- [5,000 NVIDIA H100 GPUs in fp8 mixed precision for ~10²⁵ FLOPs](https://x.com/mustafasuleyman/status/1727349979440984371?s=20). guess is [300b model](https://twitter.com/EMostaque/status/1727373950685200674) on 5T tokens
+	- [slightly better than llama-2](https://x.com/Teknium1/status/1727353306132185181?s=20)
 - [Yarn-Mistral-7b-128k](https://x.com/mattshumer_/status/1720115354884514042?s=20): 
 	- 4x more context than GPT-4. Open-source is the new long-context king! This thing can easily fit entire books in a prompt.
 	- [tweet](https://x.com/theemozilla/status/1720107186850877662?s=20)
@@ -121,6 +125,9 @@
 	- Train on a large and diverse dataset, something like C4 along plus high quality known components (academic papers, books, code). Ideally you'd scrape these things freshly instead of using Pile / RP. You want to balance clean w/ diverse. Dedupe, but train for 4 epochs (3T+ total)
 	- RLHF HISTORY Entangled Preferences: The History and Risks of Reinforcement Learning and Human Feedback
 		- https://x.com/natolambert/status/1721250884481634420?s=20
+- long context methods survey paper
+	- https://arxiv.org/pdf/2311.12351.pdf
+	- 
 - MFU calculation
 	- [Stas Bekman](https://twitter.com/StasBekman/status/1721207940168987113) - This study from 2020 publishes the actual achievable TFLOPS in half-precision for the high-end gpus. e.g., 88% for V100, 93% for A100. Showing that A100@BF16's peak performance is 290 and not 312 TFLOPS. So that means that when we calculate MFU (Model FLOPS Utilization) our reference point shouldn't be the advertised theoretical TFLOPS, but rather the adjusted achievable TFLOPS.
 - other good reads

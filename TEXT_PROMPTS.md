@@ -27,6 +27,8 @@ prompt engineering techniques
 - constrained sampling methods
 	- reLLM and Parserllm 
 		- coerce LLMs into only generating a specific structure for a given regex pattern (ReLLM). Now for ParserLLM. The natural next step was context-free grammars (e.g., a language of all strings with balanced parentheses -- you can’t do this with regular languages).
+- generating long form articles
+	- https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai
 
 ## reading list
 
