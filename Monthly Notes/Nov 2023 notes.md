@@ -87,6 +87,9 @@
 - Finetuning
 	- [gpt evaluator as judge](https://x.com/llama_index/status/1719868813318271242?s=20) - from llamaindex
 - llama index + pplx api https://x.com/llama_index/status/1725975990911086932?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- sharing screen with gpt4 vision
+	- https://twitter.com/suneel_matham/status/1722538037551530069
+	- https://github.com/hackgoofer/PeekPal
 
 ## other launches
 

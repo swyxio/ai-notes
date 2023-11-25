@@ -193,6 +193,7 @@ there was a google thing as well. something like XP1?
 ## agent collaboration
 
 - https://arxiv.org/abs/2307.05300v2 # Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration
+- https://github.com/OpenBMB/ChatDev ChatDev stands as a virtual software company that operates through various intelligent agents holding different roles, including Chief Executive Officer , Chief Product Officer , Chief Technology Officer , programmer , reviewer , tester , art designer
 
 
 ## finetuning for agents/reasoning
