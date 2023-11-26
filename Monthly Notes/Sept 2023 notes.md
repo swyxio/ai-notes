@@ -166,7 +166,7 @@
 - Vercel v0.dev ([tweet](https://twitter.com/jaredpalmer/status/1702356555218506070), [intro video](https://twitter.com/shadcn/status/1702390674216329469)) - [examples](https://v0.dev/t/4AsVwNf) - AI tool that is effectively Midjourney for React. With v0 you can use simple prompts to generate copy-and-paste friendly React , powered by @shadcn UI and Tailwind CSS.
   - [open source alternative](https://x.com/n_raidenai/status/1704226792985309198?s=20)
 - Vercel v0.dev ([tweet](https://twitter.com/jaredpalmer/status/1702356555218506070)) - [examples](https://v0.dev/t/4AsVwNf) - AI tool that is effectively Midjourney for React. With v0 you can use simple prompts to generate copy-and-paste friendly React , powered by @shadcn UI and Tailwind CSS.
-	- [open source alternative](https://x.com/n_raidenai/status/1704226792985309198?s=20)
+	- [open source alternative aka openv0](https://x.com/n_raidenai/status/1704226792985309198?s=20), [rapidpages](https://github.com/rapidpages/rapidpages)
 	- https://x.com/shadcn/status/1708341248342573201?s=20
 - [Whisper Turbo](https://twitter.com/swyxio/status/1701973576444768324): Engineered from scratch in Rust + WebGPU. Transcribe 20x faster than realtime - all in the browser!
 - [OpenAI Finetuning Model Creator](https://github.com/theindiehacker/openai-finetuning-model-creator)
