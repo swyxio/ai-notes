@@ -6,6 +6,12 @@
 	- and here https://x.com/notcapnamerica/status/1725901659270742084?s=20
 	- https://github.com/w-okada/voice-changer/
 		- https://www.weights.gg/
+- consistency models and GPT4V coding
+	- Krea
+	- TLDraw
+- people need to calm the fuck down 
+	- Q* mass hysteria
+	- OpenAI leadership drama
 
 
 ## OpenAI
@@ -91,6 +97,7 @@
 - sharing screen with gpt4 vision
 	- https://twitter.com/suneel_matham/status/1722538037551530069
 	- https://github.com/hackgoofer/PeekPal
+- insanely-fast-whisper-with-diarisation https://twitter.com/reach_vb/status/1729251580371689821
 
 ## other launches
 
