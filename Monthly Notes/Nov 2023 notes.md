@@ -94,11 +94,15 @@
 	- YouTune - [finetune image models on yt videos](https://x.com/charliebholtz/status/1719847667495231700?s=20)
 - Finetuning
 	- [gpt evaluator as judge](https://x.com/llama_index/status/1719868813318271242?s=20) - from llamaindex
+	- [Learnings from fine-tuning LLM on my Telegram messages](https://github.com/furiousteabag/doppelganger)
 - llama index + pplx api https://x.com/llama_index/status/1725975990911086932?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - sharing screen with gpt4 vision
 	- https://twitter.com/suneel_matham/status/1722538037551530069
 	- https://github.com/hackgoofer/PeekPal
 - insanely-fast-whisper-with-diarisation https://twitter.com/reach_vb/status/1729251580371689821
+- ggml - [tutorial for setting up llama.cpp on AWS instances](https://twitter.com/ggerganov/status/1729232091370369160)
+	- you can use one of the cheapest 16GB VRAM (NVIDIA T4) instances to serve a quantum Mistral 7B model to multiple clients in parallel with full context.
+	- 3B LLaMA provisioned for 1 month is $15k? You can run quantum 13B on the g4dn.xlarge instance above for ~$500/month
 
 ## other launches
 
@@ -147,8 +151,9 @@
 - Galactica postmortem https://twitter.com/rosstaylor90/status/1724547381092573352
 - [Notable resignation](https://twitter.com/ednewtonrex/status/1724902327151452486) from Stability AI Audio team, over copyright fair use training
 - [beautiful illustrated piece](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot) on Stochastic Parrots by the New Yorker
-- Google Switch C 1.6T MoE model
+- Google Switch C 1.6T MoE model (old, but being circulated)
 	- https://news.ycombinator.com/item?id=38352794
+- [$10m **Artificial Intelligence Mathematical Olympiad Prize** (AI-MO Prize)](https://aimoprize.com/) for AI models that can reason mathematically, leading to the creation of a publicly-shared AI model capable of winning a gold medal in the International Mathematical Olympiad (IMO).
 
 
 ## best memes
