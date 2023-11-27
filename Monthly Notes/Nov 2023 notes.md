@@ -119,8 +119,8 @@
 - [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers
 - Lindy.ai https://twitter.com/Altimor/status/1721250514946732190
 - Pplx api 
-	- 
-	- 
+	- x
+- DallE Party - gpt4v and dalle in a loop https://dalle.party/?party=0uKfJjQn
 
 ## misc and other discussions
 

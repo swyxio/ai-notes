@@ -48,9 +48,10 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Semi Analysis https://www.semianalysis.com/p/ai-server-cost-analysis-memory-is
 	- https://www.supervised.news/ is new but promising quality
 	- https://nextword.substack.com/ is new but promising quality
- 	- infrequent but great when they post
-  		- https://eugeneyan.com/writing/
-    		- https://lilianweng.github.io/
+	- https://www.aitidbits.ai/about is new  but promising quality
+- infrequent but great when they post
+	- https://eugeneyan.com/writing/
+	- https://lilianweng.github.io/
 - Aggregators
 	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly (has [chrome extension](https://github.com/labmlai/chrome-extension)) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
 	- Amplify/Sarah Catanzaro's PTK https://www.amplifypartners.com/projects-to-know
