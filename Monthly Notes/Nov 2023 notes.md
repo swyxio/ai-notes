@@ -10,7 +10,8 @@
 	- Krea
 	- TLDraw
 - people need to calm the fuck down 
-	- Q* mass hysteria
+	- Q* mass hysteria 
+		- with some 4chan leaks? https://docs.google.com/document/u/0/d/1RyVP2i9wlQkpotvMXWJES7ATKXjUTIwW2ASVxApDAsA/mobilebasic?utm_source=ainews&utm_medium=email&utm_campaign=ainews-ai-discords-newsletter-11272023
 	- OpenAI leadership drama
 
 
