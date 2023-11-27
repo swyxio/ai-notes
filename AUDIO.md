@@ -56,6 +56,7 @@
   - C-style API
   - a fork of whisper.cpp that uses DirectCompute to run it on GPUs without Cuda on Windows: https://github.com/Const-me/Whisper
 - Whisper.cpp small model is best traadeoff of performance vs accuracy https://blog.lopp.net/open-source-transcription-software-comparisons/
+- https://github.com/Vaibhavs10/insanely-fast-whisper Transcribe 150 minutes (2.5 hours) of audio in less than 98 seconds - with OpenAI's Whisper Large v3. 
 - Whisper.api - [Open-source, self-hosted speech-to-text with fast transcription](https://github.com/innovatorved/whisper.api)
 	- https://news.ycombinator.com/item?id=37226221
 -  [https://superwhisper.com](https://superwhisper.com/) is using these whisper.cpp models to provide really good Dictation on macOS.
@@ -65,6 +66,10 @@
 - speech separation model https://github.com/openai/whisper/discussions/264#discussioncomment-4706132
 	- https://github.com/miguelvalente/whisperer
  - deep speech https://github.com/mozilla/DeepSpeech
+	 - https://github.com/coqui-ai/TTS fork of deepspeech since 2021
+	 - [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech?ref=blog.lopp.net) - an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. It uses Google's TensorFlow to make the implementation easier. Looks like it was actively developed from 2017 to late 2020 but has since been abandoned.
+	 - [Flashlight](https://github.com/flashlight/flashlight?ref=blog.lopp.net) is a fast, flexible machine learning library written entirely in C++ from the Facebook AI Research and the creators of Torch, TensorFlow, Eigen and Deep Speech. The project encompasses several apps, including the [Automatic Speech Recognition](https://github.com/flashlight/flashlight/tree/master/flashlight/app/asr?ref=blog.lopp.net) app for transcription.
+	 - [Speechbrain](https://github.com/speechbrain/speechbrain?ref=blog.lopp.net) is a conversational AI toolkit based on PyTorch. From browsing their documentation it looks like this is more of a programming library designed for building processing pipelines than a standalone transcription tool that you can just feed audio files into. As such, I didn't test it.
 - **Deepgram** 80x faster than > Whisper https://news.ycombinator.com/item?id=35367655 - strong endorsement
 	- deepgram Nova model https://twitter.com/DeepgramAI/status/1646558003079057409
 - Assemblyai conformer https://www.assemblyai.com/blog/conformer-1/
@@ -125,7 +130,6 @@ https://news.ycombinator.com/item?id=33663486
 	- Narakeet
 		- https://twitter.com/jessicard/status/1642867214943412224
 	- https://www.resemble.ai/
-	- https://github.com/coqui-ai/TTS
 	- myshell TTS https://twitter.com/svpino/status/1671488252568834048
 - OSS
 	- pyttsx3  [https://pyttsx3.readthedocs.io/en/latest/engine.html](https://pyttsx3.readthedocs.io/en/latest/engine.html)

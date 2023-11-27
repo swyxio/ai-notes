@@ -29,6 +29,7 @@
 		- useful for low level systems developers [reading docs](https://news.ycombinator.com/item?id=38192094)
 		- https://news.ycombinator.com/item?id=38166431
 		- typist https://twitter.com/_Borriss_/status/1725208054185046071
+		- prompts for [many many other GPTs](https://github.com/linexjlin/GPTs)
 	- chatgpt memory "rumor" https://twitter.com/yupiop12/status/1724915477900656857
 	- json mode
 		- [does not guarantee output will match your schema](https://community.openai.com/t/json-mode-vs-function-calling/476994/6) but will improve
