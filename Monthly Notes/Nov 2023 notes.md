@@ -11,6 +11,7 @@
 	- TLDraw
 - people need to calm the fuck down 
 	- Q* mass hysteria 
+		- [complete nonsense](https://twitter.com/ylecun/status/1728126868342145481)
 		- with some 4chan leaks? https://docs.google.com/document/u/0/d/1RyVP2i9wlQkpotvMXWJES7ATKXjUTIwW2ASVxApDAsA/mobilebasic?utm_source=ainews&utm_medium=email&utm_campaign=ainews-ai-discords-newsletter-11272023
 	- OpenAI leadership drama
 
