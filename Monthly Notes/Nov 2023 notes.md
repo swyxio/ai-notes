@@ -82,6 +82,7 @@
 
 - Mistral @ 2bn https://archive.ph/hkWD3
 - Factory.ai $5m seed https://www.factory.ai/blog https://x.com/matanSF/status/1720106297096593672?s=20
+- [Pika Labs $55m seed/Series A](https://x.com/karpathy/status/1729545506890932536?s=46&t=6FDPaNxZcbSsELal6Sv7Ug) ([Forbes](https://www.forbes.com/sites/kenrickcai/2023/11/27/pika-ai-video-generator-editor-series-a/?ss=ai&sh=58563005421b))
 - [Modal labs raised $16m series A with Redpoint](https://twitter.com/modal_labs/status/1711748224610943163?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 
 
@@ -141,6 +142,8 @@
 
 ## misc and other discussions
 
+- [Karpathy Intro to LLMs talk](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+	- with [Sarah Chieng notes](https://mphr.notion.site/Intro-To-Large-Language-Models-LLMs-a89c1750c71545dc88717d01c4552f0d)
 - standard pretraining stack
 	- Use flash attention 2, parallel attention and feedforward layers, rotary embeddings, pre-layer norm, and probably 8/3 h multipliers but that doesn't matter too much. Basically Mistral + parallel layers (they left a free +10% performance on the table). https://x.com/BlancheMinerva/status/1721380386515669209?s=20
 	- Train on a large and diverse dataset, something like C4 along plus high quality known components (academic papers, books, code). Ideally you'd scrape these things freshly instead of using Pile / RP. You want to balance clean w/ diverse. Dedupe, but train for 4 epochs (3T+ total)
