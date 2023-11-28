@@ -129,7 +129,9 @@
 	- latent consistency and LCM-LoRA are the incremental innovations that spawned the recent work https://huggingface.co/collections/latent-consistency/latent-consistency-model-demos-654e90c52adb0688a0acbe6f
 		- https://twitter.com/javilopen/status/1724398666889224590
 - TLDraw [Make real](https://x.com/tldraw/status/1724892287304646868?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- https://github.com/tldraw/draw-fast
 	- small todo app https://twitter.com/Altimor/status/1725678615751438396
+	- excalidraw response https://twitter.com/bigansh/status/1729241462712545563
 - [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers
 - Lindy.ai https://twitter.com/Altimor/status/1721250514946732190
 - Pplx api 
