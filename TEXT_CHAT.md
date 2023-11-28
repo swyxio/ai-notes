@@ -247,6 +247,8 @@ Subject to limitations
 		- open source https://github.com/chatgptui/desktop
 		- https://chat-gpt-next-web.vercel.app/
 		- mckay wrigley chabot-ui https://t.co/QkP2zMi2FL - now takeoffui
+			- https://github.com/mckaywrigley/chatbot-ui
+			- https://github.com/Yidadaa/ChatGPT-Next-Web allows editing responses
 		- open [https://github.com/Loeffeldude/my-chat-gpt](https://github.com/Loeffeldude/my-chat-gpt)
 		- https://www.chatwithme.chat/tutorial https://github.com/kierangilliam/chatwithme.chat
 		- https://github.com/cogentapps/chat-with-gpt with voice synthesis

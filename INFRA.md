@@ -136,6 +136,7 @@ _Source [here](https://www.economist.com/technology-quarterly/2020/06/11/the-co
   - To put this in context some of the new clusters coming are over 10x more powerful, even more so when you consider scaling. Our original supercomputer from AWS last year is > 2x more poweful https://twitter.com/EMostaque/status/1612660862627762179?s=20
   - [ @foldingathome](https://twitter.com/foldingathome)exceeded 2.4 exaFLOPS (faster than the top 500 supercomputers combined)!
 - https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
+- [aman sanger thread on understanding openai dedicated instances](https://x.com/amanrsanger/status/1728877973401711060?s=20)
 
 ### openai triton vs nvidia cuda
 

@@ -29,7 +29,7 @@
 		- useful for low level systems developers [reading docs](https://news.ycombinator.com/item?id=38192094)
 		- https://news.ycombinator.com/item?id=38166431
 		- typist https://twitter.com/_Borriss_/status/1725208054185046071
-		- prompts for [many many other GPTs](https://github.com/linexjlin/GPTs)
+		- jailbreaking them is [easy](https://twitter.com/literallydenis/status/1729147010748424375). here are prompts for [many many other GPTs](https://github.com/linexjlin/GPTs)
 	- chatgpt memory "rumor" https://twitter.com/yupiop12/status/1724915477900656857
 	- json mode
 		- [does not guarantee output will match your schema](https://community.openai.com/t/json-mode-vs-function-calling/476994/6) but will improve
@@ -104,6 +104,7 @@
 - ggml - [tutorial for setting up llama.cpp on AWS instances](https://twitter.com/ggerganov/status/1729232091370369160)
 	- you can use one of the cheapest 16GB VRAM (NVIDIA T4) instances to serve a quantum Mistral 7B model to multiple clients in parallel with full context.
 	- 3B LLaMA provisioned for 1 month is $15k? You can run quantum 13B on the g4dn.xlarge instance above for ~$500/month
+- [LMsys introduced **lookahead decoding**](https://lmsys.org/blog/2023-11-21-lookahead-decoding/), a new, exact, and parallel decoding algorithm to accelerate LLM inference. a step above  [speculative decoding](https://arxiv.org/abs/2211.17192) (including [Medusa](https://sites.google.com/view/medusa-llm) and [OSD](https://arxiv.org/abs//2310.07177))
 
 ## other launches
 
