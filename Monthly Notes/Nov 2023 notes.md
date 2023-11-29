@@ -51,6 +51,7 @@
 - gpt3.5 issues https://twitter.com/sharifshameem/status/1725422821730636236
 	- zephyr great
 - [interesting, nontechnical real life use cases for GPT4 from Reddit](https://www.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/)
+- Occasional reports of GPT4 nerfing [from biased individuals](https://twitter.com/erhartford/status/1729566883350012038) and [on the OpenAI discord](https://twitter.com/swyx/status/1729960492494696951)
 
 ## models
 
