@@ -9,6 +9,9 @@
 - consistency models and GPT4V coding
 	- Krea
 	- TLDraw
+	- https://github.com/abi/screenshot-to-code
+	- one step diffusion - SDXL turbo https://twitter.com/StabilityAI/status/1729589510155948074
+		- use on [Draw Things](https://twitter.com/drawthingsapp/status/1729633231526404400)
 - people need to calm the fuck down 
 	- Q* mass hysteria 
 		- [complete nonsense](https://twitter.com/ylecun/status/1728126868342145481)
@@ -37,6 +40,8 @@
 		- [functions param deprecated!! no notice!](https://x.com/Tangpin78255362/status/1722049314103705650?s=20)
 	- dalle3
 		- the consistency model VAE decoder (used in DALL-E 3) for the Stable Diffusion 1.4/1.5 VAE https://twitter.com/iScienceLuvr/status/1721601915975528683
+	- assistants
+		- open source version https://github.com/stellar-amenities/assistants
 - nov 14: paused chatgpt plus signups, ebay at premium https://x.com/sdand/status/1724629169483719104?s=20
 - sama fired nov 17
 	- was at cabridge https://www.youtube.com/watch?v=NjpNG0CJRMM
@@ -76,6 +81,8 @@
 - Stable Video Diffusion
 	- https://news.ycombinator.com/item?id=38368287
 	- and video LLaVA https://news.ycombinator.com/item?id=38366830
+	- [PhotoAI into VideoAI](https://twitter.com/levelsio/status/1729621624062611835)
+	- and launching [Stability Memberships](https://twitter.com/EMostaque/status/1729609312601887109), a game engine licensing model
 
 
 ### Fundraising
@@ -107,6 +114,8 @@
 	- you can use one of the cheapest 16GB VRAM (NVIDIA T4) instances to serve a quantum Mistral 7B model to multiple clients in parallel with full context.
 	- 3B LLaMA provisioned for 1 month is $15k? You can run quantum 13B on the g4dn.xlarge instance above for ~$500/month
 - [LMsys introduced **lookahead decoding**](https://lmsys.org/blog/2023-11-21-lookahead-decoding/), a new, exact, and parallel decoding algorithm to accelerate LLM inference. a step above  [speculative decoding](https://arxiv.org/abs/2211.17192) (including [Medusa](https://sites.google.com/view/medusa-llm) and [OSD](https://arxiv.org/abs//2310.07177))
+- [react-native ai](https://github.com/dabit3/react-native-ai) from Nader Dabit!
+	- Full stack framework for building cross-platform mobile AI apps supporting LLM real-time / streaming text and chat UIs, image services and natural language to images with multiple models, and image processing.
 
 ## other launches
 

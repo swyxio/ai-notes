@@ -214,6 +214,12 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 - https://github.com/Mooler0410/LLMsPracticalGuide
 	- good curated list of all the impt papers
 - anti hype LLM reading list https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
+- [6 papers from Jason Wei of OpenAI](https://twitter.com/_jasonwei/status/1729585618311950445) ([blog](https://www.jasonwei.net/blog/some-intuitions-about-large-language-models))
+	- GPT-3 paper (https://arxiv.org/abs/2005.14165)
+	- chain-of-thought prompting (https://arxiv.org/abs/2201.11903)
+	- scaling laws, (https://arxiv.org/abs/2001.08361)
+	- emergent abilities (https://arxiv.org/abs/2206.07682)
+	- language models can follow both flipped labels and semantically-unrelated labels (https://arxiv.org/abs/2303.03846)
 - Transformers from scratch https://e2eml.school/transformers.html
 	- transformers vs LSTM https://medium.com/analytics-vidhya/why-are-lstms-struggling-to-matchup-with-transformers-a1cc5b2557e3
 	- transformer code walkthru https://twitter.com/mark_riedl/status/1555188022534176768
