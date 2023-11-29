@@ -85,8 +85,9 @@
 	- and launching [Stability Memberships](https://twitter.com/EMostaque/status/1729609312601887109), a game engine licensing model
 
 
-### Fundraising
+## Fundraising
 
+- Together AI $102.5m Series A
 - Mistral @ 2bn https://archive.ph/hkWD3
 - Factory.ai $5m seed https://www.factory.ai/blog https://x.com/matanSF/status/1720106297096593672?s=20
 - [Pika Labs $55m seed/Series A](https://x.com/karpathy/status/1729545506890932536?s=46&t=6FDPaNxZcbSsELal6Sv7Ug) ([Forbes](https://www.forbes.com/sites/kenrickcai/2023/11/27/pika-ai-video-generator-editor-series-a/?ss=ai&sh=58563005421b))
@@ -146,7 +147,7 @@
 - [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers
 - Lindy.ai https://twitter.com/Altimor/status/1721250514946732190
 - Pplx api 
-	- x
+	- pplx 7b and 70b online LLMs https://twitter.com/denisyarats/status/1729909196160930090
 - DallE Party - gpt4v and dalle in a loop https://dalle.party/?party=0uKfJjQn
 
 ## misc and other discussions
@@ -180,4 +181,5 @@
 - https://x.com/paularambles/status/1726606909069988141?s=20
 - https://x.com/202accepted/status/1726505578405695713?s=20
 - check latent space discord meme channel theres just too many
-- 
+- make more meme
+	- https://x.com/liveoverflow/status/1729798452094128278?s=46&t=90xQ8sGy63D2OtiaoGJuww
