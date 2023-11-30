@@ -48,6 +48,7 @@
 	- was at apec summit https://www.youtube.com/watch?v=ZFFvqRemDv8
 	- you all know what happened
 	- [sama's last interview](https://podcasts.apple.com/us/podcast/mayhem-at-openai-our-interview-with-sam-altman/id1528594034?i=1000635486878) before being fired
+- [will be releasing usage tracking based on API key for the OpenAI API](https://x.com/OfficialLoganK/status/1729194654963495307?s=20)
 - gpt3.5 issues https://twitter.com/sharifshameem/status/1725422821730636236
 	- zephyr great
 - [interesting, nontechnical real life use cases for GPT4 from Reddit](https://www.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/)
@@ -84,6 +85,7 @@
 	- and video LLaVA https://news.ycombinator.com/item?id=38366830
 	- [PhotoAI into VideoAI](https://twitter.com/levelsio/status/1729621624062611835)
 	- and launching [Stability Memberships](https://twitter.com/EMostaque/status/1729609312601887109), a game engine licensing model
+- Small models: We trained a small transformer (100M params) for basic arithmetic. W. the right training data it nails 12x12 digits multiplication w/o CoT (that's 10^24 possibilities, so no it's not memorization. ([tweet](https://twitter.com/SebastienBubeck/status/1729517609669030071))
 
 
 ## Fundraising
@@ -93,6 +95,7 @@
 - Factory.ai $5m seed https://www.factory.ai/blog https://x.com/matanSF/status/1720106297096593672?s=20
 - [Pika Labs $55m seed/Series A](https://x.com/karpathy/status/1729545506890932536?s=46&t=6FDPaNxZcbSsELal6Sv7Ug) ([Forbes](https://www.forbes.com/sites/kenrickcai/2023/11/27/pika-ai-video-generator-editor-series-a/?ss=ai&sh=58563005421b))
 - [Modal labs raised $16m series A with Redpoint](https://twitter.com/modal_labs/status/1711748224610943163?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- Voltage Park - [New nonprofit backed by crypto billionaire scores AI chips worth $500M](https://techcrunch.com/2023/10/31/new-nonprofit-backed-by-crypto-billionaire-scores-ai-chips-worth-500m/)
 
 
 ## open source projects
@@ -118,6 +121,10 @@
 - [LMsys introduced **lookahead decoding**](https://lmsys.org/blog/2023-11-21-lookahead-decoding/), a new, exact, and parallel decoding algorithm to accelerate LLM inference. a step above  [speculative decoding](https://arxiv.org/abs/2211.17192) (including [Medusa](https://sites.google.com/view/medusa-llm) and [OSD](https://arxiv.org/abs//2310.07177))
 - [react-native ai](https://github.com/dabit3/react-native-ai) from Nader Dabit!
 	- Full stack framework for building cross-platform mobile AI apps supporting LLM real-time / streaming text and chat UIs, image services and natural language to images with multiple models, and image processing.
+- [llamafile](https://github.com/Mozilla-Ocho/llamafile) ([HN](https://news.ycombinator.com/item?id=38464057), [Blogpost](https://hacks.mozilla.org/2023/11/introducing-llamafile/), [simonw writeup](https://simonwillison.net/2023/Nov/29/llamafile/)): 
+	- I think my favourite thing about llamafile is what it represents. This is a single binary file which you can download and then use, forever, on (almost) any computer.
+	- You don’t need a network connection, and you don’t need to keep track of more than one file.
+	- Stick that file on a USB stick and stash it in a drawer as insurance against a future apocalypse. You’ll never be without a language model ever again.
 
 ## other launches
 
@@ -149,6 +156,7 @@
 - Lindy.ai https://twitter.com/Altimor/status/1721250514946732190
 - Pplx api 
 	- pplx 7b and 70b online LLMs https://twitter.com/denisyarats/status/1729909196160930090
+	- referencing [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214)
 - DallE Party - gpt4v and dalle in a loop https://dalle.party/?party=0uKfJjQn
 
 ## misc and other discussions
