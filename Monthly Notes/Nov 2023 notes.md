@@ -125,6 +125,8 @@
 	- I think my favourite thing about llamafile is what it represents. This is a single binary file which you can download and then use, forever, on (almost) any computer.
 	- You don’t need a network connection, and you don’t need to keep track of more than one file.
 	- Stick that file on a USB stick and stash it in a drawer as insurance against a future apocalypse. You’ll never be without a language model ever again.
+- gpt-fast - [a demo codebase for accelerating models with native PyTorch](https://pytorch.org/blog/accelerating-generative-ai-2/) using Torch.compile, quantization, speculative decoding, and tensor parallelism
+	- 246tok/s - "[This is the fastest inference **by far** I've seen.](https://twitter.com/HamelHusain/status/1730309081288863910)esp without TensorRT
 
 ## other launches
 
@@ -158,6 +160,8 @@
 	- pplx 7b and 70b online LLMs https://twitter.com/denisyarats/status/1729909196160930090
 	- referencing [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214)
 - DallE Party - gpt4v and dalle in a loop https://dalle.party/?party=0uKfJjQn
+- [Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/) interesting/fun paper and codebase uses Stability AI's Deepfloyd
+	- Our method is conceptually simple. We take an off-the-shelf diffusion model and use it to estimate the noise in different views or transformations, ��, of an image. The noise estimates are then aligned by applying the inverse view, ��−1, and averaged together. This averaged noise estimate is then used to take a diffusion step.
 
 ## misc and other discussions
 
