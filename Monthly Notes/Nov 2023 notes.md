@@ -53,6 +53,8 @@
 	- zephyr great
 - [interesting, nontechnical real life use cases for GPT4 from Reddit](https://www.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/)
 - Occasional reports of GPT4 nerfing [from biased individuals](https://twitter.com/erhartford/status/1729566883350012038) and [on the OpenAI discord](https://twitter.com/swyx/status/1729960492494696951)
+- ChatGPT anniversary
+- [and 10 years at FAIR](https://x.com/soumithchintala/status/1730297950608208378?s=20)
 
 ## models
 

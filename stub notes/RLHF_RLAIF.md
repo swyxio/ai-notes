@@ -1,3 +1,5 @@
+natolambert on RLHF: https://docs.google.com/presentation/d/1T6X8ZlwrBek14wGfKljLxikwkTBDdM88r0AZ6NiodU4/edit#slide=id.g2592b7513da_0_392
+
 
 memes
 - https://twitter.com/jordnb/status/1609501943889534977?s=46&t=oDskJuMscryc9UxtfIfsNg
