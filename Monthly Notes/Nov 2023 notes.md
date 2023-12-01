@@ -18,6 +18,7 @@
 	- [enabled by FAL.ai](https://twitter.com/burkaygur/status/1725626154231492684)
 	- https://github.com/abi/screenshot-to-code
 	- one step diffusion - SDXL turbo https://twitter.com/StabilityAI/status/1729589510155948074
+		- https://stability.ai/news/stability-ai-sdxl-turbo
 		- use on [Draw Things](https://twitter.com/drawthingsapp/status/1729633231526404400)
 	- can try with [HuggingFace Diffusers](https://huggingface.co/spaces/latent-consistency/super-fast-lcm-lora-sd1.5) ([blogpost](https://huggingface.co/blog/lcm_lora)) more demos [here](https://huggingface.co/collections/latent-consistency/latent-consistency-model-demos-654e90c52adb0688a0acbe6f)
 - video is real and good now
