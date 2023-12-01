@@ -13,3 +13,7 @@ stable diffusion
 video to video
 https://news.ycombinator.com/item?id=36288294
 warpfusion example - https://twitter.com/devdef/status/1591912833427570690
+
+## impt papers
+
+- [Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation](https://humanaigc.github.io/animate-anyone/) - however no code available

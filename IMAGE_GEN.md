@@ -36,6 +36,24 @@
 </details>
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Glossary
+
+[for total newbies](https://www.pcworld.com/article/1672975/the-best-ai-art-generators-for-you-midjourney-bing-and-more.html)
+
+- **Prompt:** A simple (or complex!) text description that describes that the image portrays. This is affected by the prompt weight (see below).
+- **txt2img (text-to-image)**: This is basically what we think of in terms of AI art: input a text prompt, generate an image.
+- **Negative prompt**: Anything you _don’t_ want to see in the final image.
+- **img2img: (image to image**): Instead of generating a scene from scratch, you can upload an image and use that as inspiration for the output image. Want to turn your dog into a king? Upload the dog’s photo, _then_ apply the AI art generation to the scene.
+- **Model:** AI uses different generative models (Stable Diffusion 1.5 or 2.1 are the most common, though there are many others like DALL-E 2 and Midjourney’s custom model) and each model will bring its own “look” to a scene. Experiment and see what works!
+- **Prompt weight:** How closely the model and image adheres to the prompt. This is one variable you may want to tweak on the sites that allow it. Simply put, a strong prompt weight won’t allow for much creativity by the AI algorithm, while a weak weight will.
+- **Sampler:** Nothing you probably need to worry about, though different samplers also affect the look of an image.
+- **Steps:** How many iterations an AI art generator will take to construct an image, generally improving the output. While many services will allow you to adjust this, a general rule of thumb is that anything over 50 steps offers diminishing improvements. One user uploaded a visual comparison of how [steps and samples affect the resulting image](https://go.redirectingat.com/?id=111346X1569483&url=https://i.ibb.co/vm4fm7L/1661440027115223.jpg&xcust=2-1-1672975-1-0-0&sref=https://www.pcworld.com/article/1672975/the-best-ai-art-generators-for-you-midjourney-bing-and-more.html).
+- **Face fixing:** Some sites offer the ability to “fix” faces using algorithms like GFPGAN, which can make portraits look more lifelike.
+- **ControlNet:** A new algorithm, and not widely used. ControlNet is specifically designed for image-to-image generation, “locking” aspects of the original image so they can’t be changed. If you have an image of a black cat and want to change it to a calico, ControlNet could be used to preserve the original pose, simply changing the color.
+- **Upscaling:** Default images are usually small, square, 1,024×1,024 images, though not always. Though upscaling often “costs” more in terms of time and computing resources, upscaling the image is one way to get a “big” image that you can use for other purposes besides just showing off to your friends on social media.
+- **Inpainting:** This is a rather interesting form of image editing. Inpainting is basically like Photoshop plus AI: you can take an image and highlight a specific area, and then alter that area using AI. (You can also edit everything but the highlighted area, alternatively.) Imagine uploading a photo of your father, “inpainting” the area where his hair is, and then adding a crown or a clown’s wig with AI.
+- **Outpainting:** This uses AI to expand the bounds of the scene. Imagine you just have a small photo, shot on a beach in Italy. You could use outpainting to “expand” the shot, adding more of the (AI-generated) beach, perhaps a few birds or a distant building. It’s not something you’d normally think of!
+
 ## good reads
 
 - Ten Years of Image Synthesis https://zentralwerkstatt.org/blog/ten-years-of-image-synthesis

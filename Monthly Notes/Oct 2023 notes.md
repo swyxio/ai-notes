@@ -63,6 +63,7 @@
 			- [no info on data at all](https://x.com/leavittron/status/1715247384941498761?s=20)
 	- zephyr 7b
 		- Zephyr 7b beats Llama 70b on MT Bench https://twitter.com/huggingface/status/1711780979574976661
+		- [only LLM that can handle ReAct agent tasks over data](https://twitter.com/llama_index/status/1718054631413363196)
 		- [nathan lambert take](https://twitter.com/natolambert/status/1711767611586035884?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
 		- noncommercial license [for now](https://x.com/natolambert/status/1711947441057276227?s=20)
 	- Announcing Open Hermes 2!! A continuation of the Hermes series of models, now. built on Mistral 7B! The Hermes 2 model was trained on 900,000 instructions, and surpasses all previous versions of Hermes 13B and below, and matches 70B on some benchmarks! Hermes 2 changes the game with strong multiturn chat skills, system prompt capabilities, and uses ChatML format. It's quality, diversity and scale is unmatched in the current OS LM landscape. Not only does it do well in benchmarks, but also in unmeasured capabilities, like Roleplaying, Tasks, and more. [https://fxtwitter.com/Teknium1/status/1714010838959612329](https://fxtwitter.com/Teknium1/status/1714010838959612329 "https://fxtwitter.com/Teknium1/status/1714010838959612329")
