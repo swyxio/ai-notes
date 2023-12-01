@@ -70,6 +70,14 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 
 - hugginface transformers https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt
 - lightning https://twitter.com/_willfalcon/status/1665826619200614401
+- [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
+- Skypilot https://github.com/skypilot-org/skypilot a framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution.
+
+SkyPilot **abstracts away cloud infra burdens**:
+
+- Launch jobs & clusters on any cloud
+- Easy scale-out: queue and run many jobs, automatically managed
+- Easy access to object stores (S3, GCS, R2)
 
 
 ## vector databases

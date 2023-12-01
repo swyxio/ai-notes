@@ -13,7 +13,8 @@
 - consistency models and GPT4V coding
 	- was [teased in Jan/Feb](https://x.com/okarisman/status/1721629198094078458?s=20), with distilled versions of Stable Diffusion, but only broke through with LCM-LoRAs which can turn regular SD models into pseudo-LCM models
 	- Krea - [moving the sun in real-time](https://twitter.com/TitusTeatus/status/1723961348101677353)
-	- TLDraw
+	- TLDraw makeitreal
+	- [enabled by FAL.ai](https://twitter.com/burkaygur/status/1725626154231492684)
 	- https://github.com/abi/screenshot-to-code
 	- one step diffusion - SDXL turbo https://twitter.com/StabilityAI/status/1729589510155948074
 		- use on [Draw Things](https://twitter.com/drawthingsapp/status/1729633231526404400)
@@ -75,7 +76,7 @@
 
 ## models
 
-- Claude 2.1
+- Claude 2.1: offers an industry-leading 200K token context window (over 500 pages), a 2x decrease in hallucination rates, system prompts, tool use, and updated pricing.
 	- https://www.anthropic.com/index/claude-2-1
 	- model card https://www-files.anthropic.com/production/images/ModelCardClaude2_with_appendix.pdf?dm=1700589594
 	- $1k test showing [declining utilization](https://twitter.com/GregKamradt/status/1727018183608193393) of the 200k context
@@ -109,8 +110,11 @@
 	- and Pika
 	- [PhotoAI into VideoAI](https://twitter.com/levelsio/status/1729621624062611835)
 	- and launching [Stability Memberships](https://twitter.com/EMostaque/status/1729609312601887109), a game engine licensing model
+- [StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://github.com/yl4579/StyleTTS2)
+	- ["Eleven-labs quality"](https://news.ycombinator.com/item?id=38335255) - but "Not sure it's quite up to Eleven Labs quality. But to me, what makes Eleven so cool is that they have a large library of high quality voices that are easy to choose from.... the real special sauce for Eleven is the near instant voice cloning with just a single 5 minute sample, which works shockingly (even spookily) well."
 - Small models: We trained a small transformer (100M params) for basic arithmetic. W. the right training data it nails 12x12 digits multiplication w/o CoT (that's 10^24 possibilities, so no it's not memorization. ([tweet](https://twitter.com/SebastienBubeck/status/1729517609669030071))
 - [HelixNet](https://twitter.com/migtissera/status/1720567034315186588?s=12&t=90xQ8sGy63D2OtiaoGJuww) is a novel Deep Learning architecture consisting of 3 x Mistral-7B LLMs. It has an actor, a critic, and a regenerator.
+- 
 
 
 ## Fundraising
@@ -213,7 +217,9 @@
 - MFU calculation
 	- [Stas Bekman](https://twitter.com/StasBekman/status/1721207940168987113) - This study from 2020 publishes the actual achievable TFLOPS in half-precision for the high-end gpus. e.g., 88% for V100, 93% for A100. Showing that A100@BF16's peak performance is 290 and not 312 TFLOPS. So that means that when we calculate MFU (Model FLOPS Utilization) our reference point shouldn't be the advertised theoretical TFLOPS, but rather the adjusted achievable TFLOPS.
 - other good reads
-	- [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai) ([builder.io](https://news.ycombinator.com/from?site=builder.io))[103 comments](https://news.ycombinator.com/item?id=38221552)|
+	- [Don't Build AI Products the Way Everyone Else Is Doing It](https://www.builder.io/blog/build-ai) ([builder.io](https://news.ycombinator.com/from?site=builder.io))[103 comments](https://news.ycombinator.com/item?id=38221552)
+	- Github Universe wrote about  [The architecture of today’s LLM applications](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/) ![https://github.blog/wp-content/uploads/2023/10/LLMapparchitecturediagram.png?resize=4088%2C2148?w=2048](https://github.blog/wp-content/uploads/2023/10/LLMapparchitecturediagram.png?resize=4088%2C2148?w=2048)
+	- Lilian Weng wrote a great survey post on [Adversarial Attacks on LLMs ](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/) (vs images and [data extraction](https://news.ycombinator.com/item?id=38458683))
 - Galactica postmortem https://twitter.com/rosstaylor90/status/1724547381092573352
 - [Notable resignation](https://twitter.com/ednewtonrex/status/1724902327151452486) from Stability AI Audio team, over copyright fair use training
 - [beautiful illustrated piece](https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot) on Stochastic Parrots by the New Yorker
@@ -227,6 +233,7 @@
 	- [Gorilla LLM](https://twitter.com/shishirpatil_/status/1661780076277678082)
 	- [Trelis/Mistral-7B-Instruct-v0.1-function-calling-v2](https://huggingface.co/Trelis/Mistral-7B-Instruct-v0.1-function-calling-v2)
 	- [meetkai/functionary-7b-v1.4](https://www.reddit.com/r/LocalLLaMA/comments/158l28c/functionary_new_open_source_llm_that_can_execute/)
+	- [openhermes2.5 can do it?](https://twitter.com/abacaj/status/1726343354902802517) bc of [airoboros](https://x.com/jon_durbin/status/1726349280963875139?s=20)
 - [Humane AI Pin vs Tab Pin comparison](https://twitter.com/avischiffmann/status/1722803122723258468?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 
 
@@ -238,6 +245,9 @@
 - https://x.com/paularambles/status/1726606909069988141?s=20
 - https://x.com/202accepted/status/1726505578405695713?s=20
 - check latent space discord meme channel theres just too many
+- laundry buddy memes
+	- https://twitter.com/chatgptapp/status/1727174037804355944?s=12&t=90xQ8sGy63D2OtiaoGJuww
+	- jeremy howard laundry buddy hate
 - make more meme
 	- https://x.com/liveoverflow/status/1729798452094128278?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - where is gemini lol https://x.com/tszzl/status/1730123261504291298?s=20
