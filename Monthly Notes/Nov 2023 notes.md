@@ -57,6 +57,7 @@
 		- open source version https://github.com/stellar-amenities/assistants
 - nov 14: paused chatgpt plus signups, ebay at premium https://x.com/sdand/status/1724629169483719104?s=20
 - [Major outages across ChatGPT and API](https://news.ycombinator.com/item?id=38190401) - "I used Bard today. it's gotten a lot better."
+	- but there was a high profile post [Hacking Google Bard - From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 - sama fired nov 17
 	- was at cabridge https://www.youtube.com/watch?v=NjpNG0CJRMM
 	- was at apec summit https://www.youtube.com/watch?v=ZFFvqRemDv8
@@ -69,6 +70,8 @@
 - Occasional reports of GPT4 nerfing [from biased individuals](https://twitter.com/erhartford/status/1729566883350012038) and [on the OpenAI discord](https://twitter.com/swyx/status/1729960492494696951)
 - ChatGPT anniversary
 - [and 10 years at FAIR](https://x.com/soumithchintala/status/1730297950608208378?s=20)
+
+
 
 ## models
 
@@ -111,6 +114,7 @@
 ## Fundraising
 
 - Together AI $102.5m Series A
+	- also announcing [Together Inference Engine](https://www.together.ai/blog/together-inference-engine-v1) - 117 tokens per second on Llama-2-70B-Chat and 171 tokens per second on Llama-2-13B-Chat
 - Mistral @ 2bn https://archive.ph/hkWD3
 - Factory.ai $5m seed https://www.factory.ai/blog https://x.com/matanSF/status/1720106297096593672?s=20
 - Ozone [$7m seed](https://twitter.com/maxvwolff/status/1722311661611360479) for "creating video 10x faster than a human would through context-aware AI."
@@ -153,6 +157,7 @@
 
 ## other launches
 
+- [Microsoft Ignite](https://www.youtube.com/watch?v=79wFBN5PffA) and [AWS Re:invent](https://www.youtube.com/watch?v=Sdh_EUL_hoo) announcements
 - Elon Musk's X.ai Grok model was announced but not widely released [HN](https://news.ycombinator.com/item?id=38148396)
 	- "A unique and fundamental advantage of Grok is that it has real-time knowledge of the world via the X platform."
 	- The engine powering Grok is Grok-1, our frontier LLM, which we developed over the last four months. Grok-1 has gone through many iterations over this span of time. [Model Card](https://x.ai/model-card/)
@@ -192,6 +197,7 @@
 	- with [Sarah Chieng notes](https://mphr.notion.site/Intro-To-Large-Language-Models-LLMs-a89c1750c71545dc88717d01c4552f0d)
 	- more thinking about [LLM OS](https://twitter.com/karpathy/status/1723140519554105733?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Bill Gates is back again writing about agents](https://www.gatesnotes.com/AI-agents)
+- Shanahan, Reynolds, and McDonnell back again in [Nature](https://www.nature.com/articles/s41586-023-06647-8) on Role play with large language models. instead of dialogue agent as role-playing a single character, see a dialogue agent as a *superposition of simulacra within a multiverse of possible characters.*
 - standard pretraining stack
 	- Use flash attention 2, parallel attention and feedforward layers, rotary embeddings, pre-layer norm, and probably 8/3 h multipliers but that doesn't matter too much. Basically Mistral + parallel layers (they left a free +10% performance on the table). https://x.com/BlancheMinerva/status/1721380386515669209?s=20
 	- Train on a large and diverse dataset, something like C4 along plus high quality known components (academic papers, books, code). Ideally you'd scrape these things freshly instead of using Pile / RP. You want to balance clean w/ diverse. Dedupe, but train for 4 epochs (3T+ total)
