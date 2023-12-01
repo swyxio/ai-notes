@@ -5,6 +5,7 @@
 	- https://news.ycombinator.com/item?id=38481970
 	- https://sub.thursdai.news/p/thursdai-nov-30-chatgpt-1-year-celebration
 	- https://www.youtube.com/watch?v=towISIgfQw8
+	- https://www.theverge.com/23981318/chatgpt-open-ai-launch-anniversary-future
 - voice cloning red alert
 	- voice cloning https://twitter.com/martin_casado/status/1726707806492131819
 	- and here https://x.com/notcapnamerica/status/1725901659270742084?s=20
