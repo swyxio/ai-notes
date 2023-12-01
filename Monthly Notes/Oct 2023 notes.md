@@ -81,6 +81,7 @@
   - Reka Yasa-1 Multimodal LLM ([tweet](https://twitter.com/YiTayML/status/1709265184576204820), [blog](https://reka.ai/announcing-our-multimodal-ai-assistant/) - natively supports images, audio, and short video clips as inputs. )
     - Retrieval augmented generation - Yasa can be taught to understand private datasets. Our API and on-premise deployment setup allows seamless integration of internal datasets of any modality type.
     - Code Interpreter - Yasa is more than just a passive AI assistant; it has the capability to actively execute code. This feature is enabled via a simple flag. When active, Yasa automatically identifies the code block within its response, executes the code, and appends the result at the end of the block.
+- [Twelevelabs Video to Text and Pegasus-1 model](https://app.twelvelabs.io/blog/introducing-pegasus-1)
 
 ## open source projects and templates
 
@@ -123,6 +124,7 @@
 - Baidu claims their new model Ernie 4 rivals GPT4 but cant be proven - ERNIE 4, multimodal foundational model, integrated with many applications ([Announcement](https://substack.com/redirect/163df6af-340d-4957-88c3-d911531f7284?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), [Thread](https://substack.com/redirect/c3d12d8a-4560-46ed-87e4-bdb95ae5e01e?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE))
 - Adobe releases Firefly 2 - lifelike and realistic images, generative match, prompt remix and prompt suggestions ([X](https://substack.com/redirect/de20b453-ad97-499e-b02f-995d460477c8?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE), Firefly)
 - [Play.ht](http://play.ht/) shows off an impressive <300ms voice generation for agents After spending almost 2 hours talking to chatGPT, I was thinking, why aren't all AI assistants like this, and the answer was, well... generating voice takes time, which takes you out of your "conversation flow" And then today, [play.ht](https://substack.com/redirect/fe90d888-07d3-4441-9301-3c8bdbe35c0a?j=eyJ1IjoiMmpqYnkxIn0.voZ98EfOPBt5Ku2V2Dg7KBxwdLf5SmXhj0TZ3U45rJE) showed off a new update to their API that generates voice in <300ms, and that can be a clone of your voice, with your accent and all. We truly live in unprecedented times.
+	- https://news.play.ht/post/introducing-playht-2-0-turbo-the-fastest-generative-ai-text-to-speech-api
 - [Defog Agents: AI Assistants for complex data workflows](https://defog.ai/blog/agents/)
 - Databricks [MLflow 2.8](https://www.databricks.com/blog/announcing-mlflow-28-llm-judge-metrics-and-best-practices-llm-evaluation-rag-applications-part?utm_source=twitter&utm_medium=organic-social) supports LLM-as-a-judge metrics - resulting in significant savings in time (from 2 weeks with human workforce to 30 minutes with LLM judges) and costs (from $20 per task to $0.20 per task)
 - [Morph Code Index](https://x.com/morph_labs/status/1711803918764966017?s=20) is an OSS semantic code search engine for you, your codebase, and your personal AI SWE.
@@ -219,6 +221,7 @@
 
 ## Fundraising
 
+- [Zhipu](https://www.cnbc.com/2023/10/20/alibaba-tencent-among-investors-in-zhipu-chinas-openai-rival.html) has raised more than 2.5 billion Chinese yuan ($341 million) this year, from backers including tech giants Alibaba and Baidu.
 - Modal Labs Series A
   - https://x.com/modal_labs/status/1711748224610943163?s=20
 - Anyscale (Cursor.so) Seed
@@ -226,6 +229,7 @@
 - Induced AI $2.3m seed
   - We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning.
   - https://twitter.com/aryxnsharma/status/1709289742310010970
+- Riffusion - 4m funding https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/?guccounter=2
 - Anthropic funding
 	- google
 	- amazon

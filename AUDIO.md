@@ -116,6 +116,7 @@ https://news.ycombinator.com/item?id=33663486
 - services
 	- Play.ht or Podcast.ai - https://arstechnica.com/information-technology/2022/10/fake-joe-rogan-interviews-fake-steve-jobs-in-an-ai-powered-podcast/
 		- https://news.ycombinator.com/item?id=35328698#35333601
+		- https://news.play.ht/post/introducing-playht-2-0-turbo-the-fastest-generative-ai-text-to-speech-api
 	- https://speechify.com/
 	- mycroft [https://mycroft.ai/mimic-3/](https://mycroft.ai/mimic-3/)
 	- https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/ 

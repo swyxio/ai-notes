@@ -20,11 +20,11 @@
 		- use on [Draw Things](https://twitter.com/drawthingsapp/status/1729633231526404400)
 	- can try with [HuggingFace Diffusers](https://huggingface.co/spaces/latent-consistency/super-fast-lcm-lora-sd1.5) ([blogpost](https://huggingface.co/blog/lcm_lora)) more demos [here](https://huggingface.co/collections/latent-consistency/latent-consistency-model-demos-654e90c52adb0688a0acbe6f)
 - video is real and good now
-	- pika
+	- pika https://twitter.com/karpathy/status/1729545506890932536?s=12&t=90xQ8sGy63D2OtiaoGJuww
 - people need to calm the fuck down 
 	- Q* mass hysteria 
 		- [complete nonsense](https://twitter.com/ylecun/status/1728126868342145481)
-		- with some 4chan leaks? https://docs.google.com/document/u/0/d/1RyVP2i9wlQkpotvMXWJES7ATKXjUTIwW2ASVxApDAsA/mobilebasic?utm_source=ainews&utm_medium=email&utm_campaign=ainews-ai-discords-newsletter-11272023
+		- with some [4chan leaks](https://docs.google.com/document/u/0/d/1RyVP2i9wlQkpotvMXWJES7ATKXjUTIwW2ASVxApDAsA/mobilebasic)? my contacts say this isnt reliable
 	- OpenAI leadership drama
 - the sour lesson 
 	- from anatomy to operating systems
@@ -47,6 +47,7 @@
 		- https://news.ycombinator.com/item?id=38166431
 		- typist https://twitter.com/_Borriss_/status/1725208054185046071
 		- [DesignerGPT](https://twitter.com/skirano/status/1723026266608033888?s=12&t=90xQ8sGy63D2OtiaoGJuww) - create websites in chatgpt
+		- [VisualWeatherGPT](https://twitter.com/altryne/status/1722498086256411075) from altryne
 		- jailbreaking them is [easy](https://twitter.com/literallydenis/status/1729147010748424375). can also download [uploaded files](https://twitter.com/kanateven/status/1722762002475475426?s=12&t=90xQ8sGy63D2OtiaoGJuww) causing Levels.fyi leaked data ([response from founder](https://twitter.com/zuhayeer/status/1723065439910011055?s=12&t=90xQ8sGy63D2OtiaoGJuww)). here are prompts for [many many other GPTs](https://github.com/linexjlin/GPTs)
 	- chatgpt memory "rumor" https://twitter.com/yupiop12/status/1724915477900656857
 	- json mode
@@ -64,11 +65,13 @@
 	- was at apec summit https://www.youtube.com/watch?v=ZFFvqRemDv8
 	- you all know what happened
 	- [sama's last interview](https://podcasts.apple.com/us/podcast/mayhem-at-openai-our-interview-with-sam-altman/id1528594034?i=1000635486878) before being fired
+	- [greg](https://twitter.com/gdb/status/1727230819226583113) and [sama are so back](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
 - [will be releasing usage tracking based on API key for the OpenAI API](https://x.com/OfficialLoganK/status/1729194654963495307?s=20)
 - gpt3.5 issues https://twitter.com/sharifshameem/status/1725422821730636236
 	- zephyr great
 - [interesting, nontechnical real life use cases for GPT4 from Reddit](https://www.reddit.com/r/OpenAI/comments/182zkdl/whats_the_hardest_real_life_problem_you_have/)
 - Occasional reports of GPT4 nerfing [from biased individuals](https://twitter.com/erhartford/status/1729566883350012038) and [on the OpenAI discord](https://twitter.com/swyx/status/1729960492494696951)
+- openAI [deno SDK](https://twitter.com/officiallogank/status/1730269205939790086?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - ChatGPT anniversary
 - [and 10 years at FAIR](https://x.com/soumithchintala/status/1730297950608208378?s=20)
 
@@ -88,9 +91,14 @@
 - [Yarn-Mistral-7b-128k](https://x.com/mattshumer_/status/1720115354884514042?s=20): 
 	- 4x more context than GPT-4. Open-source is the new long-context king! This thing can easily fit entire books in a prompt.
 	- [tweet](https://x.com/theemozilla/status/1720107186850877662?s=20)
-- Yi 01 ai https://twitter.com/kaifulee/status/1721321096727994590
+- Yi 01 ai 34B released https://twitter.com/kaifulee/status/1721321096727994590
+	- with [100B rumored soon](https://news.ycombinator.com/item?id=38483611)
 - Amazon Mistral - 32k
 	- https://twitter.com/MatthewBerman/status/1719758392510824505
+- [Qwen-72B and Qwen-1.8B release](https://twitter.com/huybery/status/1730127387109781932?s=12&t=90xQ8sGy63D2OtiaoGJuww): 32K context, trained on 3T tokens, <100M MAU commercial license, strong benchmark performance
+* [DeepSeek LLM 67B](https://twitter.com/deepseek_ai/status/1729881611234431456) - 4K context, 2T tokens, Apache 2.0 license, strong on code (although DeepSeek Code 33B it benches better)
+	* can try https://chat.deepseek.com
+	* ![https://pbs.twimg.com/media/GAJDUfTXoAAs4eE?format=jpg&name=large](https://pbs.twimg.com/media/GAJDUfTXoAAs4eE?format=jpg&name=large)
 - Elon X.ai Grok
 	- Grok-1 is a autoregressive Transformer-based model pre-trained to perform next-token prediction. The model was then fine-tuned using extensive feedbacks from both human and the early Grok-0 models. The initial Grok-1 has a context length of 8,192 tokens and is released in Oct 2023. https://twitter.com/altryne/status/1721028995456647286
 	- grok vs openchat - https://twitter.com/alignment_lab/status/1721308271946965452
@@ -103,6 +111,7 @@
 - [Gorilla OpenFunctions](https://gorilla.cs.berkeley.edu/blogs/4_open_functions.html)
 	- open-source function calling model, and are thrilled to present Gorilla OpenFunctions. And yes, we've made parallel functions a reality in open-source!
 	- https://twitter.com/shishirpatil_/status/1725251917394444452
+	- but [different format than OpenAI](https://x.com/_philschmid/status/1727669280370515988?s=20)
 - Stable Video Diffusion
 	- [Animate anyone](https://news.ycombinator.com/item?id=38368287) - however no code available
 	- and video LLaVA https://news.ycombinator.com/item?id=38366830
@@ -120,6 +129,7 @@
 ## Fundraising
 
 - Together AI $102.5m Series A
+	- https://www.newcomer.co/p/cloud-platform-startup-together-ai
 	- also announcing [Together Inference Engine](https://www.together.ai/blog/together-inference-engine-v1) - 117 tokens per second on Llama-2-70B-Chat and 171 tokens per second on Llama-2-13B-Chat
 - Mistral @ 2bn https://archive.ph/hkWD3
 - Factory.ai $5m seed https://www.factory.ai/blog https://x.com/matanSF/status/1720106297096593672?s=20
@@ -190,7 +200,7 @@
 	- https://github.com/tldraw/draw-fast
 	- small todo app https://twitter.com/Altimor/status/1725678615751438396
 	- excalidraw response https://twitter.com/bigansh/status/1729241462712545563
-- [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers
+- [Nvidia ChipNeMo](https://twitter.com/DrJimFan/status/1724832446393598283), custom LLM trained on Nvidia’s internal data to generate and optimize software and assist human designers for GPU ASIC and Architecture engineers ![https://cdn.wccftech.com/wp-content/uploads/2023/11/ChipNeMo-diagram-Final.jpg.webp](https://cdn.wccftech.com/wp-content/uploads/2023/11/ChipNeMo-diagram-Final.jpg.webp)
 - Lindy.ai https://twitter.com/Altimor/status/1721250514946732190
 - Pplx api 
 	- pplx 7b and 70b online LLMs https://twitter.com/denisyarats/status/1729909196160930090
@@ -198,6 +208,7 @@
 - DallE Party - gpt4v and dalle in a loop https://dalle.party/?party=0uKfJjQn
 - [Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models](https://dangeng.github.io/visual_anagrams/) interesting/fun paper and codebase uses Stability AI's Deepfloyd
 	- Our method is conceptually simple. We take an off-the-shelf diffusion model and use it to estimate the noise in different views or transformations, ��, of an image. The noise estimates are then aligned by applying the inverse view, ��−1, and averaged together. This averaged noise estimate is then used to take a diffusion step.
+- [VectorArt.ai](https://vectorart.ai) - Use the power of generative AI to create infinitely scalable vector images, logos, icons and illustrations for your website, business or app.
 
 ## misc and other discussions
 
@@ -235,6 +246,8 @@
 	- [meetkai/functionary-7b-v1.4](https://www.reddit.com/r/LocalLLaMA/comments/158l28c/functionary_new_open_source_llm_that_can_execute/)
 	- [openhermes2.5 can do it?](https://twitter.com/abacaj/status/1726343354902802517) bc of [airoboros](https://x.com/jon_durbin/status/1726349280963875139?s=20)
 - [Humane AI Pin vs Tab Pin comparison](https://twitter.com/avischiffmann/status/1722803122723258468?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- actually [good defense of standalone vector DBs vs normal DB with vector index](https://news.ycombinator.com/item?id=38419173)
+	- meanwhile [people keep writing new VectorDBs, like Kagi does](https://news.ycombinator.com/item?id=38420554&utm_source=wondercraft_ai)
 
 
 
@@ -250,4 +263,5 @@
 	- jeremy howard laundry buddy hate
 - make more meme
 	- https://x.com/liveoverflow/status/1729798452094128278?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- https://twitter.com/sobedominik/status/1729345233417355278?s=12&t=90xQ8sGy63D2OtiaoGJuww
 - where is gemini lol https://x.com/tszzl/status/1730123261504291298?s=20
