@@ -63,6 +63,7 @@
 			- [no info on data at all](https://x.com/leavittron/status/1715247384941498761?s=20)
 	- zephyr 7b
 		- Zephyr 7b beats Llama 70b on MT Bench https://twitter.com/huggingface/status/1711780979574976661
+		- [major training steps](https://twitter.com/thom_wolf/status/1717821614467739796?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [only LLM that can handle ReAct agent tasks over data](https://twitter.com/llama_index/status/1718054631413363196)
 		- [nathan lambert take](https://twitter.com/natolambert/status/1711767611586035884?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
 		- noncommercial license [for now](https://x.com/natolambert/status/1711947441057276227?s=20)
@@ -73,7 +74,7 @@
   - [CollectiveCognition v1](https://twitter.com/Teknium1/status/1709750388528939473) finetune of Mistral 7B
   - [TinyLanguage Models come of age](https://news.ycombinator.com/item?id=37787350)
   - Adept multimodal model ([twitter]([https://twitter.com/AdeptAILabs/status/1714682075763405257](https://twitter.com/AdeptAILabs/status/1714682075763405257 "https://twitter.com/AdeptAILabs/status/1714682075763405257"))) - Fuyu-8B
-	  - compare to nougat  https://facebookresearch.github.io/nougat/
+	  - compare to nougat  https://facebookresearch.github.io/nougat/:  an open-source OCR model that accurately scans books with heavy math/scientific notations. It's ages ahead of other open OCR options. Meta is doing extraordinary open-source AI, sometimes without as much fanfare as Llama. ([twitter](https://twitter.com/DrJimFan/status/1702322181928259586))
   - [gte-tiny](https://x.com/xenovacom/status/1710347897793810586?s=20) - a distilled version of gte-small that is half the size (20m params). [bge-micro is 5m params](https://twitter.com/andersonbcdefg/status/1710708732534108413)
 
 - ?

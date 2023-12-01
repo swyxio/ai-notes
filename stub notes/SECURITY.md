@@ -1,5 +1,6 @@
 OWASP top 10 security concerns for LLMs [https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-Slides-v09.pdf](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-Slides-v09.pdf "https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-Slides-v09.pdf")
 -   Prompt Injections
+	- examples done [on Bard](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 -   Data Leakage
 	- you can [extract data by just repeating a word a lot](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html)
 -   Inadequate Sandboxing

@@ -245,6 +245,23 @@ Subject to limitations
 	- https://github.com/reorx/awesome-chatgpt-api
 	- chatgpt ui oss clones https://www.typingmind.com/
 		- open source https://github.com/chatgptui/desktop
+		- https://github.com/ztjhz/BetterChatGPT 
+			- - Proxy to bypass ChatGPT regional restrictions
+			- Prompt library
+			- Organize chats into folders (with colours)
+			- Filter chats and folders
+			- Token count and pricing
+			- ShareGPT integration
+			- Custom model parameters (e.g. presence_penalty)
+			- Chat as user / assistant / system
+			- Edit, reorder and insert any messages, anywhere
+			- Chat title generator
+			- Save chat automatically to local storage
+			- Import / Export chat
+			- Download chat (markdown / image / json)
+			- Sync to Google Drive
+			- Azure OpenAI endpoint support
+			- Multiple language support (i18n)
 		- https://chat-gpt-next-web.vercel.app/
 		- mckay wrigley chabot-ui https://t.co/QkP2zMi2FL - now takeoffui
 			- https://github.com/mckaywrigley/chatbot-ui

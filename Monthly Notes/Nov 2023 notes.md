@@ -12,7 +12,7 @@
 		- https://www.weights.gg/
 - consistency models and GPT4V coding
 	- was [teased in Jan/Feb](https://x.com/okarisman/status/1721629198094078458?s=20), with distilled versions of Stable Diffusion, but only broke through with LCM-LoRAs which can turn regular SD models into pseudo-LCM models
-	- Krea
+	- Krea - [moving the sun in real-time](https://twitter.com/TitusTeatus/status/1723961348101677353)
 	- TLDraw
 	- https://github.com/abi/screenshot-to-code
 	- one step diffusion - SDXL turbo https://twitter.com/StabilityAI/status/1729589510155948074
@@ -97,6 +97,7 @@
 - Microsoft Phi-2 at Ignite - 2.7b params, 50% better at math
 	- https://x.com/abacaj/status/1724850925741768767?s=20
 	- 213b tokens
+		- some insight from [openPhi attempt at replication](https://x.com/ocolegro/status/1725189919931310450?s=20)
 	- synthetic data from GPT3.5
 - [Gorilla OpenFunctions](https://gorilla.cs.berkeley.edu/blogs/4_open_functions.html)
 	- open-source function calling model, and are thrilled to present Gorilla OpenFunctions. And yes, we've made parallel functions a reality in open-source!
@@ -109,6 +110,7 @@
 	- [PhotoAI into VideoAI](https://twitter.com/levelsio/status/1729621624062611835)
 	- and launching [Stability Memberships](https://twitter.com/EMostaque/status/1729609312601887109), a game engine licensing model
 - Small models: We trained a small transformer (100M params) for basic arithmetic. W. the right training data it nails 12x12 digits multiplication w/o CoT (that's 10^24 possibilities, so no it's not memorization. ([tweet](https://twitter.com/SebastienBubeck/status/1729517609669030071))
+- [HelixNet](https://twitter.com/migtissera/status/1720567034315186588?s=12&t=90xQ8sGy63D2OtiaoGJuww) is a novel Deep Learning architecture consisting of 3 x Mistral-7B LLMs. It has an actor, a critic, and a regenerator.
 
 
 ## Fundraising
@@ -158,6 +160,7 @@
 ## other launches
 
 - [Microsoft Ignite](https://www.youtube.com/watch?v=79wFBN5PffA) and [AWS Re:invent](https://www.youtube.com/watch?v=Sdh_EUL_hoo) announcements
+	- [Gemini's absence is deafening](https://twitter.com/DrJimFan/status/1721925576666370365)
 - Elon Musk's X.ai Grok model was announced but not widely released [HN](https://news.ycombinator.com/item?id=38148396)
 	- "A unique and fundamental advantage of Grok is that it has real-time knowledge of the world via the X platform."
 	- The engine powering Grok is Grok-1, our frontier LLM, which we developed over the last four months. Grok-1 has gone through many iterations over this span of time. [Model Card](https://x.ai/model-card/)
@@ -179,6 +182,7 @@
 	- latent consistency and LCM-LoRA are the incremental innovations that spawned the recent work https://huggingface.co/collections/latent-consistency/latent-consistency-model-demos-654e90c52adb0688a0acbe6f
 		- https://twitter.com/javilopen/status/1724398666889224590
 - TLDraw [Make real](https://x.com/tldraw/status/1724892287304646868?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- [statecharts and wireframes](https://twitter.com/tldraw/status/1725083976392437894?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- https://github.com/tldraw/draw-fast
 	- small todo app https://twitter.com/Altimor/status/1725678615751438396
 	- excalidraw response https://twitter.com/bigansh/status/1729241462712545563
@@ -196,6 +200,7 @@
 - [Karpathy Intro to LLMs talk](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 	- with [Sarah Chieng notes](https://mphr.notion.site/Intro-To-Large-Language-Models-LLMs-a89c1750c71545dc88717d01c4552f0d)
 	- more thinking about [LLM OS](https://twitter.com/karpathy/status/1723140519554105733?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [PagedAttention, Virtual Context, Speculative Decoding, Register Tokens](https://charlesfrye.github.io/programming/2023/11/10/llms-systems.html) and other systems programming ideas for LLMs explained
 - [Bill Gates is back again writing about agents](https://www.gatesnotes.com/AI-agents)
 - Shanahan, Reynolds, and McDonnell back again in [Nature](https://www.nature.com/articles/s41586-023-06647-8) on Role play with large language models. instead of dialogue agent as role-playing a single character, see a dialogue agent as a *superposition of simulacra within a multiverse of possible characters.*
 - standard pretraining stack
@@ -235,3 +240,4 @@
 - check latent space discord meme channel theres just too many
 - make more meme
 	- https://x.com/liveoverflow/status/1729798452094128278?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- where is gemini lol https://x.com/tszzl/status/1730123261504291298?s=20
