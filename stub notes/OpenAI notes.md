@@ -11,6 +11,7 @@
 - elon and sama split - 2023 https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai
 - july 2022-march 2023 shipping velocity https://twitter.com/E0M/status/1635727471747407872
 - 2023
+	- feb 2023 - openai foundry notes https://twitter.com/labenz/status/1630284912853917697
 	- march 2023 - turned off codex and then changed their minds  https://twitter.com/deepfates/status/1638212305887567873?s=20
 	- apr 2023 - valued at 27b with 400 employees internally https://twitter.com/frantzfries/status/1647976195693182978?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- may 2023 - losing 500m a year? https://twitter.com/amir/status/1654218677074681858?s=20
