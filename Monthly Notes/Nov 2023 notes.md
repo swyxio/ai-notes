@@ -68,6 +68,7 @@
 	- you all know what happened
 	- [sama's last interview](https://podcasts.apple.com/us/podcast/mayhem-at-openai-our-interview-with-sam-altman/id1528594034?i=1000635486878) before being fired
 	- [greg](https://twitter.com/gdb/status/1727230819226583113) and [sama are so back](https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
+	- [profit cap structure has changed](https://x.com/MatthewJBar/status/1730715423522648493?s=20 - will rise 20% a year after 2025)
 - [will be releasing usage tracking based on API key for the OpenAI API](https://x.com/OfficialLoganK/status/1729194654963495307?s=20)
 - gpt3.5 issues https://twitter.com/sharifshameem/status/1725422821730636236
 	- zephyr great
