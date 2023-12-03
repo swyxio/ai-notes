@@ -134,6 +134,7 @@
 	- no param count. "you have not been a good user" - [sama](https://twitter.com/sama/status/1635709792319868930?s=20)
 	- training done in aug 2022 ("done for a while")
 	- data cutoff in sept 2021, but chatgpt is dec 2021?
+	- estimate: [30k A100s for 3-5 months](https://youtu.be/pQgL91Y7Pvc?si=uMRfJLfNaAQCpEuZ&t=3121), 10e25 flops
 - contamination 
 	- [leetcode leaking](https://twitter.com/rUv/status/1635756651717496832?s=20)
 		- but still its [bad at leetcode hard](https://news.ycombinator.com/item?id=35161612) so its ok?
