@@ -1,5 +1,6 @@
 
 - origins and recruiting researchers - 2016 https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/
+	- decent high level history of openai
 - openai 2017 501c3 tax disclosures with key members and original founding statement https://regmedia.co.uk/2019/05/02/openai_tax_2017.pdf
 	- 2016 http://990s.foundationcenter.org/990_pdf_archive/810/810861541/810861541_201612_990.pdf
 	- news https://www.nytimes.com/2018/04/19/technology/artificial-intelligence-salaries-openai.html
