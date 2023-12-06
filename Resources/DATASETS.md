@@ -82,6 +82,11 @@ MAD-LAD 400 is a dataset comprising of more than ~400 distinct languages spread 
 -    **Read the paper**: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset (arXiv)](https://substack.com/redirect/580fad73-63b4-497b-b3f0-d586cc6892ad?j=eyJ1IjoiMXJpMWl2In0.C0Ak4MTmgoSYyoS5SIGPMgVtwuoX_jfRLexEFRuZ7SI).  
    **Get the models and data**: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset (GitHub)](https://substack.com/redirect/8feac410-f81f-4eaa-847d-a72d294ca7d8?j=eyJ1IjoiMXJpMWl2In0.C0Ak4MTmgoSYyoS5SIGPMgVtwuoX_jfRLexEFRuZ7SI).
 
+## voice/audio
+
+- Mozilla https://commonvoice.mozilla.org dataset
+	- https://news.ycombinator.com/item?id=38535971
+
 ## data issues
 
 

@@ -118,7 +118,7 @@
 	- https://twitter.com/shishirpatil_/status/1725251917394444452
 	- but [different format than OpenAI](https://x.com/_philschmid/status/1727669280370515988?s=20)
 - Stable Video Diffusion
-	- [Animate anyone](https://news.ycombinator.com/item?id=38368287) - however no code available
+	- [Animate anyone](https://news.ycombinator.com/item?id=38368287) - however no code available - but Magic Animate is [on Replicate](https://twitter.com/lucataco93/status/1731899064357212172)
 	- and video LLaVA https://news.ycombinator.com/item?id=38366830
 	- and Animate Anyone https://humanaigc.github.io/animate-anyone/
 	- and Pika

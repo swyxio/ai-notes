@@ -83,6 +83,7 @@ Liu, Jiawei, Chunqiu Steven Xia, Yuyao Wang, and Lingming Zhang. “Is Your Code
 		- grafted onto openllama https://twitter.com/abacaj/status/1677333465996353541
 - the stack from eleuther
 - Li, R., Allal, L. B., Zi, Y., Muennighoff, N., Kocetkov, D., Mou, C., Marone, M., Akiki, C., Li, J., Chim, J., et al. (2023). Starcoder: may the source be with you! arXiv preprint arXiv:2305.06161.
+- https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base
 
 
 ## benchmarks

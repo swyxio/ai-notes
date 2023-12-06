@@ -66,6 +66,7 @@
 - speech separation model https://github.com/openai/whisper/discussions/264#discussioncomment-4706132
 	- https://github.com/miguelvalente/whisperer
  - deep speech https://github.com/mozilla/DeepSpeech
+	 - out of https://commonvoice.mozilla.org dataset
 	 - https://github.com/coqui-ai/TTS fork of deepspeech since 2021
 	 - [Mozilla DeepSpeech](https://github.com/mozilla/DeepSpeech?ref=blog.lopp.net) - an open-source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper. It uses Google's TensorFlow to make the implementation easier. Looks like it was actively developed from 2017 to late 2020 but has since been abandoned.
 	 - [Flashlight](https://github.com/flashlight/flashlight?ref=blog.lopp.net) is a fast, flexible machine learning library written entirely in C++ from the Facebook AI Research and the creators of Torch, TensorFlow, Eigen and Deep Speech. The project encompasses several apps, including the [Automatic Speech Recognition](https://github.com/flashlight/flashlight/tree/master/flashlight/app/asr?ref=blog.lopp.net) app for transcription.
