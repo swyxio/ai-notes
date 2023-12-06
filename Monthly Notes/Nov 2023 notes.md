@@ -98,6 +98,11 @@
 	- [tweet](https://x.com/theemozilla/status/1720107186850877662?s=20)
 - Yi 01 ai 34B released https://twitter.com/kaifulee/status/1721321096727994590
 	- with [100B rumored soon](https://news.ycombinator.com/item?id=38483611)
+- Orca 2 https://arxiv.org/abs/2311.11045
+	- Orca 1 learns from rich signals, such as explanation traces, allowing it to outperform conventional instruction-tuned models on benchmarks like BigBench Hard and AGIEval. 
+	- In Orca 2, we continue exploring how improved training signals can enhance smaller LMs' reasoning abilities. 
+	- In Orca 2, we teach the model various reasoning techniques (step-by-step, recall then generate, recall-reason-generate, direct answer, etc.). 
+	- Orca 2 significantly surpasses models of similar size and attains performance levels similar ****or better to those of models 5-10x larger, as assessed on complex tasks that test advanced reasoning abilities in zero-shot settings.
 - Amazon Mistral - 32k
 	- https://twitter.com/MatthewBerman/status/1719758392510824505
 - [Qwen-72B and Qwen-1.8B release](https://twitter.com/huybery/status/1730127387109781932?s=12&t=90xQ8sGy63D2OtiaoGJuww): 32K context, trained on 3T tokens, <100M MAU commercial license, strong benchmark performance
