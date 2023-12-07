@@ -301,6 +301,7 @@ Subject to limitations
   - now with google access https://github.com/altryne/chatGPT-telegram-bot/releases/tag/0.1.0
   - https://twitter.com/m1guelpf/status/1599254528800325632 https://github.com/m1guelpf/chatgpt-telegram
   - https://chatgptontelegram.com/
+  - [top 10 ios chatbots](https://techcrunch.com/2023/03/22/the-top-10-ai-mobile-apps-have-already-pulled-in-over-14-million-this-year/) (march 2023)
 - LINE chat app https://twitter.com/yukito_shibuya/status/1631251370933366787
 - Desktop app https://github.com/lencx/ChatGPT
 	- https://github.com/sw-yx/chatgpt-mac This is a simple app that makes ChatGPT live in your menubar.
