@@ -1,4 +1,8 @@
 
+## openai
+
+- consensus on [lobotomized chatgpt](https://discord.com/channels/1168579740391710851/1168582188950896641/1182718496707203072) acknowledged by the official [twitter account](https://x.com/ChatGPTapp/status/1732979491071549792?s=20). lazier at coding - can [fix with a GPT](https://x.com/NickADobos/status/1732982713010073720?s=20)
+
 ## frontier models
 
 - Google
@@ -38,6 +42,8 @@
 	- notable performance for [130m models](https://x.com/__vec__/status/1732603830817198228?s=20)
 	- [outside of pytorch](https://twitter.com/srush_nlp/status/1731751599305879593)
 	- [Mamba chat - finetuned for chat](https://x.com/MatternJustus/status/1732572463257539032?s=20)
+- StripedHyena
+	- descendant of [Hyena](https://arxiv.org/abs/2302.10866)
 - https://ai.meta.com/research/seamless-communication/
 	- SeamlessExpressive: A model that aims to preserve expression and intricacies of speech across languages.
 	- SeamlessStreaming: A model that can deliver speech and text translations with around two seconds of latency.
