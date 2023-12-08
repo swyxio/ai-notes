@@ -141,6 +141,11 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 		- https://faraday.dev/
 		- https://gpt4all.io/
 		- the dalai llama project
+		- 
+	- Llama.cpp: LLama.cpp, created by @ggerganov , is a port of Facebook's LLaMA model in C/C++. This is probably the goat of all local LLM frameworks and to my knowledge was the first project that allowed to run LLMs easily on a MacBook.🐐 It’s also worth mentioning that thanks to this project there is a new model format - GGUF - that is used in all previously mentioned frameworks, too. So this project enables the other frameworks. download : https://huggingface.co/TheBloke/Llama-2-7B-GGUF
+	- PrivateGPT - Similar to GPT4All, PrivateGPT also comes with a nice UI to chat with LLMs. Its focus does not lie on trying out many different models, but rather on interacting with your own documents 100% privately. It provides a nice @Gradio frontend where you can easily upload your files and then query the documents.
+	- Ollama allows you to run LLMs locally through your command line and is probably the easiest framework to get started with. Just use the installer or the command line to install it. Then you can type `ollama run modelname` and it starts an interactive session where you can send prompts. It supports all important models like llama2, mistral, vicunia, falcon, and many more. And trying out new models is as easy as running `ollama pull modelname`.
+
 - https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/
 - llama alternatives https://thesequence.substack.com/p/the-llama-effect-how-an-accidental
 	- Redpajama
