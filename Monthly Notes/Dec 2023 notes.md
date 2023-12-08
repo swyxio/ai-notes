@@ -32,6 +32,12 @@
 ## Models
 
 
+- Mamba models
+	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
+	- [state space models due to "selection" mechanism](https://x.com/IntuitMachine/status/1732055797788528978?s=20)
+	- notable performance for [130m models](https://x.com/__vec__/status/1732603830817198228?s=20)
+	- [outside of pytorch](https://twitter.com/srush_nlp/status/1731751599305879593)
+	- [Mamba chat - finetuned for chat](https://x.com/MatternJustus/status/1732572463257539032?s=20)
 - https://ai.meta.com/research/seamless-communication/
 	- SeamlessExpressive: A model that aims to preserve expression and intricacies of speech across languages.
 	- SeamlessStreaming: A model that can deliver speech and text translations with around two seconds of latency.
@@ -41,6 +47,8 @@
 	- We introduce Magicoder, a series of fully open-source (code, weights, and data) Large Language Models (LLMs) for code that significantly closes the gap with top code models while having no more than 7B parameters. Magicoder models are trained on 75K synthetic instruction data using OSS-Instruct, a novel approach to enlightening LLMs with open-source code snippets to generate high-quality instruction data for code. 
 	- The orthogonality of OSS-Instruct and other data generation methods like Evol-Instruct further enables us to build an enhanced MagicoderS. 
 	- Notably, MagicoderS-CL-7B based on CodeLlama even surpasses the prominent ChatGPT on HumanEval+ (66.5 vs. 65.9 in pass@1). Overall, OSS-Instruct opens a new direction for low-bias and high-quality instruction tuning using abundant open-source references.
+- [NexusRaven-v2 13b for function calling LLM for GPT4 zero shot tool use](https://x.com/togethercompute/status/1732092331581636875?s=20)
+	- NexusRaven V2 was instruction-tuned from @AIatMeta 's CodeLlama-13B, without using proprietary LLM generated data.
 
 ## open source tooling and projects
 
