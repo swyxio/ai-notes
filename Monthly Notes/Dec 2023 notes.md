@@ -36,6 +36,9 @@
 ## Models
 
 
+- Mistral 8x7B
+	- MEGABLOCKS: EFFICIENT SPARSE TRAINING WITH MIXTURE-OF-EXPERTS
+	- https://arxiv.org/pdf/2211.15841.pdf
 - Mamba models
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
 	- [state space models due to "selection" mechanism](https://x.com/IntuitMachine/status/1732055797788528978?s=20)
@@ -77,6 +80,7 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 
 ## fundraising
 
+- [Mistral 400m @ 2b valuation](https://twitter.com/abacaj/status/1733262949475623142/photo/1)
 - [replicate 40m series B](https://twitter.com/replicate/status/1732104158877188305)
 - [extropic ai 14m seed](https://twitter.com/Extropic_AI/status/1731675230513639757)
 

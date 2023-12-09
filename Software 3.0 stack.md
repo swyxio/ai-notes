@@ -122,6 +122,13 @@ fully vertically integrated RAG cloud
 	- LLM Engine ([https://llm-engine.scale.com](https://llm-engine.scale.com/)) at Scale, which is our open source, self-hostable framework for open source LLM inference and fine-tuning. ([source](https://news.ycombinator.com/item?id=37492776))
 	- replicate
 
+## coding tools
+
+- https://github.com/danielgross/localpilot
+- https://github.com/continuedev/continue
+- https://github.com/mudler/LocalAI
+- https://vxtwitter.com/ex3ndr/status/1726863029919482167
+
 
 ## misc
 
