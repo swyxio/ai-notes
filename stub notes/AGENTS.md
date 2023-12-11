@@ -37,6 +37,13 @@ self critique works well to fix first shot problems
 
 browser agents
 - hyperwrite personal assistant https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/
+- [Mind2Web](https://osu-nlp-group.github.io/Mind2Web/) is a dataset for developing and evaluating generalist agents for the web that can follow language instructions to complete complex tasks on any website. Mind2Web contains 2,350 tasks from 137 websites spanning 31 domains that:
+	- Reflect diverse and practical use cases on the web.
+	- Provide challenging yet realistic environments with real-world websites.
+	- Test generalization ability across tasks and environments.
+
+
+
 
 https://twitter.com/jh_damm/status/1646233661832929280?s=20
   
