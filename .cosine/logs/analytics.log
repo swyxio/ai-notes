@@ -1,0 +1,12 @@
+
+INFO [2023-11-15T03:14:30.919Z]: opened
+INFO [2023-11-15T03:14:30.919Z]: {"agent":"cosine-vscode","version":"1.1.1","package":"@cosine/analytics","token":"1803ee20efed77dfecbf705fb8dc4c18","mp_lib":"node","$lib_version":"0.17.0"}
+INFO [2023-11-15T03:14:59.660Z]: Set User: shawnthe1@gmail.com
+INFO [2023-11-15T03:14:59.660Z]: {"Telemetry":true}
+INFO [2023-11-15T03:15:00.111Z]: extension_initialized
+INFO [2023-11-15T03:15:00.111Z]: {"timeToInit":2573,"agent":"cosine-vscode","version":"1.1.1","package":"@cosine/analytics"}
+INFO [2023-11-15T03:15:14.220Z]: logout
+INFO [2023-11-15T03:15:15.102Z]: opened
+INFO [2023-11-15T03:15:15.103Z]: {"agent":"cosine-vscode","version":"1.1.1","package":"@cosine/analytics","token":"1803ee20efed77dfecbf705fb8dc4c18","mp_lib":"node","$lib_version":"0.17.0"}
+INFO [2023-11-15T03:15:17.675Z]: extension_initialized
+INFO [2023-11-15T03:15:17.675Z]: {"timeToInit":2557,"agent":"cosine-vscode","version":"1.1.1","package":"@cosine/analytics","token":"1803ee20efed77dfecbf705fb8dc4c18","mp_lib":"node","$lib_version":"0.17.0"}
