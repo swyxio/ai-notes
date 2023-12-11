@@ -204,6 +204,7 @@
     -   [Vision](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/vision.md)
     -   [Voice Conversation](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/voice-conversation.md)
     - [**Custom Instructions**](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/_system-prompts/_custom-instructions.md)
+	    - "[meta/nova mode](https://www.novaspivack.com/technology/nova-mode-the-ultimate-chatgpt-custom-instruction)" where you can introduce comands like `//?` to hallucinate a manual,  and `continue from //8` to continue a message
 
 ### GPT5
 
