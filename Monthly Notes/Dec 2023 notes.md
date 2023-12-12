@@ -78,6 +78,8 @@
 - https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes
 	- an open-source AI SDK (Python & JavaScript) that provides a drop-in replacement for OpenAI’s chat completion endpoint. We'd love to know what you think so we can make switching as easy as possible and get more folks on open-source.
 - voice cloning with oss models https://replicate.com/blog/how-to-tune-a-realistic-voice-clone
+- [open source macos copilot](https://news.ycombinator.com/item?id=38611700)
+	- 
 
 You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephyr-7b-beta, Gryphe/MythoMax-L2-13b, teknium/OpenHermes-2.5-Mistral-7B and more.
 
