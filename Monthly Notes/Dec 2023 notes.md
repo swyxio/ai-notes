@@ -41,6 +41,8 @@
 		- MEGABLOCKS: EFFICIENT SPARSE TRAINING WITH MIXTURE-OF-EXPERTS
 		- https://arxiv.org/pdf/2211.15841.pdf
 	- [First AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
+		- pricing - is 4x gpt3.5turbo at $8 per mil tokens
+		- 2 ~ 4 $ per 1M token for a 30B model
 - Mamba models
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
 	- [state space models due to "selection" mechanism](https://x.com/IntuitMachine/status/1732055797788528978?s=20)
