@@ -63,6 +63,8 @@
 - [NexusRaven-v2 13b for function calling LLM for GPT4 zero shot tool use](https://x.com/togethercompute/status/1732092331581636875?s=20)
 	- NexusRaven V2 was instruction-tuned from @AIatMeta 's CodeLlama-13B, without using proprietary LLM generated data.
 
+- google imagen 2 https://news.ycombinator.com/item?id=38628417
+
 ## open source tooling and projects
 
 - https://github.com/monoidspace/monoid **Turn your APIs into AI Agents**
