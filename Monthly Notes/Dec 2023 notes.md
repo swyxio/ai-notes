@@ -2,6 +2,7 @@
 ## openai
 
 - consensus on [lobotomized chatgpt](https://discord.com/channels/1168579740391710851/1168582188950896641/1182718496707203072) acknowledged by the official [twitter account](https://x.com/ChatGPTapp/status/1732979491071549792?s=20). lazier at coding - can [fix with a GPT](https://x.com/NickADobos/status/1732982713010073720?s=20)
+- axelspringer partnership - [tweet](https://x.com/OpenAI/status/1734940445824937993?s=20)
 
 ## frontier models
 
@@ -30,6 +31,7 @@
 				- A full set of demos is at: https://deepmind.google/gemini
 			- "Gemini is a large-scale science and engineering effort, requiring all kinds of different expertise in ML, distributed systems, data, evaluation, RL, fine-tuning, and more (800+ authors on the report).  The largest Gemini model was trained on a significant number of TPUv4 pods.   It is built on top of JAX and the Pathways system (https://arxiv.org/abs/2203.12533), which enables us to orchestrate the large-scale training computation across a large number of TPUv4 pods across multiple data centers from a single Python process."
 			- We have prepared a technical report about Gemini covering the model, training infrastructure, evaluations, safety analysis and responsible deployment.  I’ll walk you through some of the tables and figures in the report. https://deepmind.google/gemini/gemini_1_report.pdf
+			- Gemini Pro api https://x.com/sundarpichai/status/1734952757722001626?s=20
 	- [Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
 	- Meta [Emu image synthesis](https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/)
 
@@ -49,6 +51,8 @@
 	- notable performance for [130m models](https://x.com/__vec__/status/1732603830817198228?s=20)
 	- [outside of pytorch](https://twitter.com/srush_nlp/status/1731751599305879593)
 	- [Mamba chat - finetuned for chat](https://x.com/MatternJustus/status/1732572463257539032?s=20)
+- Phi-2
+	- https://x.com/sytelus/status/1734881560271454525?s=20
 - StripedHyena
 	- descendant of [Hyena](https://arxiv.org/abs/2302.10866)
 - https://ai.meta.com/research/seamless-communication/
