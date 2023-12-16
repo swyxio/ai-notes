@@ -3,6 +3,9 @@
 
 - consensus on [lobotomized chatgpt](https://discord.com/channels/1168579740391710851/1168582188950896641/1182718496707203072) acknowledged by the official [twitter account](https://x.com/ChatGPTapp/status/1732979491071549792?s=20). lazier at coding - can [fix with a GPT](https://x.com/NickADobos/status/1732982713010073720?s=20)
 - axelspringer partnership - [tweet](https://x.com/OpenAI/status/1734940445824937993?s=20)
+- superalignment 1e7 fund
+- openai [suspends bytedance for breaking TOS](https://twitter.com/alexeheath/status/1735758297893085621)
+- chatgpt plus signups re enabled
 
 ## frontier models
 
