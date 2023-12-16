@@ -18,6 +18,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- ⭐ [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world. daily news coverage, [quality video](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA)
 	- ⭐ [ThursdAI by @altryne](https://sub.thursdai.news/podcast?nthPub=531) - Twitter Spaces at least once a week on all the top AI news, esp good interviews with OSS innovators
 	- ⭐ [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps
+	- [Samuel Albanie](https://youtube.com/@SamuelAlbanie1?si=i-SDzcaKgpImvFVT) professor with a youtube explaining papers. new but good
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
 	- [AI Jason](https://youtu.be/pJwR5pv0_gs?si=BdXjIX1mEik-Lbpz) - new frequent ai project breakdowns channel
 	- [Matthew Berman](https://www.youtube.com/@matthew_berman) - short explainer videos of AI Engineering related projects and news

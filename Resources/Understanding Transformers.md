@@ -27,6 +27,7 @@ The Illustrated Transformer - [https://jalammar.github.io/illustrated-transform
 	- The speaker highlights the advantages of using transformers and models like Roberta for training models on large-scale unsupervised text data, enabling transfer learning and reduced training time and resources.
 	- Despite being replaced in most areas by transformers, LSTM still has applications in real-time control. 
 	- The speaker also compares word CNN to transformers and observes that transformers can offer contextual answers more efficiently across the entire document.
+	- https://youtu.be/-uyXE7dY5H0?si=Lbgi7nPw4ROpu53L from rnns to lstms
 - Little Book of Deep Learning ([pdf](https://fleuret.org/public/lbdl.pdf))
 	- The notion of layer
 	- Linear layer
