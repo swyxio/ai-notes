@@ -48,6 +48,8 @@
 	- [First AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
 		- pricing - is 4x gpt3.5turbo at $8 per mil tokens
 		- 2 ~ 4 $ per 1M token for a 30B model
+	- [Mistral finetune optimized from OpenPipe](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized) calls out a few other more recent Mistral variants:
+		- [OpenHermes 2.5](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B), [Zephyr](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), [Cybertron](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16), [Intel Neural Chat](https://huggingface.co/Intel/neural-chat-7b-v3-3), [Hermes Neural](https://huggingface.co/Weyaxi/OpenHermes-2.5-neural-chat-v3-3-Slerp), and [Metamath Cybertron Starling](https://huggingface.co/Q-bert/MetaMath-Cybertron-Starling).
 - Mamba models
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
 	- [state space models due to "selection" mechanism](https://x.com/IntuitMachine/status/1732055797788528978?s=20)
