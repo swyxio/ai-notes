@@ -105,7 +105,9 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - [Bing Code Interpreter for free!](https://twitter.com/MParakhin/status/1732094937368494280)
 - Lume, a seed-stage startup ([https://www.lume.ai/](https://www.lume.ai/)): use AI to automatically transform your source data into any desired target schema in seconds, making onboarding client data or integrating with new systems take seconds rather than days or weeks. In other words, we use AI to automatically map data between any two data schemas, and output the transformed data to you.
 - [1 year anniversary of perplexity ai](https://x.com/AravSrinivas/status/1732825206023201273?s=20)
-
+- suno ai music generation 
+	- https://twitter.com/sjwhitmore/status/1737569171960209452
+	- https://twitter.com/karpathy/status/1737518588159041845
 
 ## misc discussions and reads
 

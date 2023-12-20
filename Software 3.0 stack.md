@@ -137,3 +137,6 @@ fully vertically integrated RAG cloud
 	- https://predibase.com/
 - AI devtools
 	- codegen.ai
+- safety/security
+	- openai moderation endpoint (free)
+	- meta llamaguard/purple llama https://arxiv.org/abs/2312.06674
