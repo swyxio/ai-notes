@@ -67,4 +67,4 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- https://www.neatprompts.com/subscribe (recommended by Software Defined Talk #428)
 	- https://generallyintelligent.substack.com/ (daily bitesize news)
 	- TLDR AI https://tldr.tech/ai (daily aggregator with focus on research and big tech)
-- Mine :) https://latent.space/
+- Mine :) https://latent.space/ has a monthly news recap, but i am also [incubating a daily one](https://buttondown.email/ainews)
