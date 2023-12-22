@@ -97,6 +97,7 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 
 ## fundraising
 
+- [Anthropic 750m @ 15b valuation](https://www.theinformation.com/articles/anthropic-to-raise-750-million-in-menlo-ventures-led-deal)
 - [Mistral 400m @ 2b valuation](https://twitter.com/abacaj/status/1733262949475623142/photo/1)
 - [replicate 40m series B](https://twitter.com/replicate/status/1732104158877188305)
 - [extropic ai 14m seed](https://twitter.com/Extropic_AI/status/1731675230513639757)
@@ -117,6 +118,7 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://qtransformer.github.io/)
 - [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
 AI chatbots can convince other chatbots to instruct users how to build bombs and cook meth
+- [Distilwhisper explainer](https://twitter.com/srush_nlp/status/1737837726572150851)
 
 
 ## memes
