@@ -1,3 +1,10 @@
+## themes
+
+- ML inference wars
+	- mixtral price war
+	- anyscale drama https://twitter.com/soumithchintala/status/1738241213327692174
+
+
 
 ## openai
 
