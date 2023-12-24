@@ -3,6 +3,13 @@
 - ML inference wars
 	- mixtral price war
 	- anyscale drama https://twitter.com/soumithchintala/status/1738241213327692174
+		- https://buttondown.email/ainews/archive/ainews-12222023-anyscales-benchmark-criticisms/
+		- https://www.anyscale.com/blog/comparing-llm-performance-introducing-the-open-source-leaderboard-for-llm
+	- https://www.semianalysis.com/p/inference-race-to-the-bottom-make
+	- https://vgel.me/posts/faster-inference/
+	- https://pythonspeed.com/articles/cpu-thread-pool-size/
+- synthetic data
+	- https://arxiv.org/pdf/2312.06585.pdf karpathy pick from deepmind
 
 
 
@@ -19,6 +26,7 @@
 - Google
 		- Gemini
 			- [32-shot chain of thought...](https://twitter.com/brickroad7/status/1732462906187325644). on 5 shot, like for like, [it is slightly worse than GPT4](https://twitter.com/_philschmid/status/1732435791358410863)
+			- [BigTech LLM evals are just marketing](https://www.interconnects.ai/p/evals-are-marketing)
 			- MMMU [is nice though](https://twitter.com/JeffDean/status/1732418506241790197)
 			-   2 big Chinchilla / 1 small Llama (over-token) ~ 1.8B 
 			- 32k Context, MQA
@@ -55,8 +63,16 @@
 	- [First AI endpoints are available in early access](https://mistral.ai/news/la-plateforme/)
 		- pricing - is 4x gpt3.5turbo at $8 per mil tokens
 		- 2 ~ 4 $ per 1M token for a 30B model
+	- [TOS issue removed by CEO](https://twitter.com/arthurmensch/status/1734470462451732839)
 	- [Mistral finetune optimized from OpenPipe](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized) calls out a few other more recent Mistral variants:
 		- [OpenHermes 2.5](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B), [Zephyr](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), [Cybertron](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16), [Intel Neural Chat](https://huggingface.co/Intel/neural-chat-7b-v3-3), [Hermes Neural](https://huggingface.co/Weyaxi/OpenHermes-2.5-neural-chat-v3-3-Slerp), and [Metamath Cybertron Starling](https://huggingface.co/Q-bert/MetaMath-Cybertron-Starling).
+		- great guide on finetuning https://twitter.com/HarperSCarroll/status/1737946511856832695
+	- Mixtral-instruct
+		- trained with DPO
+		- [avaialblel on perplxity labs](https://twitter.com/AravSrinivas/status/1734603265801613670)
+	- visualizing mixtral MOE
+		- https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/
+		- https://news.ycombinator.com/item?id=38733208
 - Mamba models
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
 	- [state space models due to "selection" mechanism](https://x.com/IntuitMachine/status/1732055797788528978?s=20)
@@ -65,6 +81,7 @@
 	- [Mamba chat - finetuned for chat](https://x.com/MatternJustus/status/1732572463257539032?s=20)
 - Phi-2
 	- https://x.com/sytelus/status/1734881560271454525?s=20
+	- ehartford version of it https://twitter.com/erhartford/status/1738677760200155464
 - StripedHyena
 	- descendant of [Hyena](https://arxiv.org/abs/2302.10866)
 - https://ai.meta.com/research/seamless-communication/
@@ -80,6 +97,12 @@
 	- NexusRaven V2 was instruction-tuned from @AIatMeta 's CodeLlama-13B, without using proprietary LLM generated data.
 
 - google imagen 2 https://news.ycombinator.com/item?id=38628417
+- [TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering](https://jingyechen.github.io/textdiffuser2/)
+	- solves text-in-images, including inpainting text
+	- "Firstly, we fine-tune a large language model for layout planning. The large language model is capable of automatically generating keywords for text rendering and also supports layout modification through chatting. Secondly, we utilize the language model within the diffusion model to encode the position and texts at the line level. Unlike previous methods that employed tight character-level guidance, this approach generates more diverse text images."
+- [LLM360: Towards Fully Transparent Open-Source LLMs](https://arxiv.org/abs/2312.06550)
+	- We present LLM360, an initiative to fully open-source LLMs, which advocates for all training code and data, model checkpoints, and intermediate results to be made available to the community. The goal of LLM360 is to support open and collaborative AI research by making the end-to-end LLM training process transparent and reproducible by everyone. As a first step of LLM360, we release two 7B parameter LLMs pre-trained from scratch, Amber and CrystalCoder, including their training code, data, intermediate checkpoints, and analyses (at [this https URL](https://www.llm360.ai/)).
+
 
 ## open source tooling and projects
 
@@ -96,15 +119,22 @@
 - https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes
 	- an open-source AI SDK (Python & JavaScript) that provides a drop-in replacement for OpenAI’s chat completion endpoint. We'd love to know what you think so we can make switching as easy as possible and get more folks on open-source.
 - voice cloning with oss models https://replicate.com/blog/how-to-tune-a-realistic-voice-clone
+- https://github.com/turboderp/exllamav2
+	- ollama alternative
 - [open source macos copilot](https://news.ycombinator.com/item?id=38611700)
-	- 
+- namedrop
+	- https://twitter.com/charliebholtz/status/1737667912784134344
+	- https://github.com/cbh123/namedrop
+	- ollama-namedrop
 
 You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephyr-7b-beta, Gryphe/MythoMax-L2-13b, teknium/OpenHermes-2.5-Mistral-7B and more.
 
+- autogen added a new UI layer https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-assistant
 
 ## fundraising
 
 - [Anthropic 750m @ 15b valuation](https://www.theinformation.com/articles/anthropic-to-raise-750-million-in-menlo-ventures-led-deal)
+- OpenAI at 100b valuation
 - [Mistral 400m @ 2b valuation](https://twitter.com/abacaj/status/1733262949475623142/photo/1)
 - [replicate 40m series B](https://twitter.com/replicate/status/1732104158877188305)
 - [extropic ai 14m seed](https://twitter.com/Extropic_AI/status/1731675230513639757)
@@ -126,6 +156,18 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
 AI chatbots can convince other chatbots to instruct users how to build bombs and cook meth
 - [Distilwhisper explainer](https://twitter.com/srush_nlp/status/1737837726572150851)
+- pydantic is all you need https://minimaxir.com/2023/12/chatgpt-structured-data/
+	- including for chain of thought!
+- [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
+- [LoftQ - drop-in QLoRA replacement](https://x.com/WeizhuChen/status/1736127441238913438?s=20)
+- [Benchmarknig function calling](https://twitter.com/robertnishihara/status/1734629320868687991)  https://www.anyscale.com/blog/anyscale-endpoints-json-mode-and-function-calling-features
+	⚫️ gpt-4: 93.00 ± 0.00
+	⚫️ mistral-7b: 81.50 ± 0.96
+	⚫️ llama-2-70b: 81.00 ± 0.41
+	⚫️ gpt-3.5-turbo: 81.00 ± 1.47
+	⚫️ llama-2-13b: 79.75 ± 0.63
+	⚫️ zephyr-7b-beta: 70.50 ± 0.87
+	⚫️ llama-2-7b: 60.75 ± 1.31
 
 
 ## memes
