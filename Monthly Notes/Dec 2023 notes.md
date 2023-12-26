@@ -73,6 +73,8 @@
 	- visualizing mixtral MOE
 		- https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/
 		- https://news.ycombinator.com/item?id=38733208
+- Nouse Hermes 2
+- Apple Ferret https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model?utm_source=ainews&utm_medium=email
 - Mamba models
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
 	- [state space models due to "selection" mechanism](https://x.com/IntuitMachine/status/1732055797788528978?s=20)
