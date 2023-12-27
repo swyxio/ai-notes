@@ -138,7 +138,11 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - [Anthropic 750m @ 15b valuation](https://www.theinformation.com/articles/anthropic-to-raise-750-million-in-menlo-ventures-led-deal)
 - OpenAI at 100b valuation
 - [Mistral 400m @ 2b valuation](https://twitter.com/abacaj/status/1733262949475623142/photo/1)
+- [AssemblyAI 50m series B?](https://techcrunch.com/2023/12/04/assemblyai-nabs-50m-to-build-and-serve-ai-speech-models/)
+	- AssemblyAI claims that its paying customer base grew 200% from last year to 4,000 brands and that its AI platform is now handling around 25 million API calls per day. Moreover, over 200,000 developers are building on the platform, AssemblyAI says — using it to process more than 10 terabytes of data a day.
+	- A slice of the new funding will be put toward a “universal speech model that the company’s training on over a petabyte of voice data, set to launch later this year,” Fox says. AssemblyAI is also expanding its headcount, aiming to grow its 115-person workforce by 50% to 75% next year
 - [replicate 40m series B](https://twitter.com/replicate/status/1732104158877188305)
+- [leonardo ai $31m Series A](https://techcrunch.com/2023/12/06/leonardo-ai/)
 - [extropic ai 14m seed](https://twitter.com/Extropic_AI/status/1731675230513639757)
 - martian fundraise announced
 
