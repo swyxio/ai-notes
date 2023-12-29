@@ -10,6 +10,9 @@
 	- https://pythonspeed.com/articles/cpu-thread-pool-size/
 - synthetic data
 	- https://arxiv.org/pdf/2312.06585.pdf karpathy pick from deepmind
+- prrplexity is king
+	- tobi tweet
+	- https://x.com/chillzaza_/status/1740091957979038108?s=20
 
 
 
@@ -109,7 +112,7 @@
 	- "Firstly, we fine-tune a large language model for layout planning. The large language model is capable of automatically generating keywords for text rendering and also supports layout modification through chatting. Secondly, we utilize the language model within the diffusion model to encode the position and texts at the line level. Unlike previous methods that employed tight character-level guidance, this approach generates more diverse text images."
 - [LLM360: Towards Fully Transparent Open-Source LLMs](https://arxiv.org/abs/2312.06550)
 	- We present LLM360, an initiative to fully open-source LLMs, which advocates for all training code and data, model checkpoints, and intermediate results to be made available to the community. The goal of LLM360 is to support open and collaborative AI research by making the end-to-end LLM training process transparent and reproducible by everyone. As a first step of LLM360, we release two 7B parameter LLMs pre-trained from scratch, Amber and CrystalCoder, including their training code, data, intermediate checkpoints, and analyses (at [this https URL](https://www.llm360.ai/)).
-
+- unum image captioning LLM https://x.com/altryne/status/1740451547572834434?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 ## open source tooling and projects
 

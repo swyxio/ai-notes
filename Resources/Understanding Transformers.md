@@ -9,6 +9,7 @@ ELI5: https://news.ycombinator.com/item?id=35977891
 - 30min Yannick Kilcher video review https://www.youtube.com/watch?v=iDulhoQ2pro, 10min [shorter version](https://www.youtube.com/watch?v=SZorAJ4I-sA)
 - 2018 - Noam Shazeer on why you should train >1B models https://youtu.be/9P_VAMyb-7k and https://youtu.be/P8FJVfg3Z44
 - FT coverage of the paper authors and when and how they left https://archive.is/2023.07.23-044102/https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50
+- backstory on the title https://news.ycombinator.com/item?id=38758413
 The Illustrated Transformer - [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
 - GPT in 60LOC https://jaykmody.com/blog/gpt-from-scratch/
 	- pre read https://jaykmody.com/blog/attention-intuition/

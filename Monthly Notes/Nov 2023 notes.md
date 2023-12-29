@@ -134,7 +134,7 @@
 	- ["Eleven-labs quality"](https://news.ycombinator.com/item?id=38335255) - but "Not sure it's quite up to Eleven Labs quality. But to me, what makes Eleven so cool is that they have a large library of high quality voices that are easy to choose from.... the real special sauce for Eleven is the near instant voice cloning with just a single 5 minute sample, which works shockingly (even spookily) well."
 - Small models: We trained a small transformer (100M params) for basic arithmetic. W. the right training data it nails 12x12 digits multiplication w/o CoT (that's 10^24 possibilities, so no it's not memorization. ([tweet](https://twitter.com/SebastienBubeck/status/1729517609669030071))
 - [HelixNet](https://twitter.com/migtissera/status/1720567034315186588?s=12&t=90xQ8sGy63D2OtiaoGJuww) is a novel Deep Learning architecture consisting of 3 x Mistral-7B LLMs. It has an actor, a critic, and a regenerator.
-- 
+- Cohere embed v3 embeddings https://txt.cohere.com/introducing-embed-v3/ - sota MTEB and BEIR benchmarks.
 
 
 ## Fundraising
