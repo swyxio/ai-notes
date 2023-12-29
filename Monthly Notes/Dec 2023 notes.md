@@ -18,6 +18,7 @@
 - consensus on [lobotomized chatgpt](https://discord.com/channels/1168579740391710851/1168582188950896641/1182718496707203072) acknowledged by the official [twitter account](https://x.com/ChatGPTapp/status/1732979491071549792?s=20). lazier at coding - can [fix with a GPT](https://x.com/NickADobos/status/1732982713010073720?s=20)
 - axelspringer partnership - [tweet](https://x.com/OpenAI/status/1734940445824937993?s=20)
 - times sues openai https://x.com/levie/status/1740058613102923824?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- msft [can/cannot buy ](https://x.com/teortaxestex/status/1740238216782053664?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - superalignment 1e7 fund
 - openai [suspends bytedance for breaking TOS](https://twitter.com/alexeheath/status/1735758297893085621)
 - chatgpt plus signups re enabled
@@ -98,6 +99,9 @@
 	- Notably, MagicoderS-CL-7B based on CodeLlama even surpasses the prominent ChatGPT on HumanEval+ (66.5 vs. 65.9 in pass@1). Overall, OSS-Instruct opens a new direction for low-bias and high-quality instruction tuning using abundant open-source references.
 - [NexusRaven-v2 13b for function calling LLM for GPT4 zero shot tool use](https://x.com/togethercompute/status/1732092331581636875?s=20)
 	- NexusRaven V2 was instruction-tuned from @AIatMeta 's CodeLlama-13B, without using proprietary LLM generated data.
+- upstage solar 11b 
+	- paper https://x.com/hunkims/status/1739842542596927882?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- and controversy https://x.com/winglian/status/1740082008087269848?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 - google imagen 2 https://news.ycombinator.com/item?id=38628417
 - [TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering](https://jingyechen.github.io/textdiffuser2/)
