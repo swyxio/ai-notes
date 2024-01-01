@@ -182,6 +182,15 @@ scaling up inference
 https://textsynth.com/ Fabrice Bellard's project provides access to large language or text-to-image models such as GPT-J, GPT-Neo, M2M100, CodeGen, Stable Diffusion thru a [REST API](https://textsynth.com/documentation.html#api) and a [playground](https://textsynth.com/playground.html). They can be used for example for text completion, question answering, classification, chat, translation, image generation, ...
 TextSynth employs [custom inference code](https://textsynth.com/technology.html) to get faster inference (hence lower costs) on standard GPUs and CPUs.
 
+### continuous batching
+
+- https://www.anyscale.com/blog/continuous-batching-llm-inference
+	- Because LLMs iteratively generate their output, and because LLM inference is often memory and not compute bound, there are surprising _system-level_ batching optimizations that make 10x or more differences in real-world workloads.
+	- One recent such proposed optimization is **continuous batching**, also known as **dynamic batching**, or batching with **iteration-level scheduling**. We wanted to see how this optimization performs. We will get into details below, including how we simulate a production workload, but to summarize our findings:
+		- Up to 23x throughput improvement using continuous batching and continuous batching-specific memory optimizations (using [vLLM](https://twitter.com/zhuohan123/status/1671234707206590464?s=20)).
+		- 8x throughput over naive batching by using continuous batching (both on [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) and [Hugging Face’s text-generation-inference](https://github.com/huggingface/text-generation-inference)).
+		- 4x throughput over naive batching by using an optimized model implementation ([NVIDIA’s FasterTransformer](https://github.com/NVIDIA/FasterTransformer)).
+
 ## hardware issues
 
 - https://hardwarelottery.github.io ML will run into an asymptote because matrix multiplication and full forward/backprop passes are ridiculously expensive. What hardware improvements do we need to enable new architectures?

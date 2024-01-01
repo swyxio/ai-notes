@@ -183,6 +183,8 @@
 		- <$100m ajeya cotra https://twitter.com/ajeya_cotra/status/1687135321551716353?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- 1tr params but vague rumor
 - GPT-4 was apparently designed to fit on 2 H-100's which limits parameters to 160GB. https://twitter.com/LetterRip1/status/1670941206019457024?s=20
+- https://152334h.github.io/blog/non-determinism-in-gpt-4/
+	- Non-determinism in GPT-4 is caused by Sparse MoE
 - GPT-4 8 x 220B models
 	- https://www.reddit.com/r/mlscaling/comments/14eowmw/comment/jp40uqm/?context=3
 	- estimated $40m cost for training https://colab.research.google.com/drive/1O99z9b1I5O66bT78r9ScslE_nOj5irN9#scrollTo=1ftsdvKjPYiV

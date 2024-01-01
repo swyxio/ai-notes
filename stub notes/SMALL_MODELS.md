@@ -93,6 +93,8 @@ Our solution is simple, generate a moderately sized corpus of completions made b
 
 ## LoRA
 
+LORA tasks and lessons: https://lightning.ai/pages/community/lora-insights/
+
 Dylora https://news.ycombinator.com/item?id=35514228
 
 

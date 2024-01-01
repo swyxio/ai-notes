@@ -5,6 +5,8 @@
 
 essays
 - linus stuff
+	- https://www.youtube.com/watch?v=rd-J3hmycQs
+		- summary https://x.com/transitive_bs/status/1646778236779765761?s=20
 - geoffrey litt malleable software https://twitter.com/geoffreylitt/status/1637592620888121344?s=20
 - https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html
 	- 1. Chat UX Consolidation 

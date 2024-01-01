@@ -168,6 +168,8 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 
 - [Fine Tuning Mistral 7B on Magic the Gathering Drafts](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 - [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://qtransformer.github.io/)
+- Scaling Data constrained language models 
+	- poster session https://twitter.com/JayAlammar/status/1735353919386091930
 - [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
 AI chatbots can convince other chatbots to instruct users how to build bombs and cook meth
 - [Distilwhisper explainer](https://twitter.com/srush_nlp/status/1737837726572150851)
