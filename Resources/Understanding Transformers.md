@@ -14,6 +14,7 @@ The Illustrated Transformer - [https://jalammar.github.io/illustrated-transform
 - GPT in 60LOC https://jaykmody.com/blog/gpt-from-scratch/
 	- pre read https://jaykmody.com/blog/attention-intuition/
 	- starts simple, ramps up. Fills in all the gaps between Attention is All You Need right up to coding every single line of a working GPT2 implementation yourself. Even ends with explanations of finetuning for classification, summarization, instruction tuning, and PEFT. 
+- poke around LLM visualization https://bbycroft.net/llm
 - then read https://kipp.ly/transformer-inference-arithmetic/
 - then read https://finbarr.ca/how-is-llama-cpp-possible/ ([andrej commentary](https://twitter.com/karpathy/status/1691571869051445433))
 
