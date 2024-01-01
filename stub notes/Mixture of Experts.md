@@ -1,4 +1,25 @@
 
+huggingface reading
+-  [What is a Mixture of Experts?](https://huggingface.co/blog/moe#what-is-a-mixture-of-experts-moe)
+-   [A Brief History of MoEs](https://huggingface.co/blog/moe#a-brief-history-of-moes)
+-   [What is Sparsity?](https://huggingface.co/blog/moe#what-is-sparsity)
+-   [Load Balancing tokens for MoEs](https://huggingface.co/blog/moe#load-balancing-tokens-for-moes)
+-   [MoEs and Transformers](https://huggingface.co/blog/moe#moes-and-transformers)
+-   [Switch Transformers](https://huggingface.co/blog/moe#switch-transformers)
+-   [Stabilizing training with router Z-loss](https://huggingface.co/blog/moe#stabilizing-training-with-router-z-loss)
+-   [What does an expert learn?](https://huggingface.co/blog/moe#what-does-an-expert-learn)
+-   [How does scaling the number of experts impact pretraining?](https://huggingface.co/blog/moe#how-does-scaling-the-number-of-experts-impact-pretraining)
+-   [Fine-tuning MoEs](https://huggingface.co/blog/moe#fine-tuning-moes)
+-   [When to use sparse MoEs vs dense models?](https://huggingface.co/blog/moe#when-to-use-sparse-moes-vs-dense-models)
+-   [Making MoEs go brrr](https://huggingface.co/blog/moe#making-moes-go-brrr)
+    -   [Expert Parallelism](https://huggingface.co/blog/moe#parallelism)
+    -   [Capacity Factor and Communication costs](https://huggingface.co/blog/moe#capacity-factor-and-communication-costs)
+    -   [Serving Techniques](https://huggingface.co/blog/moe#serving-techniques)
+    -   [Efficient Training](https://huggingface.co/blog/moe#more-on-efficient-training)
+-   [Open Source MoEs](https://huggingface.co/blog/moe#open-source-moes)
+-   [Exciting directions of work](https://huggingface.co/blog/moe#exciting-directions-of-work)
+-   [Some resources](https://huggingface.co/blog/moe#some-resources)
+
 HuggingGPT, JARVIS, ToolFormer, TaskMatrix, Chameleon.
 https://www.reddit.com/r/MachineLearning/comments/137rxgw/comment/jiuof1w/?utm_source=reddit&utm_medium=web2x&context=3
 

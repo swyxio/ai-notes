@@ -41,6 +41,7 @@
 	- https://www.semianalysis.com/p/the-ai-brick-wall-a-practical-limit
 ![https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d30755f-7ece-47d4-bb91-acad82473df8_3362x2035.png](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d30755f-7ece-47d4-bb91-acad82473df8_3362x2035.png)
 
+- [Which GPU(s) to Get for Deep Learning? from Tim Dettmers](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 
 ## Infrastructure
 

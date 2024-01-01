@@ -25,3 +25,9 @@ Some guides
 - [https://anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications…](https://t.co/t6hSPdS28N) 
 - [https://asmirnov.xyz/doppelganger](https://t.co/HFtAg0KgDn) 
 - [https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms…](https://t.co/qySkemTaf2)
+
+## datasets
+
+- 
+- https://huggingface.co/collections/HuggingFaceH4/awesome-sft-datasets-65788b571bf8e371c4e4241a
+- https://huggingface.co/collections/HuggingFaceH4/awesome-feedback-datasets-6578d0dc8628ec00e90572eb

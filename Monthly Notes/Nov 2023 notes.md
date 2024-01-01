@@ -100,6 +100,7 @@
 - Yi 01 ai 34B released https://twitter.com/kaifulee/status/1721321096727994590
 	- with [100B rumored soon](https://news.ycombinator.com/item?id=38483611)
 - Orca 2 https://arxiv.org/abs/2311.11045
+	- https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/
 	- Orca 1 learns from rich signals, such as explanation traces, allowing it to outperform conventional instruction-tuned models on benchmarks like BigBench Hard and AGIEval. 
 	- In Orca 2, we continue exploring how improved training signals can enhance smaller LMs' reasoning abilities. 
 	- In Orca 2, we teach the model various reasoning techniques (step-by-step, recall then generate, recall-reason-generate, direct answer, etc.). 
@@ -125,6 +126,7 @@
 	- but [different format than OpenAI](https://x.com/_philschmid/status/1727669280370515988?s=20)
 - Stable Video Diffusion
 	- [Animate anyone](https://news.ycombinator.com/item?id=38368287) - however no code available - but Magic Animate is [on Replicate](https://twitter.com/lucataco93/status/1731899064357212172)
+		- https://x.com/StelfieTT/status/1731378027970338946?s=20
 	- and video LLaVA https://news.ycombinator.com/item?id=38366830
 	- and Animate Anyone https://humanaigc.github.io/animate-anyone/
 	- and Pika
@@ -228,6 +230,8 @@
 	- more thinking about [LLM OS](https://twitter.com/karpathy/status/1723140519554105733?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [PagedAttention, Virtual Context, Speculative Decoding, Register Tokens](https://charlesfrye.github.io/programming/2023/11/10/llms-systems.html) and other systems programming ideas for LLMs explained
 - [Bill Gates is back again writing about agents](https://www.gatesnotes.com/AI-agents)
+- GAIA:  A Benchmark for General AI Assistants from Meta incl Yann LeCun
+	- GAIA questions are conceptually simple for humans yet challenging for most advanced AIs: we show that human respondents obtain 92% vs. 15% for GPT-4 equipped with plugins. This notable performance disparity contrasts with the recent trend of LLMs outperforming humans on tasks requiring professional skills in e.g. law or chemistry.
 - Shanahan, Reynolds, and McDonnell back again in [Nature](https://www.nature.com/articles/s41586-023-06647-8) on Role play with large language models. instead of dialogue agent as role-playing a single character, see a dialogue agent as a *superposition of simulacra within a multiverse of possible characters.*
 - standard pretraining stack
 	- Use flash attention 2, parallel attention and feedforward layers, rotary embeddings, pre-layer norm, and probably 8/3 h multipliers but that doesn't matter too much. Basically Mistral + parallel layers (they left a free +10% performance on the table). https://x.com/BlancheMinerva/status/1721380386515669209?s=20

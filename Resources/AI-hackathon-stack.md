@@ -23,6 +23,7 @@ If you represent a tool or vendor, please feel free to send in a PR for your too
 	  - https://github.com/transitive-bullshit/chatgpt-plugin-ts
 	  - https://supabase.com/blog/building-chatgpt-plugins-template
 	  - Build a ChatGPT Plugin on Cloudflare Workers: [Tutorial](https://blog.cloudflare.com/magic-in-minutes-how-to-build-a-chatgpt-plugin-with-cloudflare-workers/); [Quickstart](https://github.com/cloudflare/chatgpt-plugin/tree/main/example-plugin)
+  - [Gemini/GPT4 Vision/Speech starter](https://github.com/gregsadetsky/sagittarius)
 - **Tools to explore**
   - **LLM APIs**
     - **OpenAI** needs no introduction. [Cookbook](https://github.com/openai/openai-cookbook/), [Docs](https://platform.openai.com/docs/introduction/overview)

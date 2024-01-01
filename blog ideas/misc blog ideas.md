@@ -21,7 +21,13 @@
 harrison bergeron story but with ai being shackled to human preferences
 
 
-## ai waifu
+## ai waifu/gf companies
+
+- callannie.ai
+- chai-research.com (chai ai)
+- https://www.moemate.io/?searchPage=1&public=1
+- check openrouter rankings
+
 
 
 ## alibi and the context of infinity
