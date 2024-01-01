@@ -243,6 +243,7 @@ Subject to limitations
 
 - API
 	- https://github.com/reorx/awesome-chatgpt-api
+	- https://github.com/billmei/every-chatgpt-gui
 	- chatgpt ui oss clones https://www.typingmind.com/
 		- open source https://github.com/chatgptui/desktop
 		- https://github.com/ztjhz/BetterChatGPT 
