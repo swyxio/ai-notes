@@ -36,6 +36,7 @@
 - chatgpt plus signups re enabled
 - [the New Yorker has a nice longform read](https://news.ycombinator.com/item?id=38486394) on the OpenAI board drama, probably the last worth reading, but the extent of top down vs bottom up support is somewhat refuted [by roon](https://twitter.com/tszzl/status/1732927157897449856?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [tipping ChatGPT works](https://twitter.com/voooooogel/status/1730726744314069190) aka "I'm going to tip $200 for a perfect solution!"
+	- see sota prompt in dolphin model https://x.com/minimaxir/status/1741584062610039095?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - [dumber in december?](https://twitter.com/roblynch99/status/1734278713762549970?s=12&t=90xQ8sGy63D2OtiaoGJuww) - not scientifically tested nor reproduced
 - ChatGPT "[we have a lot in common](https://x.com/ChatGPTapp/status/1733569316245930442?s=20)" vs Grok
 	- [nontechnical people completely misunderstanding](https://x.com/willdepue/status/1733564421866398027?s=20) 
