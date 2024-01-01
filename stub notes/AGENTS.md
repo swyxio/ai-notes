@@ -185,6 +185,9 @@ there was a google thing as well. something like XP1?
 
 - https://superagent.sh/
 - e2b
+- https://www.induced.ai/   
+Induced agents run 24/7 in the cloud to complete manual tasks on a browser with  
+human-like reasoning capabilities.w
 
 ## Openai Function Calling
 

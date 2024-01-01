@@ -92,6 +92,7 @@ Where the focus is building AI tools for other developers.
   - **Computer Vision**
     - [**Roboflow**](https://roboflow.com): Build classification, object detection, and instance segmentation datasets and models. Explore over 10,000 open source models and millions of labeled images on [**Universe**](https://universe.roboflow.com). (See Roboflow Hackathon projects like visual [chess solving apps](https://devpost.com/software/chess-boss),  [automatic dog treat release](https://www.hackster.io/satoshiii/visionai-automatic-dog-treat-dispenser-wroboflow-and-yolov5-a71fd2).)
     - 10k open source models, 10M+ open source labeled images: https://universe.roboflow.com
+    - [Bakklava + Llama.cpp](https://news.ycombinator.com/item?id=38157524)
   - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
   - HouseGPT generates raw MIDI data directly from few-shot prompted GPT-3 to create 🎶 house music 🎶 🔊 ([tweet](https://twitter.com/russelljkaplan/status/1616997544307089408?s=20&t=frXEVPqaJUjMPJOhbD9AUg))

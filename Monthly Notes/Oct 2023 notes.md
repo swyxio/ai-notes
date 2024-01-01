@@ -226,7 +226,7 @@
   - https://x.com/modal_labs/status/1711748224610943163?s=20
 - Anyscale (Cursor.so) Seed
   - https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/
-- Induced AI $2.3m seed
+- Induced AI $2.3m seed: https://www.induced.ai/
   - We let anyone create virtual AI workers that can automate the execution of workflows on a browser in the cloud with human-like reasoning.
   - https://twitter.com/aryxnsharma/status/1709289742310010970
 - Riffusion - 4m funding https://techcrunch.com/2023/10/17/ai-generating-music-app-riffusion-turns-viral-success-into-4m-in-funding/?guccounter=2

@@ -82,6 +82,7 @@
 - Apple Ferret https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model?utm_source=ainews&utm_medium=email
 - Mamba models
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
+		- interconnects https://www.youtube.com/watch?v=OFFHiJzPpCQ interview 
 	- [state space models due to "selection" mechanism](https://x.com/IntuitMachine/status/1732055797788528978?s=20)
 	- notable performance for [130m models](https://x.com/__vec__/status/1732603830817198228?s=20)
 	- [outside of pytorch](https://twitter.com/srush_nlp/status/1731751599305879593)
