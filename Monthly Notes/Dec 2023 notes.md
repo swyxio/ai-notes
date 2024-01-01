@@ -296,3 +296,4 @@ AI chatbots can convince other chatbots to instruct users how to build bombs and
 - decent safety meme https://fxtwitter.com/bitcloud/status/1731974050681909714?s=20
 - truth vs beauty quarks https://x.com/khoomeik/status/1732529178069623021?s=20
 - gemini authors meme https://twitter.com/satyanutella_/status/1737676936258945226
+- art thing https://x.com/var_epsilon/status/1741567408056250372?s=46&t=90xQ8sGy63D2OtiaoGJuww
