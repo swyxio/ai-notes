@@ -142,6 +142,30 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - **State of AI Report**: [2018](https://www.stateof.ai/2018), [2019](https://www.stateof.ai/2019), [2020](https://www.stateof.ai/2020), [2021](https://www.stateof.ai/2021), [2022](https://www.stateof.ai/)
   - reverse chronological major events https://bleedingedge.ai/
   - [What we Know about LLMs](https://willthompson.name/what-we-know-about-llms-primer#block-920907dc37394adcac5bf4e7318adc10) - great recap of research
+  - [Karpathy's 1hr guide to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) - summary [from Sarah Chieng](https://twitter.com/SarahChieng/status/1729569057475879103)
+	  - 1.  What is a large language model (LLM)?
+		  - There are two main components of an LLM
+		    -   What does an LLM do?
+	1.  How do you create an LLM?
+	    -   Stage 1: Model Pre-Training
+	    -   Stage 2: Model Fine-tuning
+	        -   Stage 2b: [Optional] Additional Fine-tuning
+	    -   Stage 3: Model Inference
+	    -   Stage 4: [Optional] Supercharging LLMs with Customization
+	1.  The Current LLM “Leaderboard”
+	2.  The Future of LLMs: What’s Next?
+	    -   How to improve LLM performance?
+	        -   LLM Scaling Laws
+	        -   Self-Improvement
+	    -   How to improve LLM abilities?
+	        -   Multimodality
+	        -   System 1 + 2 Thinking
+	1.  The LLM Dark Arts
+	    -   Jailbreaking
+	    -   Prompt Injecting
+	    -   Data Poisoning & Backdoor Attacks
+  -  [A Hacker's Guide to Language Models](https://twitter.com/jeremyphoward/status/1705883362991472984?s=20)  ([youtube](https://youtu.be/jkrNMKz9pWU?si=BNz-v6VmdbX7QDtr)) Jeremy Howard's 90min complete overview of LLM learnings - starting at the basics: the 3-step pre-training / fine-tuning / classifier ULMFiT approach used in all modern LLMs.
+  - ["Catching up on the weird world of LLMs"](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) - Simon Willison's 40min overview + [Open Questions for AI Engineers](https://www.youtube.com/watch?v=AjLVoAu-u-Q)
   - [LLMs overview from Flyte](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
   - [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/) - great recap
 	  - [Evals](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance): To measure performance
