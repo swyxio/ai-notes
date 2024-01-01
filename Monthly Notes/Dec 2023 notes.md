@@ -62,6 +62,7 @@
 
 
 - Mistral 8x7B
+	- how you can try out Mixtral locally: https://simonwillison.net/2023/Dec/18/mistral/ 
 	- related paper: 
 		- MEGABLOCKS: EFFICIENT SPARSE TRAINING WITH MIXTURE-OF-EXPERTS
 		- https://arxiv.org/pdf/2211.15841.pdf
@@ -89,6 +90,7 @@
 	- [Mamba chat - finetuned for chat](https://x.com/MatternJustus/status/1732572463257539032?s=20)
 - Phi-2
 	- https://x.com/sytelus/status/1734881560271454525?s=20
+	- https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/
 	- ehartford version of it https://twitter.com/erhartford/status/1738677760200155464
 - StripedHyena
 	- descendant of [Hyena](https://arxiv.org/abs/2302.10866)
@@ -166,12 +168,14 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 
 ## misc discussions and reads
 
+- [Simon Willison: Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 - [Fine Tuning Mistral 7B on Magic the Gathering Drafts](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 - [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://qtransformer.github.io/)
 - Scaling Data constrained language models 
 	- poster session https://twitter.com/JayAlammar/status/1735353919386091930
 - [Jailbroken AI Chatbots Can Jailbreak Other Chatbots](https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/)
 AI chatbots can convince other chatbots to instruct users how to build bombs and cook meth
+- [fantastic LLM visualization](https://bbycroft.net/llm)
 - [Distilwhisper explainer](https://twitter.com/srush_nlp/status/1737837726572150851)
 - pydantic is all you need https://minimaxir.com/2023/12/chatgpt-structured-data/
 	- including for chain of thought!
@@ -185,6 +189,7 @@ AI chatbots can convince other chatbots to instruct users how to build bombs and
 	⚫️ llama-2-13b: 79.75 ± 0.63
 	⚫️ zephyr-7b-beta: 70.50 ± 0.87
 	⚫️ llama-2-7b: 60.75 ± 1.31
+- [fiction - the Placeholder Girlfriend](https://news.ycombinator.com/item?id=38510997)
 
 
 ## memes
