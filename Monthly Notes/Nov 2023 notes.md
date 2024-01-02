@@ -148,6 +148,7 @@
 - Factory.ai $5m seed https://www.factory.ai/blog https://x.com/matanSF/status/1720106297096593672?s=20
 - Ozone [$7m seed](https://twitter.com/maxvwolff/status/1722311661611360479) for "creating video 10x faster than a human would through context-aware AI."
 - [Pika Labs $55m seed/Series A](https://x.com/karpathy/status/1729545506890932536?s=46&t=6FDPaNxZcbSsELal6Sv7Ug) ([Forbes](https://www.forbes.com/sites/kenrickcai/2023/11/27/pika-ai-video-generator-editor-series-a/?ss=ai&sh=58563005421b))
+- [HeyGen launch](https://twitter.com/HeyGen_Official/status/1729863029947236765) - $5.6m funding
 - [Modal labs raised $16m series A with Redpoint](https://twitter.com/modal_labs/status/1711748224610943163?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - Voltage Park - [New nonprofit backed by crypto billionaire scores AI chips worth $500M](https://techcrunch.com/2023/10/31/new-nonprofit-backed-by-crypto-billionaire-scores-ai-chips-worth-500m/)
 

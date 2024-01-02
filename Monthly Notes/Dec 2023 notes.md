@@ -16,6 +16,9 @@
 - prrplexity is king
 	- tobi tweet
 	- https://x.com/chillzaza_/status/1740091957979038108?s=20
+- 70x ARR fundraising
+	- https://twitter.com/gokulr/status/1735303391788872132?s=12&t=90xQ8sGy63D2OtiaoGJuww 
+	- [high compared to 10, 20x "insane" rounds](https://twitter.com/gokulr/status/1735308752352616897?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 
 
 
@@ -28,7 +31,7 @@
 	- msft [can/cannot buy ](https://x.com/teortaxestex/status/1740238216782053664?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - superalignment 
 	- 1e7 fund
-	- [weak to strong generalization](https://openai.com/research/weak-to-strong-generalization)  ([paper](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf#page4)) proof of concept: When we supervise GPT-4 with a GPT-2-level model using this method on NLP tasks, the resulting model typically performs somewhere between GPT-3 and GPT-3.5. We are able to recover much of GPT-4’s capabilities with only much weaker supervision. ([codebase shows how to do it with GPT2 and Qwen7b](https://github.com/openai/weak-to-strong/blob/main/train_weak_to_strong.py))
+	- [weak to strong generalization](https://openai.com/research/weak-to-strong-generalization)  ([paper](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf#page4), [HN](https://news.ycombinator.com/item?id=38643995)) proof of concept: When we supervise GPT-4 with a GPT-2-level model using this method on NLP tasks, the resulting model typically performs somewhere between GPT-3 and GPT-3.5. We are able to recover much of GPT-4’s capabilities with only much weaker supervision. ([codebase shows how to do it with GPT2 and Qwen7b](https://github.com/openai/weak-to-strong/blob/main/train_weak_to_strong.py))
 - openai [suspends bytedance for breaking TOS](https://twitter.com/alexeheath/status/1735758297893085621)
 - [Bing Deep Search will expand your query](https://www.theverge.com/2023/12/5/23989407/bing-deep-search-gpt-4-microsoft) from
 	- from “how do points systems work in Japan” into a detailed prompt that asks Bing 
@@ -36,7 +39,7 @@
 - chatgpt plus signups re enabled
 - [the New Yorker has a nice longform read](https://news.ycombinator.com/item?id=38486394) on the OpenAI board drama, probably the last worth reading, but the extent of top down vs bottom up support is somewhat refuted [by roon](https://twitter.com/tszzl/status/1732927157897449856?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [tipping ChatGPT works](https://twitter.com/voooooogel/status/1730726744314069190) aka "I'm going to tip $200 for a perfect solution!"
-	- see sota prompt in dolphin model https://x.com/minimaxir/status/1741584062610039095?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- see sota prompt in dolphin model https://x.com/minimaxir/status/1741584062610039095?s=46&t=90xQ8sGy63D2OtiaoGJuww and here https://twitter.com/tombielecki/status/1735055909922214396
 - [dumber in december?](https://twitter.com/roblynch99/status/1734278713762549970?s=12&t=90xQ8sGy63D2OtiaoGJuww) - not scientifically tested nor reproduced
 - [tell it you are a journalist](https://x.com/justinetunney/status/1741717948593815591?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - ChatGPT "[we have a lot in common](https://x.com/ChatGPTapp/status/1733569316245930442?s=20)" vs Grok
@@ -76,6 +79,7 @@
 			- We have prepared a technical report about Gemini covering the model, training infrastructure, evaluations, safety analysis and responsible deployment.  I’ll walk you through some of the tables and figures in the report. https://deepmind.google/gemini/gemini_1_report.pdf
 			- Gemini Pro api https://x.com/sundarpichai/status/1734952757722001626?s=20
 				- [character pricing over token](https://twitter.com/abacaj/status/1734965635262669174?s=12&t=90xQ8sGy63D2OtiaoGJuww) - slightly more expensive - [worse for code](https://x.com/abacaj/status/1734973504070570404?s=20)
+				- [visual prompting not as good as GPT4V but does ok](https://twitter.com/skalskip92/status/1735088305484509380/photo/1)
 			- [Gemini Nano is a 1B GGML model with TensorFlowLite called ULM-1B?](https://x.com/tarantulae/status/1733263857617895558?s=20)
 			- [only half page of disclosure about dataset](https://x.com/emilymbender/status/1732762136341016650?s=20) in 60 page report [with 1000 authors](https://twitter.com/satyanutella_/status/1737676936258945226)
 	- [Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
@@ -132,12 +136,13 @@
 		- [50% humaneval](https://x.com/abacaj/status/1733607115170693584?s=20). we [dont know how purposefully it is trained on code](https://x.com/EMostaque/status/1733642591348863153?s=20)
 		- and is somewhat instruction tuney - [it already knows the alpaca format](https://x.com/teortaxesTex/status/1733750033877524757?s=20) because those tokens are out there 
 		- [some speculation that they just copy pasted Mistral7b 8 times](https://x.com/intrstllrninja/status/1734301196402184574?s=20) - but not widely verified or proven
+		- [potentially a lot better if you move experts from 2 to 3?](https://twitter.com/main_horse/status/1735202258189799629?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Mistral-medium strictly better than GPT3.5](https://twitter.com/mattshumer_/status/1734220470466060435?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - Nous Hermes 2
 	- [Vision alpha also launched with function calling - but had problems](https://twitter.com/teknium1/status/1731369031918293173?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [model merging with Intel neural-chat does well](https://twitter.com/Weyaxi/status/1733588998172311932)
 - Apple Ferret https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model
-- Mamba models
+- Mamba models and StripedHyena (descendant of [Hyena](https://arxiv.org/abs/2302.10866))
 	- primer on [Linear RNNs and State Space Models](https://www.youtube.com/watch?v=dKJEpOtVgXc)
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
 		- interconnects https://www.youtube.com/watch?v=OFFHiJzPpCQ interview 
@@ -147,6 +152,8 @@
 	- [outside of pytorch](https://twitter.com/srush_nlp/status/1731751599305879593)
 	- [Mamba chat - finetuned for chat](https://x.com/MatternJustus/status/1732572463257539032?s=20)
 	- Clibrain [finetuned on OpenHermes for instruction following](https://twitter.com/mrm8488/status/1734560234599862322?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- Hazy Research also released [Based](https://hazyresearch.stanford.edu/blog/2023-12-11-zoology2-based), another mixer model
+- BlinkDL [announced work](https://twitter.com/blinkdl_ai/status/1735258602473197721?s=12&t=90xQ8sGy63D2OtiaoGJuww) on RWKV6 (former guest!)
 - Phi-2 ([Huggingface](https://huggingface.co/microsoft/phi-2), [Msft blog](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/))
 	- Architecture: a Transformer-based model with next-word prediction objective
 	- Context length: 2048 tokens
@@ -159,8 +166,7 @@
 	- https://x.com/SebastienBubeck/status/1735050282210615431?s=20
 	- ehartford version of it https://twitter.com/erhartford/status/1738677760200155464
 	- [finetune using QLoRA](https://twitter.com/geronimo_ai/status/1741062740830028191?s=12&t=90xQ8sGy63D2OtiaoGJuww) - but it Phi doesn't support gradient checkpointing so it takes LOTS of VRAM to tune. (It took me 4x a100 and that's with qLoRA)
-- StripedHyena
-	- descendant of [Hyena](https://arxiv.org/abs/2302.10866)
+	- [run in the browser](https://twitter.com/radamar/status/1735231037519835251?s=12&t=90xQ8sGy63D2OtiaoGJuww) - at 3 tok/s, after 1.5gb download
 - https://ai.meta.com/research/seamless-communication/
 	- SeamlessExpressive: A model that aims to preserve expression and intricacies of speech across languages.
 	- SeamlessStreaming: A model that can deliver speech and text translations with around two seconds of latency.
@@ -174,6 +180,15 @@
 	- NexusRaven V2 was instruction-tuned from @AIatMeta 's CodeLlama-13B, without using proprietary LLM generated data.
 - upstage solar 11b 
 	- paper https://x.com/hunkims/status/1739842542596927882?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- ([tweet](https://twitter.com/_philschmid/status/1734992933764411788?s=12&t=90xQ8sGy63D2OtiaoGJuww))  10B an open LLM outperforming other LLMs up to 30B parameters, including Mistral 7B. 🤯 Solar achieves an MMLU score of 65.48, which is only 4 points lower than Meta Llama 2 while being 7x smaller.
+		- 🦙 Llama 2 architecture
+		-  10.7B Parameter
+		-  4096 context length
+		-  Apache 2.0 License
+		-  Initialized from Mistral with using a new "**Depth Up-Scaling**"  technique (not elaborated)
+		-  Fits into a single GPU with quantization
+		-  OpenLLM Leaderboard score ~74.2 (#1), due to TurthfulQA
+		-  Available on Hugging Face
 	- and controversy https://x.com/winglian/status/1740082008087269848?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 - google imagen 2 https://news.ycombinator.com/item?id=38628417
@@ -189,6 +204,7 @@
 	- We present LLM360, an initiative to fully open-source LLMs, which advocates for all training code and data, model checkpoints, and intermediate results to be made available to the community. The goal of LLM360 is to support open and collaborative AI research by making the end-to-end LLM training process transparent and reproducible by everyone. As a first step of LLM360, we release two 7B parameter LLMs pre-trained from scratch, Amber and CrystalCoder, including their training code, data, intermediate checkpoints, and analyses (at [this https URL](https://www.llm360.ai/)).
 - unum image captioning LLM https://x.com/altryne/status/1740451547572834434?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - [GigaGPT: GPT-3 sized models in 565 lines of code](https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code) from Cerebras
+- last month's Animate Anyone project was extended to [Outfit Anyone]([https://humanaigc.github.io/outfit-anyone/](https://t.co/MjvDkpGS4h)) ([see video](https://twitter.com/minchoi/status/1735176374313202043?s=12&t=90xQ8sGy63D2OtiaoGJuww), [youtube](https://www.youtube.com/watch?v=jnNHcLdoxNk)). there is a [HF space](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone) but nothing else seems to be released.
 
 ## open source tooling and projects
 
@@ -221,6 +237,7 @@
 	- The app keeps running in the background, only taking a screenshot/listening when activated by keyboard shortcut.
 	- I's built with NodeJS/Electron, and uses OpenAI Whisper, Vision and TTS APIs under the hood (BYO API key).
 - LlavaVision: [Bakklava + Llama.cpp](https://news.ycombinator.com/item?id=38157524) - open source Be My Eyes
+	- [related vision model demo - walking thru a complex pdf manual - that was quite popular](https://x.com/hrishioa/status/1734935026201239800?s=20) but not yet open source
 - https://github.com/gregsadetsky/sagittarius open source Gemini demo clone
 - Coffee: build and iterate on your UI 10x faster with AI https://github.com/Coframe/coffee
 - namedrop
@@ -238,6 +255,8 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - [Anthropic 750m @ 15b valuation](https://www.theinformation.com/articles/anthropic-to-raise-750-million-in-menlo-ventures-led-deal)
 - OpenAI at 100b valuation
 - [Mistral 400m @ 2b valuation](https://twitter.com/abacaj/status/1733262949475623142/photo/1)
+- Glean (former guest!) raising  [200m @ 2b valuation](https://twitter.com/gokulr/status/1735303391788872132?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- [Harvey AI $80m @ 715m valuation](https://www.maginative.com/article/legal-ai-startup-harvey-ai-raises-80m-at-715m-valuation/) (after their [$21m with Sequoia in April](https://siliconangle.com/2023/04/27/legal-ai-focused-firm-harvey-raises-21m-led-sequoia/))
 - [Essential AI ~50m series A](https://twitter.com/ashvaswani/status/1734680441888886937?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [AssemblyAI 50m series B?](https://techcrunch.com/2023/12/04/assemblyai-nabs-50m-to-build-and-serve-ai-speech-models/)
 	- AssemblyAI claims that its paying customer base grew 200% from last year to 4,000 brands and that its AI platform is now handling around 25 million API calls per day. Moreover, over 200,000 developers are building on the platform, AssemblyAI says — using it to process more than 10 terabytes of data a day.
@@ -262,6 +281,7 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 	- https://twitter.com/sjwhitmore/status/1737569171960209452
 	- https://twitter.com/karpathy/status/1737518588159041845
 - Krea AI [open beta](https://twitter.com/krea_ai/status/1734866368489722035?s=12&t=90xQ8sGy63D2OtiaoGJuww) - all the LCM goodness live!
+- FAL.ai camera - [40 fps](https://twitter.com/burkaygur/status/1735104513114259902?s=12&t=90xQ8sGy63D2OtiaoGJuww) LCM generation demo
 - Modal's [Turbo.art](https://twitter.com/bernhardsson/status/1736860828006056114?s=12&t=90xQ8sGy63D2OtiaoGJuww) - Paint and play around with prompts - the app synthesizes images in a couple of hundred milliseconds. Uses SDXL Turbo running on GPUs on Modal.
 - [Sweep.dev v1 launch](https://twitter.com/kevinlu1248/status/1732541248182137275?s=12&t=90xQ8sGy63D2OtiaoGJuww) - an AI-powered junior developer. Over the past two weeks, we’ve narrowed our focus and greatly improved: Reliability - generating PRs from prompts consistently. Iteration Speed - quickly showing you what’s happening, so you don’t have to wait for the entire PR to be generated.
 

@@ -184,6 +184,16 @@ https://twitter.com/pommedeterre33/status/1614927584030081025?s=46&t=HS-dlJsERZX
 
 ### inference
 
+https://www.artfintel.com/p/transformer-inference-tricks
+-  KV Cache
+- Speculative decoding
+- Effective sparsity
+- Quantization
+
+https://lmsys.org/blog/2023-11-21-lookahead-decoding/
+lookahead decoding
+
+
 https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
 scaling up inference
 

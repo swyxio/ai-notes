@@ -12,6 +12,19 @@ OWASP top 10 security concerns for LLMs [https://owasp.org/www-project-top-10-fo
 -   Improper Error Handling
 -   Training Data Poisoning
 
+Karpathy list of security concerns (from [1hr intro talk](https://www.youtube.com/watch?v=zjkBMFhNj_g))
+- Jailbreaking
+- Prompt injection
+- Backdoors & data poisoning
+- Adversarial inputs
+- Insecure output handling
+- Data extraction & privacy
+- Data reconstruction
+- Denial of service
+- Escalation
+- Watermarking & evasion
+- Model theft
+
 
 - https://github.com/greshake/llm-security
 	- https://arxiv.org/abs/2302.12173
@@ -59,6 +72,11 @@ https://royapakzad.substack.com/p/old-advocacy-new-algorithms
     
 -   AI Village at DEF CON—a highly popular hacker convention—will also organize [a public Generative AI red teaming event](https://aivillage.org/generative%20red%20team/generative-red-team/) in August 2023, in Las Vegas. Red teamers will test language models from Anthropic, Google, Hugging Face, NVIDIA, OpenAI, and Stability. The event is supported by the White House Office of Science, Technology, and Policy. You can also submit a session proposal on similar topics to DEF CON's AI Village [here](https://easychair.org/cfp/AIV31).
 
+
+## data exfiltration
+
+- https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html ([hn](https://news.ycombinator.com/item?id=38458683))
+- https://twitter.com/ShreyaR/status/1729907758206742528
 
 ## product
 
