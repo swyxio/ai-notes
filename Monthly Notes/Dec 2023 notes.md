@@ -38,6 +38,7 @@
 - [tipping ChatGPT works](https://twitter.com/voooooogel/status/1730726744314069190) aka "I'm going to tip $200 for a perfect solution!"
 	- see sota prompt in dolphin model https://x.com/minimaxir/status/1741584062610039095?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - [dumber in december?](https://twitter.com/roblynch99/status/1734278713762549970?s=12&t=90xQ8sGy63D2OtiaoGJuww) - not scientifically tested nor reproduced
+- [tell it you are a journalist](https://x.com/justinetunney/status/1741717948593815591?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - ChatGPT "[we have a lot in common](https://x.com/ChatGPTapp/status/1733569316245930442?s=20)" vs Grok
 	- [nontechnical people completely misunderstanding](https://x.com/willdepue/status/1733564421866398027?s=20) 
 

@@ -42,6 +42,13 @@
 ![https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d30755f-7ece-47d4-bb91-acad82473df8_3362x2035.png](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d30755f-7ece-47d4-bb91-acad82473df8_3362x2035.png)
 
 - [Which GPU(s) to Get for Deep Learning? from Tim Dettmers](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
+- [Notes on frontier model training](https://docs.google.com/document/d/1TsYkDYtV6BKiCN9PAOirRAy3TrNDu2XncUZ5UZfaAKA/edit?pli=1) from Yafah Edelman
+	- Cost Breakdown of ML Training
+	- Why ML GPUs Cost So Much
+	- Contra FLOPs
+	- ML Parallelism
+	- We (Probably) Won’t Run Out of Data
+	- AI Energy Use and Heat Signatures
 
 ## Infrastructure
 
