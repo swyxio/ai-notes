@@ -308,6 +308,7 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
   - https://andymatuschak.org/prompts/
   - https://every.to/superorganizers/linus-lee-is-living-with-ai
   - https://platform.openai.com/docs/guides/gpt-best-practices
+  - [Prompt Engineering guide from OpenAI at NeurIPS](https://twitter.com/SarahChieng/status/1741926266087870784) via Sarah Chieng
 - **Beginner**
   - go through all the GPT3 examples https://beta.openai.com/examples
   - GPT Best practices https://platform.openai.com/docs/guides/gpt-best-practices

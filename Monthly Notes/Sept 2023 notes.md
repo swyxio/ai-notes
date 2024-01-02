@@ -33,6 +33,7 @@
 - google bard integration
   - https://www.nytimes.com/2023/09/19/technology/google-bard-ai-chatbot-youtube-gmail.html
   - https://www.nytimes.com/2023/09/20/technology/google-bard-extensions.html
+  - can be used to search email https://twitter.com/maccaw/status/1735393296946545001?s=12&t=90xQ8sGy63D2OtiaoGJuww
 - lots of demos of Dalle3
 	- text generation is solved! - you can say "[a wide angle photo of a television, a CNN banner reports “Breaking news: We are not alone”](https://twitter.com/fofrAI/status/1708193403882594741)" and it works
 	- [mario on couch](https://twitter.com/skirano/status/1707868051612328383)

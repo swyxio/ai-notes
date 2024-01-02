@@ -105,6 +105,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - "The development of AI is as fundamental as the creation of the microprocessor, the personal computer, the Internet, and the mobile phone. It will change the way people work, learn, travel, get health care, and communicate with each other."
   - [Steve Yegge on AI for developers](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
   - [Karpathy 2023 intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) (notes from [Sarah Chieng](https://twitter.com/SarahChieng/status/1729569057475879103))
+  - [Prompt Engineering guide from OpenAI at NeurIPS](https://twitter.com/SarahChieng/status/1741926266087870784) via Sarah Chieng
   - [Why this AI moment might be the real deal](https://www.thenewatlantis.com/publications/why-this-ai-moment-may-be-the-real-deal)
   - Sam Altman - [Moore's Law for Everything](https://moores.samaltman.com/)
   - excellent introduction to foundation models from MSR https://youtu.be/HQI6O5DlyFc

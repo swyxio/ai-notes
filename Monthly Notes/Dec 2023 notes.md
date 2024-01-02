@@ -3,34 +3,63 @@
 - ML inference wars
 	- [mistral now valued at $2b](https://news.ycombinator.com/item?id=38593616) - led [by a16z](https://twitter.com/a16z/status/1734250222451126769?s=12&t=90xQ8sGy63D2OtiaoGJuww) (which also announced [open source grants 2](https://twitter.com/bornsteinmatt/status/1735000979438014501?s=12&t=90xQ8sGy63D2OtiaoGJuww)), [Jim Fan take](https://twitter.com/drjimfan/status/1734269362100437315?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- mixtral price war
-		- https://twitter.com/togethercompute/status/1734282721982324936
+		- $2m [mistral api plateforme ](https://twitter.com/sambhavgupta6/status/1736097200835338716)
+		- $2/m -> $0.3/m from abacusai https://twitter.com/JosephJacks_/status/1735756308496667101
+		- 0.6/m from together https://twitter.com/togethercompute/status/1734282721982324936
+		- 0.5/m from anyscale https://twitter.com/anyscalecompute/status/1734997028961485304
+		- 0.5/m from Octoml https://twitter.com/mattshumer_/status/1735809776217407941?s=12&t=90xQ8sGy63D2OtiaoGJuww
+		- 0.14/m from perplexity https://twitter.com/AravSrinivas/status/1734718293208969703/photo/1
+		- 0.13/m from deepinfra https://twitter.com/abacaj/status/1735471837197316332?s=12&t=90xQ8sGy63D2OtiaoGJuww - probably just [rehosting open source inference libraries](https://twitter.com/suchenzang/status/1735537148923629980?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- "free" on openrouter but [rate limited](https://twitter.com/openrouterai/status/1736451053691007391?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- anyscale drama https://twitter.com/soumithchintala/status/1738241213327692174
 		- https://buttondown.email/ainews/archive/ainews-12222023-anyscales-benchmark-criticisms/
 		- https://www.anyscale.com/blog/comparing-llm-performance-introducing-the-open-source-leaderboard-for-llm
 	- https://www.semianalysis.com/p/inference-race-to-the-bottom-make <--- read!!
 		- "[converge to GPUs + electricity](https://twitter.com/abacaj/status/1735030462005842148?s=12&t=90xQ8sGy63D2OtiaoGJuww)"
+		- commentary from [dylan patel](https://x.com/dylan522p/status/1735773540916269551?s=20)
 	- https://vgel.me/posts/faster-inference/
 	- https://pythonspeed.com/articles/cpu-thread-pool-size/
 - synthetic data
 	- https://arxiv.org/pdf/2312.06585.pdf karpathy pick from deepmind
+- Data wars
+	- [apple offering 50m for data](https://twitter.com/andrewcurran_/status/1738650427766554788?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- nyt lawsuit on openai
+	- openai x axel xpringer, and [AP](https://x.com/AndrewCurran_/status/1738650436083859469?s=20), and [has a Data Partnerships program](https://twitter.com/OpenAI/status/1722678501181149331)
 - prrplexity is king
 	- tobi tweet
 	- https://x.com/chillzaza_/status/1740091957979038108?s=20
 - 70x ARR fundraising
 	- https://twitter.com/gokulr/status/1735303391788872132?s=12&t=90xQ8sGy63D2OtiaoGJuww 
 	- [high compared to 10, 20x "insane" rounds](https://twitter.com/gokulr/status/1735308752352616897?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- fake papers
+	- [vongoom - data poisoning](https://twitter.com/sterlingcrispin/status/1735346124519817487?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [google gemini to q* paper](https://x.com/_aidan_clark_/status/1741808745720467819?s=20)
 
 
 
 ## openai
 
-- in talks to raise funding at $100
+- [sama feature request recap](https://twitter.com/sama/status/1738673279085457661?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- AGI (a little patience please) 
+	- GPT-5 
+	- better voice mode 
+	- higher rate limits 
+	- better GPTs 
+	- better reasoning
+	- control over degree of wokeness/behavior 
+	- video 
+	- personalization 
+	- better browsing 
+	- 'sign in with openai' 
+	- open source
+- [logprobs available with chatcompletions](https://twitter.com/officiallogank/status/1735745420708679828?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - consensus on [lobotomized chatgpt](https://discord.com/channels/1168579740391710851/1168582188950896641/1182718496707203072) acknowledged by the official [twitter account](https://x.com/ChatGPTapp/status/1732979491071549792?s=20). lazier at coding - can [fix with a GPT](https://x.com/NickADobos/status/1732982713010073720?s=20)
 - axelspringer partnership - [tweet](https://x.com/OpenAI/status/1734940445824937993?s=20)
 - times sues openai https://x.com/levie/status/1740058613102923824?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- msft [can/cannot buy ](https://x.com/teortaxestex/status/1740238216782053664?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- [delete all GPT instances](https://news.ycombinator.com/item?id=38790255)
 - superalignment 
-	- 1e7 fund
+	- [1e7 superalignment fund](https://twitter.com/janleike/status/1735345104439918886?s=12&t=90xQ8sGy63D2OtiaoGJuww) - see [Research Directions](https://openai.notion.site/Research-directions-0df8dd8136004615b0936bf48eb6aeb8)
 	- [weak to strong generalization](https://openai.com/research/weak-to-strong-generalization)  ([paper](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf#page4), [HN](https://news.ycombinator.com/item?id=38643995)) proof of concept: When we supervise GPT-4 with a GPT-2-level model using this method on NLP tasks, the resulting model typically performs somewhere between GPT-3 and GPT-3.5. We are able to recover much of GPT-4’s capabilities with only much weaker supervision. ([codebase shows how to do it with GPT2 and Qwen7b](https://github.com/openai/weak-to-strong/blob/main/train_weak_to_strong.py))
 - openai [suspends bytedance for breaking TOS](https://twitter.com/alexeheath/status/1735758297893085621)
 - [Bing Deep Search will expand your query](https://www.theverge.com/2023/12/5/23989407/bing-deep-search-gpt-4-microsoft) from
@@ -39,7 +68,9 @@
 - chatgpt plus signups re enabled
 - [the New Yorker has a nice longform read](https://news.ycombinator.com/item?id=38486394) on the OpenAI board drama, probably the last worth reading, but the extent of top down vs bottom up support is somewhat refuted [by roon](https://twitter.com/tszzl/status/1732927157897449856?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [tipping ChatGPT works](https://twitter.com/voooooogel/status/1730726744314069190) aka "I'm going to tip $200 for a perfect solution!"
-	- see sota prompt in dolphin model https://x.com/minimaxir/status/1741584062610039095?s=46&t=90xQ8sGy63D2OtiaoGJuww and here https://twitter.com/tombielecki/status/1735055909922214396
+	- see sota prompt in dolphin model https://x.com/minimaxir/status/1741584062610039095?s=46&t=90xQ8sGy63D2OtiaoGJuww 
+	- and here https://twitter.com/tombielecki/status/1735055909922214396
+	- and dont forget to ask the model to [improve its own prompt](https://twitter.com/abacaj/status/1735437564566262188/photo/2)
 - [dumber in december?](https://twitter.com/roblynch99/status/1734278713762549970?s=12&t=90xQ8sGy63D2OtiaoGJuww) - not scientifically tested nor reproduced
 - [tell it you are a journalist](https://x.com/justinetunney/status/1741717948593815591?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - ChatGPT "[we have a lot in common](https://x.com/ChatGPTapp/status/1733569316245930442?s=20)" vs Grok
@@ -109,6 +140,7 @@
 	- how you can try out Mixtral locally: https://simonwillison.net/2023/Dec/18/mistral/ 
 		- [runs at 27 tok/s, with LMStudio](https://twitter.com/skirano/status/1734351099451023534?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- BUT [Q6_K.gguf needs 40GB and many macs top out at 32GB. need to get 64GB.](https://news.ycombinator.com/item?id=38687731)
+		- [note that ollama/lmstudio et al dont support sliding window attention](https://news.ycombinator.com/item?id=38667828) - try using mlc-llm instead - but [mixtral doesn't support sliding window anyway](https://old.reddit.com/r/LocalLLaMA/comments/18k0fek/psa_you_can_and_may_want_to_disable_mixtrals/)
 		- [try on replicate](https://twitter.com/_nateraw/status/1733279519841386826?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [fireworks](https://twitter.com/FireworksAI_HQ/status/1733309517583302700) and [together](https://twitter.com/togethercompute/status/1734680608855728541?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [in transformers](https://twitter.com/teknium1/status/1734150978071617975?s=12&t=90xQ8sGy63D2OtiaoGJuww) and in [Apple MLX](https://t.co/75StzY5AHe)
 	- related paper: 
 		- MEGABLOCKS: EFFICIENT SPARSE TRAINING WITH MIXTURE-OF-EXPERTS
@@ -118,20 +150,20 @@
 		- 2 ~ 4 $ per 1M token for a 30B model
 	- [TOS issue removed by CEO](https://twitter.com/arthurmensch/status/1734470462451732839)
 	- [Mistral finetune optimized from OpenPipe](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized) calls out a few other more recent Mistral variants:
-		- [OpenHermes 2.5](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B), [Zephyr](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), [Cybertron](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16), [Intel Neural Chat](https://huggingface.co/Intel/neural-chat-7b-v3-3), [Hermes Neural](https://huggingface.co/Weyaxi/OpenHermes-2.5-neural-chat-v3-3-Slerp), and [Metamath Cybertron Starling](https://huggingface.co/Q-bert/MetaMath-Cybertron-Starling).
+		- [OpenHermes 2.5](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B), [Zephyr](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), [Intel Neural Chat](https://huggingface.co/Intel/neural-chat-7b-v3-3), [Hermes Neural](https://huggingface.co/Weyaxi/OpenHermes-2.5-neural-chat-v3-3-Slerp), and [Metamath Cybertron Starling](https://huggingface.co/Q-bert/MetaMath-Cybertron-Starling) and [Dolphin 2.5](https://twitter.com/openrouterai/status/1738582017967566929?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- great guide on finetuning https://twitter.com/HarperSCarroll/status/1737946511856832695
 		- was a followup from [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 	- [Mixtral-instruct also released](https://x.com/dchaplot/status/1734190265622249926?s=20), trained with SFT + DPO
 		- trained with DPO
 		- [avaialblel on perplxity labs](https://twitter.com/AravSrinivas/status/1734603265801613670)
-	- visualizing mixtral MOE
+	- visualizing mixtral MOE ([HN](https://news.ycombinator.com/item?id=38733208))
 		- https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/
 		- [George Hotz pseudocode for understanding](https://twitter.com/marktenenholtz/status/1734277582344909108?s=12&t=90xQ8sGy63D2OtiaoGJuww)
-		- https://news.ycombinator.com/item?id=38733208
 	- [MOEs should perform inline with num_experts_per_tok (which is 2 in mixtral)](https://twitter.com/main_horse/status/1733180962710962376) and do better on [fact recall than reasoning](https://x.com/main_horse/status/1733180970415849735?s=20)
 		- [Mixtral not the first MOE](https://twitter.com/drjimfan/status/1733515729691906304?s=12&t=90xQ8sGy63D2OtiaoGJuww) . compare with OpenMOE
 		- [Huggingface MOE explainer](https://huggingface.co/blog/moe) and [Rasbt explainer](https://twitter.com/rasbt/status/1734234160154185730?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- it's a base model, but...
+		- [does well on ChatArena](https://twitter.com/lmsysorg/status/1735729398672716114?s=12&t=90xQ8sGy63D2OtiaoGJuww) vs GPT3.5T
 		- [does very well on benchmarks](https://twitter.com/Francis_YAO_/status/1733686003687112983) vs 30-and 70b models
 		- [50% humaneval](https://x.com/abacaj/status/1733607115170693584?s=20). we [dont know how purposefully it is trained on code](https://x.com/EMostaque/status/1733642591348863153?s=20)
 		- and is somewhat instruction tuney - [it already knows the alpaca format](https://x.com/teortaxesTex/status/1733750033877524757?s=20) because those tokens are out there 
@@ -142,7 +174,7 @@
 	- [Vision alpha also launched with function calling - but had problems](https://twitter.com/teknium1/status/1731369031918293173?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [model merging with Intel neural-chat does well](https://twitter.com/Weyaxi/status/1733588998172311932)
 - Apple Ferret https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model
-- Mamba models and StripedHyena (descendant of [Hyena](https://arxiv.org/abs/2302.10866))
+- Mamba models 
 	- primer on [Linear RNNs and State Space Models](https://www.youtube.com/watch?v=dKJEpOtVgXc)
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
 		- interconnects https://www.youtube.com/watch?v=OFFHiJzPpCQ interview 
@@ -153,6 +185,9 @@
 	- [Mamba chat - finetuned for chat](https://x.com/MatternJustus/status/1732572463257539032?s=20)
 	- Clibrain [finetuned on OpenHermes for instruction following](https://twitter.com/mrm8488/status/1734560234599862322?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- Hazy Research also released [Based](https://hazyresearch.stanford.edu/blog/2023-12-11-zoology2-based), another mixer model
+- StripedHyena (descendant of [Hyena](https://arxiv.org/abs/2302.10866))
+	- best explainer is https://www.interconnects.ai/p/llms-beyond-attention#§real-world-performance-stripedhyena-b
+	- **Together took modules from multiple pretrained models, slotted them together, and kept training the model to get stable performance**. Quoting the blog post: *We grafted architectural components of Transformers and Hyena, and trained on a mix of the RedPajama dataset, augmented with longer-context data.*
 - BlinkDL [announced work](https://twitter.com/blinkdl_ai/status/1735258602473197721?s=12&t=90xQ8sGy63D2OtiaoGJuww) on RWKV6 (former guest!)
 - Phi-2 ([Huggingface](https://huggingface.co/microsoft/phi-2), [Msft blog](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/))
 	- Architecture: a Transformer-based model with next-word prediction objective
@@ -244,6 +279,7 @@
 	- https://twitter.com/charliebholtz/status/1737667912784134344
 	- https://github.com/cbh123/namedrop
 	- ollama-namedrop
+	- Dan Shipper also came up with [something for filesystem organization](https://twitter.com/danshipper/status/1735398395752198442?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 
 You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephyr-7b-beta, Gryphe/MythoMax-L2-13b, teknium/OpenHermes-2.5-Mistral-7B and more.
 
@@ -267,8 +303,10 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - [answer ai $10m seed](https://twitter.com/jeremyphoward/status/1734606378331951318?s=12&t=90xQ8sGy63D2OtiaoGJuww) ([blogpost](https://www.answer.ai/posts/2023-12-12-launch.html))
 - martian fundraise announced
 
-## other launhces
+## other launches
 
+- [Digi - AI gf app](https://digi.ai/blog/were-just-getting-started)
+	- 
 - Midjourney v6 launched
 	- [comparison from v1 to v6](https://twitter.com/chaseleantj/status/1738849381632352493?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Midjourney Web alpha](https://venturebeat.com/ai/midjourney-alpha-is-here-with-ai-image-generations-on-the-web/) for people who have made >10,000 images in Midjourney. includes Lexica-like "prompt search" bar.
@@ -282,7 +320,8 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 	- https://twitter.com/karpathy/status/1737518588159041845
 - Krea AI [open beta](https://twitter.com/krea_ai/status/1734866368489722035?s=12&t=90xQ8sGy63D2OtiaoGJuww) - all the LCM goodness live!
 - FAL.ai camera - [40 fps](https://twitter.com/burkaygur/status/1735104513114259902?s=12&t=90xQ8sGy63D2OtiaoGJuww) LCM generation demo
-- Modal's [Turbo.art](https://twitter.com/bernhardsson/status/1736860828006056114?s=12&t=90xQ8sGy63D2OtiaoGJuww) - Paint and play around with prompts - the app synthesizes images in a couple of hundred milliseconds. Uses SDXL Turbo running on GPUs on Modal.
+	- See also [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - which is also realtime, but also offers a pipeline? ([tweet](https://twitter.com/danielgross/status/1738718539668652148?s=12&t=90xQ8sGy63D2OtiaoGJuww))
+- Modal's [Turbo.art](https://twitter.com/bernhardsson/status/1736860828006056114?s=12&t=90xQ8sGy63D2OtiaoGJuww) ([tweet](https://twitter.com/modal_labs/status/1735750142546866283?s=12&t=90xQ8sGy63D2OtiaoGJuww)) - Paint and play around with prompts - the app synthesizes images in a couple of hundred milliseconds. Uses SDXL Turbo running on GPUs on Modal.
 - [Sweep.dev v1 launch](https://twitter.com/kevinlu1248/status/1732541248182137275?s=12&t=90xQ8sGy63D2OtiaoGJuww) - an AI-powered junior developer. Over the past two weeks, we’ve narrowed our focus and greatly improved: Reliability - generating PRs from prompts consistently. Iteration Speed - quickly showing you what’s happening, so you don’t have to wait for the entire PR to be generated.
 
 ## misc discussions and reads
@@ -291,6 +330,7 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - Very good longpost on [How well are open/small models catching up?](https://twitter.com/hrishioa/status/1733707748993651178?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- "I've tried nearly every provider (Replicate, Vertex, Modal), and the cost, cold boot, time to first token, and generation speed are all pretty far behind what you can get from the big providers. It's likely that none of them have the economies of scale the big guys do on one or two model flavors. When you can't saturate H200s on a single model, and are forced to serve multiple finetunes or run arbitrary code of off-the-shelf cloud offerings, you likely have huge inefficiencies that may never be surpassable."
 - [Great RAG cheatsheet from LlamaIndex](https://twitter.com/jerryjliu0/status/1733530504572592363?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- [Harrison Chase's TED talk](https://twitter.com/langchainai/status/1736429296363741524?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment](https://arxiv.org/abs/2312.09979)
 	- [This paper shows a way to fine tune llama-2 with millions of instruction data w/o catastrophic forgetting, effectively injecting new knowledge](https://twitter.com/abacaj/status/1738699570035544517/photo/2)
 	- from [skunkworks ai hydra](https://x.com/nisten/status/1738916240377172257?s=20)
@@ -309,6 +349,7 @@ AI chatbots can convince other chatbots to instruct users how to build bombs and
 	- including for chain of thought!
 - [Deep dive into the ViT paper](https://blog.oxen.ai/arxiv-dives-vision-transformers-vit/)
 - [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
+- [PyTorch's design origins](https://twitter.com/soumithchintala/status/1736555740448362890?s=12&t=90xQ8sGy63D2OtiaoGJuww) from 2010 (Torch7)
 - [Notable thread on turbopuffer](https://twitter.com/amanrsanger/status/1730763587944398874?s=12&t=90xQ8sGy63D2OtiaoGJuww), efficient new entrant in the vector db space
 - [LoftQ - drop-in QLoRA replacement](https://x.com/WeizhuChen/status/1736127441238913438?s=20)
 - [Benchmarknig function calling](https://twitter.com/robertnishihara/status/1734629320868687991)  https://www.anyscale.com/blog/anyscale-endpoints-json-mode-and-function-calling-features
@@ -325,6 +366,7 @@ AI chatbots can convince other chatbots to instruct users how to build bombs and
 - [Karpathy - Hallucination is not a bug](https://twitter.com/karpathy/status/1733299213503787018?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Mistral/Huggingface - French AI is trending mostly because people happened to already be there.](https://x.com/heyjchu/status/1733538255365394664?s=20)
 - [fiction - MMAcevedo (mind uploading)](https://qntm.org/mmacevedo) - [sequel was just published](https://twitter.com/qntm/status/1732377446576435337)
+- some buzz about the MedPrompt paper but its a [very very smol MMLU bump with a loooot of shots of prompting](https://x.com/abacaj/status/1734623259369337215?s=20)
 - Beff Jezos on Lex Fridman was some idle debate I don't super care about
 - Prompt injections - [bought Chevy Tahoe for $1](https://news.ycombinator.com/item?id=38681450&utm_source=wondercraft_ai)
 
@@ -335,3 +377,9 @@ AI chatbots can convince other chatbots to instruct users how to build bombs and
 - truth vs beauty quarks https://x.com/khoomeik/status/1732529178069623021?s=20
 - gemini authors meme https://twitter.com/satyanutella_/status/1737676936258945226
 - art thing https://x.com/var_epsilon/status/1741567408056250372?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- [humane CNBC launch dunks](https://twitter.com/lulumeservey/status/1735672851007459661?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- NYE hacking - [respect or disgust?](https://x.com/var_epsilon/status/1741859480692805870?s=20)
+- fake papers
+	- [vongoom - data poisoning](https://twitter.com/sterlingcrispin/status/1735346124519817487?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [google gemini to q* paper](https://x.com/_aidan_clark_/status/1741808745720467819?s=20)
+	- [Cybertron](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16) - [UNA models](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard/discussions/444) getting discredited, causing [leaderboard drama](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard/discussions/444#657c12befcba5f698c2e3fed)
