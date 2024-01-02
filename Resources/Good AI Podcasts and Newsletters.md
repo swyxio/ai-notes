@@ -16,23 +16,24 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 - News/Youtubers
 	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
 	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps. less frequent these days.
-	- ⭐ [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world. daily news coverage, [quality video](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA)
-	- ⭐ [ThursdAI by @altryne](https://sub.thursdai.news/podcast?nthPub=531) - Twitter Spaces at least once a week on all the top AI news, esp good interviews with OSS innovators
-	- ⭐ [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps
+	- ⭐ [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world. daily news coverage, [quality video](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA). (We have done [cross pods](https://www.latent.space/p/breakdown))
+	- ⭐ [ThursdAI by @altryne](https://sub.thursdai.news/podcast?nthPub=531) - Twitter Spaces at least once a week on all the top AI news, esp good interviews with OSS innovators. Frequent collaborator with Latent Space eg on [Dev Day](https://www.latent.space/p/devday) and [Axolotl](https://www.latent.space/p/axolotl)
+	- ⭐ [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps (NOT available as podcast... all the above are)
 	- [Samuel Albanie](https://youtube.com/@SamuelAlbanie1?si=i-SDzcaKgpImvFVT) professor with a youtube explaining papers. new but good
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
 	- [AI Jason](https://youtu.be/pJwR5pv0_gs?si=BdXjIX1mEik-Lbpz) - new frequent ai project breakdowns channel
 	- [Matthew Berman](https://www.youtube.com/@matthew_berman) - short explainer videos of AI Engineering related projects and news
 - Companies
-	- ⭐ [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host
-	- ⭐ [Robot Brains](https://www.therobotbrains.ai/) - Pieter Abbeel - decent backlog
 	- ⭐ [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - great new pod
+	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host. Recently taken over to Caryn Marooney.
+	- [Robot Brains](https://www.therobotbrains.ai/) - Pieter Abbeel - decent backlog
 	- [Generally Intelligent](https://generallyintelligent.com/podcast) - Kanjun Qiu - very cerebral/RL focused. dormant.
 	- [Weaviate Podcast](https://podcasters.spotify.com/pod/show/weaviate/episodes/Erika-Cardenas--Roman-Grebennikov--and-Vsevolod-Goloviznin-on-Recommendation-and-Metarank---Pod-43-e2280u3) - good technical discussions
 	- [NLP Highlights](https://www.listennotes.com/podcasts/nlp-highlights-allen-institute-for-f9Yt4vD_ger/) by the Allen Institute (infrequent but good pre 2020 backlog. Check episode 36)
 - VCs
-	- [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil - new
-	- [Unsupervised Learning](https://podtail.com/en/podcast/unsupervised-learning/) - Redpoint - new
+	- ⭐ [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil
+	- [MAD podcast](https://podcasts.apple.com/us/podcast/the-mad-podcast-with-matt-turck/id1686238724) - Matt Turck - new
+	- [Unsupervised Learning](https://podtail.com/en/podcast/unsupervised-learning/) - Redpoint
 - Mine :) https://latent.space/
 
 ## Newsletters
@@ -43,11 +44,12 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- ⭐️ Sebastian Raschka [Ahead of AI](https://magazine.sebastianraschka.com/) deeply technical recaps deep dives
 	- Arvind Narayanan [AI Snake Oil](https://www.aisnakeoil.com/) - "to dispel hype, remove misconceptions, and clarify the limits of AI."
 - Commentators/ML Eng's
+	- ⭐️ Nathan Lambert's Interconnects https://www.interconnects.ai/ is high quality
+	- ⭐️ Semi Analysis https://www.semianalysis.com/p/ai-server-cost-analysis-memory-is (but expensive. listen to [our pod](https://twitter.com/swyx/status/1725599896483553480) with him)
 	- Alan Thompson's Life Architect https://lifearchitect.substack.com (note [his credentials sus](https://news.ycombinator.com/item?id=35588974))
 	- Bradley Metrock (Deepgram) https://thisweekinvoice.substack.com/
 	- Carlos's Data Machina https://datamachina.substack.com/
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
-	- Semi Analysis https://www.semianalysis.com/p/ai-server-cost-analysis-memory-is
 	- https://www.supervised.news/ is new but promising quality
 	- https://nextword.substack.com/ is new but promising quality
 	- https://www.aitidbits.ai/about is new  but promising quality
