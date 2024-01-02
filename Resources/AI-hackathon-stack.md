@@ -94,6 +94,12 @@ Where the focus is building AI tools for other developers.
     - [**Roboflow**](https://roboflow.com): Build classification, object detection, and instance segmentation datasets and models. Explore over 10,000 open source models and millions of labeled images on [**Universe**](https://universe.roboflow.com). (See Roboflow Hackathon projects like visual [chess solving apps](https://devpost.com/software/chess-boss),  [automatic dog treat release](https://www.hackster.io/satoshiii/visionai-automatic-dog-treat-dispenser-wroboflow-and-yolov5-a71fd2).)
     - 10k open source models, 10M+ open source labeled images: https://universe.roboflow.com
     - LlavaVision: [Bakklava + Llama.cpp](https://news.ycombinator.com/item?id=38157524)
+    - [open source macos copilot](https://news.ycombinator.com/item?id=38611700): https://github.com/elfvingralf/macOSpilot-ai-assistant
+		- - Use a keyboard shortcut to take a screenshot of your active macOS window and start recording the microphone.
+		- Speak your question, then press the keyboard shortcut again to send your question + screenshot off to OpenAI Vision
+		- The Vision response is presented in-context/overlayed over the active window, and spoken to you as audio.
+		- The app keeps running in the background, only taking a screenshot/listening when activated by keyboard shortcut.
+		- I's built with NodeJS/Electron, and uses OpenAI Whisper, Vision and TTS APIs under the hood (BYO API key).
   - _have something to add? send a PR!_
 - **Hackathon Entry Examples**
   - HouseGPT generates raw MIDI data directly from few-shot prompted GPT-3 to create 🎶 house music 🎶 🔊 ([tweet](https://twitter.com/russelljkaplan/status/1616997544307089408?s=20&t=frXEVPqaJUjMPJOhbD9AUg))

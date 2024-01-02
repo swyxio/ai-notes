@@ -70,7 +70,7 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 
 - hugginface transformers https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt
 - lightning https://twitter.com/_willfalcon/status/1665826619200614401
-- [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html)
+- [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://blog.vllm.ai/2023/06/20/vllm.html) ([github](https://github.com/vllm-project/vllm)) - PagedAttention is super efficient for production workloads and they do a great job with dynamic batching, queuing requests, etc.
 - Skypilot https://github.com/skypilot-org/skypilot a framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution.
 
 SkyPilot **abstracts away cloud infra burdens**:

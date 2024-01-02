@@ -116,6 +116,7 @@
 	- [Mistral finetune optimized from OpenPipe](https://openpipe.ai/blog/mistral-7b-fine-tune-optimized) calls out a few other more recent Mistral variants:
 		- [OpenHermes 2.5](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B), [Zephyr](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta), [Cybertron](https://huggingface.co/fblgit/una-cybertron-7b-v2-bf16), [Intel Neural Chat](https://huggingface.co/Intel/neural-chat-7b-v3-3), [Hermes Neural](https://huggingface.co/Weyaxi/OpenHermes-2.5-neural-chat-v3-3-Slerp), and [Metamath Cybertron Starling](https://huggingface.co/Q-bert/MetaMath-Cybertron-Starling).
 		- great guide on finetuning https://twitter.com/HarperSCarroll/status/1737946511856832695
+		- was a followup from [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 	- [Mixtral-instruct also released](https://x.com/dchaplot/status/1734190265622249926?s=20), trained with SFT + DPO
 		- trained with DPO
 		- [avaialblel on perplxity labs](https://twitter.com/AravSrinivas/status/1734603265801613670)
@@ -210,7 +211,12 @@
 - voice cloning with oss models https://replicate.com/blog/how-to-tune-a-realistic-voice-clone
 - https://github.com/turboderp/exllamav2
 	- ollama alternative
-- [open source macos copilot](https://news.ycombinator.com/item?id=38611700)
+- [open source macos copilot](https://news.ycombinator.com/item?id=38611700): https://github.com/elfvingralf/macOSpilot-ai-assistant
+	- - Use a keyboard shortcut to take a screenshot of your active macOS window and start recording the microphone.
+	- Speak your question, then press the keyboard shortcut again to send your question + screenshot off to OpenAI Vision
+	- The Vision response is presented in-context/overlayed over the active window, and spoken to you as audio.
+	- The app keeps running in the background, only taking a screenshot/listening when activated by keyboard shortcut.
+	- I's built with NodeJS/Electron, and uses OpenAI Whisper, Vision and TTS APIs under the hood (BYO API key).
 - LlavaVision: [Bakklava + Llama.cpp](https://news.ycombinator.com/item?id=38157524) - open source Be My Eyes
 - https://github.com/gregsadetsky/sagittarius open source Gemini demo clone
 - Coffee: build and iterate on your UI 10x faster with AI https://github.com/Coframe/coffee
@@ -237,11 +243,15 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - [replicate 40m series B](https://twitter.com/replicate/status/1732104158877188305)
 - [leonardo ai $31m Series A](https://techcrunch.com/2023/12/06/leonardo-ai/)
 - [extropic ai 14m seed](https://twitter.com/Extropic_AI/status/1731675230513639757)
-- [answer ai $10m seed](https://twitter.com/jeremyphoward/status/1734606378331951318?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- [answer ai $10m seed](https://twitter.com/jeremyphoward/status/1734606378331951318?s=12&t=90xQ8sGy63D2OtiaoGJuww) ([blogpost](https://www.answer.ai/posts/2023-12-12-launch.html))
 - martian fundraise announced
 
 ## other launhces
 
+- Midjourney v6 launched
+	- [comparison from v1 to v6](https://twitter.com/chaseleantj/status/1738849381632352493?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [Midjourney Web alpha](https://venturebeat.com/ai/midjourney-alpha-is-here-with-ai-image-generations-on-the-web/) for people who have made >10,000 images in Midjourney. includes Lexica-like "prompt search" bar.
+	- contra [Visual Electric for Stable Diffusion](https://venturebeat.com/ai/visual-electric-launches-to-liberate-ai-art-generation-from-chat-interfaces/)
 - [Bing Code Interpreter for free!](https://twitter.com/MParakhin/status/1732094937368494280)
 - Lume, a seed-stage startup ([https://www.lume.ai/](https://www.lume.ai/)): use AI to automatically transform your source data into any desired target schema in seconds, making onboarding client data or integrating with new systems take seconds rather than days or weeks. In other words, we use AI to automatically map data between any two data schemas, and output the transformed data to you.
 - [1 year anniversary of perplexity ai](https://x.com/AravSrinivas/status/1732825206023201273?s=20)
@@ -259,7 +269,12 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - Very good longpost on [How well are open/small models catching up?](https://twitter.com/hrishioa/status/1733707748993651178?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- "I've tried nearly every provider (Replicate, Vertex, Modal), and the cost, cold boot, time to first token, and generation speed are all pretty far behind what you can get from the big providers. It's likely that none of them have the economies of scale the big guys do on one or two model flavors. When you can't saturate H200s on a single model, and are forced to serve multiple finetunes or run arbitrary code of off-the-shelf cloud offerings, you likely have huge inefficiencies that may never be surpassable."
 - [Great RAG cheatsheet from LlamaIndex](https://twitter.com/jerryjliu0/status/1733530504572592363?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- [LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment](https://arxiv.org/abs/2312.09979)
+	- [This paper shows a way to fine tune llama-2 with millions of instruction data w/o catastrophic forgetting, effectively injecting new knowledge](https://twitter.com/abacaj/status/1738699570035544517/photo/2)
+	- from [skunkworks ai hydra](https://x.com/nisten/status/1738916240377172257?s=20)
 - [Fine Tuning Mistral 7B on Magic the Gathering Drafts](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
+- [Analyzing and Improving the Training Dynamics of Diffusion Models](https://huggingface.co/papers/2312.02696)
+	- ([tweet](https://twitter.com/isskoro/status/1738661307455316236?s=12&t=90xQ8sGy63D2OtiaoGJuww)) It turns out that the classical U-Net image diffusion backbone, which the entire community has been happily building upon during the past ~3 years (including Stable Diffusion), has severe flaws in its training dynamics. If you track its weights/activations statistics during training, you will observe a steady malignant growth in their magnitudes. Turns out, it impairs convergence and "simply" re-designing the architecture to incorporate a better normalization pipeline improves the performance by a staggering ~2.5 times in terms of image quality.
 - [Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions](https://qtransformer.github.io/)
 - Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models
 	- [karpathy pick](https://twitter.com/karpathy/status/1734659057938477174?s=12&t=90xQ8sGy63D2OtiaoGJuww)

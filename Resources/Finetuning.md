@@ -28,6 +28,6 @@ Some guides
 
 ## datasets
 
-- 
+- https://github.com/zhilizju/Awesome-instruction-tuning
 - https://huggingface.co/collections/HuggingFaceH4/awesome-sft-datasets-65788b571bf8e371c4e4241a
 - https://huggingface.co/collections/HuggingFaceH4/awesome-feedback-datasets-6578d0dc8628ec00e90572eb
