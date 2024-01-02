@@ -71,6 +71,7 @@
 	- see sota prompt in dolphin model https://x.com/minimaxir/status/1741584062610039095?s=46&t=90xQ8sGy63D2OtiaoGJuww 
 	- and here https://twitter.com/tombielecki/status/1735055909922214396
 	- and dont forget to ask the model to [improve its own prompt](https://twitter.com/abacaj/status/1735437564566262188/photo/2)
+	- More prompt [improvements in this list](https://x.com/omarsar0/status/1741897575836315920?s=61)
 - [dumber in december?](https://twitter.com/roblynch99/status/1734278713762549970?s=12&t=90xQ8sGy63D2OtiaoGJuww) - not scientifically tested nor reproduced
 - [tell it you are a journalist](https://x.com/justinetunney/status/1741717948593815591?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - ChatGPT "[we have a lot in common](https://x.com/ChatGPTapp/status/1733569316245930442?s=20)" vs Grok
