@@ -18,6 +18,7 @@ The Illustrated Transformer - [https://jalammar.github.io/illustrated-transform
 	- [makemore and neural networks zero to hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 	- [tweetstorm](https://twitter.com/karpathy/status/1468370605229547522?s=20) on convergence, tweetstorm on [expressive, optimizable, efficient/parallelizable](https://twitter.com/karpathy/status/1593417989830848512?s=20) - elaborated in [1hr stanford lecture](https://www.youtube.com/watch?v=XfpMkf4rD6E) and [8min lex fridman summary](https://www.youtube.com/watch?v=9uw3F6rndnA)
 - poke around LLM visualization https://bbycroft.net/llm
+- explore https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/
 - then read https://kipp.ly/transformer-inference-arithmetic/
 - then read https://finbarr.ca/how-is-llama-cpp-possible/ ([andrej commentary](https://twitter.com/karpathy/status/1691571869051445433))
 
