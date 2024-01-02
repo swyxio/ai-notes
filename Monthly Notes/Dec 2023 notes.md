@@ -154,6 +154,7 @@
 	- Training tokens: 1.4T tokens
 	- GPUs: 96xA100-80G
 	- Training time: 14 days
+	- License: Non-commercial research license
 	- https://x.com/sytelus/status/1734881560271454525?s=20
 	- https://x.com/SebastienBubeck/status/1735050282210615431?s=20
 	- ehartford version of it https://twitter.com/erhartford/status/1738677760200155464
@@ -206,6 +207,8 @@
 - https://github.com/lobehub/lobe-chat
 	-  an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application
 	- with an Agent Marketplace
+- AI-tamago🐣: A local-ready LLM-generated and LLM-driven tamagotchi with thoughts and feelings. 100% Javascript and costs $0 to run.
+	- https://github.com/ykhli/AI-tamago, [tweet](https://twitter.com/stuffyokodraws/status/1733216372765950260)
 - https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes
 	- an open-source AI SDK (Python & JavaScript) that provides a drop-in replacement for OpenAI’s chat completion endpoint. We'd love to know what you think so we can make switching as easy as possible and get more folks on open-source.
 - voice cloning with oss models https://replicate.com/blog/how-to-tune-a-realistic-voice-clone
@@ -236,7 +239,6 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - OpenAI at 100b valuation
 - [Mistral 400m @ 2b valuation](https://twitter.com/abacaj/status/1733262949475623142/photo/1)
 - [Essential AI ~50m series A](https://twitter.com/ashvaswani/status/1734680441888886937?s=12&t=90xQ8sGy63D2OtiaoGJuww)
-	- 
 - [AssemblyAI 50m series B?](https://techcrunch.com/2023/12/04/assemblyai-nabs-50m-to-build-and-serve-ai-speech-models/)
 	- AssemblyAI claims that its paying customer base grew 200% from last year to 4,000 brands and that its AI platform is now handling around 25 million API calls per day. Moreover, over 200,000 developers are building on the platform, AssemblyAI says — using it to process more than 10 terabytes of data a day.
 	- A slice of the new funding will be put toward a “universal speech model that the company’s training on over a petabyte of voice data, set to launch later this year,” Fox says. AssemblyAI is also expanding its headcount, aiming to grow its 115-person workforce by 50% to 75% next year

@@ -362,6 +362,8 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 
 ## People
 
+> *Unknown to many people, a growing amount of alpha is now outside of Arxiv, sources include but are not limited to: https://github.com/trending, HN, that niche Discord server, anime profile picture anons on X, reddit *- [K](https://twitter.com/karpathy/status/1733968385472704548)
+
 This list will be out of date but will get you started. My live list of people to follow is at: https://twitter.com/i/lists/1585430245762441216
 
 - Researchers/Developers
