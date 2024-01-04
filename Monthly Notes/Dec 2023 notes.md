@@ -26,7 +26,7 @@
 	- https://arxiv.org/pdf/2312.06585.pdf karpathy pick from deepmind
 - Data wars
 	- [apple offering 50m for data](https://twitter.com/andrewcurran_/status/1738650427766554788?s=12&t=90xQ8sGy63D2OtiaoGJuww)
-	- nyt lawsuit on openai
+	- [nyt lawsuit on openai](https://twitter.com/ceciliazin/status/1740109462319644905?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- openai x axel xpringer, and [AP](https://x.com/AndrewCurran_/status/1738650436083859469?s=20), and [has a Data Partnerships program](https://twitter.com/OpenAI/status/1722678501181149331)
 - prrplexity is king
 	- tobi tweet
@@ -204,6 +204,7 @@ tbc
 	- **Hybrid Region Representation + Spatial-aware Visual Sampler** enable fine-grained and open-vocabulary referring and grounding in MLLM.
 	- https://github.com/apple/ml-ferret
 	- https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model
+	- https://venturebeat.com/ai/apple-quietly-released-an-open-source-multimodal-llm-in-october/
 - Mamba models 
 	- primer on [Linear RNNs and State Space Models](https://www.youtube.com/watch?v=dKJEpOtVgXc)
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
@@ -279,6 +280,8 @@ tbc
 ## open source tooling and projects
 
 - [Apple MLX](https://news.ycombinator.com/item?id=38539153) - an array framework for Apple Silicon
+	- It runs code natively on Apple Silicon with a single pip install and no other dependencies.
+	- [follows the PyTorch API closely and provides many useful primitives right out of the box.](https://x.com/deliprao/status/1732250137416683523?s=20)
 	- has [Whisper](https://twitter.com/reach_vb/status/1735034971507540211?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [Mixtral](https://t.co/75StzY5AHe)
 - LlamaIndex
 	- [LlamaIndex launches Step-Wise Agent Execution](https://twitter.com/jerryjliu0/status/1736809589918904712?s=12&t=90xQ8sGy63D2OtiaoGJuww)
@@ -381,12 +384,13 @@ Misc other things we found noteworthy reads from this month
 	- [Simon Willison: Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 	- [Thom Wolf 2024 predictions](https://twitter.com/thom_wolf/status/1736767816588517656?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Sebastian Raschka: Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
-		- notable standout: [Eleuther's Pythia](https://twitter.com/rasbt/status/1734920232173539796?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- forgotten standouts: [Eleuther's Pythia](https://twitter.com/rasbt/status/1734920232173539796?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [BloombergGPT](https://x.com/rasbt/status/1738467874644128193?s=20)
 	- [Langchain State of AI 2023](https://blog.langchain.dev/langchain-state-of-ai-2023/)
 	- Very good longpost on [How well are open/small models catching up?](https://twitter.com/hrishioa/status/1733707748993651178?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- "I've tried nearly every provider (Replicate, Vertex, Modal), and the cost, cold boot, time to first token, and generation speed are all pretty far behind what you can get from the big providers. It's likely that none of them have the economies of scale the big guys do on one or two model flavors. When you can't saturate H200s on a single model, and are forced to serve multiple finetunes or run arbitrary code of off-the-shelf cloud offerings, you likely have huge inefficiencies that may never be surpassable."
 	- [Stratechery Year in Review](https://news.ycombinator.com/item?id=38719309)
 	- [ThursdAI Year in Review](https://sub.thursdai.news/p/thursdai-nov-30-chatgpt-1-year-celebration)
+	- [What we still dont know about LLMS](https://twitter.com/jxmnop/status/1740804797777797296?s=12&t=90xQ8sGy63D2OtiaoGJuww) (aka open questions)
 - Prompting
 	- [(Long)LLMLingua: Enhancing Large Language Model Inference via Prompt Compression](https://news.ycombinator.com/item?id=38689544) from MSR China: utilizes a compact, well-trained language model (e.g., GPT2-small, LLaMA-7B) to identify and remove non-essential tokens in prompts. This approach enables efficient inference with large language models (LLMs), achieving up to 20x compression with minimal performance loss. (examples in [the website](https://llmlingua.com))
 		- makes some sense - given a query over a corpus, use smol models to do extraction first, then RAG on the extracted output. nice usecase shown from Microsoft Teams
@@ -401,6 +405,7 @@ Misc other things we found noteworthy reads from this month
 		- [This paper shows a way to fine tune llama-2 with millions of instruction data w/o catastrophic forgetting, effectively injecting new knowledge](https://twitter.com/abacaj/status/1738699570035544517/photo/2)
 		- from [skunkworks ai hydra](https://x.com/nisten/status/1738916240377172257?s=20)
 	- [Notable thread on turbopuffer](https://twitter.com/amanrsanger/status/1730763587944398874?s=12&t=90xQ8sGy63D2OtiaoGJuww), efficient new entrant in the vector db space
+	- [How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?](https://news.ycombinator.com/item?id=38759877)
 - Tool use/Structured Responses
 	- LangChain: [SQL Research Assistant example tutorial](https://www.youtube.com/watch?v=es-9MgxB-uc&feature=youtu.be) ([twitter](https://twitter.com/LangChainAI/status/1737177596843208893)) - shows how to search over structured data, and also using a subchain to communicate between chains. 
 	- [How is OpenAI formatting its prompt for function calls?](https://hamel.dev/notes/llm/openai/func_template.html) (using a simple, lossy jailbreak) it is surprisingly concise
@@ -448,6 +453,7 @@ Misc other things we found noteworthy reads from this month
 		- Short term: use new benchmarks where they are available (AGIEval, GradQA, Hungarian Math) as a test of OOD generalisation instead of the gamed benchmarks. 
 		- Medium-long term: need hidden test sets, and more datasets with fresh questions that do not have origins on some public site on the internet.
 		- "[I pretty much only trust two LLM evals right now: Chatbot Arena and r/LocalLlama comments section](https://x.com/karpathy/status/1737544497016578453?s=20)"
+	- [Emergent abilities paper discussion](https://x.com/boazbaraktcs/status/1738376113032777896?s=20)
 	- [Mistral/Huggingface - French AI is trending mostly because people happened to already be there.](https://x.com/heyjchu/status/1733538255365394664?s=20)
 	- [PyTorch's design origins](https://twitter.com/soumithchintala/status/1736555740448362890?s=12&t=90xQ8sGy63D2OtiaoGJuww) from 2010 (Torch7)
 	- [fiction - MMAcevedo (mind uploading)](https://qntm.org/mmacevedo) - [sequel was just published](https://twitter.com/qntm/status/1732377446576435337)
@@ -461,8 +467,11 @@ Misc other things we found noteworthy reads from this month
 - truth vs beauty quarks https://x.com/khoomeik/status/1732529178069623021?s=20
 - gemini authors meme https://twitter.com/satyanutella_/status/1737676936258945226
 - art thing https://x.com/var_epsilon/status/1741567408056250372?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- comfyui meme https://twitter.com/yacinemtb/status/1739780601933091085?s=12&t=90xQ8sGy63D2OtiaoGJuww
+- [tim cook becomes sundar](https://twitter.com/deliprao/status/1732257198053495280)
 - [humane CNBC launch dunks](https://twitter.com/lulumeservey/status/1735672851007459661?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - NYE hacking - [respect or disgust?](https://x.com/var_epsilon/status/1741859480692805870?s=20)
+- prompt memes https://twitter.com/dr_cintas/status/1738955479928410311?s=12&t=90xQ8sGy63D2OtiaoGJuww
 - fake papers
 	- [vongoom - intentional data poisoning](https://twitter.com/sterlingcrispin/status/1735346124519817487?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [google gemini to q* paper](https://x.com/_aidan_clark_/status/1741808745720467819?s=20)
