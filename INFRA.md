@@ -190,6 +190,7 @@ https://www.artfintel.com/p/transformer-inference-tricks
 - Speculative decoding
 - Effective sparsity
 - Quantization
+https://www.artfintel.com/p/efficient-llm-inference
 
 https://lmsys.org/blog/2023-11-21-lookahead-decoding/
 lookahead decoding
