@@ -85,6 +85,9 @@ This Readme is just the high level overview of the space; you should see the mos
 	- a16z https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
 		- https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/
 	- madrona https://www.madrona.com/foundation-models/
+	- coatue
+		- https://www.coatue.com/blog/perspective/ai-the-coming-revolution-2023
+		- https://x.com/Sam_Awrabi/status/1742324900034150646?s=20
 - game assets - 
 	- emad thread https://twitter.com/EMostaque/status/1591436813750906882
 	- scenario.gg https://twitter.com/emmanuel_2m/status/1593356241283125251

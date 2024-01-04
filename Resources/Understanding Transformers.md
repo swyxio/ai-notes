@@ -21,6 +21,8 @@ The Illustrated Transformer - [https://jalammar.github.io/illustrated-transform
 - explore https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/
 - then read https://kipp.ly/transformer-inference-arithmetic/
 - then read https://finbarr.ca/how-is-llama-cpp-possible/ ([andrej commentary](https://twitter.com/karpathy/status/1691571869051445433))
+- then read 5 years of gpt progress:
+	- https://finbarr.ca/five-years-of-gpt-progress/
 
 
 ![https://vinija.ai/models/assets/transformers/2.png](https://vinija.ai/models/assets/transformers/2.png)
