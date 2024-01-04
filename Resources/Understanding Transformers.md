@@ -138,6 +138,8 @@ openai had a  gpt labeling gpt paper
 
 https://twitter.com/generatorman_ai/status/1664410300110766082?s=20
 - Induction heads, modular addition, indirect object circuit, OthelloGPT.
+- 
+https://github.com/JShollaj/awesome-llm-interpretability
 
 
 ## transformer family tree

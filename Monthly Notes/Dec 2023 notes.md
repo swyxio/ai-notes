@@ -135,6 +135,7 @@ tbc
 - Anthropic
 	- "needle in a haystack" thing was a [skill issue](https://buttondown.email/ainews/archive/ainews-1272023-anthropic-says-skill-issue/) - adding the sentence **_“Here is the most relevant sentence in the context:”_** to the start of Claude’s response. This was enough to **raise Claude 2.1’s score from 27% to 98%**
 	- [reminder that completion prompting works like this to unlock other capabilities](https://twitter.com/mattshumer_/status/1732806472461889824?s=12&t=90xQ8sGy63D2OtiaoGJuww) - nothing new here but good to remind newbies
+	- [Collective Constitutional AI: Aligning a Language Model with Public Input](https://www.anthropic.com/index/collective-constitutional-ai-aligning-a-language-model-with-public-input)
 - Meta
 	- [Meta Imagine](https://imagine.meta.com) (Image generator)
 		- [press coverage](https://venturebeat.com/ai/meta-publicly-launches-ai-image-generator-trained-on-your-facebook-instagram-photos/)
@@ -365,16 +366,24 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 - [AgentSearch](https://search.sciphi.ai), an open-core effort to make humanity's knowledge accessible for LLM agents. To start, I have embedded all of Wikipedia, Arxiv, filtered common crawl, and more. The result is over 1 billion embedding vectors
 	- In addition to AgentSearch, we are releasing [Sensei](https://t.co/QI3dB36UhB), an LLM agent that specializes in search. Sensei was trained on a high quality synthetic data and generates truthful, grounded responses with the help of AgentSearch
 - [VideoGist - Useful YouTube video summaries](https://news.ycombinator.com/item?id=38555629)
-- Suno AI music generation 
-	- [pretty website!](https://www.suno.ai/)
-	- https://twitter.com/sjwhitmore/status/1737569171960209452
-	- "[I wanna return to monkey](https://twitter.com/karpathy/status/1737518588159041845)"
-- [Domo Video to Video generation](https://twitter.com/mr_allent/status/1737105841474408488?s=12&t=90xQ8sGy63D2OtiaoGJuww) - looks like very good style transfer
-- Krea AI [open beta](https://twitter.com/krea_ai/status/1734866368489722035?s=12&t=90xQ8sGy63D2OtiaoGJuww) - all the LCM goodness live!
-- FAL.ai camera - [40 fps](https://twitter.com/burkaygur/status/1735104513114259902?s=12&t=90xQ8sGy63D2OtiaoGJuww) LCM generation demo
-	- See also [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - which is also realtime, but also offers a pipeline? ([tweet](https://twitter.com/danielgross/status/1738718539668652148?s=12&t=90xQ8sGy63D2OtiaoGJuww))
-- Modal's [Turbo.art](https://twitter.com/bernhardsson/status/1736860828006056114?s=12&t=90xQ8sGy63D2OtiaoGJuww) ([tweet](https://twitter.com/modal_labs/status/1735750142546866283?s=12&t=90xQ8sGy63D2OtiaoGJuww)) - Paint and play around with prompts - the app synthesizes images in a couple of hundred milliseconds. Uses SDXL Turbo running on GPUs on Modal.)
-- [Sweep.dev v1 launch](https://twitter.com/kevinlu1248/status/1732541248182137275?s=12&t=90xQ8sGy63D2OtiaoGJuww) - an AI-powered junior developer. Over the past two weeks, we’ve narrowed our focus and greatly improved: Reliability - generating PRs from prompts consistently. Iteration Speed - quickly showing you what’s happening, so you don’t have to wait for the entire PR to be generated.
+- Video/music
+	- Suno AI music generation 
+		- [pretty website!](https://www.suno.ai/)
+		- https://twitter.com/sjwhitmore/status/1737569171960209452
+		- "[I wanna return to monkey](https://twitter.com/karpathy/status/1737518588159041845)"
+	- [Domo Video to Video generation](https://twitter.com/mr_allent/status/1737105841474408488?s=12&t=90xQ8sGy63D2OtiaoGJuww) - looks like very good style transfer
+	- [Genmo.ai Replay launch](https://twitter.com/genmoai/status/1704910025679044654?s=12&t=90xQ8sGy63D2OtiaoGJuww) - text to videos
+		- Replay understands plain English prompts without prompt engineering. Try "rugged surfer" or "mermaid". 
+		- Replay can crisply render close-ups of people and animals. 
+		- Free and fast generation from our homepage with no waiting list.
+- Art
+	- Krea AI [open beta](https://twitter.com/krea_ai/status/1734866368489722035?s=12&t=90xQ8sGy63D2OtiaoGJuww) - all the LCM goodness live!
+	- FAL.ai camera - [40 fps](https://twitter.com/burkaygur/status/1735104513114259902?s=12&t=90xQ8sGy63D2OtiaoGJuww) LCM generation demo
+		- See also [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - which is also realtime, but also offers a pipeline? ([tweet](https://twitter.com/danielgross/status/1738718539668652148?s=12&t=90xQ8sGy63D2OtiaoGJuww))
+	- Modal's [Turbo.art](https://twitter.com/bernhardsson/status/1736860828006056114?s=12&t=90xQ8sGy63D2OtiaoGJuww) ([tweet](https://twitter.com/modal_labs/status/1735750142546866283?s=12&t=90xQ8sGy63D2OtiaoGJuww)) - Paint and play around with prompts - the app synthesizes images in a couple of hundred milliseconds. Uses SDXL Turbo running on GPUs on Modal.)
+- Code
+	- [Sweep.dev v1 launch](https://twitter.com/kevinlu1248/status/1732541248182137275?s=12&t=90xQ8sGy63D2OtiaoGJuww) - an AI-powered junior developer. Over the past two weeks, we’ve narrowed our focus and greatly improved: Reliability - generating PRs from prompts consistently. Iteration Speed - quickly showing you what’s happening, so you don’t have to wait for the entire PR to be generated.
+- LLMOps: [Openlayer (YC S21) – Testing and Evaluation for AI](https://news.ycombinator.com/item?id=38532593)
 
 ## misc discussions and reads
 
@@ -425,6 +434,7 @@ Misc other things we found noteworthy reads from this month
 	- [Fine Tuning Mistral 7B on Magic the Gathering Drafts](https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the)
 	- [LoftQ - drop-in QLoRA replacement](https://x.com/WeizhuChen/status/1736127441238913438?s=20)
 	- [Finetune with Axolotl on Modal](https://modal.com/docs/examples/llm-finetuning)
+	- [80% faster, 50% less memory, 0% loss of accuracy Llama finetuning](https://github.com/unslothai/unsloth) ([blog](https://unsloth.ai/introducing) - lot of [advanced pytorch tricks](https://news.ycombinator.com/item?id=38495080))
 - Synthetic Data
 	- [Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
 		- [karpathy pick](https://twitter.com/karpathy/status/1734659057938477174?s=12&t=90xQ8sGy63D2OtiaoGJuww)
