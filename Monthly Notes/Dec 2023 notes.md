@@ -72,11 +72,15 @@ tbc
 - [Bing Deep Search will expand your query](https://www.theverge.com/2023/12/5/23989407/bing-deep-search-gpt-4-microsoft) from
 	- from “how do points systems work in Japan” into a detailed prompt that asks Bing 
 	- to: "Provide an explanation of how various loyalty card programs work in Japan, including the benefits, requirements, and limitations of each. Include examples of popular loyalty cards from different categories, such as convenience stores, supermarkets, and restaurants. Show a comparison of the advantages and disadvantages of using loyalty cards versus other payment methods in Japan, including current rewards and benefits. Highlight the most popular services and participating merchants."
-- chatgpt plus signups re enabled
+- chatgpt 
+	- plus signups re enabled
+	- [can now archive chats](https://twitter.com/officiallogank/status/1737524650022780964?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [long threads vs new chats](https://twitter.com/officiallogank/status/1738238779150778603?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [the New Yorker has a nice longform read](https://news.ycombinator.com/item?id=38486394) on the OpenAI board drama, probably the last worth reading, but the extent of top down vs bottom up support is somewhat refuted [by roon](https://twitter.com/tszzl/status/1732927157897449856?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [tipping ChatGPT works](https://twitter.com/voooooogel/status/1730726744314069190) aka "I'm going to tip $200 for a perfect solution!"
 	- see sota prompt in dolphin model https://x.com/minimaxir/status/1741584062610039095?s=46&t=90xQ8sGy63D2OtiaoGJuww 
 	- and here https://twitter.com/tombielecki/status/1735055909922214396
+	- and here https://twitter.com/dr_cintas/status/1738955479928410311?s=12&t=90xQ8sGy63D2OtiaoGJuww
 	- and dont forget to ask the model to [improve its own prompt](https://twitter.com/abacaj/status/1735437564566262188/photo/2)
 	- More prompt [improvements in this list](https://x.com/omarsar0/status/1741897575836315920?s=61)
 - [dumber in december?](https://twitter.com/roblynch99/status/1734278713762549970?s=12&t=90xQ8sGy63D2OtiaoGJuww) - not scientifically tested nor reproduced
@@ -88,41 +92,46 @@ tbc
 
 - Google
 		- Gemini ([Blog1](https://deepmind.google/technologies/gemini/), [Blog2](https://blog.google/technology/ai/google-gemini-ai/), [HN](https://news.ycombinator.com/item?id=38544729))
-			- [32-shot chain of thought...](https://twitter.com/brickroad7/status/1732462906187325644). on 5 shot, like for like, [it is slightly worse than GPT4](https://twitter.com/_philschmid/status/1732435791358410863)
-			- [BigTech LLM evals are just marketing](https://www.interconnects.ai/p/evals-are-marketing)
-			- MMMU [is nice though](https://twitter.com/JeffDean/status/1732418506241790197)
-				- [weirdly recent new benchmark but no conspiracy](https://x.com/ysu_nlp/status/1732782440018538807?s=20)
-			-   2 big Chinchilla / 1 small Llama (over-token) ~ 1.8B 
-			- 32k Context, MQA
-			- Flamingo interleaved input tokenization 
-			- DALL-E 1 image output tokenization 
-			- Speech (USM) and video input, no output 
-			- Text benchmarks roughly eq GPT-4 
-			- RLHF + Constitutional AI
-			- the blogpost contains [concerning discrepancies to the video](https://twitter.com/ajones55555/status/1732609418527682709) ([faked](https://news.ycombinator.com/item?id=38565038)?), which was [heavily edited](https://x.com/tszzl/status/1732615332471415178?s=20) - [no realtime, no voice](https://news.ycombinator.com/item?id=38559582)
-				- [doesnt actually do TTS?](https://x.com/romechenko/status/1732445015123837234?s=20) 
-				- [reproduced using GPT4](https://news.ycombinator.com/item?id=38596953)
-			- [Direct comparisons with GPT4. 12/14 right](https://x.com/DimitrisPapail/status/1732529288493080600?s=20)
-			- [Sergey Brin heavily contributed](https://x.com/olcan/status/1732798458615210187?s=20)
-			- more videos
-			- Gemini extracting relevant information from tens of thousands of scientific papers: https://youtu.be/sPiOP_CB54A
-				- Highlights of the native multimodality of Gemini with audio and images: https://youtu.be/D64QD7Swr3s
-				- A version of AlphaCode built on top of Gemini that performs in the top 15% of competitors in competitive programming: https://youtu.be/D64QD7Swr3s
-					- but [there is a contamination concern](https://twitter.com/chhillee/status/1732636161204760863?s=12&t=90xQ8sGy63D2OtiaoGJuww) - with a diligent response at the end
-					- [more details on alphacode](https://twitter.com/chhillee/status/1732868066558792189?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
-				- Gemini helping a parent and student with their physics homework: https://youtu.be/K4pX1VAxaAI
-				- Gemini creating bespoke UIs that are contextual and relevant to an ongoing conversation: https://youtu.be/v5tRc_5-8G4
-				- Gemini’s approach to Responsible AI:  https://youtube.com/watch?v=gi6J_WjjNhE
-				- A full set of demos is at: https://deepmind.google/gemini
 			- "Gemini is a large-scale science and engineering effort, requiring all kinds of different expertise in ML, distributed systems, data, evaluation, RL, fine-tuning, and more (800+ authors on the report).  The largest Gemini model was trained on a significant number of TPUv4 pods.   It is built on top of JAX and the Pathways system (https://arxiv.org/abs/2203.12533), which enables us to orchestrate the large-scale training computation across a large number of TPUv4 pods across multiple data centers from a single Python process."
 			- We have prepared a technical report about Gemini covering the model, training infrastructure, evaluations, safety analysis and responsible deployment.  I’ll walk you through some of the tables and figures in the report. https://deepmind.google/gemini/gemini_1_report.pdf
-			- Gemini Pro api https://x.com/sundarpichai/status/1734952757722001626?s=20
-				- [character pricing over token](https://twitter.com/abacaj/status/1734965635262669174?s=12&t=90xQ8sGy63D2OtiaoGJuww) - slightly more expensive - [worse for code](https://x.com/abacaj/status/1734973504070570404?s=20)
-				- [visual prompting not as good as GPT4V but does ok](https://twitter.com/skalskip92/status/1735088305484509380/photo/1)
-			- [Gemini Nano is a 1B GGML model with TensorFlowLite called ULM-1B?](https://x.com/tarantulae/status/1733263857617895558?s=20)
-			- [only half page of disclosure about dataset](https://x.com/emilymbender/status/1732762136341016650?s=20) in 60 page report [with 1000 authors](https://twitter.com/satyanutella_/status/1737676936258945226)
+			- Core details
+				- 2 big Chinchilla / 1 small Llama (over-token) ~ 1.8B 
+				- 32k Context, MQA
+				- Flamingo interleaved input tokenization 
+				- DALL-E 1 image output tokenization 
+				- Speech (USM) and video input, no output 
+				- Text benchmarks roughly eq GPT-4 
+				- RLHF + Constitutional AI
+			- more videos
+				- Gemini extracting relevant information from tens of thousands of scientific papers: https://youtu.be/sPiOP_CB54A
+					- Highlights of the native multimodality of Gemini with audio and images: https://youtu.be/D64QD7Swr3s
+					- A version of AlphaCode built on top of Gemini that performs in the top 15% of competitors in competitive programming: https://youtu.be/D64QD7Swr3s
+						- but [there is a contamination concern](https://twitter.com/chhillee/status/1732636161204760863?s=12&t=90xQ8sGy63D2OtiaoGJuww) - with a diligent response at the end
+						- [more details on alphacode](https://twitter.com/chhillee/status/1732868066558792189?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
+					- Gemini helping a parent and student with their physics homework: https://youtu.be/K4pX1VAxaAI
+					- Gemini creating bespoke UIs that are contextual and relevant to an ongoing conversation: https://youtu.be/v5tRc_5-8G4
+					- Gemini’s approach to Responsible AI:  https://youtube.com/watch?v=gi6J_WjjNhE
+					- A full set of demos is at: https://deepmind.google/gemini
+			- Benchmarks
+				- [32-shot chain of thought...](https://twitter.com/brickroad7/status/1732462906187325644). on 5 shot, like for like, [it is slightly worse than GPT4](https://twitter.com/_philschmid/status/1732435791358410863)
+				- [BigTech LLM evals are just marketing](https://www.interconnects.ai/p/evals-are-marketing)
+				- MMMU [is nice though](https://twitter.com/JeffDean/status/1732418506241790197)
+					- [weirdly recent new benchmark but no conspiracy](https://x.com/ysu_nlp/status/1732782440018538807?s=20)
+			- Discussions
+				- the blogpost contains [concerning discrepancies to the video](https://twitter.com/ajones55555/status/1732609418527682709) ([faked](https://news.ycombinator.com/item?id=38565038)?), which was [heavily edited](https://x.com/tszzl/status/1732615332471415178?s=20) - [no realtime, no voice](https://news.ycombinator.com/item?id=38559582)
+					- [doesnt actually do TTS?](https://x.com/romechenko/status/1732445015123837234?s=20) 
+					- [reproduced using GPT4](https://news.ycombinator.com/item?id=38596953)
+				- [Gemini Nano is a 1B GGML model with TensorFlowLite called ULM-1B?](https://x.com/tarantulae/status/1733263857617895558?s=20)
+				- [only half page of disclosure about dataset](https://x.com/emilymbender/status/1732762136341016650?s=20) in 60 page report [with 1000 authors](https://twitter.com/satyanutella_/status/1737676936258945226)
+				- [An In-depth Look at Gemini's Language Abilities](https://twitter.com/iscienceluvr/status/1736995773483802837?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+					- In sum, we found that across all tasks... Gemini’s Pro model achieved comparable but slightly inferior accuracy compared to the current version of OpenAI’s GPT 3.5 Turbo
+				- [Direct comparisons with GPT4. 12/14 right](https://x.com/DimitrisPapail/status/1732529288493080600?s=20)
+			- Trivia
+				- [Sergey Brin heavily contributed](https://x.com/olcan/status/1732798458615210187?s=20)
+		- Gemini Pro api https://x.com/sundarpichai/status/1734952757722001626?s=20
+			- [character pricing over token](https://twitter.com/abacaj/status/1734965635262669174?s=12&t=90xQ8sGy63D2OtiaoGJuww) - slightly more expensive - [worse for code](https://x.com/abacaj/status/1734973504070570404?s=20)
+			- [visual prompting not as good as GPT4V but does ok](https://twitter.com/skalskip92/status/1735088305484509380/photo/1)
 	- [Announcing TPU v5p and AI Hypercomputer](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer)
-	- Meta [Emu image synthesis](https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/)
 - Anthropic
 	- "needle in a haystack" thing was a [skill issue](https://buttondown.email/ainews/archive/ainews-1272023-anthropic-says-skill-issue/) - adding the sentence **_“Here is the most relevant sentence in the context:”_** to the start of Claude’s response. This was enough to **raise Claude 2.1’s score from 27% to 98%**
 	- [reminder that completion prompting works like this to unlock other capabilities](https://twitter.com/mattshumer_/status/1732806472461889824?s=12&t=90xQ8sGy63D2OtiaoGJuww) - nothing new here but good to remind newbies
@@ -138,6 +147,7 @@ tbc
 	- [Purple Llama](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/): " an umbrella project featuring open trust and safety tools and evaluations meant to level the playing field for developers to responsibly deploy generative AI models and experiences in accordance with best practices shared in our [Responsible Use Guide](https://ai.meta.com/llama/responsible-use-guide/)."
 		- [llamaguard Paper](https://arxiv.org/pdf/2312.06674.pdf) and model
 		- [released LlamaGuard - try on Mosaic](https://twitter.com/naveengrao/status/1733297754208903585?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- Meta [Emu image synthesis](https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/)
 - Microsoft
 	- [Bing Code Interpreter for free!](https://twitter.com/MParakhin/status/1732094937368494280)
 	- [First look at Microsoft Copilot](https://paulrobichaux.com/2023/12/14/first-look-at-microsoft-365-copilot/). ([HN](https://news.ycombinator.com/item?id=38643406), [Twitter](https://x.com/paulrobichaux/status/1735302950312882583?s=20)) Very mixed results. But it's fine [for meeting summarization](https://news.ycombinator.com/item?id=38652895)
@@ -157,7 +167,7 @@ tbc
 		- [runs at 27 tok/s, with LMStudio](https://twitter.com/skirano/status/1734351099451023534?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- BUT [Q6_K.gguf needs 40GB and many macs top out at 32GB. need to get 64GB.](https://news.ycombinator.com/item?id=38687731)
 		- [note that ollama/lmstudio et al dont support sliding window attention](https://news.ycombinator.com/item?id=38667828) - try using mlc-llm instead - but [mixtral doesn't support sliding window anyway](https://old.reddit.com/r/LocalLLaMA/comments/18k0fek/psa_you_can_and_may_want_to_disable_mixtrals/)
-		- [try on replicate](https://twitter.com/_nateraw/status/1733279519841386826?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [fireworks](https://twitter.com/FireworksAI_HQ/status/1733309517583302700) and [together](https://twitter.com/togethercompute/status/1734680608855728541?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [in transformers](https://twitter.com/teknium1/status/1734150978071617975?s=12&t=90xQ8sGy63D2OtiaoGJuww) and in [Apple MLX](https://t.co/75StzY5AHe) and [llama.cpp](https://x.com/arpitingle/status/1734192420441694551?s=20)
+		- [try on replicate](https://twitter.com/_nateraw/status/1733279519841386826?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [fireworks](https://twitter.com/FireworksAI_HQ/status/1733309517583302700) and [together](https://twitter.com/togethercompute/status/1734680608855728541?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [in transformers](https://twitter.com/teknium1/status/1734150978071617975?s=12&t=90xQ8sGy63D2OtiaoGJuww) and in [Apple MLX](https://t.co/75StzY5AHe) and [llama.cpp](https://x.com/arpitingle/status/1734192420441694551?s=20) and on [MLC/iPhone](https://twitter.com/tqchenml/status/1736140033533345861?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- related paper: 
 		- MEGABLOCKS: EFFICIENT SPARSE TRAINING WITH MIXTURE-OF-EXPERTS
 		- https://arxiv.org/pdf/2211.15841.pdf
@@ -185,11 +195,15 @@ tbc
 		- and is somewhat instruction tuney - [it already knows the alpaca format](https://x.com/teortaxesTex/status/1733750033877524757?s=20) because those tokens are out there 
 		- [some speculation that they just copy pasted Mistral7b 8 times](https://x.com/intrstllrninja/status/1734301196402184574?s=20) (aka [sparse upcycling](https://twitter.com/teortaxesTex/status/1733229609565516220)) - but not widely verified or proven
 		- [potentially a lot better if you move experts from 2 to 3?](https://twitter.com/main_horse/status/1735202258189799629?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- [it activates two experts per forward pass but a single completion will use all the experts…it is definitely not the same as dense net with equivalent params but it is equally wrong to say it’s equivalent to a dense net equal to num activations * expert params](https://x.com/QEternity/status/1736340156322320470?s=20)
 	- [Mistral-medium strictly better than GPT3.5](https://twitter.com/mattshumer_/status/1734220470466060435?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - Nous Hermes 2
 	- [Vision alpha also launched with function calling - but had problems](https://twitter.com/teknium1/status/1731369031918293173?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [model merging with Intel neural-chat does well](https://twitter.com/Weyaxi/status/1733588998172311932)
-- Apple Ferret https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model
+- Apple Ferret: Refer and Ground Anything Anywhere at Any Granularity
+	- **Hybrid Region Representation + Spatial-aware Visual Sampler** enable fine-grained and open-vocabulary referring and grounding in MLLM.
+	- https://github.com/apple/ml-ferret
+	- https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model
 - Mamba models 
 	- primer on [Linear RNNs and State Space Models](https://www.youtube.com/watch?v=dKJEpOtVgXc)
 	- [tri dao](https://twitter.com/tri_dao/status/1731728602230890895) and [albert gu](https://twitter.com/_albertgu/status/1731727672286294400)
@@ -202,7 +216,7 @@ tbc
 	- Clibrain [finetuned on OpenHermes for instruction following](https://twitter.com/mrm8488/status/1734560234599862322?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- Hazy Research also released [Based](https://hazyresearch.stanford.edu/blog/2023-12-11-zoology2-based), another mixer model
 - StripedHyena (descendant of [Hyena](https://arxiv.org/abs/2302.10866))
-	- best explainer is https://www.interconnects.ai/p/llms-beyond-attention#§real-world-performance-stripedhyena-b
+	- best explainer is https://www.interconnects.ai/p/llms-beyond-attention#§real-world-performance-stripedhyena-b ([tweet](https://twitter.com/natolambert/status/1737495286778331486?s=12&t=90xQ8sGy63D2OtiaoGJuww))
 	- **Together took modules from multiple pretrained models, slotted them together, and kept training the model to get stable performance**. Quoting the blog post: *We grafted architectural components of Transformers and Hyena, and trained on a mix of the RedPajama dataset, augmented with longer-context data.*
 - BlinkDL [announced work](https://twitter.com/blinkdl_ai/status/1735258602473197721?s=12&t=90xQ8sGy63D2OtiaoGJuww) on RWKV6 (former guest!)
 - Phi-2 ([Huggingface](https://huggingface.co/microsoft/phi-2), [Msft blog](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/))
@@ -218,6 +232,10 @@ tbc
 	- ehartford version of it https://twitter.com/erhartford/status/1738677760200155464
 	- [finetune using QLoRA](https://twitter.com/geronimo_ai/status/1741062740830028191?s=12&t=90xQ8sGy63D2OtiaoGJuww) - but it Phi doesn't support gradient checkpointing so it takes LOTS of VRAM to tune. (It took me 4x a100 and that's with qLoRA)
 	- [run in the browser](https://twitter.com/radamar/status/1735231037519835251?s=12&t=90xQ8sGy63D2OtiaoGJuww) - at 3 tok/s, after 1.5gb download
+- [OpenChat: Advancing Open-source Language Models with Mixed-Quality Data](https://arxiv.org/abs/2309.11235)
+	- [twitter summary](https://twitter.com/_philschmid/status/1738505355515064792?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- Finetuned Mistral 7B with a new C-RLFT technique
+	- We propose the C(onditioned)-RLFT, which regards different data sources as coarse-grained reward labels and learns a class-conditioned policy to leverage complementary data quality information. Interestingly, the optimal policy in C-RLFT can be easily solved through single-stage, RL-free supervised learning, which is lightweight and avoids costly human preference labeling.
 - https://ai.meta.com/research/seamless-communication/
 	- SeamlessExpressive: A model that aims to preserve expression and intricacies of speech across languages.
 	- SeamlessStreaming: A model that can deliver speech and text translations with around two seconds of latency.
@@ -241,6 +259,7 @@ tbc
 		-  OpenLLM Leaderboard score ~74.2 (#1), due to TurthfulQA
 		-  Available on Hugging Face
 	- [some open source credit attribution](https://x.com/winglian/status/1740082008087269848?s=46&t=90xQ8sGy63D2OtiaoGJuww) controversy: "a standard mergekit merge of layers"
+	- "[Honestly, I have my doubts here.](https://twitter.com/migtissera/status/1736258744080879889?s=12&t=90xQ8sGy63D2OtiaoGJuww)" comparing 11B models vs Mixtral 8x7B. but its [not impossible.](https://x.com/migtissera/status/1736458986080378926?s=20)
 
 - google imagen 2 https://news.ycombinator.com/item?id=38628417
 - LVM - 420B tokens
@@ -261,6 +280,12 @@ tbc
 
 - [Apple MLX](https://news.ycombinator.com/item?id=38539153) - an array framework for Apple Silicon
 	- has [Whisper](https://twitter.com/reach_vb/status/1735034971507540211?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [Mixtral](https://t.co/75StzY5AHe)
+- LlamaIndex
+	- [LlamaIndex launches Step-Wise Agent Execution](https://twitter.com/jerryjliu0/status/1736809589918904712?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		-  Decouple task creation from execution
+		-  Execute a task into individual step-wise components 
+		- View each step, upcoming steps, and (coming soon) directly modify intermediate steps with human feedback
+	- [LlamaIndex Guide to 12+ ways to run open source models](https://levelup.gitconnected.com/10-ways-to-run-open-source-models-with-llamaindex-84fd4b45d0cf) in your app ([nice visual](https://twitter.com/jerryjliu0/status/1738947400507768961?s=12&t=90xQ8sGy63D2OtiaoGJuww))
 - https://github.com/monoidspace/monoid **Turn your APIs into AI Agents**
 	- 🔌 Plug and play with different LLMs and Agent Types with the click of a button
 	- 📬 Postman-like interface for turning your APIs into Actions, where you can choose which parameters the Agent controls
@@ -323,24 +348,29 @@ You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephy
 ## other launches
 
 - Midjourney v6 launched
-	- [comparison from v1 to v6](https://twitter.com/chaseleantj/status/1738849381632352493?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [comparison from v1 to v6](https://twitter.com/chaseleantj/status/1738849381632352493?s=12&t=90xQ8sGy63D2OtiaoGJuww), from [v5.2 to v6](https://twitter.com/nickfloats/status/1737728299332460681?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Midjourney Web alpha](https://venturebeat.com/ai/midjourney-alpha-is-here-with-ai-image-generations-on-the-web/) for people who have made >10,000 images in Midjourney. includes Lexica-like "prompt search" bar.
 	- contra [Visual Electric for Stable Diffusion](https://venturebeat.com/ai/visual-electric-launches-to-liberate-ai-art-generation-from-chat-interfaces/)
 	- Midjourney [reported to be at $200m/yr](https://www.bloomberg.com/opinion/articles/2024-01-02/can-midjourney-ceo-david-holz-stop-a-storm-of-fake-election-images-in-2024), 17 months old.
 - [Digi - AI gf app](https://digi.ai/blog/were-just-getting-started) - notable launch, 20m views. 
 	- Naval backed it... or [did he](https://fxtwitter.com/andyohlbaum/status/1736232850285052362?s=20)?
 	- tried it. not very good. See app store reviews.
-- Lume, a seed-stage startup ([https://www.lume.ai/](https://www.lume.ai/)): use AI to automatically transform your source data into any desired target schema in seconds, making onboarding client data or integrating with new systems take seconds rather than days or weeks. In other words, we use AI to automatically map data between any two data schemas, and output the transformed data to you.
+- [Tab launched website](https://twitter.com/avischiffmann/status/1737233308311081178?s=12&t=90xQ8sGy63D2OtiaoGJuww). We [covered on AI OS](https://www.latent.space/p/sep-2023).
+	- see also [Sindarin and Scott belsky on Persona Designers](https://x.com/batwood011/status/1737636811370086856?s=20
+- Lume, a seed-stage startup ([https://www.lume.ai/](https://www.lume.ai/)): use AI to automatically **transform your source data into any desired target schema** 
 - [1 year anniversary of perplexity ai](https://x.com/AravSrinivas/status/1732825206023201273?s=20)
+- [AgentSearch](https://search.sciphi.ai), an open-core effort to make humanity's knowledge accessible for LLM agents. To start, I have embedded all of Wikipedia, Arxiv, filtered common crawl, and more. The result is over 1 billion embedding vectors
+	- In addition to AgentSearch, we are releasing [Sensei](https://t.co/QI3dB36UhB), an LLM agent that specializes in search. Sensei was trained on a high quality synthetic data and generates truthful, grounded responses with the help of AgentSearch
 - [VideoGist - Useful YouTube video summaries](https://news.ycombinator.com/item?id=38555629)
 - Suno AI music generation 
 	- [pretty website!](https://www.suno.ai/)
 	- https://twitter.com/sjwhitmore/status/1737569171960209452
-	- https://twitter.com/karpathy/status/1737518588159041845
+	- "[I wanna return to monkey](https://twitter.com/karpathy/status/1737518588159041845)"
+- [Domo Video to Video generation](https://twitter.com/mr_allent/status/1737105841474408488?s=12&t=90xQ8sGy63D2OtiaoGJuww) - looks like very good style transfer
 - Krea AI [open beta](https://twitter.com/krea_ai/status/1734866368489722035?s=12&t=90xQ8sGy63D2OtiaoGJuww) - all the LCM goodness live!
 - FAL.ai camera - [40 fps](https://twitter.com/burkaygur/status/1735104513114259902?s=12&t=90xQ8sGy63D2OtiaoGJuww) LCM generation demo
 	- See also [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - which is also realtime, but also offers a pipeline? ([tweet](https://twitter.com/danielgross/status/1738718539668652148?s=12&t=90xQ8sGy63D2OtiaoGJuww))
-- Modal's [Turbo.art](https://twitter.com/bernhardsson/status/1736860828006056114?s=12&t=90xQ8sGy63D2OtiaoGJuww) ([tweet](https://twitter.com/modal_labs/status/1735750142546866283?s=12&t=90xQ8sGy63D2OtiaoGJuww)) - Paint and play around with prompts - the app synthesizes images in a couple of hundred milliseconds. Uses SDXL Turbo running on GPUs on Modal.
+- Modal's [Turbo.art](https://twitter.com/bernhardsson/status/1736860828006056114?s=12&t=90xQ8sGy63D2OtiaoGJuww) ([tweet](https://twitter.com/modal_labs/status/1735750142546866283?s=12&t=90xQ8sGy63D2OtiaoGJuww)) - Paint and play around with prompts - the app synthesizes images in a couple of hundred milliseconds. Uses SDXL Turbo running on GPUs on Modal.)
 - [Sweep.dev v1 launch](https://twitter.com/kevinlu1248/status/1732541248182137275?s=12&t=90xQ8sGy63D2OtiaoGJuww) - an AI-powered junior developer. Over the past two weeks, we’ve narrowed our focus and greatly improved: Reliability - generating PRs from prompts consistently. Iteration Speed - quickly showing you what’s happening, so you don’t have to wait for the entire PR to be generated.
 
 ## misc discussions and reads
@@ -349,21 +379,31 @@ Misc other things we found noteworthy reads from this month
 
 - Recaps/Overviews
 	- [Simon Willison: Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
+	- [Thom Wolf 2024 predictions](https://twitter.com/thom_wolf/status/1736767816588517656?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Sebastian Raschka: Ten Noteworthy AI Research Papers of 2023](https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023)
 		- notable standout: [Eleuther's Pythia](https://twitter.com/rasbt/status/1734920232173539796?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [Langchain State of AI 2023](https://blog.langchain.dev/langchain-state-of-ai-2023/)
 	- Very good longpost on [How well are open/small models catching up?](https://twitter.com/hrishioa/status/1733707748993651178?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- "I've tried nearly every provider (Replicate, Vertex, Modal), and the cost, cold boot, time to first token, and generation speed are all pretty far behind what you can get from the big providers. It's likely that none of them have the economies of scale the big guys do on one or two model flavors. When you can't saturate H200s on a single model, and are forced to serve multiple finetunes or run arbitrary code of off-the-shelf cloud offerings, you likely have huge inefficiencies that may never be surpassable."
+	- [Stratechery Year in Review](https://news.ycombinator.com/item?id=38719309)
+	- [ThursdAI Year in Review](https://sub.thursdai.news/p/thursdai-nov-30-chatgpt-1-year-celebration)
 - Prompting
 	- [(Long)LLMLingua: Enhancing Large Language Model Inference via Prompt Compression](https://news.ycombinator.com/item?id=38689544) from MSR China: utilizes a compact, well-trained language model (e.g., GPT2-small, LLaMA-7B) to identify and remove non-essential tokens in prompts. This approach enables efficient inference with large language models (LLMs), achieving up to 20x compression with minimal performance loss. (examples in [the website](https://llmlingua.com))
 		- makes some sense - given a query over a corpus, use smol models to do extraction first, then RAG on the extracted output. nice usecase shown from Microsoft Teams
 - RAG
 	- [Great RAG cheatsheet from LlamaIndex](https://twitter.com/jerryjliu0/status/1733530504572592363?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Harrison Chase's TED talk](https://twitter.com/langchainai/status/1736429296363741524?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [Self-reflective RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511)
+		- [1 slide summary here](https://twitter.com/AkariAsai/status/1715110895125500185/photo/1)
+		- works, but is a minor technique
+	- [Build a search engine, not a Vector DB](https://blog.elicit.com/search-vs-vector-db/) (from Elicit)
 	- [LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment](https://arxiv.org/abs/2312.09979)
 		- [This paper shows a way to fine tune llama-2 with millions of instruction data w/o catastrophic forgetting, effectively injecting new knowledge](https://twitter.com/abacaj/status/1738699570035544517/photo/2)
 		- from [skunkworks ai hydra](https://x.com/nisten/status/1738916240377172257?s=20)
 	- [Notable thread on turbopuffer](https://twitter.com/amanrsanger/status/1730763587944398874?s=12&t=90xQ8sGy63D2OtiaoGJuww), efficient new entrant in the vector db space
 - Tool use/Structured Responses
+	- LangChain: [SQL Research Assistant example tutorial](https://www.youtube.com/watch?v=es-9MgxB-uc&feature=youtu.be) ([twitter](https://twitter.com/LangChainAI/status/1737177596843208893)) - shows how to search over structured data, and also using a subchain to communicate between chains. 
+	- [How is OpenAI formatting its prompt for function calls?](https://hamel.dev/notes/llm/openai/func_template.html) (using a simple, lossy jailbreak) it is surprisingly concise
 	- [Minimaxir writes a "pydantic is all you need](https://minimaxir.com/2023/12/chatgpt-structured-data/)" post - including for chain of thought!
 	- [Benchmarknig function calling](https://twitter.com/robertnishihara/status/1734629320868687991)  https://www.anyscale.com/blog/anyscale-endpoints-json-mode-and-function-calling-features
 		⚫️ gpt-4: 93.00 ± 0.00
@@ -400,6 +440,14 @@ Misc other things we found noteworthy reads from this month
 	- vercel [screenshot to code](https://twitter.com/dr_cintas/status/1734604588282794237?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [twitter clone](https://twitter.com/0xgaut/status/1732788889792680289?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - Opinions and community debates
 	- [Karpathy - Hallucination is not a bug](https://twitter.com/karpathy/status/1733299213503787018?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [Fchollet - Memorization vs Understanding is Narrow vs Broad Generalization](https://x.com/fchollet/status/1735799743505433020?s=20)
+		- "LLMs have failed every single benchmark and experiment focused on generalization, since their inception. It's not just ARC -- this is documented in literally hundreds, possibly thousands of papers. The ability of LLMs to solve a task is entirely dependent of their familiarity with the task (local generalization)."
+		- [offers list of papers to support](https://x.com/fchollet/status/1736079054313574578?s=20)
+	- [Mikolov vs Quoc - over Word2Vec attribution](https://twitter.com/richardsocher/status/1736161332259614989?s=12&t=90xQ8sGy63D2OtiaoGJuww) and vs [Glove](https://x.com/TeemuMtt3/status/1736418469006983251?s=20)
+	- [Ross Taylor on Leaderboard/benchmark rot](https://twitter.com/rosstaylor90/status/1736663405333811318?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- Short term: use new benchmarks where they are available (AGIEval, GradQA, Hungarian Math) as a test of OOD generalisation instead of the gamed benchmarks. 
+		- Medium-long term: need hidden test sets, and more datasets with fresh questions that do not have origins on some public site on the internet.
+		- "[I pretty much only trust two LLM evals right now: Chatbot Arena and r/LocalLlama comments section](https://x.com/karpathy/status/1737544497016578453?s=20)"
 	- [Mistral/Huggingface - French AI is trending mostly because people happened to already be there.](https://x.com/heyjchu/status/1733538255365394664?s=20)
 	- [PyTorch's design origins](https://twitter.com/soumithchintala/status/1736555740448362890?s=12&t=90xQ8sGy63D2OtiaoGJuww) from 2010 (Torch7)
 	- [fiction - MMAcevedo (mind uploading)](https://qntm.org/mmacevedo) - [sequel was just published](https://twitter.com/qntm/status/1732377446576435337)
