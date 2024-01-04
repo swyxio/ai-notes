@@ -1,7 +1,8 @@
 
 ## openai
 
-- gpt store https://news.ycombinator.com/item?id=38870249
+- gpt store launch [pending](https://news.ycombinator.com/item?id=38870249) 
+- [GPT builder is itself a GPT](https://help.openai.com/en/articles/8770868-gpt-builder)
 
 
 ## fundraising
