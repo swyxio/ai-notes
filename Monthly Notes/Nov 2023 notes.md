@@ -49,6 +49,7 @@
 		- useful for low level systems developers [reading docs](https://news.ycombinator.com/item?id=38192094)
 		- https://news.ycombinator.com/item?id=38166431
 		- typist https://twitter.com/_Borriss_/status/1725208054185046071
+		- [grimoire](https://chat.openai.com/g/g-n7Rs0IK86-grimoire) (coding wizard)
 		- [DesignerGPT](https://twitter.com/skirano/status/1723026266608033888?s=12&t=90xQ8sGy63D2OtiaoGJuww) - create websites in chatgpt
 		- [VisualWeatherGPT](https://twitter.com/altryne/status/1722498086256411075) from altryne
 		- jailbreaking them is [easy](https://twitter.com/literallydenis/status/1729147010748424375). can also download [uploaded files](https://twitter.com/kanateven/status/1722762002475475426?s=12&t=90xQ8sGy63D2OtiaoGJuww) causing Levels.fyi leaked data ([response from founder](https://twitter.com/zuhayeer/status/1723065439910011055?s=12&t=90xQ8sGy63D2OtiaoGJuww)). here are prompts for [many many other GPTs](https://github.com/linexjlin/GPTs)

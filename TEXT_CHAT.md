@@ -248,7 +248,7 @@ Subject to limitations
 	- chatgpt ui oss clones https://www.typingmind.com/
 		- open source https://github.com/chatgptui/desktop
 		- https://github.com/ztjhz/BetterChatGPT 
-			- - Proxy to bypass ChatGPT regional restrictions
+			- Proxy to bypass ChatGPT regional restrictions
 			- Prompt library
 			- Organize chats into folders (with colours)
 			- Filter chats and folders
