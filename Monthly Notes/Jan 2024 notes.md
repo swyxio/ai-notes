@@ -14,3 +14,8 @@
 	- 10m MAU, 500m queries in 2023
 	- https://blog.perplexity.ai/blog/perplexity-raises-series-b-funding-round
 	- https://www.wsj.com/tech/ai/jeff-bezos-bets-on-a-google-challenger-using-ai-to-try-to-upend-internet-search-0859bda6?mod=hp_lead_pos4
+
+## misc
+- High quality AI [security paper](https://twitter.com/rez0__/status/1743266573668757568)
+	- link to [paper](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf)  
+
