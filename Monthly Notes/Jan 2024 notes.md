@@ -6,6 +6,7 @@
 
 - gpt store launch [pending](https://news.ycombinator.com/item?id=38870249) 
 - [GPT builder is itself a GPT](https://help.openai.com/en/articles/8770868-gpt-builder)
+- [API key based usage tracking](https://twitter.com/OfficialLoganK/status/1743401083920097432) - just tracking, no limits yet
 
 
 ## fundraising
