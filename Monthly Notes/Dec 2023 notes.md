@@ -46,6 +46,7 @@ tbc
 
 ## openai
 
+- [reached 1.6b revenue run rate, 20% growth from Oct pre crisis](https://www.theinformation.com/articles/openais-annualized-revenue-tops-1-6-billion-as-customers-shrug-off-ceo-drama)
 - [sama feature request recap](https://twitter.com/sama/status/1738673279085457661?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- AGI (a little patience please) 
 	- GPT-5 
