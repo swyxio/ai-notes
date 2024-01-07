@@ -182,6 +182,7 @@ tbc
 		- was a followup from [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 	- [Mixtral-instruct also released](https://x.com/dchaplot/status/1734190265622249926?s=20), trained with SFT + DPO
 		- trained with DPO
+		- official version superceded some community chat versions: [Matt Shumer (on SlimOrca)](https://twitter.com/mattshumer_/status/1733927635246305633) and Fireworks'
 		- [avaialblel on perplxity labs](https://twitter.com/AravSrinivas/status/1734603265801613670)
 	- visualizing mixtral MOE ([HN](https://news.ycombinator.com/item?id=38733208))
 		- https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/

@@ -115,10 +115,13 @@ comparison with gpt and bing https://techcrunch.com/2023/03/21/googles-bard-lags
 - https://www.youtube.com/watch?v=2kFhloXz5_E
 - problems
 	- https://twitter.com/mattshumer_/status/1656781729485529089?s=20
+- jailbreaking https://twitter.com/mattshumer_/status/1679155023757066245
 
 ### claude 2
 
 - https://twitter.com/IntuitMachine/status/1678870325600108545
+- usecases from karina nguyen https://twitter.com/karinanguyen_/status/1678821458049650688
+- there was an "unofficial api" but it was [broken by fingerprinting](https://github.com/Explosion-Scratch/claude-unofficial-api/issues/51)
 
 ## BingChat notes
 
