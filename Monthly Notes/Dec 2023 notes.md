@@ -330,7 +330,7 @@ tbc
 You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephyr-7b-beta, Gryphe/MythoMax-L2-13b, teknium/OpenHermes-2.5-Mistral-7B and more.
 
 - autogen added a new UI layer https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-assistant
-- https://github.com/bricks-cloud/BricksLLM # **AI Gateway For Putting LLM In Production**
+- https://github.com/bricks-cloud/BricksLLM AI Gateway For Putting LLM In Production**
 
 ## fundraising
 
