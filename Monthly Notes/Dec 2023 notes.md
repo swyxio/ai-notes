@@ -230,7 +230,8 @@ tbc
 	- Training tokens: 1.4T tokens
 	- GPUs: 96xA100-80G
 	- Training time: 14 days
-	- License: Non-commercial research license
+	- License: originally Non-commercial research license
+		- later [relicensed to MIT](https://twitter.com/sebastienbubeck/status/1743519400626643359)
 	- https://x.com/sytelus/status/1734881560271454525?s=20
 	- https://x.com/SebastienBubeck/status/1735050282210615431?s=20
 	- ehartford version of it https://twitter.com/erhartford/status/1738677760200155464
