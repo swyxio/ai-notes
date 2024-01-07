@@ -52,6 +52,7 @@
 		- [grimoire](https://chat.openai.com/g/g-n7Rs0IK86-grimoire) (coding wizard)
 		- [DesignerGPT](https://twitter.com/skirano/status/1723026266608033888?s=12&t=90xQ8sGy63D2OtiaoGJuww) - create websites in chatgpt
 		- [VisualWeatherGPT](https://twitter.com/altryne/status/1722498086256411075) from altryne
+		- [uses Qdrant for vector db](https://news.ycombinator.com/item?id=38280859)
 		- jailbreaking them is [easy](https://twitter.com/literallydenis/status/1729147010748424375). can also download [uploaded files](https://twitter.com/kanateven/status/1722762002475475426?s=12&t=90xQ8sGy63D2OtiaoGJuww) causing Levels.fyi leaked data ([response from founder](https://twitter.com/zuhayeer/status/1723065439910011055?s=12&t=90xQ8sGy63D2OtiaoGJuww)). here are prompts for [many many other GPTs](https://github.com/linexjlin/GPTs)
 		- langchain launched an open source version https://github.com/langchain-ai/opengpts
 	- chatgpt memory "rumor" https://twitter.com/yupiop12/status/1724915477900656857
