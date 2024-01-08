@@ -16,6 +16,12 @@
 	- https://blog.perplexity.ai/blog/perplexity-raises-series-b-funding-round
 	- https://www.wsj.com/tech/ai/jeff-bezos-bets-on-a-google-challenger-using-ai-to-try-to-upend-internet-search-0859bda6?mod=hp_lead_pos4
 
+
+## open source tooling
+
+- langchain
+	- [v0.1](https://twitter.com/LangChainAI/status/1744411643482951829) 
+	- graph agents
 ## misc reads 
 
 - interesting/interpretability
