@@ -202,6 +202,22 @@ scaling up inference
 https://textsynth.com/ Fabrice Bellard's project provides access to large language or text-to-image models such as GPT-J, GPT-Neo, M2M100, CodeGen, Stable Diffusion thru a [REST API](https://textsynth.com/documentation.html#api) and a [playground](https://textsynth.com/playground.html). They can be used for example for text completion, question answering, classification, chat, translation, image generation, ...
 TextSynth employs [custom inference code](https://textsynth.com/technology.html) to get faster inference (hence lower costs) on standard GPUs and CPUs.
 
+https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices?utm_source=ainews&utm_medium=email
+> How well batching works is highly dependent on the request stream. But we can get an upper bound on its performance by benchmarking static batching with uniform requests.
+
+batch sizes
+
+| Hardware   | 1        | 4       | 8       | 16      | 32      | 64              | 128     |
+|------------|----------|---------|---------|---------|---------|-----------------|---------|
+| 1x A10     | 0.4 (1x) | 1.4 (3.5x) | 2.3 (6x) | 3.5 (9x) | OOM (Out of Memory) error |         |
+| 2x A10     | 0.8      | 2.5     | 4.0     | 7.0     | 8.0     |                 |         |
+| 1x A100    | 0.9 (1x) | 3.2 (3.5x) | 5.3 (6x) | 8.0 (9x) | 10.5 (12x)       | 12.5 (14x) |
+| 2x A100    | 1.3      | 3.0     | 5.5     | 9.5     | 14.5    | 17.0            | 22.0    |
+| 4x A100    | 1.7      | 6.2     | 11.5    | 18.0    | 25.0    | 33.0            | 36.5    |
+
+Table 2: Peak MPT-7B throughput (req/sec) with static batching and a FasterTransformers-based backend. Requests: 512 input and 64 output tokens. For larger inputs, the OOM boundary will be at smaller batch sizes.
+
+
 ### continuous batching
 
 - https://www.anyscale.com/blog/continuous-batching-llm-inference

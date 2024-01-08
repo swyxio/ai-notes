@@ -16,6 +16,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 - News/Youtubers
 	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
 	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps. less frequent these days.
+	- ⭐ [Sasha Rush](https://www.youtube.com/@srush_nlp) - commentary on new models and log of talks from one of the most influential professors in the field.
 	- ⭐ [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world. daily news coverage, [quality video](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA). (We have done [cross pods](https://www.latent.space/p/breakdown))
 	- ⭐ [ThursdAI by @altryne](https://sub.thursdai.news/podcast?nthPub=531) - Twitter Spaces at least once a week on all the top AI news, esp good interviews with OSS innovators. Frequent collaborator with Latent Space eg on [Dev Day](https://www.latent.space/p/devday) and [Axolotl](https://www.latent.space/p/axolotl)
 	- ⭐ [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps (NOT available as podcast... all the above are)
