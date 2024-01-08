@@ -183,7 +183,7 @@ tbc
 		- was a followup from [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 	- [Mixtral-instruct also released](https://x.com/dchaplot/status/1734190265622249926?s=20), trained with SFT + DPO
 		- trained with DPO
-		- official version superceded some community chat versions: [Matt Shumer (on SlimOrca)](https://twitter.com/mattshumer_/status/1733927635246305633) and Fireworks'
+		- official version superceded some community chat versions: [Matt Shumer (on SlimOrca)](https://twitter.com/mattshumer_/status/1733927635246305633) and [Fireworks' Mixtral chat](https://twitter.com/thefireworksai/status/1733720713574686812)'
 		- [avaialblel on perplxity labs](https://twitter.com/AravSrinivas/status/1734603265801613670)
 	- visualizing mixtral MOE ([HN](https://news.ycombinator.com/item?id=38733208))
 		- https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/
@@ -200,6 +200,7 @@ tbc
 		- [potentially a lot better if you move experts from 2 to 3?](https://twitter.com/main_horse/status/1735202258189799629?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [it activates two experts per forward pass but a single completion will use all the experts…it is definitely not the same as dense net with equivalent params but it is equally wrong to say it’s equivalent to a dense net equal to num activations * expert params](https://x.com/QEternity/status/1736340156322320470?s=20)
 	- [Mistral-medium strictly better than GPT3.5](https://twitter.com/mattshumer_/status/1734220470466060435?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- speculated to be [195b 8x30b models](https://www.reddit.com/r/LocalLLaMA/comments/18m2t0z/deducing_mistral_medium_size_from_pricing_is_it_a/)
 - Nous Hermes 2
 	- [Vision alpha also launched with function calling - but had problems](https://twitter.com/teknium1/status/1731369031918293173?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [model merging with Intel neural-chat does well](https://twitter.com/Weyaxi/status/1733588998172311932)
