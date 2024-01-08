@@ -1,7 +1,19 @@
 ## Synthetic data
 - Synthetic data ['is the future'](https://huggingface.co/datasets/andersonbcdefg/synthetic_retrieval_tasks) from Nous Research founder
 - Microsoft trained a text embedding model from Mistral-7B that topped the MTEB  leaderboard [using synthetic data](https://twitter.com/andersonbcdefg/status/1742613575217156547)
-
+|   |   |
+|---|---|
+||$ per million output tokens|
+|text-davinci-003 (2020)|60|
+|text-davinci-003 (Nov 2022)|20|
+|gpt-3.5-turbo (Mar 2023)|2|
+|Mixtral on Mistral|1.96|
+|Fireworks AI|1.6|
+|Together AI|0.6|
+|Perplexity AI|0.56|
+|Anyscale Endpoints|0.5|
+|Abacus AI|0.3|
+|DeepInfra|0.27|
 ## openai
 
 - gpt store launch [pending](https://news.ycombinator.com/item?id=38870249) 
