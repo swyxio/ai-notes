@@ -131,8 +131,14 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 	- https://github.com/ggerganov/llama.cpp/
 	- run on cpus https://github.com/facebookresearch/llama/compare/main...markasoftware:llama-cpu:main (its slow)
 	- run on macs https://github.com/remixer-dec/llama-mps
+		- [https://chatonmac.com](https://chatonmac.com/) BYOK, lets you edit system prompt
 	- `npx dalai llama` https://cocktailpeanut.github.io/dalai/#/
 	- run on iphone [https://mlc.ai/mlc-llm/](https://t.co/sSmUeGJu6T)
+		- MLC Chat: [https://llm.mlc.ai](https://llm.mlc.ai/)
+		- LLM Farm: [https://llmfarm.site](https://llmfarm.site/)
+		- Enchanted (not local, just a frontend): [https://github.com/AugustDev/enchanted](https://github.com/AugustDev/enchanted)
+			- Enchanted is open source, [Ollama](https://github.com/jmorganca/ollama) compatible, elegant iOS/iPad mobile app for chatting with privately hosted models such as Llama 2, Mistral, Vicuna, Starling and more. It's essentially ChatGPT app UI that connects to your private Ollama models. You can download Enchanted from the App Store or build yourself from scratch.
+		- they use iPhone GPU (Metal), not Apple Neural Engine https://news.ycombinator.com/item?id=38907919
 	- fork with int8 quantization https://twitter.com/innokean/status/1632898043811975170?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- run on raspberry pi and pixel 6 https://simonwillison.net/2023/Mar/11/llama/
 	- outputs are not very good https://news.ycombinator.com/item?id=35258553
