@@ -193,6 +193,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	- Courses
 		-   **[Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)**: Introduction to Machine Learning with Andrew Ng, covering the fundamentals of machine learning.
 		-   **[Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)**: NLP with Deep Learning with Chris Manning, covering NLP basics through the first generation of LLMs.
+  - https://github.com/mlabonne/llm-course
   - https://cims.nyu.edu/~sbowman/eightthings.pdf
 	  1. LLMs predictably get more capable with increasing investment, even without targeted innovation. 
 	  2. Many important LLM behaviors emerge unpredictably as a byproduct of increasing investment. 
