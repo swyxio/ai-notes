@@ -164,6 +164,7 @@ tbc
 
 
 - Mistral 8x7B ([Magnet/HN](https://news.ycombinator.com/item?id=38570537))
+	- Paper released in jan: [https://arxiv.org/abs/2401.04088](https://t.co/wn0kOOFTcJ)
 	- ([Guillaume Lample](https://twitter.com/guillaumelample/status/1734216541099507929?s=12&t=90xQ8sGy63D2OtiaoGJuww)) "Mixtral matches or outperforms Llama 2 70B and GPT3.5 on most benchmarks, and has the inference speed of a 12B dense model. It supports a context length of 32k tokens."
 	- how you can try out Mixtral locally: https://simonwillison.net/2023/Dec/18/mistral/ 
 		- [runs at 27 tok/s, with LMStudio](https://twitter.com/skirano/status/1734351099451023534?s=12&t=90xQ8sGy63D2OtiaoGJuww)

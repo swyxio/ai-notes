@@ -11,7 +11,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [Practical AI](https://changelog.com/practicalai) (Dan Whitenack) - good weekly conversations, a bit enterprisey
 	- [This Week in Machine Learning/AI](https://twimlai.com/podcast/twimlai/) (Sam Charrington) - one of the longest running practitioner interview shows
 	- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk) (Tim Scarfe) - great backlog of safety/philosophy researcher interviews
-	- [The Inside View](https://theinsideview.ai/) (Michael Trazzi) - safety researcher interviews. infrequent.
+	- [Deep Papers](https://www.deeppapers.dev/) (Arize AI staff) - deep dives on today’s seminal AI papers and research.
 	- [The Retort](https://retortai.com/)  and [Interconnects Audio](https://podcast.interconnects.ai/) (Nathan Lambert) - Topical coverage from [a RLHF researcher and an AI ethicist](https://retortai.com/people) (new)
 - News/Youtubers
 	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
