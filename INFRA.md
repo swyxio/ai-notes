@@ -184,7 +184,7 @@ https://twitter.com/pommedeterre33/status/1614927584030081025?s=46&t=HS-dlJsERZX
     - We propose Fine-tune-CoT: fine-tune a student model with teacher-generated CoT reasoning, inspired by Zero-shot CoT
     - All of our experiments use public APIs from OpenAI on a moderate budget of just $50-200 per task. The code is already on GitHub
 - mlperf optimization and mosaicml composer https://twitter.com/davisblalock/status/1542276800218247168?s=46&t=_aRhLI2212sARkuArtTutQ
-- Google deep learning tuning playbook https://github.com/google-research/tuning_playbook
+- Google deep learning tuning playbook https://github.com/google-research/tuning_playbook vs eleuther https://github.com/eleutherAI/cookbook#the-cookbook
 
 ### inference
 

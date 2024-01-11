@@ -7,6 +7,8 @@
 ## openai
 
 - gpt store launch [pending](https://news.ycombinator.com/item?id=38870249) 
+	- [launched on Jan 10](https://twitter.com/sama/status/1745135061731803571)
+- launched and rolled back [GPT personalization and Temporary Chat](https://x.com/AndrewCurran_/status/1744923452572852608?s=20)
 - [GPT builder is itself a GPT](https://help.openai.com/en/articles/8770868-gpt-builder)
 - [API key based usage tracking](https://twitter.com/OfficialLoganK/status/1743401083920097432) - just tracking, no limits yet
 
@@ -24,6 +26,9 @@
 - langchain
 	- [v0.1](https://twitter.com/LangChainAI/status/1744411643482951829) 
 	- graph agents
+- open interpreter 0.2 - vision models, and an api
+	- https://twitter.com/hellokillian/status/1743418943120040109
+	- https://api.openinterpreter.com/ The Open Interpreter Project has developed (and here freely hosts) an API which is capable of locating visual controls with single-pixel precision.
 
 ## other launches
 

@@ -242,6 +242,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 
 - https://github.com/Mooler0410/LLMsPracticalGuide
 	- good curated list of all the impt papers
+- https://github.com/eleutherAI/cookbook#the-cookbook Eleuther AI's list of resources for training. compare to https://github.com/google-research/tuning_playbook
 - anti hype LLM reading list https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
 - [6 papers from Jason Wei of OpenAI](https://twitter.com/_jasonwei/status/1729585618311950445) ([blog](https://www.jasonwei.net/blog/some-intuitions-about-large-language-models))
 	- GPT-3 paper (https://arxiv.org/abs/2005.14165)
