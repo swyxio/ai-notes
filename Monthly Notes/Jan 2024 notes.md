@@ -41,6 +41,11 @@
 
 - [Rabbit R-1 $200 LLM smartphone launched at CES](https://news.ycombinator.com/item?id=38930126)
 	- highly produced 30min video, product seems polished, but people mostly unconvinced this needs to be a separate device from phone.
+- [Together Embeddings](https://x.com/togethercompute/status/1745500191103553794?s=20)
+	- just serving leading oss models incl M2-BERT 32k, UAE-large-v1 and BGE-Base-En-v1.5
+	- 3 new embeddings models using Monarch Mixer architecture, enabling long context embeddings up to 32k!
+	- <4x lower pricing than OpenAI/Cohere
+	- integrations with MongoDB Atlas, Langchain, Llamaindex
 
 ## misc reads 
 
