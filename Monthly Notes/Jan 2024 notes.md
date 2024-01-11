@@ -30,6 +30,13 @@
 	- https://twitter.com/hellokillian/status/1743418943120040109
 	- https://api.openinterpreter.com/ The Open Interpreter Project has developed (and here freely hosts) an API which is capable of locating visual controls with single-pixel precision.
 
+
+## models
+
+- deepseekmoe 2b-145b MOE
+	- https://x.com/deepseek_ai/status/1745304852211839163?s=46&t=90xQ8sGy63D2OtiaoGJuww
+
+
 ## other launches
 
 - [Rabbit R-1 $200 LLM smartphone launched at CES](https://news.ycombinator.com/item?id=38930126)
