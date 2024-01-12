@@ -451,6 +451,8 @@ an embedded version of SD named Tiny Dream: [https://github.com/symisc/tiny-dre
 
 https://github.com/Filarius/stable-diffusion-webui/blob/master/scripts/vid2vid.py with Vid2Vid
 
+akuma.ai https://x.com/AkumaAI_JP/status/1734899981583348067?s=20
+
 Future Diffusion  https://huggingface.co/nitrosocke/Future-Diffusion https://twitter.com/Nitrosocke/status/1599789199766716418
 
 #### SD in Other languages

@@ -52,6 +52,7 @@
 		- [grimoire](https://chat.openai.com/g/g-n7Rs0IK86-grimoire) (coding wizard)
 		- [DesignerGPT](https://twitter.com/skirano/status/1723026266608033888?s=12&t=90xQ8sGy63D2OtiaoGJuww) - create websites in chatgpt
 		- [VisualWeatherGPT](https://twitter.com/altryne/status/1722498086256411075) from altryne
+		- [uses Qdrant for vector db](https://news.ycombinator.com/item?id=38280859)
 		- jailbreaking them is [easy](https://twitter.com/literallydenis/status/1729147010748424375). can also download [uploaded files](https://twitter.com/kanateven/status/1722762002475475426?s=12&t=90xQ8sGy63D2OtiaoGJuww) causing Levels.fyi leaked data ([response from founder](https://twitter.com/zuhayeer/status/1723065439910011055?s=12&t=90xQ8sGy63D2OtiaoGJuww)). here are prompts for [many many other GPTs](https://github.com/linexjlin/GPTs)
 		- langchain launched an open source version https://github.com/langchain-ai/opengpts
 	- chatgpt memory "rumor" https://twitter.com/yupiop12/status/1724915477900656857
@@ -116,6 +117,13 @@
 	- Grok-1 is a autoregressive Transformer-based model pre-trained to perform next-token prediction. The model was then fine-tuned using extensive feedbacks from both human and the early Grok-0 models. The initial Grok-1 has a context length of 8,192 tokens and is released in Oct 2023. https://twitter.com/altryne/status/1721028995456647286
 	- grok vs openchat - https://twitter.com/alignment_lab/status/1721308271946965452
 	- funny [exchange between sama and elon](https://twitter.com/sama/status/1722766374588830101?s=12&t=90xQ8sGy63D2OtiaoGJuww) on Grok vs GPTs
+	- [notes on x.ai team](https://twitter.com/DrJimFan/status/1679180398134448132):
+		- - Jimmy Ba: Adam (default optimizer for modern NNs), Layer Normalization (critical building block of Transformer). - 
+		- Igor Babuschkin: AlphaStar (DeepMind's StarCraft player that beats human champions). - 
+		- Christian Szegedy: BatchNorm (key component of ResNet that made training stable). - 
+		- Yuhuai "Tony" Wu: AlphaStar, OpenAI Baselines (widely adopted RL library), PaLM-2 - 
+		- [Greg Yang](https://twitter.com/TheGregYang/status/1679168317897211910): deep learning theory - 
+		- Zihang Dai: Transformer-XL (adding recurrence to extend beyond a fixed context window), XLNet - and many others
 - Microsoft Phi-2 at Ignite - 2.7b params, 50% better at math
 	- https://x.com/abacaj/status/1724850925741768767?s=20
 	- 213b tokens

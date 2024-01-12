@@ -11,11 +11,12 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [Practical AI](https://changelog.com/practicalai) (Dan Whitenack) - good weekly conversations, a bit enterprisey
 	- [This Week in Machine Learning/AI](https://twimlai.com/podcast/twimlai/) (Sam Charrington) - one of the longest running practitioner interview shows
 	- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk) (Tim Scarfe) - great backlog of safety/philosophy researcher interviews
-	- [The Inside View](https://theinsideview.ai/) (Michael Trazzi) - safety researcher interviews. infrequent.
+	- [Deep Papers](https://www.deeppapers.dev/) (Arize AI staff) - deep dives on today’s seminal AI papers and research.
 	- [The Retort](https://retortai.com/)  and [Interconnects Audio](https://podcast.interconnects.ai/) (Nathan Lambert) - Topical coverage from [a RLHF researcher and an AI ethicist](https://retortai.com/people) (new)
 - News/Youtubers
 	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
 	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps. less frequent these days.
+	- ⭐ [Sasha Rush](https://www.youtube.com/@srush_nlp) - commentary on new models and log of talks from one of the most influential professors in the field.
 	- ⭐ [AI Breakdown](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world. daily news coverage, [quality video](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA). (We have done [cross pods](https://www.latent.space/p/breakdown))
 	- ⭐ [ThursdAI by @altryne](https://sub.thursdai.news/podcast?nthPub=531) - Twitter Spaces at least once a week on all the top AI news, esp good interviews with OSS innovators. Frequent collaborator with Latent Space eg on [Dev Day](https://www.latent.space/p/devday) and [Axolotl](https://www.latent.space/p/axolotl)
 	- ⭐ [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps (NOT available as podcast... all the above are)
@@ -23,6 +24,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
 	- [AI Jason](https://youtu.be/pJwR5pv0_gs?si=BdXjIX1mEik-Lbpz) - new frequent ai project breakdowns channel
 	- [Matthew Berman](https://www.youtube.com/@matthew_berman) - short explainer videos of AI Engineering related projects and news
+	- smaller creators worth noting: [Umar Jamil (standard concept teaching channel, very technical)](https://www.youtube.com/@umarjamilai?app=desktop) and [Daniel Bourke (livestream paper replication)](https://www.youtube.com/@danielbourkearxiv2821?app=desktop)
 - Companies
 	- ⭐ [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - great new pod
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host. Recently taken over to Caryn Marooney.
@@ -57,7 +59,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- https://eugeneyan.com/writing/
 	- https://lilianweng.github.io/
 - Aggregators
-	- Socially ranked papers weekly https://papers.labml.ai/papers/weekly (has [chrome extension](https://github.com/labmlai/chrome-extension)) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
+	- [Emergent Mind](https://www.emergentmind.com) (trending arXiv ML/AI papers with GPT-4-generated summaries and links to social media discussions) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/) see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
 	- Amplify/Sarah Catanzaro's PTK https://www.amplifypartners.com/projects-to-know
 	- Ben's Bites https://bensbites.beehiiv.com/
 	- TheSequence https://thesequence.substack.com/about

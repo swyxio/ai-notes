@@ -90,6 +90,9 @@
   - We can’t know the exact cost of the research without more information from OpenAI, but one expert estimated it to be somewhere between 1.5 and five times the cost of training the final model. This would put the cost of research and development between $11.5 million and $27.6 million, plus the overhead of parallel GPUs.
   - According to the OpenAI’s whitepaper, GPT-3 uses half-precision floating-point variables at 16 bits per parameter. This means the model would require at least 350 GB of VRAM just to load the model and run inference at a decent speed. This is the equivalent of at least 11 Tesla V100 GPUs with 32 GB of memory each. At approximately $9,000 a piece, this would raise the costs of the GPU cluster to at least $99,000 plus several thousand dollars more for RAM, CPU, SSD drives, and power supply. A good baseline would be Nvidia’s [DGX-1 server](https://www.nvidia.com/en-us/data-center/dgx-1/), which is specialized for deep learning training and inference. At around $130,000, DGX-1 is short on VRAM (8×16 GB), but has all the other components for a solid performance on GPT-3.
   - “We don’t have the numbers for GPT-3, but can use GPT-2 as a reference. A 345M-parameter GPT-2 model only needs around 1.38 GB to store its weights in FP32. But running inference with it in TensorFlow requires 4.5GB VRAM. Similarly, A 774M GPT-2 model only needs 3.09 GB to store weights, but 8.5 GB VRAM to run inference,” he said. This would possibly put GPT-3’s VRAM requirements north of 400 GB.
+  - https://twitter.com/marksaroufim/status/1701998409924915340
+	  - Gave a talk on why Llama 13B won't fit on my 4090 - it's an overview of all the main sources of memory overhead and how to reduce each of them Simple for those at the frontier but will help the newbs among us back of the envelope VRAM requirements fast
+	  - https://huggingface.co/spaces/hf-accelerate/model-memory-usage
 
 Based on what we know, it would be safe to say the hardware costs of running GPT-3 would be between $100,000 and $150,000 without factoring in other costs (electricity, cooling, backup, etc.).
 
@@ -181,7 +184,7 @@ https://twitter.com/pommedeterre33/status/1614927584030081025?s=46&t=HS-dlJsERZX
     - We propose Fine-tune-CoT: fine-tune a student model with teacher-generated CoT reasoning, inspired by Zero-shot CoT
     - All of our experiments use public APIs from OpenAI on a moderate budget of just $50-200 per task. The code is already on GitHub
 - mlperf optimization and mosaicml composer https://twitter.com/davisblalock/status/1542276800218247168?s=46&t=_aRhLI2212sARkuArtTutQ
-- Google deep learning tuning playbook https://github.com/google-research/tuning_playbook
+- Google deep learning tuning playbook https://github.com/google-research/tuning_playbook vs eleuther https://github.com/eleutherAI/cookbook#the-cookbook
 
 ### inference
 
@@ -201,6 +204,22 @@ scaling up inference
 
 https://textsynth.com/ Fabrice Bellard's project provides access to large language or text-to-image models such as GPT-J, GPT-Neo, M2M100, CodeGen, Stable Diffusion thru a [REST API](https://textsynth.com/documentation.html#api) and a [playground](https://textsynth.com/playground.html). They can be used for example for text completion, question answering, classification, chat, translation, image generation, ...
 TextSynth employs [custom inference code](https://textsynth.com/technology.html) to get faster inference (hence lower costs) on standard GPUs and CPUs.
+
+https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices?utm_source=ainews&utm_medium=email
+> How well batching works is highly dependent on the request stream. But we can get an upper bound on its performance by benchmarking static batching with uniform requests.
+
+batch sizes
+
+| Hardware   | 1        | 4       | 8       | 16      | 32      | 64              | 128     |
+|------------|----------|---------|---------|---------|---------|-----------------|---------|
+| 1x A10     | 0.4 (1x) | 1.4 (3.5x) | 2.3 (6x) | 3.5 (9x) | OOM (Out of Memory) error |         |
+| 2x A10     | 0.8      | 2.5     | 4.0     | 7.0     | 8.0     |                 |         |
+| 1x A100    | 0.9 (1x) | 3.2 (3.5x) | 5.3 (6x) | 8.0 (9x) | 10.5 (12x)       | 12.5 (14x) |
+| 2x A100    | 1.3      | 3.0     | 5.5     | 9.5     | 14.5    | 17.0            | 22.0    |
+| 4x A100    | 1.7      | 6.2     | 11.5    | 18.0    | 25.0    | 33.0            | 36.5    |
+
+Table 2: Peak MPT-7B throughput (req/sec) with static batching and a FasterTransformers-based backend. Requests: 512 input and 64 output tokens. For larger inputs, the OOM boundary will be at smaller batch sizes.
+
 
 ### continuous batching
 

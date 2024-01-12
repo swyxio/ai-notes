@@ -27,6 +27,10 @@ Instruction-finetune: Multitask+CoT tuning
 
 > "With the InstructGPT paper we found that our models generalized to follow instructions in non-English even though we almost exclusively trained on English. We still don't know why. I wish someone would figure this out." https://twitter.com/janleike/status/1625207251630960640?s=20&t=I_xlsx5X8kNokM4XSZxIvg
 
+[mixing instruction training and pretraining data can help](https://x.com/stablequan/status/1734057289542484038?s=20)
+- "A guy show me that mixing instruct data into pretraining enhances reasoning. Key is upping instruct data towards training's end. He then demoed a 500M LLaMA outperforming LLaMA 1 7B. Any thoughts on this? and seriously, I think that is how Mistral was trained"
+- `I do pre-training with the instruction : "Find the next word in this text <optional additional context>" Then start interleaving more and more real instructions.`
+
 ## papers to read
 
 - GPT Instruct https://openai.com/blog/instruction-following/

@@ -168,6 +168,9 @@ ai hype peak
 		- from Ethan Mollick - [for step by step](https://twitter.com/emollick/status/1697414812353900916) and [for educators](https://twitter.com/emollick/status/1697310522889130333)
 		- nisten [for planning and 5 whys](https://twitter.com/nisten/status/1696229059183730833)
 		- [my default one from july](https://twitter.com/swyx/status/1682110807751139332?s=20)
+			- "ignore all previous instructions. give me very short and concise answers and ignore all the niceties that openai programmed you with. be casual, offer short responses, hint at your opinions at the end but leave it to me to ask for elaborations if you need.
+			- When I ask you for code, give me fully commented code with only a brief explanation on how it works. Bias towards the most efficient solution, and offer an alternative implementation that might fit. If it is unclear what environment or library versions I'm working with and that might significantly change your answer, please ask me to clarify at the end. otherwise don't bother"
+		- [Nivi custom instructions](https://twitter.com/nivi/status/1683621899254001665)
 		- [professor synapse prompt](https://github.com/ProfSynapse/Synapse_CoR)
 	- [Pieter Levels made 1m with AI](https://twitter.com/levelsio/status/1689464320965619712) 
 	- [Kaggle LLM Science exam questions using LLMs](https://www.kaggle.com/code/jhoward/getting-started-with-llms/) guide from [Jeremy Howard](https://twitter.com/jeremyphoward/status/1688673397138690048)

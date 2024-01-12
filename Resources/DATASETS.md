@@ -49,6 +49,13 @@ llama datasets
 FLAN 
 - dataset like flan, which is a really, really large dataset that is, I think thousand plus tasks.
 
+Images - 
+- LAION 5B was the original commoncrawl extract that was used for stable diffusion
+	- only dynamic links to image URLs.
+		- **LAION400** experienced approximately 20% failure in download after about 2-2.5 years according to a [paper](https://arxiv.org/abs/2111.12359?utm_source=ainews&utm_medium=email) cited by `@flow7450`.
+- got taken down due to CSAM content
+- DataComp is the new LAION? see latent.space neurips papers coverage
+- 
 
 alpaca instruction tuning dataset - 53k instructions
 https://github.com/tatsu-lab/stanford_alpaca

@@ -193,6 +193,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	- Courses
 		-   **[Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)**: Introduction to Machine Learning with Andrew Ng, covering the fundamentals of machine learning.
 		-   **[Stanford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)**: NLP with Deep Learning with Chris Manning, covering NLP basics through the first generation of LLMs.
+  - https://github.com/mlabonne/llm-course
   - https://cims.nyu.edu/~sbowman/eightthings.pdf
 	  1. LLMs predictably get more capable with increasing investment, even without targeted innovation. 
 	  2. Many important LLM behaviors emerge unpredictably as a byproduct of increasing investment. 
@@ -241,6 +242,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 
 - https://github.com/Mooler0410/LLMsPracticalGuide
 	- good curated list of all the impt papers
+- https://github.com/eleutherAI/cookbook#the-cookbook Eleuther AI's list of resources for training. compare to https://github.com/google-research/tuning_playbook
 - anti hype LLM reading list https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e
 - [6 papers from Jason Wei of OpenAI](https://twitter.com/_jasonwei/status/1729585618311950445) ([blog](https://www.jasonwei.net/blog/some-intuitions-about-large-language-models))
 	- GPT-3 paper (https://arxiv.org/abs/2005.14165)

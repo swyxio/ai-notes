@@ -60,6 +60,12 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 	- gallileo
 	- 
 
+## routing
+
+- https://github.com/BerriAI/litellm
+- martian
+- openrouter
+
 ## typing/json structure libraries 
 
 - Microsoft TypeChat https://news.ycombinator.com/item?id=36803124

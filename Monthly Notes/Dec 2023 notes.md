@@ -46,6 +46,7 @@ tbc
 
 ## openai
 
+- [reached 1.6b revenue run rate, 20% growth from Oct pre crisis](https://www.theinformation.com/articles/openais-annualized-revenue-tops-1-6-billion-as-customers-shrug-off-ceo-drama)
 - [sama feature request recap](https://twitter.com/sama/status/1738673279085457661?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- AGI (a little patience please) 
 	- GPT-5 
@@ -163,6 +164,7 @@ tbc
 
 
 - Mistral 8x7B ([Magnet/HN](https://news.ycombinator.com/item?id=38570537))
+	- Paper released in jan: [https://arxiv.org/abs/2401.04088](https://t.co/wn0kOOFTcJ)
 	- ([Guillaume Lample](https://twitter.com/guillaumelample/status/1734216541099507929?s=12&t=90xQ8sGy63D2OtiaoGJuww)) "Mixtral matches or outperforms Llama 2 70B and GPT3.5 on most benchmarks, and has the inference speed of a 12B dense model. It supports a context length of 32k tokens."
 	- how you can try out Mixtral locally: https://simonwillison.net/2023/Dec/18/mistral/ 
 		- [runs at 27 tok/s, with LMStudio](https://twitter.com/skirano/status/1734351099451023534?s=12&t=90xQ8sGy63D2OtiaoGJuww)
@@ -182,6 +184,7 @@ tbc
 		- was a followup from [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 	- [Mixtral-instruct also released](https://x.com/dchaplot/status/1734190265622249926?s=20), trained with SFT + DPO
 		- trained with DPO
+		- official version superceded some community chat versions: [Matt Shumer (on SlimOrca)](https://twitter.com/mattshumer_/status/1733927635246305633) and [Fireworks' Mixtral chat](https://twitter.com/thefireworksai/status/1733720713574686812)'
 		- [avaialblel on perplxity labs](https://twitter.com/AravSrinivas/status/1734603265801613670)
 	- visualizing mixtral MOE ([HN](https://news.ycombinator.com/item?id=38733208))
 		- https://mixtral-moe-vis-d726c4a10ef5.herokuapp.com/
@@ -198,6 +201,7 @@ tbc
 		- [potentially a lot better if you move experts from 2 to 3?](https://twitter.com/main_horse/status/1735202258189799629?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [it activates two experts per forward pass but a single completion will use all the experts…it is definitely not the same as dense net with equivalent params but it is equally wrong to say it’s equivalent to a dense net equal to num activations * expert params](https://x.com/QEternity/status/1736340156322320470?s=20)
 	- [Mistral-medium strictly better than GPT3.5](https://twitter.com/mattshumer_/status/1734220470466060435?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- speculated to be [195b 8x30b models](https://www.reddit.com/r/LocalLLaMA/comments/18m2t0z/deducing_mistral_medium_size_from_pricing_is_it_a/)
 - Nous Hermes 2
 	- [Vision alpha also launched with function calling - but had problems](https://twitter.com/teknium1/status/1731369031918293173?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [model merging with Intel neural-chat does well](https://twitter.com/Weyaxi/status/1733588998172311932)
@@ -228,7 +232,8 @@ tbc
 	- Training tokens: 1.4T tokens
 	- GPUs: 96xA100-80G
 	- Training time: 14 days
-	- License: Non-commercial research license
+	- License: originally Non-commercial research license
+		- later [relicensed to MIT](https://twitter.com/sebastienbubeck/status/1743519400626643359)
 	- https://x.com/sytelus/status/1734881560271454525?s=20
 	- https://x.com/SebastienBubeck/status/1735050282210615431?s=20
 	- ehartford version of it https://twitter.com/erhartford/status/1738677760200155464
@@ -329,7 +334,7 @@ tbc
 You can swap in almost any open-source model on Huggingface. HuggingFaceH4/zephyr-7b-beta, Gryphe/MythoMax-L2-13b, teknium/OpenHermes-2.5-Mistral-7B and more.
 
 - autogen added a new UI layer https://github.com/microsoft/autogen/tree/main/samples/apps/autogen-assistant
-- https://github.com/bricks-cloud/BricksLLM # **AI Gateway For Putting LLM In Production**
+- https://github.com/bricks-cloud/BricksLLM AI Gateway For Putting LLM In Production**
 
 ## fundraising
 
