@@ -13,6 +13,7 @@
 - [GPT builder is itself a GPT](https://help.openai.com/en/articles/8770868-gpt-builder)
 - [API key based usage tracking](https://twitter.com/OfficialLoganK/status/1743401083920097432) - just tracking, no limits yet
 - [removed usage policy against "military and warfare" use](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
+- announced new [preparedness/safety framework](https://openai.com/safety/preparedness)
 
 
 ## fundraising
@@ -27,8 +28,15 @@
 ## open source tooling
 
 - langchain
-	- [v0.1](https://twitter.com/LangChainAI/status/1744411643482951829) 
+	- [v0.1](https://twitter.com/LangChainAI/status/1744411643482951829) launched
 	- graph agents
+- Llamaindex
+	- [Semantic Chunking Llamapack](https://twitter.com/jerryjliu0/status/1745486856291266821?s=12&t=90xQ8sGy63D2OtiaoGJuww) (idea from Greg Kamradt) How it works:
+		-   Split text into sentences.
+		-   For each sentence, generate an embedding.
+		-   Measure cosine distance between each pair of consecutive sentences.
+		-   Get the 95% percentile cosine distance, set that as the threshold.
+		-   Create a new chunk if the cosine distance of a sentence compared to prev. exceeds that threshold.
 - open interpreter 0.2 - vision models, and an api
 	- https://twitter.com/hellokillian/status/1743418943120040109
 	- https://api.openinterpreter.com/ The Open Interpreter Project has developed (and here freely hosts) an API which is capable of locating visual controls with single-pixel precision.
@@ -36,13 +44,17 @@
 
 ## models
 
-- mergekitted MOEs
-	- deepseekmoe 2b-145b MOE
-	- https://x.com/deepseek_ai/status/1745304852211839163?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- [DeepSeekMOE](https://x.com/deepseek_ai/status/1745304852211839163?s=46&t=90xQ8sGy63D2OtiaoGJuww) 2.7b model scaled up to 16B using 2T tokens. 145b MOE on the way  
+	- Compared w Mixtral
+		- 64 experts vs 8
+		- 8 activated experts vs 2 
+		- 1 "shared" expert is always activated 
+		- 0.24b params per expert vs ~7b 
+		- 1.9b total activated params per forward pass vs ~14b
+	- beats all other OSS models at 2.7B active param size
 	- [notes from Omar Sanseviero](https://twitter.com/osanseviero/status/1745402823682970036)
 		- Certain Experts are redundant - they have common knowledge. - So they isolate experts that work as shared experts - they are always activated and reduce redundancy among routed experts - Helps with parameter efficiency
-		- 
-	- Phixtral - [MoE of 2 to 4 finetuned models](https://twitter.com/maximelabonne/status/1744867841436700850) - made from dolphin-2_6-phi-2, phi-2-dpo, phi-2-sft-dpo-gpt4_en-ep1, phi-2-coder
+- Phixtral - [MoE of 2 to 4 finetuned models](https://twitter.com/maximelabonne/status/1744867841436700850) - made from dolphin-2_6-phi-2, phi-2-dpo, phi-2-sft-dpo-gpt4_en-ep1, phi-2-coder
 - Bagel-34B - new mixtral/merged finetunes from Jon Durbin
 	- [uses a bunch of synthetic data](https://github.com/jondurbin/bagel)
 	- [comparison from /r/LocalLlama](https://www.reddit.com/r/LocalLLaMA/comments/1916896/llm_comparisontest_confirm_leaderboard_big_news/) vs ~~**Mixtral**~~ Yi MoE
@@ -53,6 +65,7 @@
 
 - [Rabbit R-1 $200 LLM smartphone launched at CES](https://news.ycombinator.com/item?id=38930126)
 	- highly produced 30min video, product seems polished, but people mostly unconvinced this needs to be a separate device from phone.
+	- [open source clone effort with openinterpreter](https://twitter.com/hellokillian/status/1745875973583896950)
 - [Together Embeddings](https://x.com/togethercompute/status/1745500191103553794?s=20)
 	- just serving leading oss models incl M2-BERT 32k, UAE-large-v1 and BGE-Base-En-v1.5
 	- 3 new embeddings models using Monarch Mixer architecture, enabling long context embeddings up to 32k!
@@ -70,3 +83,7 @@
 - Discussions:
 	- Simonw vs Karpathy - [AI vs IA](https://x.com/karpathy/status/1744062845426532473?s=20)
 		- followup https://twitter.com/karpathy/status/1744179910347039080
+	- DPO paper got [Standing ovation from Andrew Ng](https://twitter.com/andrewyng/status/1745516258697863259?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- https://www.deeplearning.ai/the-batch/issue-231/
+		- Via clever mathematical insight, the authors show that given an LLM, there is a specific reward function for which that LLM is optimal. DPO then trains the LLM directly to make the reward function (that’s now implicitly defined by the LLM) consistent with the human rankings. So you no longer need to deal with a separately represented reward function, and you can train the LLM directly to optimize the same objective as RLHF.
+	- [story of the acquisition of Gradio by Huggingface](https://twitter.com/abidlabs/status/1745533306492588303?s=12&t=90xQ8sGy63D2OtiaoGJuww)
