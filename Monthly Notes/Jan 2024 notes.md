@@ -59,7 +59,8 @@
 	- [uses a bunch of synthetic data](https://github.com/jondurbin/bagel)
 	- [comparison from /r/LocalLlama](https://www.reddit.com/r/LocalLLaMA/comments/1916896/llm_comparisontest_confirm_leaderboard_big_news/) vs ~~**Mixtral**~~ Yi MoE
 - [Mixtral-medium](https://twitter.com/lmsysorg/status/1745061423724875891?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1745061423724875891%7Ctwgr%5E58a43f98e08b74e94594e238390ee283b99e9430%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fspacesdashboard.com%2Fspace%2F1YpKkwDbXPrKj%2Fvirtual-grass-touching-not-recorded) has now beat Claude and is second only to GPT4 on LMSys
-- 
+- Surya - [mutlilingual text line detection model](https://x.com/vikparuchuri/status/1745876562371903790?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- Text detection is step 1 in building a GPU-accelerated OCR model that is more accurate than tesseract.  Step 2 is to build the text recognition system - I'll be working on that in the next couple of weeks.
 
 
 ## other launches
