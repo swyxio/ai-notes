@@ -15,8 +15,11 @@ https://www.hebbia.ai/
 
 - [ Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html) ([HN](https://news.ycombinator.com/item?id=37764489))
 - "Vector Database 101" series that covers vector search and vector indexes as well: [https://zilliz.com/learn/what-is-vector-database](https://zilliz.com/learn/what-is-vector-database)
-	
-
+- [Vector Databases: A Technical Primer [pdf]](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
+	- A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge_, [https://arxiv.org/abs/2310.11703](https://arxiv.org/abs/2310.11703)
+	- _Survey of Vector Database Management Systems_, [https://arxiv.org/abs/2310.14021](https://arxiv.org/abs/2310.14021)
+	- _What are Embeddings_, [https://raw.githubusercontent.com/veekaybee/what_are_embeddi...](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf)
+	- Embeddings: What they are and why they matter [https://simonwillison.net/2023/Oct/23/embeddings/](https://simonwillison.net/2023/Oct/23/embeddings/)
 
 ## evaluation
 

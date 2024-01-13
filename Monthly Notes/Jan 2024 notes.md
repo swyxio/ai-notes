@@ -6,11 +6,13 @@
 
 ## openai
 
-- gpt store launch [pending](https://news.ycombinator.com/item?id=38870249) 
-	- [launched on Jan 10](https://twitter.com/sama/status/1745135061731803571)
+- gpt store launch
+	- [pending](https://news.ycombinator.com/item?id=38870249) , [launched on Jan 10](https://twitter.com/sama/status/1745135061731803571)
+	- new docs for [Actions for GPTS](https://platform.openai.com/docs/actions/introduction)
 - launched and rolled back [GPT personalization and Temporary Chat](https://x.com/AndrewCurran_/status/1744923452572852608?s=20)
 - [GPT builder is itself a GPT](https://help.openai.com/en/articles/8770868-gpt-builder)
 - [API key based usage tracking](https://twitter.com/OfficialLoganK/status/1743401083920097432) - just tracking, no limits yet
+- [removed usage policy against "military and warfare" use](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 
 
 ## fundraising
