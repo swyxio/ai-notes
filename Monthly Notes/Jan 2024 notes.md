@@ -16,6 +16,10 @@
 - announced new [preparedness/safety framework](https://openai.com/safety/preparedness)
 
 
+## anthropic
+
+- [sleeper agents](https://fxtwitter.com/AnthropicAI/status/1745854907968880970)
+
 ## fundraising
 
 - [perplexity series b](https://twitter.com/perplexity_ai/status/1742915781690798290) - 74m at 520m valuation
