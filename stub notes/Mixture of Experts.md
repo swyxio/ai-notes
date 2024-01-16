@@ -30,8 +30,6 @@ Google Switch C 1.6T MoE model
 Switch Transformers
 - https://twitter.com/TheTuringPost/status/1670793833964097537?s=20
 
-TAPAS: 
-- https://twitter.com/TheTuringPost/status/1670793846303645697
 
 
 https://twitter.com/amanrsanger/status/1690072804161650690?s=20

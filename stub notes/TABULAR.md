@@ -1,0 +1,4 @@
+
+
+- [“TAPAS: Weakly Supervised Table Parsing via Pre-training” ](https://huggingface.co/docs/transformers/model_doc/tapas) by Google AI -  It’s a BERT-based model specifically designed (and pre-trained) for answering questions about tabular data. Compared to BERT, TAPAS uses relative position embeddings and has 7 token types that encode tabular structure. TAPAS is pre-trained on the masked language modeling (MLM) objective on a large dataset comprising millions of tables from English Wikipedia and corresponding texts.
+- [TAPEX: Efficient Table Pre-training without Real Data: An Introduction to TAPEX](https://huggingface.co/blog/tapex) we explore **using synthetic data as a proxy for real data during pre-training**, and demonstrate its powerfulness with _TAPEX (Table Pre-training via Execution)_ as an example. In TAPEX, we show that table pre-training can be achieved by learning a neural SQL executor over a synthetic corpus.
