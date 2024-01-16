@@ -81,7 +81,13 @@
 ## misc reads 
 
 - interesting/interpretability
-	- [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm): "the steps I took to learn how to finetune a LLM model to describe a given audio file on Google’s MusicCaps dataset"
+	- [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm): "the steps I took to learn how to finetune a LLM model (Mistral OpenOrca + Whisper) to describe a given audio file on Google’s MusicCaps dataset"
+	- [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/?utm_source=ainews&utm_medium=email)
+		- I’ve had my days with Siri and Google Assistant. While they have the ability to control your devices, they cannot be customized and inherently rely on cloud services. In hopes of learning something new _and_ having something cool I could use in my life, I decided I want better.
+		- The premises are simple:
+			- I want my new assistant to be sassy and sarcastic.
+			- I want everything running local. No exceptions. There is no reason for my coffee machine downstairs to talk to a server on the other side of the country.
+			- I want more than the basic “turn on the lights” functionality. Ideally, I would like to add new capabilities in the future.
 	- [Chess-GPT's Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
 		- A 50 million parameter GPT trained on 5 million games of chess learns to play at ~1300 ELO in one day on 4 RTX 3090 GPUs. This model is only trained to predict the next character in PGN strings (1.e4 e5 2.Nf3 …) and is never explicitly given the state of the board or the rules of chess. Despite this, in order to better predict the next character, it learns to compute the state of the board at any point of the game, and learns a diverse set of rules, including check, checkmate, castling, en passant, promotion, pinned pieces, etc. In addition, to better predict the next character it also learns to estimate latent variables such as the ELO rating of the players in the game.
 		- [Tweet thread](https://twitter.com/a_karvonen/status/1743666230127411389): "I trained Chess-GPT, a 50M parameter LLM, to play at 1500 ELO. We can visualize its internal state of the board. In addition, to better predict the next character it estimates the ELO of the players involved"
