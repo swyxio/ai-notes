@@ -84,6 +84,11 @@
     - The final training run of PaLM required 2.56×10²⁴ (2.56e24) FLOPs.
     - We trained PaLM-540B on 6144 TPU v4 chips for 1200 hours and 3072 TPU v4 chips for 336 hours including some downtime and repeated steps.
     - VERY VERY GOOD POST FOR DOING MATH
+- Doing a back-of-the-envelope calculation, a 7B Llama 2 model costs about $760,000 to pretrain! https://twitter.com/rasbt/status/1747282042457374902
+	- The total number of GPU hours needed is 184,320 hours.
+	- The cost of running one A100 instance per hour is approximately $33.
+	- Each instance has 8 A100 GPUs.
+	- That's 184320 / 8  * 33 = $760,000
 - [Bloom](https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/) requires a dedicated PC with around eight A100 GPUs. Cloud alternatives are pricey, with back-of-the-envelope math [finding](https://bdtechtalks.com/2020/09/21/gpt-3-economy-business-model/) the cost of running OpenAI’s text-generating [GPT-3](https://techcrunch.com/tag/gpt-3/) — which has around 175 billion parameters — on a single Amazon Web Services instance to be around $87,000 per year.
   - https://bdtechtalks.com/2020/09/21/gpt-3-economy-business-model/
   - Lambda Labs calculated the [computing power required to train GPT-3](https://lambdalabs.com/blog/demystifying-gpt-3/) based on projections from GPT-2. According to the estimate, training the 175-billion-parameter neural network requires 3.114E23 FLOPS (floating-point operation), which would theoretically take 355 years on a V100 GPU server with 28 TFLOPS capacity and would cost $4.6 million at $1.5 per hour.
