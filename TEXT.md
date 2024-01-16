@@ -441,6 +441,9 @@ wiring up LLMs to python https://twitter.com/karpathy/status/1593081701454204930
 	- seekai
 	- censusgpt 
 		- https://twitter.com/0interestrates/status/1633992774394544128
+	- https://vanna.ai/  helps you generate and run accurate SQL for your database using LLMs via Retrieval-Augmented Generation
+
+
 - Newer
   - https://www.protocol.com/generative-ai-startup-landscape-map
   - https://metaphor.systems/
