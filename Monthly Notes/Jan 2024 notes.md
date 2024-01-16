@@ -100,3 +100,8 @@
 		- https://www.deeplearning.ai/the-batch/issue-231/
 		- Via clever mathematical insight, the authors show that given an LLM, there is a specific reward function for which that LLM is optimal. DPO then trains the LLM directly to make the reward function (that’s now implicitly defined by the LLM) consistent with the human rankings. So you no longer need to deal with a separately represented reward function, and you can train the LLM directly to optimize the same objective as RLHF.
 	- [story of the acquisition of Gradio by Huggingface](https://twitter.com/abidlabs/status/1745533306492588303?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+
+
+## memes
+
+- schmidhuber is right https://twitter.com/SchmidhuberAI/status/1745475698737938543
