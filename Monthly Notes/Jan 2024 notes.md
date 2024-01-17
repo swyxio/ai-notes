@@ -83,6 +83,8 @@
 - Model Merging
 	- https://huggingface.co/blog/mlabonne/merge-models
 	- https://docs.google.com/document/d/1wlG6McZzwCEFMcJsEV-hIKve2lrNFdrXTabgcvGY6z4/edit
+- Multimodality
+	- [new TTS model tracker from huggingface](https://github.com/Vaibhavs10/open-tts-tracker)
 - interesting/interpretability
 	- [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm): "the steps I took to learn how to finetune a LLM model (Mistral OpenOrca + Whisper) to describe a given audio file on Google’s MusicCaps dataset"
 	- [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/?utm_source=ainews&utm_medium=email)

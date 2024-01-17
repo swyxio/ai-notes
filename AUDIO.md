@@ -114,6 +114,8 @@ https://news.ycombinator.com/item?id=33663486
 
 ## Text to Speech
 
+https://github.com/Vaibhavs10/open-tts-tracker
+
 - services
 	- Play.ht or Podcast.ai - https://arstechnica.com/information-technology/2022/10/fake-joe-rogan-interviews-fake-steve-jobs-in-an-ai-powered-podcast/
 		- https://news.ycombinator.com/item?id=35328698#35333601
