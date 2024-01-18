@@ -44,6 +44,11 @@
 - open interpreter 0.2 - vision models, and an api
 	- https://twitter.com/hellokillian/status/1743418943120040109
 	- https://api.openinterpreter.com/ The Open Interpreter Project has developed (and here freely hosts) an API which is capable of locating visual controls with single-pixel precision.
+- Codium - [AlphaCodium](https://www.codium.ai/blog/alphacodium-state-of-the-art-code-generation-for-code-contests/) - beating deepmind alphacoder/deepseek/gpt4 with prompt flow  
+	- https://x.com/karpathy/status/1748043513156272416?s=20
+		- Prompt engineering (or rather "Flow engineering") intensifies for code generation. Great reading and a reminder of how much alpha there is (pass@5 19% to 44%) in moving from a naive prompt:answer paradigm to a "flow" paradigm, where the answer is constructed iteratively.
+	- https://twitter.com/svpino/status/1747971746047627682
+	- https://twitter.com/swyx/status/1748084170537291923
 
 
 ## models
