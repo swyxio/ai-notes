@@ -15,7 +15,6 @@
 - [removed usage policy against "military and warfare" use](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 - announced new [preparedness/safety framework](https://openai.com/safety/preparedness)
 - sama tsmc https://x.com/basedbeffjezos/status/1748903066735354030?s=46&t=90xQ8sGy63D2OtiaoGJuww
-	- https://www.bloomberg.com/news/articles/2024-01-19/altman-seeks-to-raise-billions-for-network-of-ai-chip-factories
 
 
 ## anthropic
@@ -24,7 +23,6 @@
 
 ## fundraising
 
-- elevenlabs  80m at 1b https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/
 - [perplexity series b](https://twitter.com/perplexity_ai/status/1742915781690798290) - 74m at 520m valuation
 	- 10m MAU, 500m queries in 2023
 	- https://blog.perplexity.ai/blog/perplexity-raises-series-b-funding-round
@@ -85,6 +83,7 @@
 	- 3 new embeddings models using Monarch Mixer architecture, enabling long context embeddings up to 32k!
 	- <4x lower pricing than OpenAI/Cohere
 	- integrations with MongoDB Atlas, Langchain, Llamaindex
+-  [artificialanalysis.ai](https://news.ycombinator.com/item?id=39014985) - Benchmarks and comparison of LLM AI models and API hosting providers - [swyx tweet](https://twitter.com/swyx/status/1747741795281412133)
 
 ## misc reads 
 
