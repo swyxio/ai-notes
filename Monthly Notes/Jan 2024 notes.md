@@ -14,6 +14,7 @@
 - [API key based usage tracking](https://twitter.com/OfficialLoganK/status/1743401083920097432) - just tracking, no limits yet
 - [removed usage policy against "military and warfare" use](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 - announced new [preparedness/safety framework](https://openai.com/safety/preparedness)
+- sama tsmc https://x.com/basedbeffjezos/status/1748903066735354030?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 
 ## anthropic
