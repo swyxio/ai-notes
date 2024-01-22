@@ -9,6 +9,8 @@
 		- can see on openrouter https://x.com/xanderatallah/status/1709717677730636102?s=20
 - https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model
 - https://epochai.org/trends
+- human analogies
+	- https://x.com/atroyn/status/1749203484543787435?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 ### where are all the ai engineers?
 
