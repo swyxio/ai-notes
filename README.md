@@ -218,6 +218,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - source in GPT2 source https://github.com/openai/gpt-2/blob/master/src/encoder.py
 	  - note that BPEs are suboptimal https://www.lesswrong.com/posts/dFbfCLZA4pejckeKc/a-mechanistic-explanation-for-solidgoldmagikarp-like-tokens?commentId=9jNdKscwEWBB4GTCQ
 		  - causes math and string character issues https://news.ycombinator.com/item?id=35363769
+		  - [glitch tokens](https://news.ycombinator.com/item?id=39086318) happen when tokenizer has different dataset than LLM
 	  - https://platform.openai.com/tokenizer and https://github.com/openai/tiktoken (more up to date: https://tiktokenizer.vercel.app/)
 	  - Wordpiece -> BPE -> SentenceTransformer
 		  -  [Preliminary reading on Embeddings](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526?gi=ee46baab0d8f)

@@ -75,7 +75,8 @@
 	- deepgram Nova model https://twitter.com/DeepgramAI/status/1646558003079057409
 - Assemblyai conformer https://www.assemblyai.com/blog/conformer-1/
 - google has a closed "Universal Speech" model https://sites.research.google/usm/
-- 
+- whisperspeech - open source TTS 80m model from LAION
+	- https://www.youtube.com/watch?v=1OBvf33S77Y
 
 https://news.ycombinator.com/item?id=33663486
 -  https://whispermemos.com pressing button on my Lock Screen and getting a perfect transcription in my inbox.

@@ -15,6 +15,10 @@
 - [removed usage policy against "military and warfare" use](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 - announced new [preparedness/safety framework](https://openai.com/safety/preparedness)
 - sama tsmc https://x.com/basedbeffjezos/status/1748903066735354030?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- sama at davos
+	- https://www.axios.com/2024/01/17/sam-altman-davos-ai-future-interview
+	- ([video](https://www.youtube.com/watch?v=QFXp_TU-bO8))
+	- Altman said his top priority right now is launching the new model, likely to be called GPT-5.
 
 
 ## anthropic
@@ -23,11 +27,14 @@
 
 ## fundraising
 
+- [ElevenLabs series B](https://twitter.com/elevenlabsio/status/1749435751656231065) - 80m at 1b valuation with a16z and nat/dan
+	- [seed pitch deck](https://x.com/chiefaioffice/status/1749385259517440495?s=20)
 - [perplexity series b](https://twitter.com/perplexity_ai/status/1742915781690798290) - 74m at 520m valuation
 	- 10m MAU, 500m queries in 2023
 	- https://blog.perplexity.ai/blog/perplexity-raises-series-b-funding-round
 	- https://www.wsj.com/tech/ai/jeff-bezos-bets-on-a-google-challenger-using-ai-to-try-to-upend-internet-search-0859bda6?mod=hp_lead_pos4
 - [Quora raised $75m from a16z](https://x.com/adamdangelo/status/1744805602436825334?s=20): "his funding will be used to accelerate the growth of Poe, and we expect the majority of it to be used to pay bot creators through our recently-launched creator monetization program."
+- 
 
 
 ## open source tooling
@@ -46,6 +53,7 @@
 	- https://twitter.com/hellokillian/status/1743418943120040109
 	- https://api.openinterpreter.com/ The Open Interpreter Project has developed (and here freely hosts) an API which is capable of locating visual controls with single-pixel precision.
 - Codium - [AlphaCodium](https://www.codium.ai/blog/alphacodium-state-of-the-art-code-generation-for-code-contests/) - beating deepmind alphacoder/deepseek/gpt4 with prompt flow  
+	- [itamar's intro video](https://twitter.com/itamar_mar/status/1747957348293824676)
 	- https://x.com/karpathy/status/1748043513156272416?s=20
 		- Prompt engineering (or rather "Flow engineering") intensifies for code generation. Great reading and a reminder of how much alpha there is (pass@5 19% to 44%) in moving from a naive prompt:answer paradigm to a "flow" paradigm, where the answer is constructed iteratively.
 	- https://twitter.com/svpino/status/1747971746047627682
@@ -84,14 +92,30 @@
 	- <4x lower pricing than OpenAI/Cohere
 	- integrations with MongoDB Atlas, Langchain, Llamaindex
 -  [artificialanalysis.ai](https://news.ycombinator.com/item?id=39014985) - Benchmarks and comparison of LLM AI models and API hosting providers - [swyx tweet](https://twitter.com/swyx/status/1747741795281412133)
+	- Martian also launched [leaderboard](https://leaderboard.withmartian.com) but not as good 
+- Nightshade/Glaze 1.0 ([tweet](https://twitter.com/alexjc/status/1748754290435395739), [podcast](https://twimlai.com/podcast/twimlai/nightshade-data-poisoning-to-fight-generative-ai/))
+	- a tool that turns any image into a data sample that is unsuitable for model training. More precisely, Nightshade transforms images into "poison" samples, so that models training on them without consent will see their models learn unpredictable behaviors that deviate from expected norms, e.g. a prompt that asks for an image of a cow flying in space might instead get an image of a handbag floating in space.
+	- [circumventing Nightshade is violation of DMCA](https://twitter.com/alexjc/status/1748754290435395739)
+- Vx.dev
+	- github actions-driven development
+	- vx.dev was initially designed as an open-source alternative to Vercel's v0.dev, so we also have a [blog](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/) about how we reverse-engineered v0.dev.
+	- also has an interesting blogpost on [How I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/)
 
 ## misc reads 
 
 - Model Merging
 	- https://huggingface.co/blog/mlabonne/merge-models
 	- https://docs.google.com/document/d/1wlG6McZzwCEFMcJsEV-hIKve2lrNFdrXTabgcvGY6z4/edit
+- DPO
+	- [DPO vs IPO vs KTO alternatives](https://huggingface.co/blog/pref-tuning)
+		- [Main conclusion:](https://twitter.com/Teknium1/status/1748001899566235835) IPO aint it, DPO wins sometimes and KTO wins sometimes, but KTO has the advantage of not needing equivalent comparison pairs, so it's much more scalable.
 - Multimodality
 	- [new TTS model tracker from huggingface](https://github.com/Vaibhavs10/open-tts-tracker)
+- [Self-Rewarding LLMs](https://x.com/jaseweston/status/1748158323369611577?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- In this work, we study Self-Rewarding Language Models, where the language model itself is used via LLM-as-a-Judge prompting to provide its own rewards during training. We show that during Iterative DPO training that not only does instruction following ability improve, but also the ability to provide high-quality rewards to itself. Fine-tuning Llama 2 70B on three iterations of our approach yields a model that outperforms many existing systems on the AlpacaEval 2.0 leaderboard, including Claude 2, Gemini Pro, and GPT-4 0613.
+	- LM itself provides its own rewards on own generations via LLM-as-a-Judge during Iterative DPO
+	-   Reward modeling ability improves during training rather than staying fixed
+	- ...opens the door to superhuman feedback?
 - interesting/interpretability
 	- [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm): "the steps I took to learn how to finetune a LLM model (Mistral OpenOrca + Whisper) to describe a given audio file on Google’s MusicCaps dataset"
 	- [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/?utm_source=ainews&utm_medium=email)
@@ -112,6 +136,7 @@
 		- https://www.deeplearning.ai/the-batch/issue-231/
 		- Via clever mathematical insight, the authors show that given an LLM, there is a specific reward function for which that LLM is optimal. DPO then trains the LLM directly to make the reward function (that’s now implicitly defined by the LLM) consistent with the human rankings. So you no longer need to deal with a separately represented reward function, and you can train the LLM directly to optimize the same objective as RLHF.
 	- [story of the acquisition of Gradio by Huggingface](https://twitter.com/abidlabs/status/1745533306492588303?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [Facebook is aggressively going after LLaMA repos with DMCA's.](https://twitter.com/theshawwn/status/1638925249709240322)
 
 
 ## memes

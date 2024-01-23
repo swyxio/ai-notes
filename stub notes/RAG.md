@@ -11,6 +11,21 @@ https://ai.facebook.com/blog/retrieval-augmented-generation-streamlining-the-cre
 
 https://www.hebbia.ai/
 
+https://github.com/embedchain/embedchain an Open Source RAG Framework
+```
+import os
+# replace this with your OpenAI key
+os.environ["OPENAI_API_KEY"] = "sk-xxxx"
+
+from embedchain import App
+app = App()
+app.add("https://www.forbes.com/profile/elon-musk")
+app.add("https://en.wikipedia.org/wiki/Elon_Musk")
+app.query("What is the net worth of Elon Musk today?")
+# Answer: The net worth of Elon Musk today is $258.7 billion.
+
+```
+
 ## Vector DBs
 
 - [ Choosing vector database: a side-by-side comparison](https://benchmark.vectorview.ai/vectordbs.html) ([HN](https://news.ycombinator.com/item?id=37764489))
