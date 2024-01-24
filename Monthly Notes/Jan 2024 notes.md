@@ -49,6 +49,7 @@
 		-   Measure cosine distance between each pair of consecutive sentences.
 		-   Get the 95% percentile cosine distance, set that as the threshold.
 		-   Create a new chunk if the cosine distance of a sentence compared to prev. exceeds that threshold.
+	- JSONalyze https://docs.llamaindex.ai/en/latest/examples/query_engine/JSONalyze_query_engine.html#
 - open interpreter 0.2 - vision models, and an api
 	- https://twitter.com/hellokillian/status/1743418943120040109
 	- https://api.openinterpreter.com/ The Open Interpreter Project has developed (and here freely hosts) an API which is capable of locating visual controls with single-pixel precision.
@@ -79,6 +80,20 @@
 - [Mixtral-medium](https://twitter.com/lmsysorg/status/1745061423724875891?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1745061423724875891%7Ctwgr%5E58a43f98e08b74e94594e238390ee283b99e9430%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fspacesdashboard.com%2Fspace%2F1YpKkwDbXPrKj%2Fvirtual-grass-touching-not-recorded) has now beat Claude and is second only to GPT4 on LMSys
 - Surya - [mutlilingual text line detection model](https://x.com/vikparuchuri/status/1745876562371903790?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- Text detection is step 1 in building a GPU-accelerated OCR model that is more accurate than tesseract.  Step 2 is to build the text recognition system - I'll be working on that in the next couple of weeks.
+- [Hourglass Diffusion Transformers](https://twitter.com/iScienceLuvr/status/1749624496770973816) - 
+	- We introduce a new transformer backbone for diffusion models that can directly generate megapixel images without the need for multiple stages like latent diffusion.
+	- O(n) complexity of UNet, but parameter-scalability of transformers.
+		- "Based on ablation studies this allows them to maintain or slightly improve FID score compared to Transformer-only diffusion models that don't do U-net like structures, but at 1/10th the computation cost. An incredible feat for sure."
+	- [HN](https://news.ycombinator.com/item?id=39107620),[ tweet thread of threads](https://twitter.com/iScienceLuvr/status/1749624496770973816)
+	- this arch is of course nice for high-resolution synthesis, but there's some other cool stuff worth mentioning..
+	- activations are small! so you can enjoy bigger batch sizes. this is due to the 4x patching we do on the ingress to the model, and the effectiveness of neighbourhood attention in joining patches at the seams.
+	- the model's inductive biases are pretty different than (for example) a convolutional UNet's. the innermost levels seem to train easily, so images can have good global coherence early in training.
+	- there's no convolutions! so you don't need to worry about artifacts stemming from convolution padding, or having canvas edge padding artifacts leak an implicit position bias.
+	- we can finally see what high-resolution diffusion outputs look like _without_ latents! personally I think current latent VAEs don't _really_ achieve the high resolutions they claim (otherwise fine details like text would survive a VAE roundtrip faithfully); it's common to see latent diffusion outputs with smudgy skin or blurry fur. what I'd like to see in the future of latent diffusion is to listen to the Emu paper and use more channels, or a less ambitious upsample.
+	- it's a transformer! so we can try applying to it everything we know about transformers, like sigma reparameterisation or multimodality. some tricks like masked training will require extra support in [NATTEN]([https://github.com/SHI-Labs/NATTEN](https://github.com/SHI-Labs/NATTEN)), but we're very happy with its featureset and performance so far.
+	- but honestly I'm most excited about the efficiency. there's too little work on making pretraining possible at GPU-poor scale. so I was very happy to see HDiT could succeed at small-scale tasks within the resources I had at home (you can get nice oxford flowers samples at 256x256px with half an hour on a 4090). I think with models that are better fits for the problem, perhaps we can get good results with smaller models. and I'd like to see big tech go that direction too!
+
+-Alex Birch
 
 
 ## other launches
@@ -111,13 +126,15 @@
 		- [Main conclusion:](https://twitter.com/Teknium1/status/1748001899566235835) IPO aint it, DPO wins sometimes and KTO wins sometimes, but KTO has the advantage of not needing equivalent comparison pairs, so it's much more scalable.
 - Multimodality
 	- [new TTS model tracker from huggingface](https://github.com/Vaibhavs10/open-tts-tracker)
-- [Self-Rewarding LLMs](https://x.com/jaseweston/status/1748158323369611577?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+- [Self-Rewarding LLMs](https://x.com/jaseweston/status/1748158323369611577?s=46&t=90xQ8sGy63D2OtiaoGJuww) ([HF](https://huggingface.co/papers/2401.10020))
 	- In this work, we study Self-Rewarding Language Models, where the language model itself is used via LLM-as-a-Judge prompting to provide its own rewards during training. We show that during Iterative DPO training that not only does instruction following ability improve, but also the ability to provide high-quality rewards to itself. Fine-tuning Llama 2 70B on three iterations of our approach yields a model that outperforms many existing systems on the AlpacaEval 2.0 leaderboard, including Claude 2, Gemini Pro, and GPT-4 0613.
 	- LM itself provides its own rewards on own generations via LLM-as-a-Judge during Iterative DPO
 	-   Reward modeling ability improves during training rather than staying fixed
 	- ...opens the door to superhuman feedback?
 - interesting/interpretability
 	- [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm): "the steps I took to learn how to finetune a LLM model (Mistral OpenOrca + Whisper) to describe a given audio file on Google’s MusicCaps dataset"
+	- [Self-driving as a case study for AGI](https://web.archive.org/web/20240122062223/https://karpathy.github.io/2024/01/21/selfdriving-agi/)([karpathy.github.io](https://news.ycombinator.com/from?site=karpathy.github.io))
+		- taken down but mirrored https://huggingface.co/posts/clem/970025506569107
 	- [Building a fully local LLM voice assistant to control my smart home](https://johnthenerd.com/blog/local-llm-assistant/?utm_source=ainews&utm_medium=email)
 		- I’ve had my days with Siri and Google Assistant. While they have the ability to control your devices, they cannot be customized and inherently rely on cloud services. In hopes of learning something new _and_ having something cool I could use in my life, I decided I want better.
 		- The premises are simple:
@@ -142,3 +159,4 @@
 ## memes
 
 - schmidhuber is right https://twitter.com/SchmidhuberAI/status/1745475698737938543
+- palworld b2b ai saas https://x.com/nearcyan/status/1750056156721242212?s=20
