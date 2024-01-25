@@ -49,6 +49,9 @@
 	- ML Parallelism
 	- We (Probably) Won’t Run Out of Data
 	- AI Energy Use and Heat Signatures
+- https://www.lesswrong.com/posts/RihYwmskuJT9Rkbjq/the-longest-training-run
+	- [This blog makes a good argument that training runs should never be more than 15mo, because the hardware/sofware/algos advance so fast that you're better off waiting:](https://x.com/abhi_venigalla/status/1750336788282175716?s=20)
+
 
 ## Infrastructure
 

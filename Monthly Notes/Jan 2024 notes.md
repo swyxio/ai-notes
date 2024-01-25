@@ -9,6 +9,7 @@
 - gpt store launch
 	- [pending](https://news.ycombinator.com/item?id=38870249) , [launched on Jan 10](https://twitter.com/sama/status/1745135061731803571)
 	- new docs for [Actions for GPTS](https://platform.openai.com/docs/actions/introduction)
+	- [featured GPTS](https://x.com/chatgptapp/status/1750316948444086697)
 - launched and rolled back [GPT personalization and Temporary Chat](https://x.com/AndrewCurran_/status/1744923452572852608?s=20)
 - [GPT builder is itself a GPT](https://help.openai.com/en/articles/8770868-gpt-builder)
 - [API key based usage tracking](https://twitter.com/OfficialLoganK/status/1743401083920097432) - just tracking, no limits yet
