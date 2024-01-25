@@ -20,6 +20,18 @@
 	- https://www.axios.com/2024/01/17/sam-altman-davos-ai-future-interview
 	- ([video](https://www.youtube.com/watch?v=QFXp_TU-bO8))
 	- Altman said his top priority right now is launching the new model, likely to be called GPT-5.
+- [GPT3/4 Turbo and New embedding models](https://openai.com/blog/new-embedding-models-and-api-updates)
+	- gpt-3.5-turbo-0125 - $0.5 per million input, $1.5 per million output (25-50% cheaper than gpt-3.5-turbo-1106)
+		- 16k tokens - no longer separate 4k and 16k moels for GPT3.5T
+		- This model will also have various improvements including higher accuracy at responding in requested formats and a fix for [a bug](https://community.openai.com/t/gpt-4-1106-preview-is-not-generating-utf-8/482839) which caused a text encoding issue for non-English language function calls.
+	- gpt-4-0125-preview - same price as other GPT4T models
+		- 128k token context, same as before
+		- This model completes tasks like code generation more thoroughly than the previous preview model and is intended to reduce cases of “laziness” where the model doesn’t complete a task. The new model also includes the fix for the bug impacting non-English UTF-8 generations.
+		- We plan to launch GPT-4 Turbo with vision in general availability in the coming months.
+	- text-embedding-3-small - 1536 dims, on MTEB 1.3 better then ada-002. 20% price of ada-002 
+	- text-embedding-3-large - 3072 dims, on MTEB 3.6 better then ada-002. bit more expensive than ada-002
+	- developers can now assign permissions to API keys from the [API keys page](https://platform.openai.com/api-keys). For example, a key could be assigned read-only access to power an internal tracking dashboard, or restricted to only access certain endpoints.
+	-  the usage dashboard and usage export function now expose metrics on an API key level after [turning on tracking](https://platform.openai.com/api-keys). This makes it simple to view usage on a per feature, team, product, or project level, simply by having separate API keys for each.
 
 
 ## anthropic
@@ -115,6 +127,8 @@
 	- github actions-driven development
 	- vx.dev was initially designed as an open-source alternative to Vercel's v0.dev, so we also have a [blog](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/) about how we reverse-engineered v0.dev.
 	- also has an interesting blogpost on [How I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/)
+- Krea.ai launching Portrait, Concept CGI and Cartoon modes
+	- [Cerebral Valley interview](https://cerebralvalley.beehiiv.com/p/krea-building-next-frontier-human-creativity)
 
 ## misc reads 
 
