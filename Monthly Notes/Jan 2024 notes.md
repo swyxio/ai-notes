@@ -81,6 +81,7 @@
 - [Mixtral-medium](https://twitter.com/lmsysorg/status/1745061423724875891?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1745061423724875891%7Ctwgr%5E58a43f98e08b74e94594e238390ee283b99e9430%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fspacesdashboard.com%2Fspace%2F1YpKkwDbXPrKj%2Fvirtual-grass-touching-not-recorded) has now beat Claude and is second only to GPT4 on LMSys
 - Surya - [mutlilingual text line detection model](https://x.com/vikparuchuri/status/1745876562371903790?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- Text detection is step 1 in building a GPU-accelerated OCR model that is more accurate than tesseract.  Step 2 is to build the text recognition system - I'll be working on that in the next couple of weeks.
+	- related: [Vision Grid Transformer](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/VGT): a two-stream multi-modal Vision Grid Transformer for document layout analysis, in which Grid Transformer (GiT) is proposed and pre-trained for 2D token-level and segment-level semantic understanding. By fully leveraging multi-modal information and exploiting pre-training techniques to learn better representation, VGT achieves highly competitive scores in the DLA task, and significantly outperforms the previous state-of-the-arts.
 - [Hourglass Diffusion Transformers](https://twitter.com/iScienceLuvr/status/1749624496770973816) - 
 	- We introduce a new transformer backbone for diffusion models that can directly generate megapixel images without the need for multiple stages like latent diffusion.
 	- O(n) complexity of UNet, but parameter-scalability of transformers.
@@ -92,10 +93,8 @@
 	- there's no convolutions! so you don't need to worry about artifacts stemming from convolution padding, or having canvas edge padding artifacts leak an implicit position bias.
 	- we can finally see what high-resolution diffusion outputs look like _without_ latents! personally I think current latent VAEs don't _really_ achieve the high resolutions they claim (otherwise fine details like text would survive a VAE roundtrip faithfully); it's common to see latent diffusion outputs with smudgy skin or blurry fur. what I'd like to see in the future of latent diffusion is to listen to the Emu paper and use more channels, or a less ambitious upsample.
 	- it's a transformer! so we can try applying to it everything we know about transformers, like sigma reparameterisation or multimodality. some tricks like masked training will require extra support in [NATTEN]([https://github.com/SHI-Labs/NATTEN](https://github.com/SHI-Labs/NATTEN)), but we're very happy with its featureset and performance so far.
-	- but honestly I'm most excited about the efficiency. there's too little work on making pretraining possible at GPU-poor scale. so I was very happy to see HDiT could succeed at small-scale tasks within the resources I had at home (you can get nice oxford flowers samples at 256x256px with half an hour on a 4090). I think with models that are better fits for the problem, perhaps we can get good results with smaller models. and I'd like to see big tech go that direction too!
-
--Alex Birch
-
+	- but honestly I'm most excited about the efficiency. there's too little work on making pretraining possible at GPU-poor scale. so I was very happy to see HDiT could succeed at small-scale tasks within the resources I had at home (you can get nice oxford flowers samples at 256x256px with half an hour on a 4090). I think with models that are better fits for the problem, perhaps we can get good results with smaller models. and I'd like to see big tech go that direction too!\
+- [Lumiere](https://lumiere-video.github.io/): A Space-Time Diffusion Model for Realistic Video Generation
 
 ## other launches
 
@@ -155,6 +154,16 @@
 		- Via clever mathematical insight, the authors show that given an LLM, there is a specific reward function for which that LLM is optimal. DPO then trains the LLM directly to make the reward function (that’s now implicitly defined by the LLM) consistent with the human rankings. So you no longer need to deal with a separately represented reward function, and you can train the LLM directly to optimize the same objective as RLHF.
 	- [story of the acquisition of Gradio by Huggingface](https://twitter.com/abidlabs/status/1745533306492588303?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Facebook is aggressively going after LLaMA repos with DMCA's.](https://twitter.com/theshawwn/status/1638925249709240322)
+- Learning
+	- [ChatGPT at home series](https://twitter.com/NielsRogge/status/1747631048941252878): fine-tuning Mistral-7B on a GPU rented on Runpod: Involves chat templates, QLoRa, packing, Flash Attention 2, bfloat16
+	- [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) using the latest research techniques, including Flash Attention, Q-LoRA, OpenAI dataset formats (messages), ChatML, Packing, all built with Hugging Face TRL
+		-  for consumer-size GPUs (24GB) covering the full end-to-end lifecycle with: 
+			- 💡Define and understand use cases for fine-tuning  
+			- 🧑🏻‍💻 Setup of the development environment  
+			- 🧮 Create and prepare dataset (OpenAI format)  
+			- 🏋️‍♀️ Fine-tune LLM using TRL and the SFTTrainer  
+			- 🥇 Test and evaluate the LLM  
+			- 🚀 Deploy for production with TGI
 
 
 ## memes
