@@ -34,6 +34,10 @@
 	-  the usage dashboard and usage export function now expose metrics on an API key level after [turning on tracking](https://platform.openai.com/api-keys). This makes it simple to view usage on a per feature, team, product, or project level, simply by having separate API keys for each.
 
 
+## bard
+
+- gemini pro doing better vs gpt4T - https://twitter.com/lmsysorg/status/1750921228012122526
+
 ## anthropic
 
 - [sleeper agents](https://fxtwitter.com/AnthropicAI/status/1745854907968880970)
@@ -47,7 +51,7 @@
 	- https://blog.perplexity.ai/blog/perplexity-raises-series-b-funding-round
 	- https://www.wsj.com/tech/ai/jeff-bezos-bets-on-a-google-challenger-using-ai-to-try-to-upend-internet-search-0859bda6?mod=hp_lead_pos4
 - [Quora raised $75m from a16z](https://x.com/adamdangelo/status/1744805602436825334?s=20): "his funding will be used to accelerate the growth of Poe, and we expect the majority of it to be used to pay bot creators through our recently-launched creator monetization program."
-- 
+- x.ai 6b at 20b valuation https://www.reuters.com/technology/elon-musks-ai-start-up-seeks-raise-up-6-bln-ft-2024-01-26/
 
 
 ## open source tooling
@@ -72,6 +76,15 @@
 		- Prompt engineering (or rather "Flow engineering") intensifies for code generation. Great reading and a reminder of how much alpha there is (pass@5 19% to 44%) in moving from a naive prompt:answer paradigm to a "flow" paradigm, where the answer is constructed iteratively.
 	- https://twitter.com/svpino/status/1747971746047627682
 	- https://twitter.com/swyx/status/1748084170537291923
+- [Lumos - Local LLM chrome extension powered by Ollama](https://news.ycombinator.com/item?id=39132766)
+- [PolyMind](https://github.com/itsme2417/PolyMind) - multimodal, function calling powered LLM webui. It's designed to be used with Mixtral 8x7B + TabbyAPI and offers a wide range of features including:
+	-   Internet searching with DuckDuckGo and web scraping capabilities.
+	-   Image generation using comfyui.
+	-   Image input with sharegpt4v (Over llama.cpp's server), OCR, and Yolo.
+	-   Port scanning with nmap.
+	-   Wolfram Alpha integration.
+	-   A Python interpreter.
+	-   RAG with semantic search for PDF and miscellaneous text files.
 
 
 ## models
@@ -138,6 +151,9 @@
 - DPO
 	- [DPO vs IPO vs KTO alternatives](https://huggingface.co/blog/pref-tuning)
 		- [Main conclusion:](https://twitter.com/Teknium1/status/1748001899566235835) IPO aint it, DPO wins sometimes and KTO wins sometimes, but KTO has the advantage of not needing equivalent comparison pairs, so it's much more scalable.
+- Finetuning
+	- [SymNoise](https://arxiv.org/abs/2312.01523): Advancing Language Model Fine-tuning with Symmetric Noise
+		- This method aims to enhance the model's function by more stringently regulating its local curvature, demonstrating superior performance over the current method, NEFTune. When fine-tuning the LLaMA-2-7B model using Alpaca, standard techniques yield a 29.79% score on AlpacaEval. However, our approach, SymNoise, increases this score significantly to 69.04%, using symmetric noisy embeddings. This is a 6.7% improvement over the state-of-the-art method, NEFTune~(64.69%). 
 - Multimodality
 	- [new TTS model tracker from huggingface](https://github.com/Vaibhavs10/open-tts-tracker)
 - [Self-Rewarding LLMs](https://x.com/jaseweston/status/1748158323369611577?s=46&t=90xQ8sGy63D2OtiaoGJuww) ([HF](https://huggingface.co/papers/2401.10020))
@@ -170,6 +186,8 @@
 	- [Facebook is aggressively going after LLaMA repos with DMCA's.](https://twitter.com/theshawwn/status/1638925249709240322)
 - Learning
 	- [ChatGPT at home series](https://twitter.com/NielsRogge/status/1747631048941252878): fine-tuning Mistral-7B on a GPU rented on Runpod: Involves chat templates, QLoRa, packing, Flash Attention 2, bfloat16
+	- [LoRA from scratch: implementation for LLM finetuning](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
+		- 
 	- [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) using the latest research techniques, including Flash Attention, Q-LoRA, OpenAI dataset formats (messages), ChatML, Packing, all built with Hugging Face TRL
 		-  for consumer-size GPUs (24GB) covering the full end-to-end lifecycle with: 
 			- 💡Define and understand use cases for fine-tuning  
