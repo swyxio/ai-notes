@@ -30,6 +30,8 @@
 		- We plan to launch GPT-4 Turbo with vision in general availability in the coming months.
 	- text-embedding-3-small - 1536 dims, on MTEB 1.3 better then ada-002. 20% price of ada-002 
 	- text-embedding-3-large - 3072 dims, on MTEB 3.6 better then ada-002. bit more expensive than ada-002
+		- supports shortening embeddings to 256dims for cheap storage (!!!) Basically embeddings either got a 5x price cut or you can pay a bit more for a lot better embeddings, vs ada-002. The large model now ranks #4 on the MTEB leaderboard (whereas ada-002 had slid to #23)
+		- this weird dimension cut capability is from [Matryoshka embeddings](https://twitter.com/ZhaiAndrew/status/1745471030297288810/quotes)
 	- developers can now assign permissions to API keys from the [API keys page](https://platform.openai.com/api-keys). For example, a key could be assigned read-only access to power an internal tracking dashboard, or restricted to only access certain endpoints.
 	-  the usage dashboard and usage export function now expose metrics on an API key level after [turning on tracking](https://platform.openai.com/api-keys). This makes it simple to view usage on a per feature, team, product, or project level, simply by having separate API keys for each.
 
@@ -41,6 +43,7 @@
 ## anthropic
 
 - [sleeper agents](https://fxtwitter.com/AnthropicAI/status/1745854907968880970)
+  - [https://www.theinformation.com/articles/anthropics-gross-margin-flags-long-term-ai-profit-questions?rc=bzad3u](https://www.theinformation.com/articles/anthropics-gross-margin-flags-long-term-ai-profit-questions?rc=bzad3u "https://www.theinformation.com/articles/anthropics-gross-margin-flags-long-term-ai-profit-questions?rc=bzad3u") 50-55% gross margins actually not bad
 
 ## fundraising
 
