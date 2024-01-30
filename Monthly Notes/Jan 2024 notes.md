@@ -30,8 +30,6 @@
 		- We plan to launch GPT-4 Turbo with vision in general availability in the coming months.
 	- text-embedding-3-small - 1536 dims, on MTEB 1.3 better then ada-002. 20% price of ada-002 
 	- text-embedding-3-large - 3072 dims, on MTEB 3.6 better then ada-002. bit more expensive than ada-002
-		- supports shortening embeddings to 256dims for cheap storage (!!!) Basically embeddings either got a 5x price cut or you can pay a bit more for a lot better embeddings, vs ada-002. The large model now ranks #4 on the MTEB leaderboard (whereas ada-002 had slid to #23)
-		- this weird dimension cut capability is from [Matryoshka embeddings](https://twitter.com/ZhaiAndrew/status/1745471030297288810/quotes)
 	- developers can now assign permissions to API keys from the [API keys page](https://platform.openai.com/api-keys). For example, a key could be assigned read-only access to power an internal tracking dashboard, or restricted to only access certain endpoints.
 	-  the usage dashboard and usage export function now expose metrics on an API key level after [turning on tracking](https://platform.openai.com/api-keys). This makes it simple to view usage on a per feature, team, product, or project level, simply by having separate API keys for each.
 
@@ -44,7 +42,6 @@
 ## anthropic
 
 - [sleeper agents](https://fxtwitter.com/AnthropicAI/status/1745854907968880970)
-  - [https://www.theinformation.com/articles/anthropics-gross-margin-flags-long-term-ai-profit-questions?rc=bzad3u](https://www.theinformation.com/articles/anthropics-gross-margin-flags-long-term-ai-profit-questions?rc=bzad3u "https://www.theinformation.com/articles/anthropics-gross-margin-flags-long-term-ai-profit-questions?rc=bzad3u") 50-55% gross margins actually not bad
 
 ## fundraising
 
@@ -55,7 +52,7 @@
 	- https://blog.perplexity.ai/blog/perplexity-raises-series-b-funding-round
 	- https://www.wsj.com/tech/ai/jeff-bezos-bets-on-a-google-challenger-using-ai-to-try-to-upend-internet-search-0859bda6?mod=hp_lead_pos4
 - [Quora raised $75m from a16z](https://x.com/adamdangelo/status/1744805602436825334?s=20): "his funding will be used to accelerate the growth of Poe, and we expect the majority of it to be used to pay bot creators through our recently-launched creator monetization program."
-- x.ai 6b at 20b valuation https://www.reuters.com/technology/elon-musks-ai-start-up-seeks-raise-up-6-bln-ft-2024-01-26/
+- Elon denying x.ai 6b at 20b valuation https://www.reuters.com/technology/elon-musks-ai-start-up-seeks-raise-up-6-bln-ft-2024-01-26/
 
 
 ## open source tooling
@@ -95,6 +92,7 @@
 
 - dont forget the openai turbo and embedding models
 	- voyage-code-2 dropped last week -- a new embedding model specifically trained & optimized for code-related applications. they claim it's 16.93% better than ada on code datasets, but it remains to be seen how voyage-code performs compared to the new ada-v3 based on MRL [https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/](https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/ "https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/") - thanks Gian on discord
+- codellama70b https://x.com/teortaxestex/status/1752125379303875038?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - [DeepSeekMOE](https://x.com/deepseek_ai/status/1745304852211839163?s=46&t=90xQ8sGy63D2OtiaoGJuww) 2.7b model scaled up to 16B using 2T tokens. 145b MOE on the way  
 	- Compared w Mixtral
 		- 64 experts vs 8
@@ -105,6 +103,7 @@
 	- beats all other OSS models at 2.7B active param size
 	- [notes from Omar Sanseviero](https://twitter.com/osanseviero/status/1745402823682970036)
 		- Certain Experts are redundant - they have common knowledge. - So they isolate experts that work as shared experts - they are always activated and reduce redundancy among routed experts - Helps with parameter efficiency
+- Deepseek coder 7B https://x.com/teortaxestex/status/1752177206283964813?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - Phixtral - [MoE of 2 to 4 finetuned models](https://twitter.com/maximelabonne/status/1744867841436700850) - made from dolphin-2_6-phi-2, phi-2-dpo, phi-2-sft-dpo-gpt4_en-ep1, phi-2-coder
 - Bagel-34B - new mixtral/merged finetunes from Jon Durbin
 	- [uses a bunch of synthetic data](https://github.com/jondurbin/bagel)

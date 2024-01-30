@@ -1,5 +1,3 @@
-published as the gpt4 blogpost on latent space
-
 
 - god models
 	- https://twitter.com/swyx/status/1634088912561008640?s=20
