@@ -39,6 +39,7 @@
 ## bard
 
 - gemini pro doing better vs gpt4T - https://twitter.com/lmsysorg/status/1750921228012122526
+	- due to online rag https://twitter.com/Weyaxi/status/1751380303988359241
 
 ## anthropic
 
@@ -92,6 +93,8 @@
 
 ## models
 
+- dont forget the openai turbo and embedding models
+	- voyage-code-2 dropped last week -- a new embedding model specifically trained & optimized for code-related applications. they claim it's 16.93% better than ada on code datasets, but it remains to be seen how voyage-code performs compared to the new ada-v3 based on MRL [https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/](https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/ "https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/") - thanks Gian on discord
 - [DeepSeekMOE](https://x.com/deepseek_ai/status/1745304852211839163?s=46&t=90xQ8sGy63D2OtiaoGJuww) 2.7b model scaled up to 16B using 2T tokens. 145b MOE on the way  
 	- Compared w Mixtral
 		- 64 experts vs 8
@@ -145,6 +148,7 @@
 	- also has an interesting blogpost on [How I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/)
 - Krea.ai launching Portrait, Concept CGI and Cartoon modes
 	- [Cerebral Valley interview](https://cerebralvalley.beehiiv.com/p/krea-building-next-frontier-human-creativity)
+- Arc Search browses the web for you, and then builds you the webpage you wanted.[https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios "https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios")
 
 ## misc reads 
 
