@@ -77,6 +77,7 @@
 		- Prompt engineering (or rather "Flow engineering") intensifies for code generation. Great reading and a reminder of how much alpha there is (pass@5 19% to 44%) in moving from a naive prompt:answer paradigm to a "flow" paradigm, where the answer is constructed iteratively.
 	- https://twitter.com/svpino/status/1747971746047627682
 	- https://twitter.com/swyx/status/1748084170537291923
+	- can be [prototyped in DSPy](https://twitter.com/CShorten30/status/1751656468879708496/photo/1) ([note correction](https://x.com/CShorten30/status/1751785503244849415?s=20))
 - [Lumos - Local LLM chrome extension powered by Ollama](https://news.ycombinator.com/item?id=39132766)
 - [PolyMind](https://github.com/itsme2417/PolyMind) - multimodal, function calling powered LLM webui. It's designed to be used with Mixtral 8x7B + TabbyAPI and offers a wide range of features including:
 	-   Internet searching with DuckDuckGo and web scraping capabilities.
@@ -93,6 +94,7 @@
 - dont forget the openai turbo and embedding models
 	- voyage-code-2 dropped last week -- a new embedding model specifically trained & optimized for code-related applications. they claim it's 16.93% better than ada on code datasets, but it remains to be seen how voyage-code performs compared to the new ada-v3 based on MRL [https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/](https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/ "https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/") - thanks Gian on discord
 - codellama70b https://x.com/teortaxestex/status/1752125379303875038?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- mlx and quantized https://x.com/ivanfioravanti/status/1752133596502986829
 - [DeepSeekMOE](https://x.com/deepseek_ai/status/1745304852211839163?s=46&t=90xQ8sGy63D2OtiaoGJuww) 2.7b model scaled up to 16B using 2T tokens. 145b MOE on the way  
 	- Compared w Mixtral
 		- 64 experts vs 8

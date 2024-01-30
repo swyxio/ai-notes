@@ -336,17 +336,18 @@ We compared 126 keyword modifiers with the same prompt and initial image. These 
 
 ## Communities
 
-- Discords (see https://buttondown.email/ainews for daily email recaps)
+- Discords (see https://buttondown.email/ainews for daily email recaps, updated live)
 	- [Latent Space Discord](https://discord.gg/xJJMRaWCRt) (ours!)
 	- General hacking and learning
 		- [ChatGPT Hackers Discord](https://www.chatgpthackers.dev/)
 		- [Alignment Lab AI Discord](https://discord.com/invite/k36qjUxyJC)
 		- [Nous Research Discord]([https://discord.gg/T3kTZfYzs6](https://t.co/D3omqAxP04))
 		- [DiscoLM Discord](https://discord.com/invite/vGRFMnS6c2)
-		- [Karpathy Discord](https://discord.gg/3zy8kqD9Cp) (inactive): 
+		- [Karpathy Discord](https://discord.gg/3zy8kqD9Cp) (inactive)
 		- [HuggingFace Discord](https://discuss.huggingface.co/t/join-the-hugging-face-discord/11263)
 		- [Skunkworks AI Discord](https://discord.gg/3Sfmpd3Njt) (new)
 		- [Jeff Wang/LLM Perf enthusiasts discord](https://twitter.com/wangzjeff)
+		- [CUDA Mode (Mark Saroufim)](https://discord.com/invite/Wu4pdW8QqM) see [Youtube](https://www.youtube.com/@CUDAMODE) and [GitHub](https://github.com/cuda-mode)
 	- Art
 		- [StableDiffusion Discord](https://discord.com/invite/stablediffusion) 
 		- Deforum Discord https://discord.gg/upmXXsrwZc
