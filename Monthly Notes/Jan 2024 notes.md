@@ -149,6 +149,7 @@
 	- also has an interesting blogpost on [How I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/)
 - Krea.ai launching Portrait, Concept CGI and Cartoon modes
 	- [Cerebral Valley interview](https://cerebralvalley.beehiiv.com/p/krea-building-next-frontier-human-creativity)
+- [OpenHermes datasets finally published](https://twitter.com/Teknium1/status/1752799892215673313)
 - Arc Search browses the web for you, and then builds you the webpage you wanted.[https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios "https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios")
 
 ## misc reads 
