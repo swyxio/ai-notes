@@ -38,6 +38,7 @@
 
 - gemini pro doing better vs gpt4T - https://twitter.com/lmsysorg/status/1750921228012122526
 	- due to online rag https://twitter.com/Weyaxi/status/1751380303988359241
+	- and a different finetune https://x.com/asadovsky/status/1750983142041911412?s=20
 
 ## anthropic
 
