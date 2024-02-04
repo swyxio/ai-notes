@@ -15,3 +15,8 @@
 	- 
 
 ## product launches
+
+
+## memes
+
+- https://twitter.com/JackPosobiec/status/1753416551066181672
