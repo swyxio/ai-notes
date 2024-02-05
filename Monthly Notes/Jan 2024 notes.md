@@ -16,6 +16,10 @@
 - [removed usage policy against "military and warfare" use](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 - announced new [preparedness/safety framework](https://openai.com/safety/preparedness)
 - sama tsmc https://x.com/basedbeffjezos/status/1748903066735354030?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- [preparedness for 2024 elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
+	- usage policies -> [guardian_tool for usage policies](https://dmicz.github.io/machine-learning/chatgpt-election-update/) silently added
+	- CCPA digital credentials - encodes provenance for DallE3 images
+	- access to voting information in chatgpt
 - sama at davos
 	- https://www.axios.com/2024/01/17/sam-altman-davos-ai-future-interview
 	- ([video](https://www.youtube.com/watch?v=QFXp_TU-bO8))
@@ -79,6 +83,14 @@
 	- https://twitter.com/svpino/status/1747971746047627682
 	- https://twitter.com/swyx/status/1748084170537291923
 	- can be [prototyped in DSPy](https://twitter.com/CShorten30/status/1751656468879708496/photo/1) ([note correction](https://x.com/CShorten30/status/1751785503244849415?s=20))
+- SGLang from LMsys
+	-  [code](https://github.com/sgl-project/sglang/) and a [tech report](https://arxiv.org/abs/2312.07104)
+	- "our next-generation interface and runtime for LLM inference! It greatly improves the execution and programming efficiency of complex LLM programs by co-designing the front-end language and back-end runtime."
+	- On the backend, we propose [RadixAttention](https://lmsys.org/blog/2024-01-17-sglang/), a novel technique that automatically handles various patterns of KV cache reuse. 
+		- Instead of discarding the KV cache after finishing a generation request, our approach retains the KV cache for both prompts and generation results in a radix tree. This data structure enables efficient prefix search, insertion, and eviction. We implement a Least Recently Used (LRU) eviction policy, complemented by a cache-aware scheduling policy, to enhance the cache hit rate.
+	- On the frontend, we designed a flexible prompting language for you to control the generation process.
+	- SGLang can perform up to 5x faster than existing systems like Guidance and vLLM on common LLM workloads (agent, reasoning, chat, RAG, few-shot benchmark), while also reducing code complexity.
+
 - [Lumos - Local LLM chrome extension powered by Ollama](https://news.ycombinator.com/item?id=39132766)
 - [PolyMind](https://github.com/itsme2417/PolyMind) - multimodal, function calling powered LLM webui. It's designed to be used with Mixtral 8x7B + TabbyAPI and offers a wide range of features including:
 	-   Internet searching with DuckDuckGo and web scraping capabilities.
@@ -127,7 +139,21 @@
 	- we can finally see what high-resolution diffusion outputs look like _without_ latents! personally I think current latent VAEs don't _really_ achieve the high resolutions they claim (otherwise fine details like text would survive a VAE roundtrip faithfully); it's common to see latent diffusion outputs with smudgy skin or blurry fur. what I'd like to see in the future of latent diffusion is to listen to the Emu paper and use more channels, or a less ambitious upsample.
 	- it's a transformer! so we can try applying to it everything we know about transformers, like sigma reparameterisation or multimodality. some tricks like masked training will require extra support in [NATTEN]([https://github.com/SHI-Labs/NATTEN](https://github.com/SHI-Labs/NATTEN)), but we're very happy with its featureset and performance so far.
 	- but honestly I'm most excited about the efficiency. there's too little work on making pretraining possible at GPU-poor scale. so I was very happy to see HDiT could succeed at small-scale tasks within the resources I had at home (you can get nice oxford flowers samples at 256x256px with half an hour on a 4090). I think with models that are better fits for the problem, perhaps we can get good results with smaller models. and I'd like to see big tech go that direction too!\
-- [Lumiere](https://lumiere-video.github.io/): A Space-Time Diffusion Model for Realistic Video Generation
+- Google [Lumiere](https://lumiere-video.github.io/): A Space-Time Diffusion Model for Realistic Video Generation
+	- yannic kilcher did nice breakdown
+- [DeepMind AlphaGeometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/?utm_source=twitter&utm_medium=social):  an AI system that solves Olympiad geometry problems at a level approaching a human gold-medalist. It was trained solely on 100 million synthetic data examples and marks a breakthrough for AI in mathematical reasoning. 
+	- In a benchmarking test of 30 Olympiad geometry problems, AlphaGeometry solved 25 within the standard Olympiad time limit. For comparison, the previous state-of-the-art system solved 10 of these geometry problems, and the average human gold medalist solved 25.9 problems.
+	- Published in Nature.
+	- 51days from the [$10m IMO Gold prize](https://x.com/8teAPi/status/1747708708732510653?s=20)
+
+## datasets
+
+- [OpenHermes datasets finally published](https://twitter.com/Teknium1/status/1752799892215673313)
+- [WebSight](https://t.co/CwRKlkAXhH) - a multimodal dataset featuring 823,000 pairs of synthetically generated HTML/CSS codes along with screenshots of the corresponding rendered websites, to fine-tune GPT4-V-like models.
+	- used both Mistral-7B-v0.1 from @MistralAI and Deepseek-Coder-33b-Instruct from @deepseek_ai to generate the website ideas and code
+	- discussed in Latent Space Huggingface episode
+- [TinyNarrations](https://sfcompute.com/blog/tiny-narrations): a synthetic audio dataset based on [TinyStories](https://arxiv.org/abs/2305.07759). 
+		- The data consists of 30 thousand hours of story narrations from the original GPT-4 generated instruct dataset, synthesized with [XTTS-v2](https://huggingface.co/coqui/XTTS-v2) over three days on one of our [H100 nodes](https://sfcompute.com/signup). The audio was generated in sentence chunks and concatenated into files of approximately 30 minutes. Due to the causal conditioning of the model, no two words are identically pronounced, so it should be non-trivial for a model to extract semantics from the data. In total, the dataset is about 15TB in size, with a validation subset of about 1%. We also include pre-tokenized data using Meta’s Hubert and Encodec models, as used in architectures like AudioLM.
 
 ## other launches
 
@@ -150,8 +176,8 @@
 	- also has an interesting blogpost on [How I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/)
 - Krea.ai launching Portrait, Concept CGI and Cartoon modes
 	- [Cerebral Valley interview](https://cerebralvalley.beehiiv.com/p/krea-building-next-frontier-human-creativity)
-- [OpenHermes datasets finally published](https://twitter.com/Teknium1/status/1752799892215673313)
 - Arc Search browses the web for you, and then builds you the webpage you wanted.[https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios "https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios")
+- [ComfyDeploy](https://twitter.com/bennykokmusic/status/1745481428094398940?s=12&t=90xQ8sGy63D2OtiaoGJuww) - ComfyUI to API. One-click setup serverless container for each workflow, instantly scalable with @modal_labs
 
 ## misc reads 
 
@@ -194,10 +220,11 @@
 		- Via clever mathematical insight, the authors show that given an LLM, there is a specific reward function for which that LLM is optimal. DPO then trains the LLM directly to make the reward function (that’s now implicitly defined by the LLM) consistent with the human rankings. So you no longer need to deal with a separately represented reward function, and you can train the LLM directly to optimize the same objective as RLHF.
 	- [story of the acquisition of Gradio by Huggingface](https://twitter.com/abidlabs/status/1745533306492588303?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Facebook is aggressively going after LLaMA repos with DMCA's.](https://twitter.com/theshawwn/status/1638925249709240322)
+	- [Will scaling work? - Dwarkesh](https://www.dwarkeshpatel.com/p/will-scaling-work)
+		- skeptic vs believer back and forth debates
 - Learning
 	- [ChatGPT at home series](https://twitter.com/NielsRogge/status/1747631048941252878): fine-tuning Mistral-7B on a GPU rented on Runpod: Involves chat templates, QLoRa, packing, Flash Attention 2, bfloat16
 	- [LoRA from scratch: implementation for LLM finetuning](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
-		- 
 	- [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) using the latest research techniques, including Flash Attention, Q-LoRA, OpenAI dataset formats (messages), ChatML, Packing, all built with Hugging Face TRL
 		-  for consumer-size GPUs (24GB) covering the full end-to-end lifecycle with: 
 			- 💡Define and understand use cases for fine-tuning  
