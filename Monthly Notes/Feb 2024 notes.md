@@ -9,6 +9,7 @@
 
 Frontier models
 - RIP Bard [https://twitter.com/AndrewCurran_/status/1754546359460590002](https://twitter.com/AndrewCurran_/status/1754546359460590002 "https://twitter.com/AndrewCurran_/status/1754546359460590002")
+- https://twitter.com/evowizz/status/1753795479543132248
 
 ## models
 
