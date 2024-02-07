@@ -146,6 +146,8 @@ https://github.com/Vaibhavs10/open-tts-tracker
 			- https://github.com/yacineMTB/scribepod/blob/master/lib/processWebpage.ts#L27
 	- https://github.com/coqui-ai/TTS
 		- previously mozilla TTS
+	- [Metavoice TTS - 1b v0.1](https://twitter.com/reach_vb/status/1754984949654904988)
+		- includes voice cloning
 	- https://github.com/suno-ai/bark
 		- tried Bark... at least on CPU-only it's very very slow
 		- like 20 seconds to generate a few sentences
