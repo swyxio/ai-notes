@@ -27,6 +27,12 @@ Frontier models
 ## product launches
 
 
+## Misc reads
+
+- learning
+	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
+
+
 ## memes
 
 - https://twitter.com/JackPosobiec/status/1753416551066181672
