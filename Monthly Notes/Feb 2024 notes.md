@@ -6,9 +6,14 @@
 - [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
 - lazy openai
 	- https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/
+- public appearances
+	- logan on a big pod today https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/
 
 Frontier models
 - RIP Bard [https://twitter.com/AndrewCurran_/status/1754546359460590002](https://twitter.com/AndrewCurran_/status/1754546359460590002 "https://twitter.com/AndrewCurran_/status/1754546359460590002")
+	- https://blog.google/products/gemini/bard-gemini-advanced-app/
+- Gemini ultra 1.0
+	- [unclear advantage over gemini pro](https://www.youtube.com/watch?v=hLbIUQWxs6Y)
 - https://twitter.com/evowizz/status/1753795479543132248
 
 ## models
@@ -31,6 +36,7 @@ Frontier models
 
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
+	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
 
 
 ## memes

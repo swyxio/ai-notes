@@ -486,7 +486,6 @@ This list will be out of date but will get you started. My live list of people t
 	- Gary Marcus’ “Deep Learning is Hitting a Wall” https://nautil.us/deep-learning-is-hitting-a-wall-238440/ pushed symbolic systems
 
 
-
 ## Legal, Ethics, and Privacy
 
 - NSFW filter https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/
