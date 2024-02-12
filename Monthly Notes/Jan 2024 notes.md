@@ -3,6 +3,10 @@
 - Synthetic data ['is the future'](https://huggingface.co/datasets/andersonbcdefg/synthetic_retrieval_tasks) from Nous Research founder
 - Microsoft trained a text embedding model from Mistral-7B that topped the MTEB  leaderboard [using synthetic data](https://twitter.com/andersonbcdefg/status/1742613575217156547)
 
+finetuning and merging 
+- https://github.com/hiyouga/LLaMA-Factory
+- 
+
 tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 ## openai
 
@@ -141,6 +145,10 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- we can finally see what high-resolution diffusion outputs look like _without_ latents! personally I think current latent VAEs don't _really_ achieve the high resolutions they claim (otherwise fine details like text would survive a VAE roundtrip faithfully); it's common to see latent diffusion outputs with smudgy skin or blurry fur. what I'd like to see in the future of latent diffusion is to listen to the Emu paper and use more channels, or a less ambitious upsample.
 	- it's a transformer! so we can try applying to it everything we know about transformers, like sigma reparameterisation or multimodality. some tricks like masked training will require extra support in [NATTEN]([https://github.com/SHI-Labs/NATTEN](https://github.com/SHI-Labs/NATTEN)), but we're very happy with its featureset and performance so far.
 	- but honestly I'm most excited about the efficiency. there's too little work on making pretraining possible at GPU-poor scale. so I was very happy to see HDiT could succeed at small-scale tasks within the resources I had at home (you can get nice oxford flowers samples at 256x256px with half an hour on a 4090). I think with models that are better fits for the problem, perhaps we can get good results with smaller models. and I'd like to see big tech go that direction too!\
+- [Stable LM 2 1.6B](https://x.com/_akhaliq/status/1748533176547369391?s=20)
+	- The base model is trained on approximately 2 trillion tokens for two epochs, incorporating multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch.
+	- “Bit hard to interpret this graph, but TinyLlama < Phi2 < StableLM < Mistral. If so, it's impressive that StableLM bet Phi-2.”
+	- 
 - Google [Lumiere](https://lumiere-video.github.io/): A Space-Time Diffusion Model for Realistic Video Generation
 	- yannic kilcher did nice breakdown
 - [Long-Context Monarch Mixer models](https://twitter.com/realDanFu/status/1745507410662580388) - new releases of M2-BERT up to 32K context length, as well as embedding versions fine-tuned for long-context retrieval.
@@ -201,6 +209,11 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - Finetuning
 	- [SymNoise](https://arxiv.org/abs/2312.01523): Advancing Language Model Fine-tuning with Symmetric Noise
 		- This method aims to enhance the model's function by more stringently regulating its local curvature, demonstrating superior performance over the current method, NEFTune. When fine-tuning the LLaMA-2-7B model using Alpaca, standard techniques yield a 29.79% score on AlpacaEval. However, our approach, SymNoise, increases this score significantly to 69.04%, using symmetric noisy embeddings. This is a 6.7% improvement over the state-of-the-art method, NEFTune~(64.69%). 
+	- list of resources for functioncalling and tool use
+		- https://x.com/BlancheMinerva/status/1748406358766968872?s=20
+		- gorilla
+		- toolLLM/ToolBench
+		- 
 - Multimodality
 	- [new TTS model tracker from huggingface](https://github.com/Vaibhavs10/open-tts-tracker)
 - Synthetic data
