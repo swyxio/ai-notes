@@ -16,6 +16,10 @@
 
 ## Transcription (Speech to Text or ASR)
 
+- [https://github.com/ochen1/insanely-fast-whisper-cli](https://t.co/sphlCVJ35d)
+- [https://github.com/ycyy/faster-whisper-webui](https://t.co/7weHsstQbv)
+- [https://github.com/themanyone/whisper_dictation](https://t.co/tyqPlfcADa) 
+- [https://github.com/huggingface/distil-whisper](https://t.co/nygkxwiWOt)
 - https://pypi.org/project/SpeechRecognition/
 - https://github.com/openai/whisper
   - the --initial_prompt CLI arg: For my use, I put a bunch of industry jargon and names that are commonly misspelled in there and that fixes 1/3 to 1/2 of the errors.

@@ -1,6 +1,7 @@
 
 - force directed graph clicking questions https://twitter.com/hturan/status/1641780868640374784
 - color picker for mood, drag to save https://twitter.com/_paulshen/status/1642582307784781824
+	- color picker for words https://x.com/MatthewWSiu/status/1748900000833458686?s=20
 
 
 essays

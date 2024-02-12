@@ -218,6 +218,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - source in GPT2 source https://github.com/openai/gpt-2/blob/master/src/encoder.py
 	  - note that BPEs are suboptimal https://www.lesswrong.com/posts/dFbfCLZA4pejckeKc/a-mechanistic-explanation-for-solidgoldmagikarp-like-tokens?commentId=9jNdKscwEWBB4GTCQ
 		  - [//---------------------------------------------------------------------------------------------------------------- is a single GPT-4 token](https://twitter.com/goodside/status/1753192905844592989)
+		  - [GPT-3.5 crashes when it thinks about useRalativeImagePath too much](https://iter.ca/post/gpt-crash/)
 		  - causes math and string character issues https://news.ycombinator.com/item?id=35363769
 		  - and cause [issues with evals](https://x.com/main_horse/status/1744560083957411845?s=20)
 		  - [glitch tokens](https://news.ycombinator.com/item?id=39086318) happen when tokenizer has different dataset than LLM

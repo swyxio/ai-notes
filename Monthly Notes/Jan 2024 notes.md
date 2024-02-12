@@ -5,6 +5,8 @@
 
 ways we are juicing models
 - finetuning and merging  https://github.com/hiyouga/LLaMA-Factory
+	- [Deepmind WARM - Weight Averaged Reward Models](https://x.com/ramealexandre/status/1749719476310843794?s=20)
+	- [multiple DPO RMs merged](https://x.com/ramealexandre/status/1749719489275392372?s=20)
 - superchinchilla
 	- https://arxiv.org/pdf/2401.00448.pdf The tl;dr is you usually can save [20% flops lifetime cost by training a 30% smaller model for 2-3x as long](https://x.com/andrew_n_carr/status/1742017610500444478?s=20).
 	- https://news.ycombinator.com/item?id=37383413
@@ -19,11 +21,13 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- new docs for [Actions for GPTS](https://platform.openai.com/docs/actions/introduction)
 	- [featured GPTS](https://x.com/chatgptapp/status/1750316948444086697)
 - launched and rolled back [GPT personalization and Temporary Chat](https://x.com/AndrewCurran_/status/1744923452572852608?s=20)
+- you can now [@mention different GPTs in a single convo](https://twitter.com/officiallogank/status/1752392820181107115?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [GPT builder is itself a GPT](https://help.openai.com/en/articles/8770868-gpt-builder)
 - [API key based usage tracking](https://twitter.com/OfficialLoganK/status/1743401083920097432) - just tracking, no limits yet
 - [removed usage policy against "military and warfare" use](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 - announced new [preparedness/safety framework](https://openai.com/safety/preparedness)
 - sama tsmc https://x.com/basedbeffjezos/status/1748903066735354030?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- [first university partnership with Arizona State University](https://www.cnbc.com/2024/01/18/openai-announces-first-partnership-with-a-university.html) - ASU plans to build a personalized AI tutor for students, allow students to create AI avatars for study help and broaden the university’s prompt engineering course.
 - [preparedness for 2024 elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
 	- usage policies -> [guardian_tool for usage policies](https://dmicz.github.io/machine-learning/chatgpt-election-update/) silently added
 	- CCPA digital credentials - encodes provenance for DallE3 images
@@ -57,6 +61,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 ## anthropic
 
 - [sleeper agents](https://fxtwitter.com/AnthropicAI/status/1745854907968880970)
+- https://transformer-circuits.pub/2024/jan-update/index.html
 
 ## fundraising
 
@@ -70,12 +75,13 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - [Luma Labs - $43m Series B from a16z](https://lumalabs.ai/series-b)
 	- [Luma Labs Genie 1.0](https://twitter.com/LumaLabsAI/status/1744778363330535860) -  a text-to-3d model capable of creating any 3d object you can dream of in under 10 seconds with materials, quad mesh retopology, variable polycount, and in all standard formats
 - Elon denying x.ai 6b at 20b valuation https://www.reuters.com/technology/elon-musks-ai-start-up-seeks-raise-up-6-bln-ft-2024-01-26/
+- [Cohere in talks to raise $1b](https://www.ft.com/content/631e91f6-4b24-4d4f-80cc-503be97a79c8)
 - Multion "[came out of stealth](https://twitter.com/divgarg9/status/1744771026259718402?s=12&t=90xQ8sGy63D2OtiaoGJuww)" with funding announcements but no specific numbers
 - [Tab announced $1.9m seed](https://twitter.com/avischiffmann/status/1745048556891783227?s=12&t=90xQ8sGy63D2OtiaoGJuww) - your super intelligent sidekick. [Forbes](https://www.fastcompany.com/91007630/avi-schiffmanns-tab-ai-necklace-has-raised-1-9-million-to-replace-god)
 - [Leap API - $1.4m seed](https://twitter.com/leap_api/status/1744786661094072700?s=12&t=90xQ8sGy63D2OtiaoGJuww) - no-code AI workflow builder (compare with respell etc)
 
 
-## open source tooling
+## open source tooling & projects
 
 
 - langchain
@@ -89,6 +95,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 		- 🔎Retrieval: adding advanced yet production ready methods for RAG, including text-splitting, retrieval, and an indexing pipeline
 		- 🤖Tool Use + Agents: collection of agents (decide what actions to take), collection of tools, easy way to define tools
 	- [langgraph graph agents](https://github.com/langchain-ai/langgraph?ref=blog.langchain.dev)
+		- [compare with autogen](https://www.youtube.com/watch?v=v9fkbTxPzs0&t=2s)
 - [Crew AI](https://github.com/joaomdmoura/crewAI) - trended all month due to [good demoing](https://twitter.com/joaomdmoura/status/1744031203995316712?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 	- Builds atop langchain, Harrison quite supportive
@@ -101,6 +108,11 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 		-   Get the 95% percentile cosine distance, set that as the threshold.
 		-   Create a new chunk if the cosine distance of a sentence compared to prev. exceeds that threshold.
 	- JSONalyze https://docs.llamaindex.ai/en/latest/examples/query_engine/JSONalyze_query_engine.html#
+- transformers 
+	- [ngram speculative decoding now](https://x.com/abacaj/status/1749612925973680426?s=20) supported. 3x speedup with no extra resources needed
+- [Lepton Search demo](https://twitter.com/jiayq/status/1750935085564764224?s=12&t=90xQ8sGy63D2OtiaoGJuww) aka "open source perplexity ai"
+	- Over the weekend, we built a demo for conversational search with <500 lines of python, and it's live at [https://search.lepton.run](https://t.co/l7q4GGCQOH).
+	- The backend is a really fast Mixtral-8x7b model served on @LeptonAI with throughput as fast as around 200 tokens / second (if you are lucky to not hit "LLM commute traffic"). Search engine is currently Bing search API. Lepton KV as a serverless storage. A few learnings on the road: (1) search quality is really, really important. A good snippet lead to good summarization. (2) a bit of hallucination actually helps to fill in "common knowledge" not covered in the snippets. (3) open source models work really well for summarization.
 - open interpreter 0.2 - vision models, and an api
 	- https://twitter.com/hellokillian/status/1743418943120040109
 	- https://api.openinterpreter.com/ The Open Interpreter Project has developed (and here freely hosts) an API which is capable of locating visual controls with single-pixel precision.
@@ -118,7 +130,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 		- Instead of discarding the KV cache after finishing a generation request, our approach retains the KV cache for both prompts and generation results in a radix tree. This data structure enables efficient prefix search, insertion, and eviction. We implement a Least Recently Used (LRU) eviction policy, complemented by a cache-aware scheduling policy, to enhance the cache hit rate.
 	- On the frontend, we designed a flexible prompting language for you to control the generation process.
 	- SGLang can perform up to 5x faster than existing systems like Guidance and vLLM on common LLM workloads (agent, reasoning, chat, RAG, few-shot benchmark), while also reducing code complexity.
-- [RAGatouille](https://github.com/bclavie/RAGatouille) - RAGatouille focuses on making ColBERT simple to use ([why colbert](https://twitter.com/lateinteraction/status/1743040090400858288)?)
+- [RAGatouille](https://github.com/bclavie/RAGatouille) - RAGatouille focuses on making ColBERT simple to use ([why colbert](https://twitter.com/lateinteraction/status/1743040090400858288)? [speed](https://twitter.com/virattt/status/1749166976033861832?s=12&t=90xQ8sGy63D2OtiaoGJuww). another take [from mark tenenholtz](https://twitter.com/marktenenholtz/status/1751406680535883869)? try [visualization](https://twitter.com/jobergum/status/1751640310642360694))
 	- The Information Retrieval research field has recently been booming, and models like ColBERT have been shown to [generalise better](https://arxiv.org/abs/2203.10053) [to new or complex domains](https://aclanthology.org/2022.findings-emnlp.78/) [than dense embeddings](https://arxiv.org/abs/2205.02870), are [ridiculously data-efficient](https://arxiv.org/abs/2309.06131) and are even [better suited to efficiently being trained](https://arxiv.org/abs/2312.09508) [on non-English languages with low amount of data](https://arxiv.org/abs/2312.16144)! Unfortunately, most of those new approaches aren't very well known, and are much harder to use than dense embeddings.
 	- [llamapack plugin here](https://twitter.com/jerryjliu0/status/1743077679258320925?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Lumos - Local LLM chrome extension powered by Ollama](https://news.ycombinator.com/item?id=39132766)
@@ -133,13 +145,25 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - [Datatrove - huggingface’s commoncrawl data pipeline tool](https://github.com/huggingface/datatrove)
 - [Huggingface Candle](https://x.com/reach_vb/status/1743698310181917096?s=20) -  Rust based xplatform ML framework (compare with llama.cpp, mlc chat, ollama etc)
 	- https://nitro.jan.ai/ also launched but to [negative reviews](https://news.ycombinator.com/item?id=38887531)
+- [Portkey](https://news.ycombinator.com/item?id=38911677) - open source AI gateway
+	- Blazing fast (9.9x faster) with a tiny footprint (~45kb installed)
+	- Load balance across multiple models, providers, and keys
+	- Fallbacks make sure your app stays resilient
+	- Automatic Retries with exponential fallbacks come by default
+	- Plug-in middleware as needed
+	- Battle tested over 100B tokens and millions of requests
 
 
 ## models
 
 - dont forget the openai turbo and embedding models
 	- voyage-code-2 dropped last week -- a new embedding model specifically trained & optimized for code-related applications. they claim it's 16.93% better than ada on code datasets, but it remains to be seen how voyage-code performs compared to the new ada-v3 based on MRL [https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/](https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/ "https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/") - thanks Gian on discord
-- codellama70b https://x.com/teortaxestex/status/1752125379303875038?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- codellama70b ([Tweet](https://x.com/teortaxestex/status/1752125379303875038?s=46&t=90xQ8sGy63D2OtiaoGJuww), [HN](https://news.ycombinator.com/item?id=39178886))
+	- Trained on 1T extra Tokens, with a [few B more tokens for variants](https://x.com/_philschmid/status/1752024648697434422?s=20)
+	- 🐍 Fine-tuned Python version
+	- 🛠 Fine-tuned Instruct version
+	- ✅ Commercial use allowed
+	- 🪟 16384 context window
 	- mlx and quantized https://x.com/ivanfioravanti/status/1752133596502986829
 - [DeepSeekMOE](https://x.com/deepseek_ai/status/1745304852211839163?s=46&t=90xQ8sGy63D2OtiaoGJuww) ([paper](https://arxiv.org/pdf/2401.06066.pdf)) 2.7b model scaled up to 16B using 2T tokens. 145b MOE on the way  
 	- Compared w Mixtral
@@ -152,6 +176,10 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- [notes from Omar Sanseviero](https://twitter.com/osanseviero/status/1745402823682970036)
 		- Certain Experts are redundant - they have common knowledge. - So they isolate experts that work as shared experts - they are always activated and reduce redundancy among routed experts - Helps with parameter efficiency
 - [MoE-Mamba](https://arxiv.org/abs/2401.04081) and [BlackMamba](https://twitter.com/_akhaliq/status/1754723073889120555) - MoE experiments with Mamba models
+	- there was kind of a quick rush of Mamba MOE papers hot after Mamba came out - [memed](https://twitter.com/osanseviero/status/1750830189028819175?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+- RWKV Eagle-7B (on RKWV v5)
+	- [cleanly licensed, multilingual, green](https://twitter.com/RWKV_AI/status/1751797147492888651)
+	- [yam peleg writeup](https://twitter.com/Yampeleg/status/1751850391480721693)
 - Deepseek coder 7B https://x.com/teortaxestex/status/1752177206283964813?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - [WizardCoder 33B](https://twitter.com/WizardLM_AI/status/1742906065359167730) - 79.9% on HumanEval, 78.9% on MBPP, bit behind GPT4 level on most things but still SOTA Code LLM
 	- it is a [dead heat between DeepSeekCoder and WizardCoder](https://evalplus.github.io/leaderboard.html) on the benchmarks, after GPT4.
@@ -179,6 +207,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - [Stable LM 2 1.6B](https://x.com/_akhaliq/status/1748533176547369391?s=20)
 	- The base model is trained on approximately 2 trillion tokens for two epochs, incorporating multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch.
 	- “Bit hard to interpret this graph, but TinyLlama < Phi2 < StableLM < Mistral. If so, it's impressive that StableLM bet Phi-2.”
+	- [in venturebeat](https://venturebeat.com/ai/stability-ai-unveils-smaller-more-efficient-1-6b-language-model-as-part-of-ongoing-innovation/)
 - Google [Lumiere](https://lumiere-video.github.io/): A Space-Time Diffusion Model for Realistic Video Generation
 	- yannic kilcher did nice breakdown
 - [Long-Context Monarch Mixer models](https://twitter.com/realDanFu/status/1745507410662580388) - new releases of M2-BERT up to 32K context length, as well as embedding versions fine-tuned for long-context retrieval.
@@ -194,6 +223,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- On standard text-based benchmarks, it matches or exceeds the performance of models in the same compute class despite having to devote some of its capacity to image modeling.
 	- merely announced, not released. [blog post criticized](https://twitter.com/teortaxestex/status/1750353889499459746?t=90xQ8sGy63D2OtiaoGJuww).
 - LiteLlama - open source repro of Llama2 - but 460m params trained with 1T tokens - [not as good as larger llama variants.](https://x.com/op7418/status/1744019832654397890?s=20)
+- [Moondream1](https://x.com/vikhyatk/status/1749625143155167702?s=20) - 1.6b param vision language model - [some good demos](https://x.com/vikhyatk/status/1749629523715567654?s=20) - based on LLaVA dataset
 
 ## datasets & benchmarks
 
@@ -216,6 +246,11 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- we use the annotator's logprobs to extract weighted win-rates
 	- we changed the annotators' prompt
 	- we use GPT-4 turbo as annotator
+- GPT4V microbenchmark - https://www.gptcheckup.com/
+	- We test tasks we know GPT-4 with Vision performs well at (i.e. classification) to measure regressions, as well as tasks GPT-4 with Vision struggles with (i.e. odometer OCR) to measure performance improvements and changes.
+	- [known mode collapse issue when OCRing gauges](https://x.com/teortaxesTex/status/1749846266442367426?s=20)
+- [Reranking speed/quality benchmark](https://twitter.com/virattt/status/1752098121826361453?s=12&t=90xQ8sGy63D2OtiaoGJuww) - Cohere does very well vs ColBERT, GPT4, mistral-medium. [notebook](https://gist.github.com/virattt/bf13f748c6b4763b6c6215c8659c02f6)
+- [Nous Research - new bittensor decentralized leaderboard](https://twitter.com/nousresearch/status/1752051008736550917?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 
 ## other launches
 
@@ -227,6 +262,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- 3 new embeddings models using Monarch Mixer architecture, enabling long context embeddings up to 32k!
 	- <4x lower pricing than OpenAI/Cohere
 	- integrations with MongoDB Atlas, Langchain, Llamaindex
+	- we discussed this in [the Together AI episode](https://www.latent.space/p/together)
 -  [artificialanalysis.ai](https://news.ycombinator.com/item?id=39014985) - Benchmarks and comparison of LLM AI models and API hosting providers - [swyx tweet](https://twitter.com/swyx/status/1747741795281412133)
 	- Martian also launched [leaderboard](https://leaderboard.withmartian.com) but not as good 
 - Nightshade/Glaze 1.0 ([tweet](https://twitter.com/alexjc/status/1748754290435395739), [podcast](https://twimlai.com/podcast/twimlai/nightshade-data-poisoning-to-fight-generative-ai/))
@@ -245,6 +281,9 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - Some robotics launches - [Figure-01](https://twitter.com/adcock_brett/status/1743987597301399852?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [1x studio]([https://www.youtube.com/watch?v=iHXuU3nTXfQ](https://www.youtube.com/watch?v=iHXuU3nTXfQ "https://www.youtube.com/watch?v=iHXuU3nTXfQ"))
 - https://www.fixkey.ai/ - Native Apple Silicon app. Runs in the background. 0% CPU usage, Improves writing with a text replacement shortcut. openai based or [ollama](https://twitter.com/Karmedge/status/1745011856089960941)
 - turbopuffer effectively soft launhced with [sam whitmore](https://twitter.com/sjwhitmore/status/1744579362782134661?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [aman sanger/@sualehasif996](https://twitter.com/amanrsanger/status/1730763587944398874)
+- [Ayumi LLM RolePlay leaderboard](https://ayumi.m8geil.de/ayumi_bench_v3_results.html) - [explanation](https://rentry.co/ayumi_erp_rating)
+	- [another from rentry.co with commentary](https://rentry.co/ALLMRR)
+- [meals.chat](https://twitter.com/jamespotterdev/status/1752213280192643512?s=12&t=90xQ8sGy63D2OtiaoGJuww) - telegram bot for meal tracking
 
 
 ## misc reads 
@@ -252,6 +291,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - Model Merging
 	- [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models) - a good overview from Maxime Labonne on using mergekit with 4 algorithms - SLERP, TIES, DARE, Passthrough. a simple 7B SLERP merge did well on the Open LLM Leaderboard and his own [LLM AutoEval](https://github.com/mlabonne/llm-autoeval) library
 	- [HF collection of Merge paper reads from Osanseverio](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
+	- [Deepmind WARM - Weight Averaged Reward Models](https://x.com/ramealexandre/status/1749719476310843794?s=20)
 	- https://docs.google.com/document/d/1wlG6McZzwCEFMcJsEV-hIKve2lrNFdrXTabgcvGY6z4/edit
 - DPO
 	- [DPO vs IPO vs KTO alternatives](https://huggingface.co/blog/pref-tuning)
@@ -293,6 +333,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 		- learnings of hardware based nonlinearities in model hyperparams that cause huge efficiency jumps when optimized
 		- Getting the most out of your hardware when training transformers requires thinking about your model as a sequence of GPU kernel calls. This mindset, common in HPC, is rare in ML and leads to inefficiencies in LLM training. This is especially important because LLMs tend to copy architectures from previous models. GPT-3 2.7B's architecture was used by GPT-Neo, OPT, Pythia, RedPajama-INCITE, and Cerebras-GPT, but a small tweak to its shape provides a 20% throughput improvement!
 		- from eleuther team behind pythia
+	- "[3 points in the AI Accelerator design space: GPU, TPU-like and spatial dataflow](https://twitter.com/nadeesha99/status/1744445585749659877?s=12&t=90xQ8sGy63D2OtiaoGJuww)" on GPU vs TPU vs Cerebras
 - NIST paper: [Adversarial Machine Learning - A Taxonomy and Terminology of Attacks and Mitigations](https://twitter.com/rez0__/status/1743266573668757568)
 	- link to [paper](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.pdf)  
 - Discussions:
@@ -307,8 +348,14 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 		- skeptic vs believer back and forth debates
 	- [Mixtral "paper" was released but contained no training details](https://twitter.com/dchaplot/status/1744547220983005478?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Why Linear Transformers will work vs quadratic](https://x.com/jacobmbuckman/status/1744433676912345474?s=20) - basically [drop the exponential from the softmax layer](https://manifestai.com/blogposts/faster-after-all/#linear-transformers) 
+	- [Nice thinking from a16z Yoko Li on LLM vs Diffusion models in creative AI](https://x.com/stuffyokodraws/status/1749834494948122977?s=20)
+	- On the NYT lawsuit - [**Output similarity is a distraction. Training is the real problem.**](https://www.aisnakeoil.com/p/generative-ais-end-run-around-copyright?selection=a8f5ff68-e456-4cd0-b591-f58c03c14a7d#)
+	- [Are we at peak vector database?](https://news.ycombinator.com/item?id=39119198) see comment "This is a ridiculous rant."
+	- [Apple tests calling GPT 3.5 directly from device](https://x.com/ananayarora/status/1751130254046007433?s=20) and suggesting running own LLM
+	- [How to do RAG with Citations](https://x.com/simonw/status/1751841193506550112?s=20)
 - Learning
 	- [Transformers form Scratch](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html) - Karpathy's nanoGPT worked thru a notebook
+	- [Getting Started With CUDA for Python Programmers](https://www.youtube.com/watch?v=nOxKexn3iBo&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=MjM4NTE&feature=emb_title)
 	- [Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math](https://www.youtube.com/watch?v=8Q_tqwpTpVU) - [hn recommended](https://news.ycombinator.com/item?id=38935601) 
 		- [Sasha Rush's lecture as well](https://www.youtube.com/watch?v=dKJEpOtVgXc)
 	- [ChatGPT at home series](https://twitter.com/NielsRogge/status/1747631048941252878): fine-tuning Mistral-7B on a GPU rented on Runpod: Involves chat templates, QLoRa, packing, Flash Attention 2, bfloat16
@@ -325,6 +372,8 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 			- 🚀 Deploy for production with TGI
 		- see also [MistralTrix + DPO tutorial](https://news.ycombinator.com/item?id=38882726)
 	- [Nathan Lambert with Tri Dao and Michael Poli on future of LLM architectures](https://www.youtube.com/watch?v=OFFHiJzPpCQ)
+	- [The VAE used for Stable Diffusion 1.x/2.x and other models (KL-F8) has a critical flaw, probably due to bad training, that is holding back all models that use it (almost certainly including DALL-E 3)](https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/)
+	- [Self-Driving vs AGI (deleted post)](https://huggingface.co/posts/clem/970025506569107)
 
 
 ## memes
