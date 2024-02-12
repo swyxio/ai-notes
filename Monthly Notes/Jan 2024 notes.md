@@ -152,6 +152,9 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- Published in Nature.
 	- 51days from the [$10m IMO Gold prize](https://x.com/8teAPi/status/1747708708732510653?s=20)
 - [Adept Fuyu-Heavy](https://www.adept.ai/blog/adept-fuyu-heavy) - "Fuyu-Heavy is the world’s third-most-capable multimodal model, behind only GPT4-V and Gemini Ultra, which are 10-20 times bigger."
+	- It excels at multimodal reasoning. To us the killer feature is UI understanding, but it also performs well on more traditional multimodal benchmarks. In particular, Fuyu-Heavy scores higher on the MMMU benchmark than even Gemini Pro.
+	- On standard text-based benchmarks, it matches or exceeds the performance of models in the same compute class despite having to devote some of its capacity to image modeling.
+	- merely announced, not released. [blog post criticized](https://twitter.com/teortaxestex/status/1750353889499459746?t=90xQ8sGy63D2OtiaoGJuww).
 
 ## datasets
 
@@ -201,7 +204,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - Multimodality
 	- [new TTS model tracker from huggingface](https://github.com/Vaibhavs10/open-tts-tracker)
 - Synthetic data
-	- [Self-Rewarding LLMs](https://x.com/jaseweston/status/1748158323369611577?s=46&t=90xQ8sGy63D2OtiaoGJuww) ([HF](https://huggingface.co/papers/2401.10020))
+	- [Self-Rewarding LLMs](https://x.com/jaseweston/status/1748158323369611577?s=46&t=90xQ8sGy63D2OtiaoGJuww) ([HF](https://huggingface.co/papers/2401.10020), [twitter thread](https://twitter.com/jaseweston/status/1748158323369611577))
 		- In this work, we study Self-Rewarding Language Models, where the language model itself is used via LLM-as-a-Judge prompting to provide its own rewards during training. We show that during Iterative DPO training that not only does instruction following ability improve, but also the ability to provide high-quality rewards to itself. Fine-tuning Llama 2 70B on three iterations of our approach yields a model that outperforms many existing systems on the AlpacaEval 2.0 leaderboard, including Claude 2, Gemini Pro, and GPT-4 0613.
 		- LM itself provides its own rewards on own generations via LLM-as-a-Judge during Iterative DPO
 		-   Reward modeling ability improves during training rather than staying fixed
@@ -249,6 +252,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 			- 🏋️‍♀️ Fine-tune LLM using TRL and the SFTTrainer  
 			- 🥇 Test and evaluate the LLM  
 			- 🚀 Deploy for production with TGI
+	- [Nathan Lambert with Tri Dao and Michael Poli on future of LLM architectures](https://www.youtube.com/watch?v=OFFHiJzPpCQ)
 
 
 ## memes
