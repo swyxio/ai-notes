@@ -3,7 +3,7 @@
 - Synthetic data ['is the future'](https://huggingface.co/datasets/andersonbcdefg/synthetic_retrieval_tasks) from Nous Research founder
 - Microsoft trained a text embedding model from Mistral-7B that topped the MTEB  leaderboard [using synthetic data](https://twitter.com/andersonbcdefg/status/1742613575217156547)
 
-
+tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 ## openai
 
 - gpt store launch
@@ -109,7 +109,7 @@
 	- voyage-code-2 dropped last week -- a new embedding model specifically trained & optimized for code-related applications. they claim it's 16.93% better than ada on code datasets, but it remains to be seen how voyage-code performs compared to the new ada-v3 based on MRL [https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/](https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/ "https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/") - thanks Gian on discord
 - codellama70b https://x.com/teortaxestex/status/1752125379303875038?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- mlx and quantized https://x.com/ivanfioravanti/status/1752133596502986829
-- [DeepSeekMOE](https://x.com/deepseek_ai/status/1745304852211839163?s=46&t=90xQ8sGy63D2OtiaoGJuww) 2.7b model scaled up to 16B using 2T tokens. 145b MOE on the way  
+- [DeepSeekMOE](https://x.com/deepseek_ai/status/1745304852211839163?s=46&t=90xQ8sGy63D2OtiaoGJuww) ([paper](https://arxiv.org/pdf/2401.06066.pdf)) 2.7b model scaled up to 16B using 2T tokens. 145b MOE on the way  
 	- Compared w Mixtral
 		- 64 experts vs 8
 		- 8 activated experts vs 2 
@@ -142,10 +142,15 @@
 	- but honestly I'm most excited about the efficiency. there's too little work on making pretraining possible at GPU-poor scale. so I was very happy to see HDiT could succeed at small-scale tasks within the resources I had at home (you can get nice oxford flowers samples at 256x256px with half an hour on a 4090). I think with models that are better fits for the problem, perhaps we can get good results with smaller models. and I'd like to see big tech go that direction too!\
 - Google [Lumiere](https://lumiere-video.github.io/): A Space-Time Diffusion Model for Realistic Video Generation
 	- yannic kilcher did nice breakdown
+- [Long-Context Monarch Mixer models](https://twitter.com/realDanFu/status/1745507410662580388) - new releases of M2-BERT up to 32K context length, as well as embedding versions fine-tuned for long-context retrieval.
+	- also some good explanation of why MultipleNegativesRankingLoss is very dependent on the batch size. If your batch is too small, you don’t get enough negative samples, and you get a bad embedding geometry.
+	- This poses a problem for training long-context retrieval models – when you’re fine-tuning on long documents, you are limited in batch size due to GPU memory limits (more tokens -> more memory).
+	- For context, we typically want batches of size 32 or greater with the contrastive loss – but we’re limited to size 1 at sequence length 32K.
 - [DeepMind AlphaGeometry](https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/?utm_source=twitter&utm_medium=social):  an AI system that solves Olympiad geometry problems at a level approaching a human gold-medalist. It was trained solely on 100 million synthetic data examples and marks a breakthrough for AI in mathematical reasoning. 
 	- In a benchmarking test of 30 Olympiad geometry problems, AlphaGeometry solved 25 within the standard Olympiad time limit. For comparison, the previous state-of-the-art system solved 10 of these geometry problems, and the average human gold medalist solved 25.9 problems.
 	- Published in Nature.
 	- 51days from the [$10m IMO Gold prize](https://x.com/8teAPi/status/1747708708732510653?s=20)
+- [Adept Fuyu-Heavy](https://www.adept.ai/blog/adept-fuyu-heavy) - "Fuyu-Heavy is the world’s third-most-capable multimodal model, behind only GPT4-V and Gemini Ultra, which are 10-20 times bigger."
 
 ## datasets
 
@@ -183,7 +188,8 @@
 ## misc reads 
 
 - Model Merging
-	- https://huggingface.co/blog/mlabonne/merge-models
+	- [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models) - a good overview from Maxime Labonne on using mergekit with 4 algorithms - SLERP, TIES, DARE, Passthrough. a simple 7B SLERP merge did well on the Open LLM Leaderboard and his own [LLM AutoEval](https://github.com/mlabonne/llm-autoeval) library
+	- [HF collection of Merge paper reads from Osanseverio](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
 	- https://docs.google.com/document/d/1wlG6McZzwCEFMcJsEV-hIKve2lrNFdrXTabgcvGY6z4/edit
 - DPO
 	- [DPO vs IPO vs KTO alternatives](https://huggingface.co/blog/pref-tuning)
