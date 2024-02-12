@@ -29,6 +29,10 @@ Frontier models
 	- https://ttsdemo.themetavoice.xyz/
 
 
+## open source tooling
+
+- [Ollama openai compatibility APIs](https://news.ycombinator.com/item?id=39307330)
+
 ## product launches
 
 

@@ -3,15 +3,19 @@
 - Synthetic data ['is the future'](https://huggingface.co/datasets/andersonbcdefg/synthetic_retrieval_tasks) from Nous Research founder
 - Microsoft trained a text embedding model from Mistral-7B that topped the MTEB  leaderboard [using synthetic data](https://twitter.com/andersonbcdefg/status/1742613575217156547)
 
-finetuning and merging 
-- https://github.com/hiyouga/LLaMA-Factory
-- 
+ways we are juicing models
+- finetuning and merging  https://github.com/hiyouga/LLaMA-Factory
+- superchinchilla
+	- https://arxiv.org/pdf/2401.00448.pdf The tl;dr is you usually can save [20% flops lifetime cost by training a 30% smaller model for 2-3x as long](https://x.com/andrew_n_carr/status/1742017610500444478?s=20).
+	- https://news.ycombinator.com/item?id=37383413
 
 tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
+
+
 ## openai
 
 - gpt store launch
-	- [pending](https://news.ycombinator.com/item?id=38870249) , [launched on Jan 10](https://twitter.com/sama/status/1745135061731803571)
+	- [pending](https://news.ycombinator.com/item?id=38870249) , [launched on Jan 10](https://twitter.com/sama/status/1745135061731803571), [see replies for what people are working on](https://twitter.com/officiallogank/status/1744396647432323079?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- new docs for [Actions for GPTS](https://platform.openai.com/docs/actions/introduction)
 	- [featured GPTS](https://x.com/chatgptapp/status/1750316948444086697)
 - launched and rolled back [GPT personalization and Temporary Chat](https://x.com/AndrewCurran_/status/1744923452572852608?s=20)
@@ -40,13 +44,15 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- text-embedding-3-large - 3072 dims, on MTEB 3.6 better then ada-002. bit more expensive than ada-002
 	- developers can now assign permissions to API keys from the [API keys page](https://platform.openai.com/api-keys). For example, a key could be assigned read-only access to power an internal tracking dashboard, or restricted to only access certain endpoints.
 	-  the usage dashboard and usage export function now expose metrics on an API key level after [turning on tracking](https://platform.openai.com/api-keys). This makes it simple to view usage on a per feature, team, product, or project level, simply by having separate API keys for each.
+- [fun content policy jailbreak](https://twitter.com/jeremyntrimble/status/1745087312344604941?s=12&t=90xQ8sGy63D2OtiaoGJuww) - ChatGPT won’t identify people in images even if they’re famous, but if you put them in a picture with a cartoon it will identify them. Cartoon has to be on the left or it won’t work.
 
 
-## bard
+## google/gemini
 
 - gemini pro doing better vs gpt4T - https://twitter.com/lmsysorg/status/1750921228012122526
 	- due to online rag https://twitter.com/Weyaxi/status/1751380303988359241
 	- and a different finetune https://x.com/asadovsky/status/1750983142041911412?s=20
+- but does [VERY poorly on needle in haystack test](https://twitter.com/aparnadhinak/status/1744771295940669689?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 
 ## anthropic
 
@@ -61,14 +67,32 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- https://blog.perplexity.ai/blog/perplexity-raises-series-b-funding-round
 	- https://www.wsj.com/tech/ai/jeff-bezos-bets-on-a-google-challenger-using-ai-to-try-to-upend-internet-search-0859bda6?mod=hp_lead_pos4
 - [Quora raised $75m from a16z](https://x.com/adamdangelo/status/1744805602436825334?s=20): "his funding will be used to accelerate the growth of Poe, and we expect the majority of it to be used to pay bot creators through our recently-launched creator monetization program."
+- [Luma Labs - $43m Series B from a16z](https://lumalabs.ai/series-b)
+	- [Luma Labs Genie 1.0](https://twitter.com/LumaLabsAI/status/1744778363330535860) -  a text-to-3d model capable of creating any 3d object you can dream of in under 10 seconds with materials, quad mesh retopology, variable polycount, and in all standard formats
 - Elon denying x.ai 6b at 20b valuation https://www.reuters.com/technology/elon-musks-ai-start-up-seeks-raise-up-6-bln-ft-2024-01-26/
+- Multion "[came out of stealth](https://twitter.com/divgarg9/status/1744771026259718402?s=12&t=90xQ8sGy63D2OtiaoGJuww)" with funding announcements but no specific numbers
+- [Tab announced $1.9m seed](https://twitter.com/avischiffmann/status/1745048556891783227?s=12&t=90xQ8sGy63D2OtiaoGJuww) - your super intelligent sidekick. [Forbes](https://www.fastcompany.com/91007630/avi-schiffmanns-tab-ai-necklace-has-raised-1-9-million-to-replace-god)
+- [Leap API - $1.4m seed](https://twitter.com/leap_api/status/1744786661094072700?s=12&t=90xQ8sGy63D2OtiaoGJuww) - no-code AI workflow builder (compare with respell etc)
 
 
 ## open source tooling
 
+
 - langchain
-	- [v0.1](https://twitter.com/LangChainAI/status/1744411643482951829) launched
-	- graph agents
+	- [v0.1](https://twitter.com/LangChainAI/status/1744411643482951829) launched:
+		- separating out langchain-core and separating out partner packages (either into langchain-community or standalone partner packages) from langchain. 
+		- 👀Observability: Building complex LLM applications is hard. In order to best debug, you need to know the exact steps that were taken and the input/output at each step. Through a tight integration with LangSmith, LangChain has best-in-class observability
+		- ↔️Integrations: With nearly 700 integrations, no matter what tech stack you want to use, LangChain supports it
+		- 🔗Composability: With LangChain Expression Language, it's easy (and fun!) to create arbitrary chains, bringing you all the benefits of a data orchestration framework
+		- 🎏Streaming: We've invested a lot in making sure that streaming is supported in a first class way for all chains created with LangChain Expression Language - including streaming of intermediate steps
+		- 🧱Output parsing: Getting the LLM to return information in a certain format is key for enabling it to take actions.
+		- 🔎Retrieval: adding advanced yet production ready methods for RAG, including text-splitting, retrieval, and an indexing pipeline
+		- 🤖Tool Use + Agents: collection of agents (decide what actions to take), collection of tools, easy way to define tools
+	- [langgraph graph agents](https://github.com/langchain-ai/langgraph?ref=blog.langchain.dev)
+- [Crew AI](https://github.com/joaomdmoura/crewAI) - trended all month due to [good demoing](https://twitter.com/joaomdmoura/status/1744031203995316712?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+	- Builds atop langchain, Harrison quite supportive
+- [Griptape](https://github.com/griptape-ai/griptape) - a langchain alternative
 - Llamaindex
 	- [Semantic Chunking Llamapack](https://twitter.com/jerryjliu0/status/1745486856291266821?s=12&t=90xQ8sGy63D2OtiaoGJuww) (idea from Greg Kamradt) How it works:
 		-   Split text into sentences.
@@ -94,8 +118,9 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 		- Instead of discarding the KV cache after finishing a generation request, our approach retains the KV cache for both prompts and generation results in a radix tree. This data structure enables efficient prefix search, insertion, and eviction. We implement a Least Recently Used (LRU) eviction policy, complemented by a cache-aware scheduling policy, to enhance the cache hit rate.
 	- On the frontend, we designed a flexible prompting language for you to control the generation process.
 	- SGLang can perform up to 5x faster than existing systems like Guidance and vLLM on common LLM workloads (agent, reasoning, chat, RAG, few-shot benchmark), while also reducing code complexity.
-- [RAGatouille](https://github.com/bclavie/RAGatouille) - RAGatouille focuses on making ColBERT simple to use
+- [RAGatouille](https://github.com/bclavie/RAGatouille) - RAGatouille focuses on making ColBERT simple to use ([why colbert](https://twitter.com/lateinteraction/status/1743040090400858288)?)
 	- The Information Retrieval research field has recently been booming, and models like ColBERT have been shown to [generalise better](https://arxiv.org/abs/2203.10053) [to new or complex domains](https://aclanthology.org/2022.findings-emnlp.78/) [than dense embeddings](https://arxiv.org/abs/2205.02870), are [ridiculously data-efficient](https://arxiv.org/abs/2309.06131) and are even [better suited to efficiently being trained](https://arxiv.org/abs/2312.09508) [on non-English languages with low amount of data](https://arxiv.org/abs/2312.16144)! Unfortunately, most of those new approaches aren't very well known, and are much harder to use than dense embeddings.
+	- [llamapack plugin here](https://twitter.com/jerryjliu0/status/1743077679258320925?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Lumos - Local LLM chrome extension powered by Ollama](https://news.ycombinator.com/item?id=39132766)
 - [PolyMind](https://github.com/itsme2417/PolyMind) - multimodal, function calling powered LLM webui. It's designed to be used with Mixtral 8x7B + TabbyAPI and offers a wide range of features including:
 	-   Internet searching with DuckDuckGo and web scraping capabilities.
@@ -106,6 +131,8 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	-   A Python interpreter.
 	-   RAG with semantic search for PDF and miscellaneous text files.
 - [Datatrove - huggingface’s commoncrawl data pipeline tool](https://github.com/huggingface/datatrove)
+- [Huggingface Candle](https://x.com/reach_vb/status/1743698310181917096?s=20) -  Rust based xplatform ML framework (compare with llama.cpp, mlc chat, ollama etc)
+	- https://nitro.jan.ai/ also launched but to [negative reviews](https://news.ycombinator.com/item?id=38887531)
 
 
 ## models
@@ -124,8 +151,12 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- beats all other OSS models at 2.7B active param size
 	- [notes from Omar Sanseviero](https://twitter.com/osanseviero/status/1745402823682970036)
 		- Certain Experts are redundant - they have common knowledge. - So they isolate experts that work as shared experts - they are always activated and reduce redundancy among routed experts - Helps with parameter efficiency
+- [MoE-Mamba](https://arxiv.org/abs/2401.04081) and [BlackMamba](https://twitter.com/_akhaliq/status/1754723073889120555) - MoE experiments with Mamba models
 - Deepseek coder 7B https://x.com/teortaxestex/status/1752177206283964813?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- [WizardCoder 33B](https://twitter.com/WizardLM_AI/status/1742906065359167730) - 79.9% on HumanEval, 78.9% on MBPP, bit behind GPT4 level on most things but still SOTA Code LLM
+	- it is a [dead heat between DeepSeekCoder and WizardCoder](https://evalplus.github.io/leaderboard.html) on the benchmarks, after GPT4.
 - Phixtral - [MoE of 2 to 4 finetuned models](https://twitter.com/maximelabonne/status/1744867841436700850) - made from dolphin-2_6-phi-2, phi-2-dpo, phi-2-sft-dpo-gpt4_en-ep1, phi-2-coder
+	- [try on hf space](https://huggingface.co/spaces/mlabonne/phixtral-chat)
 - Bagel-34B - new mixtral/merged finetunes from Jon Durbin
 	- [uses a bunch of synthetic data](https://github.com/jondurbin/bagel)
 	- [comparison from /r/LocalLlama](https://www.reddit.com/r/LocalLLaMA/comments/1916896/llm_comparisontest_confirm_leaderboard_big_news/) vs ~~**Mixtral**~~ Yi MoE
@@ -148,7 +179,6 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - [Stable LM 2 1.6B](https://x.com/_akhaliq/status/1748533176547369391?s=20)
 	- The base model is trained on approximately 2 trillion tokens for two epochs, incorporating multilingual data in English, Spanish, German, Italian, French, Portuguese, and Dutch.
 	- “Bit hard to interpret this graph, but TinyLlama < Phi2 < StableLM < Mistral. If so, it's impressive that StableLM bet Phi-2.”
-	- 
 - Google [Lumiere](https://lumiere-video.github.io/): A Space-Time Diffusion Model for Realistic Video Generation
 	- yannic kilcher did nice breakdown
 - [Long-Context Monarch Mixer models](https://twitter.com/realDanFu/status/1745507410662580388) - new releases of M2-BERT up to 32K context length, as well as embedding versions fine-tuned for long-context retrieval.
@@ -163,15 +193,29 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- It excels at multimodal reasoning. To us the killer feature is UI understanding, but it also performs well on more traditional multimodal benchmarks. In particular, Fuyu-Heavy scores higher on the MMMU benchmark than even Gemini Pro.
 	- On standard text-based benchmarks, it matches or exceeds the performance of models in the same compute class despite having to devote some of its capacity to image modeling.
 	- merely announced, not released. [blog post criticized](https://twitter.com/teortaxestex/status/1750353889499459746?t=90xQ8sGy63D2OtiaoGJuww).
+- LiteLlama - open source repro of Llama2 - but 460m params trained with 1T tokens - [not as good as larger llama variants.](https://x.com/op7418/status/1744019832654397890?s=20)
 
-## datasets
+## datasets & benchmarks
 
 - [OpenHermes datasets finally published](https://twitter.com/Teknium1/status/1752799892215673313)
 - [WebSight](https://t.co/CwRKlkAXhH) - a multimodal dataset featuring 823,000 pairs of synthetically generated HTML/CSS codes along with screenshots of the corresponding rendered websites, to fine-tune GPT4-V-like models.
 	- used both Mistral-7B-v0.1 from @MistralAI and Deepseek-Coder-33b-Instruct from @deepseek_ai to generate the website ideas and code
 	- discussed in Latent Space Huggingface episode
 - [TinyNarrations](https://sfcompute.com/blog/tiny-narrations): a synthetic audio dataset based on [TinyStories](https://arxiv.org/abs/2305.07759). 
-		- The data consists of 30 thousand hours of story narrations from the original GPT-4 generated instruct dataset, synthesized with [XTTS-v2](https://huggingface.co/coqui/XTTS-v2) over three days on one of our [H100 nodes](https://sfcompute.com/signup). The audio was generated in sentence chunks and concatenated into files of approximately 30 minutes. Due to the causal conditioning of the model, no two words are identically pronounced, so it should be non-trivial for a model to extract semantics from the data. In total, the dataset is about 15TB in size, with a validation subset of about 1%. We also include pre-tokenized data using Meta’s Hubert and Encodec models, as used in architectures like AudioLM.
+		- The data consists of 30 thousand hours of story narrations from the original GPT-4 generated instruct dataset, synthesized with [XTTS-v2](https://huggingface.co/coqui/XTTS-v2) ([try on fal ai](https://twitter.com/jfischoff/status/1743328938955587877?s=12&t=90xQ8sGy63D2OtiaoGJuww)) over three days on one of our [H100 nodes](https://sfcompute.com/signup). The audio was generated in sentence chunks and concatenated into files of approximately 30 minutes. Due to the causal conditioning of the model, no two words are identically pronounced, so it should be non-trivial for a model to extract semantics from the data. In total, the dataset is about 15TB in size, with a validation subset of about 1%. We also include pre-tokenized data using Meta’s Hubert and Encodec models, as used in architectures like AudioLM.
+- [AllenAI new CommonGen leaderboard/dataset](https://github.com/allenai/CommonGen-Eval)  ([paper](https://arxiv.org/abs/1911.03705))
+	-  Given a set of common concepts (e.g., {dog, frisbee, catch, throw}); the task is to generate a coherent sentence describing an everyday scenario using these concepts (e.g., "a man throws a frisbee and his dog catches it").  
+	- The CommonGen task is challenging because it inherently requires 1) relational reasoning with background commonsense knowledge, and 2) compositional generalization ability to work on unseen concept combinations. 
+	- Our dataset, constructed through a combination of crowdsourced and existing caption corpora, consists of 79k commonsense descriptions over 35k unique concept-sets. Experiments show that there is a large gap between state-of-the-art text generation models (e.g., T5) and human performance
+- [Orca Pairs DPO](https://twitter.com/argilla_io/status/1745057571696693689?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- The original dataset just assumes gpt4/3.5-turbo are always the best response. We know from that's not always the case. Moreover, DPO fine-tuning benefits from diversity of preference pairs.
+	- We used distilabel, our open-source AI Feedback framework to build a preference dataset with ratings for each pair and natural language critiques.
+	- [outperforms other models with 54% less samples](https://x.com/argilla_io/status/1745057582308339792?s=20)
+- [AlpacaEval announced a 2.0](https://twitter.com/yanndubs/status/1744908464873513085?s=12&t=90xQ8sGy63D2OtiaoGJuww) Main changes: 
+	- we use GPT-4 turbo as baseline
+	- we use the annotator's logprobs to extract weighted win-rates
+	- we changed the annotators' prompt
+	- we use GPT-4 turbo as annotator
 
 ## other launches
 
@@ -192,10 +236,16 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- github actions-driven development
 	- vx.dev was initially designed as an open-source alternative to Vercel's v0.dev, so we also have a [blog](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/) about how we reverse-engineered v0.dev.
 	- also has an interesting blogpost on [How I Reverse Engineered Vercel's v0.dev Prompt and Code Optimization Logic](https://step-saga-examples.pages.dev/v0-dev-reverse-engineer/)
+- [Rosebud.ai](https://news.ycombinator.com/item?id=38868185) - turn game descriptions into browser games
+	- [8 minute demo](https://www.youtube.com/watch?v=h99H3FefxU0)
 - Krea.ai launching Portrait, Concept CGI and Cartoon modes
 	- [Cerebral Valley interview](https://cerebralvalley.beehiiv.com/p/krea-building-next-frontier-human-creativity)
 - Arc Search browses the web for you, and then builds you the webpage you wanted.[https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios](https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios "https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios")
 - [ComfyDeploy](https://twitter.com/bennykokmusic/status/1745481428094398940?s=12&t=90xQ8sGy63D2OtiaoGJuww) - ComfyUI to API. One-click setup serverless container for each workflow, instantly scalable with @modal_labs
+- Some robotics launches - [Figure-01](https://twitter.com/adcock_brett/status/1743987597301399852?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [1x studio]([https://www.youtube.com/watch?v=iHXuU3nTXfQ](https://www.youtube.com/watch?v=iHXuU3nTXfQ "https://www.youtube.com/watch?v=iHXuU3nTXfQ"))
+- https://www.fixkey.ai/ - Native Apple Silicon app. Runs in the background. 0% CPU usage, Improves writing with a text replacement shortcut. openai based or [ollama](https://twitter.com/Karmedge/status/1745011856089960941)
+- turbopuffer effectively soft launhced with [sam whitmore](https://twitter.com/sjwhitmore/status/1744579362782134661?s=12&t=90xQ8sGy63D2OtiaoGJuww) and [aman sanger/@sualehasif996](https://twitter.com/amanrsanger/status/1730763587944398874)
+
 
 ## misc reads 
 
@@ -213,7 +263,6 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 		- https://x.com/BlancheMinerva/status/1748406358766968872?s=20
 		- gorilla
 		- toolLLM/ToolBench
-		- 
 - Multimodality
 	- [new TTS model tracker from huggingface](https://github.com/Vaibhavs10/open-tts-tracker)
 - Synthetic data
@@ -222,8 +271,11 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 		- LM itself provides its own rewards on own generations via LLM-as-a-Judge during Iterative DPO
 		-   Reward modeling ability improves during training rather than staying fixed
 		- ...opens the door to superhuman feedback?
-	- - [WRAP: Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/pdf/2401.16380.pdf)
+		- related paper: [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://arxiv.org/abs/2401.01335)
+	- [WRAP: Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling](https://arxiv.org/pdf/2401.16380.pdf)
 		- From Apple - we propose Web Rephrase Augmented Pre-training (WRAP) that uses an off-the-shelf instruction-tuned model prompted to paraphrase documents on the web in specific styles such as “like Wikipedia” or in “question-answer format” to jointly pre-train LLMs on real and synthetic rephrases. First, we show that using WRAP on the C4 dataset, which is naturally noisy, speeds up pre-training by ∼ 3×. At the same pre-training compute budget, it improves perplexity by more than 10% on average across different subsets of the Pile, and improves zero-shot question answer accuracy across 13 tasks by more than 2%.
+	- [Improving Text Embeddings with Large Language Models](https://arxiv.org/pdf/2401.00368.pdf) Microsoft trained a text embedding model from Mistral-7B that topped the MTEB leaderboard! The secret sauce? Synthetic data. Step 1 was to generate a diverse list of retrieval tasks. [see example](https://x.com/andersonbcdefg/status/1742613575217156547?s=20)
+		- We leverage proprietary LLMs to generate diverse synthetic data for hundreds of thousands of text embedding tasks across nearly 100 languages. We then fine-tune open-source decoder-only LLMs on the synthetic data using standard contrastive loss. Experiments demonstrate that our method achieves strong performance on highly competitive text embedding benchmarks without using any labeled data. F
 - interesting
 	- [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm): "the steps I took to learn how to finetune a LLM model (Mistral OpenOrca + Whisper) to describe a given audio file on Google’s MusicCaps dataset"
 	- [Self-driving as a case study for AGI](https://web.archive.org/web/20240122062223/https://karpathy.github.io/2024/01/21/selfdriving-agi/)([karpathy.github.io](https://news.ycombinator.com/from?site=karpathy.github.io))
@@ -253,10 +305,16 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- [Facebook is aggressively going after LLaMA repos with DMCA's.](https://twitter.com/theshawwn/status/1638925249709240322)
 	- [Will scaling work? - Dwarkesh](https://www.dwarkeshpatel.com/p/will-scaling-work)
 		- skeptic vs believer back and forth debates
+	- [Mixtral "paper" was released but contained no training details](https://twitter.com/dchaplot/status/1744547220983005478?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [Why Linear Transformers will work vs quadratic](https://x.com/jacobmbuckman/status/1744433676912345474?s=20) - basically [drop the exponential from the softmax layer](https://manifestai.com/blogposts/faster-after-all/#linear-transformers) 
 - Learning
+	- [Transformers form Scratch](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html) - Karpathy's nanoGPT worked thru a notebook
+	- [Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math](https://www.youtube.com/watch?v=8Q_tqwpTpVU) - [hn recommended](https://news.ycombinator.com/item?id=38935601) 
+		- [Sasha Rush's lecture as well](https://www.youtube.com/watch?v=dKJEpOtVgXc)
 	- [ChatGPT at home series](https://twitter.com/NielsRogge/status/1747631048941252878): fine-tuning Mistral-7B on a GPU rented on Runpod: Involves chat templates, QLoRa, packing, Flash Attention 2, bfloat16
 	- [LoRA from scratch: implementation for LLM finetuning](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
 	- [Vicki Boykis on building a semantic search engine with BERT](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
+		- see also [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search)
 	- [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) using the latest research techniques, including Flash Attention, Q-LoRA, OpenAI dataset formats (messages), ChatML, Packing, all built with Hugging Face TRL
 		-  for consumer-size GPUs (24GB) covering the full end-to-end lifecycle with: 
 			- 💡Define and understand use cases for fine-tuning  
@@ -265,6 +323,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 			- 🏋️‍♀️ Fine-tune LLM using TRL and the SFTTrainer  
 			- 🥇 Test and evaluate the LLM  
 			- 🚀 Deploy for production with TGI
+		- see also [MistralTrix + DPO tutorial](https://news.ycombinator.com/item?id=38882726)
 	- [Nathan Lambert with Tri Dao and Michael Poli on future of LLM architectures](https://www.youtube.com/watch?v=OFFHiJzPpCQ)
 
 

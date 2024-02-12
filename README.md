@@ -219,6 +219,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - note that BPEs are suboptimal https://www.lesswrong.com/posts/dFbfCLZA4pejckeKc/a-mechanistic-explanation-for-solidgoldmagikarp-like-tokens?commentId=9jNdKscwEWBB4GTCQ
 		  - [//---------------------------------------------------------------------------------------------------------------- is a single GPT-4 token](https://twitter.com/goodside/status/1753192905844592989)
 		  - causes math and string character issues https://news.ycombinator.com/item?id=35363769
+		  - and cause [issues with evals](https://x.com/main_horse/status/1744560083957411845?s=20)
 		  - [glitch tokens](https://news.ycombinator.com/item?id=39086318) happen when tokenizer has different dataset than LLM
 	  - https://platform.openai.com/tokenizer and https://github.com/openai/tiktoken (more up to date: https://tiktokenizer.vercel.app/)
 	  - Wordpiece -> BPE -> SentenceTransformer
@@ -491,6 +492,7 @@ This list will be out of date but will get you started. My live list of people t
 - NSFW filter https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/
 - On "AI Art Panic" https://opguides.info/posts/aiartpanic/
 	- [I lost everything that made me love my job through Midjourney](https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/)
+	- [Midjourney artist list](https://www.theartnewspaper.com/2024/01/04/leaked-names-of-16000-artists-used-to-train-midjourney-ai#)
 - Yannick influencing OPENRAIL-M https://www.youtube.com/watch?v=W5M-dvzpzSQ
 - art schools accepting AI art https://twitter.com/DaveRogenmoser/status/1597746558145265664
 - DRM issues https://undeleted.ronsor.com/voice.ai-gpl-violations-with-a-side-of-drm/
@@ -502,12 +504,14 @@ This list will be out of date but will get you started. My live list of people t
 - scraping content 
 	- https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm
 	- sarah silverman case - openai response https://arstechnica.com/tech-policy/2023/08/openai-disputes-authors-claims-that-every-chatgpt-response-is-a-derivative-work/
+	- openai response 
 - Licensing
 	- [AI weights are not open "source" - Sid Sijbrandij](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
 - Diversity and Equity
 	- sexualizing minorities https://twitter.com/lanadenina/status/1680238883206832129 the reason is [porn is good at bodies](https://twitter.com/levelsio/status/1680665706235404288)
 	- [OpenAI tacking on "black" randomly to make DallE diverse](https://twitter.com/rzhang88/status/1549472829304741888?s=20)
 - Privacy - confidential computing https://www.edgeless.systems/blog/how-confidential-computing-and-ai-fit-together/
+- AI taking jobs https://donaldclarkplanb.blogspot.com/2024/02/this-is-why-idea-that-ai-will-just.html
 
 ## Alignment, Safety
 

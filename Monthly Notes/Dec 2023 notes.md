@@ -474,6 +474,8 @@ Misc other things we found noteworthy reads from this month
 	- [fiction - MMAcevedo (mind uploading)](https://qntm.org/mmacevedo) - [sequel was just published](https://twitter.com/qntm/status/1732377446576435337)
 	- some buzz about the MedPrompt paper but its a [very very smol MMLU bump with a loooot of shots of prompting](https://x.com/abacaj/status/1734623259369337215?s=20)
 	- Beff Jezos on Lex Fridman spawned some debate I don't super care about
+	- Death of Chinchilla - paper from [Jon Frankle and Nikhil Sardana at MosaicML](https://arxiv.org/pdf/2401.00448.pdf) presented at Neurips workshop - extends chinchilla to model how longer than chinchilla-optimal training is correct for high inference cost
+		- see also on [Chinchilla's Death](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=death%20chinchilla&sort=byPopularity&type=story)
 
 
 ## memes
