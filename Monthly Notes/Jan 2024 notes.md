@@ -101,6 +101,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	-   Wolfram Alpha integration.
 	-   A Python interpreter.
 	-   RAG with semantic search for PDF and miscellaneous text files.
+- [Datatrove - huggingface’s commoncrawl data pipeline tool](https://github.com/huggingface/datatrove)
 
 
 ## models
@@ -239,6 +240,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - Learning
 	- [ChatGPT at home series](https://twitter.com/NielsRogge/status/1747631048941252878): fine-tuning Mistral-7B on a GPU rented on Runpod: Involves chat templates, QLoRa, packing, Flash Attention 2, bfloat16
 	- [LoRA from scratch: implementation for LLM finetuning](https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all)
+	- [Vicki Boykis on building a semantic search engine with BERT](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 	- [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl) using the latest research techniques, including Flash Attention, Q-LoRA, OpenAI dataset formats (messages), ChatML, Packing, all built with Hugging Face TRL
 		-  for consumer-size GPUs (24GB) covering the full end-to-end lifecycle with: 
 			- 💡Define and understand use cases for fine-tuning  
