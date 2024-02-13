@@ -293,6 +293,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 	- [Merge Large Language Models with mergekit](https://huggingface.co/blog/mlabonne/merge-models) - a good overview from Maxime Labonne on using mergekit with 4 algorithms - SLERP, TIES, DARE, Passthrough. a simple 7B SLERP merge did well on the Open LLM Leaderboard and his own [LLM AutoEval](https://github.com/mlabonne/llm-autoeval) library
 	- [HF collection of Merge paper reads from Osanseverio](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66)
 	- [Deepmind WARM - Weight Averaged Reward Models](https://x.com/ramealexandre/status/1749719476310843794?s=20)
+	- [LLM Augmented LLMs: Expanding Capabilities through Composition](https://arxiv.org/pdf/2401.02412.pdf)- Google Research/Deepmind paper
 	- https://docs.google.com/document/d/1wlG6McZzwCEFMcJsEV-hIKve2lrNFdrXTabgcvGY6z4/edit
 - DPO
 	- [DPO vs IPO vs KTO alternatives](https://huggingface.co/blog/pref-tuning)
