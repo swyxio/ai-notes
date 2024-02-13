@@ -35,6 +35,7 @@ Frontier models
 ## open source tooling
 
 - [Ollama openai compatibility APIs](https://news.ycombinator.com/item?id=39307330)
+- [LlamaIndex v0.10](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8?source=collection_home---6------0-----------------------)
 
 ## product launches
 
@@ -48,4 +49,7 @@ Frontier models
 
 ## memes
 
-- https://twitter.com/JackPosobiec/status/1753416551066181672
+- https://twitter.com/JackPosobiec/status/1753416551066181672 dignifAI
+- https://www.goody2.ai/chat
+- image of no elephant https://www.reddit.com/r/OpenAI/comments/1anm3p3/damn_sneaky/
+- apple vision pro https://discord.com/channels/822583790773862470/839660725252784149/1204047864096096328

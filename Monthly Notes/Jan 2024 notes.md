@@ -94,6 +94,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 		- 🧱Output parsing: Getting the LLM to return information in a certain format is key for enabling it to take actions.
 		- 🔎Retrieval: adding advanced yet production ready methods for RAG, including text-splitting, retrieval, and an indexing pipeline
 		- 🤖Tool Use + Agents: collection of agents (decide what actions to take), collection of tools, easy way to define tools
+		- [llamaindex v0.10 did a similar split move in feb](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8?source=collection_home---6------0-----------------------)
 	- [langgraph graph agents](https://github.com/langchain-ai/langgraph?ref=blog.langchain.dev)
 		- [compare with autogen](https://www.youtube.com/watch?v=v9fkbTxPzs0&t=2s)
 - [Crew AI](https://github.com/joaomdmoura/crewAI) - trended all month due to [good demoing](https://twitter.com/joaomdmoura/status/1744031203995316712?s=12&t=90xQ8sGy63D2OtiaoGJuww)
@@ -380,3 +381,6 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 
 - schmidhuber is right https://twitter.com/SchmidhuberAI/status/1745475698737938543
 - palworld b2b ai saas https://x.com/nearcyan/status/1750056156721242212?s=20
+- "it's all recsys" https://discord.com/channels/822583790773862470/839660725252784149/1202272588944904193
+- ML is "hacky" [https://x.com/jim_rutt/status/1748366435913548184?s=46&t=90xQ8sGy63D2OtiaoGJuww](https://x.com/jim_rutt/status/1748366435913548184?s=46&t=90xQ8sGy63D2OtiaoGJuww "https://x.com/jim_rutt/status/1748366435913548184?s=46&t=90xQ8sGy63D2OtiaoGJuww")
+- [the new captcha]([https://fxtwitter.com/rpoo/status/1740460800995963366?s=20](https://fxtwitter.com/rpoo/status/1740460800995963366?s=20 "https://fxtwitter.com/rpoo/status/1740460800995963366?s=20"))
