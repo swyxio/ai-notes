@@ -2,6 +2,7 @@
 ## openai
 
 - memory and new controls https://news.ycombinator.com/item?id=39360724
+	- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
 - gpt-3.5-turbo-0125
 	- The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
 - [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
