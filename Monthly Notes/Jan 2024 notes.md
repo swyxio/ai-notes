@@ -26,6 +26,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - [API key based usage tracking](https://twitter.com/OfficialLoganK/status/1743401083920097432) - just tracking, no limits yet
 - [removed usage policy against "military and warfare" use](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
 - announced new [preparedness/safety framework](https://openai.com/safety/preparedness)
+- pushed back on [the NYT lawsuit](https://openai.com/blog/openai-and-journalism)
 - sama tsmc https://x.com/basedbeffjezos/status/1748903066735354030?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - [first university partnership with Arizona State University](https://www.cnbc.com/2024/01/18/openai-announces-first-partnership-with-a-university.html) - ASU plans to build a personalized AI tutor for students, allow students to create AI avatars for study help and broaden the university’s prompt engineering course.
 - [preparedness for 2024 elections](https://openai.com/blog/how-openai-is-approaching-2024-worldwide-elections)
@@ -157,7 +158,8 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 
 ## models
 
-- dont forget the openai turbo and embedding models
+- Embedding models
+	- [dont forget the openai turbo and embedding models](https://openai.com/blog/new-embedding-models-and-api-updates)
 	- voyage-code-2 dropped last week -- a new embedding model specifically trained & optimized for code-related applications. they claim it's 16.93% better than ada on code datasets, but it remains to be seen how voyage-code performs compared to the new ada-v3 based on MRL [https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/](https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/ "https://blog.voyageai.com/2024/01/23/voyage-code-2-elevate-your-code-retrieval/") - thanks Gian on discord
 - codellama70b ([Tweet](https://x.com/teortaxestex/status/1752125379303875038?s=46&t=90xQ8sGy63D2OtiaoGJuww), [HN](https://news.ycombinator.com/item?id=39178886))
 	- Trained on 1T extra Tokens, with a [few B more tokens for variants](https://x.com/_philschmid/status/1752024648697434422?s=20)
@@ -189,7 +191,7 @@ tech layoffs - [google](https://news.ycombinator.com/item?id=38948444) et al
 - Bagel-34B - new mixtral/merged finetunes from Jon Durbin
 	- [uses a bunch of synthetic data](https://github.com/jondurbin/bagel)
 	- [comparison from /r/LocalLlama](https://www.reddit.com/r/LocalLLaMA/comments/1916896/llm_comparisontest_confirm_leaderboard_big_news/) vs ~~**Mixtral**~~ Yi MoE
-- [Mixtral-medium](https://twitter.com/lmsysorg/status/1745061423724875891?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1745061423724875891%7Ctwgr%5E58a43f98e08b74e94594e238390ee283b99e9430%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fspacesdashboard.com%2Fspace%2F1YpKkwDbXPrKj%2Fvirtual-grass-touching-not-recorded) has now beat Claude and is second only to GPT4 on LMSys
+- [Mixtral-medium](https://twitter.com/lmsysorg/status/1745061423724875891?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1745061423724875891%7Ctwgr%5E58a43f98e08b74e94594e238390ee283b99e9430%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fspacesdashboard.com%2Fspace%2F1YpKkwDbXPrKj%2Fvirtual-grass-touching-not-**recorded**) has now beat Claude and is second only to GPT4 on LMSys
 - Surya - [mutlilingual text line detection model](https://x.com/vikparuchuri/status/1745876562371903790?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- Text detection is step 1 in building a GPU-accelerated OCR model that is more accurate than tesseract.  Step 2 is to build the text recognition system - I'll be working on that in the next couple of weeks.
 	- related: [Vision Grid Transformer](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/DocumentUnderstanding/VGT): a two-stream multi-modal Vision Grid Transformer for document layout analysis, in which Grid Transformer (GiT) is proposed and pre-trained for 2D token-level and segment-level semantic understanding. By fully leveraging multi-modal information and exploiting pre-training techniques to learn better representation, VGT achieves highly competitive scores in the DLA task, and significantly outperforms the previous state-of-the-arts.
