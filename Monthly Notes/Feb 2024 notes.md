@@ -63,3 +63,5 @@ Frontier models
 - image of no elephant https://www.reddit.com/r/OpenAI/comments/1anm3p3/damn_sneaky/
 	- source of meme: https://twitter.com/GaryMarcus/status/1755476468157833593
 - apple vision pro https://discord.com/channels/822583790773862470/839660725252784149/1204047864096096328
+- chatgpt memory x tipping meme https://x.com/_mira___mira_/status/1757695161671565315?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- karpathy leaving meme https://x.com/yacinemtb/status/1757775133761057113?s=46&t=90xQ8sGy63D2OtiaoGJuww
