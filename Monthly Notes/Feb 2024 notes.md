@@ -1,6 +1,7 @@
 
 ## openai
 
+- memory and new controls https://news.ycombinator.com/item?id=39360724
 - gpt-3.5-turbo-0125
 	- The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
 - [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
@@ -18,6 +19,11 @@ Frontier models
 
 ## models
 
+- [Stable Cascade](https://news.ycombinator.com/item?id=39360106): a new arch vs stable diffusion
+	-  Stable Diffusion uses a compression factor of 8, resulting in a 1024x1024 image being encoded to 128x128. Stable Cascade achieves a compression factor of 42, meaning that it is possible to encode a 1024x1024 image to 24x24, while maintaining crisp reconstructions. The text-conditional model is then trained in the highly compressed latent space. 
+	- Previous versions of this architecture, achieved a 16x cost reduction over Stable Diffusion 1.5.
+	- Stable Cascade consists of three models: Stage A, Stage B and Stage C, representing a cascade for generating images, hence the name "Stable Cascade". Stage A & B are used to compress images, similarly to what the job of the VAE is in Stable Diffusion. However, as mentioned before, with this setup a much higher compression of images can be achieved. Furthermore, Stage C is responsible for generating the small 24 x 24 latents given a text prompt. The following picture shows this visually. Note that Stage A is a VAE and both Stage B & C are diffusion models.
+	- For this release, we are providing two checkpoints for Stage C, two for Stage B and one for Stage A. Stage C comes with a 1 billion and 3.6 billion parameter version, but we highly recommend using the 3.6 billion version, as most work was put into its finetuning. The two versions for Stage B amount to 700 million and 1.5 billion parameters. Both achieve great results, however the 1.5 billion excels at reconstructing small and fine details. Therefore, you will achieve the best results if you use the larger variant of each. Lastly, Stage A contains 20 million parameters and is fixed due to its small size.
 - [Nomic Embed](https://twitter.com/nomic_ai/status/1753082063048040829): Open source, open weights, open data
 	- https://blog.nomic.ai/posts/nomic-embed-text-v1
 	- Beats OpenAI text-embeding-3-small and Ada on short and long context benchmarks
@@ -54,4 +60,5 @@ Frontier models
 - https://twitter.com/JackPosobiec/status/1753416551066181672 dignifAI
 - https://www.goody2.ai/chat
 - image of no elephant https://www.reddit.com/r/OpenAI/comments/1anm3p3/damn_sneaky/
+	- source of meme: https://twitter.com/GaryMarcus/status/1755476468157833593
 - apple vision pro https://discord.com/channels/822583790773862470/839660725252784149/1204047864096096328
