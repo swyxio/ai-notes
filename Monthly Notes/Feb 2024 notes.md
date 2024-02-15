@@ -39,6 +39,7 @@ Frontier models
 - [Nomic Embed](https://twitter.com/nomic_ai/status/1753082063048040829): Open source, open weights, open data
 	- https://blog.nomic.ai/posts/nomic-embed-text-v1
 	- Beats OpenAI text-embeding-3-small and Ada on short and long context benchmarks
+	- [nomic 1.5](https://x.com/xenovacom/status/1757798436009599413?s=46&t=90xQ8sGy63D2OtiaoGJuww) wiht MRL embeddings and 8192 context
 - AI OLMo - 100% open-everything model
 	- https://blog.allenai.org/olmo-open-language-model-87ccfc95f580
 	- [released on magnet link](https://twitter.com/natolambert/status/1753063313351835941)
@@ -59,6 +60,8 @@ Frontier models
 - [LlamaIndex v0.10](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8?source=collection_home---6------0-----------------------)
 
 ## product launches
+
+
 
 
 ## Misc reads
