@@ -1,7 +1,7 @@
 
 ## openai
 
-- memory and new controls https://news.ycombinator.com/item?id=39360724
+- ChatGPT got new memory and new controls https://news.ycombinator.com/item?id=39360724
 	- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
 - gpt-3.5-turbo-0125
 	- The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
@@ -16,10 +16,18 @@ Frontier models
 	- https://blog.google/products/gemini/bard-gemini-advanced-app/
 - Gemini ultra 1.0
 	- [unclear advantage over gemini pro](https://www.youtube.com/watch?v=hLbIUQWxs6Y)
+- Gemini 1.5
+	- 1m context supported, 10m capacity in research
+	- [official blogpost](https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#gemini-15), [technical report](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf), [hn](https://news.ycombinator.com/item?id=39383446)
+		- This includes making Gemini 1.5 more efficient to train and serve, with a new [Mixture-of-Experts](https://arxiv.org/abs/1701.06538) (MoE) architecture.
+		- The first Gemini 1.5 model we’re releasing for early testing is Gemini 1.5 Pro. It’s a mid-size multimodal model, optimized for scaling across a wide-range of tasks, and [performs at a similar level to 1.0 Ultra](https://goo.gle/GeminiV1-5), our largest model to date. It also introduces a breakthrough experimental feature in long-context understanding.
+		- **Gemini 1.5 Pro comes with a standard 128,000 token context window. But starting today, a limited group of developers and enterprise customers can try it with a context window of up to 1 million tokens via [AI Studio](https://aistudio.google.com/) and [Vertex AI](https://cloud.google.com/vertex-ai) in private preview.**
+		- Through a series of machine learning innovations, we’ve increased 1.5 Pro’s context window capacity far beyond the original 32,000 tokens for Gemini 1.0. We can now run up to 1 million tokens in production.
+	-  Sparse MoE multimodal model - Can handle 3 hours of video, 22 hours of audio or 10M tokens with almost perfect recall! - Better than Gemini 1 Pro, better than Ultra for text, worse for audio and vision - Sadly not much info regarding model size, # of experts, architecture explorations, etc
 - https://twitter.com/evowizz/status/1753795479543132248
 
 ## models
-
+- Cohere AI for good - Aya 101 - very good multilingual model outperforming BLOOM despite 2x languages. Apache 2.0 license
 - [Stable Cascade](https://news.ycombinator.com/item?id=39360106): a new arch vs stable diffusion
 	-  Stable Diffusion uses a compression factor of 8, resulting in a 1024x1024 image being encoded to 128x128. Stable Cascade achieves a compression factor of 42, meaning that it is possible to encode a 1024x1024 image to 24x24, while maintaining crisp reconstructions. The text-conditional model is then trained in the highly compressed latent space. 
 	- Previous versions of this architecture, achieved a 16x cost reduction over Stable Diffusion 1.5.
@@ -36,6 +44,7 @@ Frontier models
 - [Presenting MetaVoice-1B](https://twitter.com/metavoiceio/status/1754983953193218193), a 1.2B parameter base model for TTS (text-to-speech). Trained on 100K hours of data. * Emotional speech in English * Voice cloning with fine-tuning * Zero-shot cloning for American & British voices * Support for long-form synthesis. Best part: Apache 2.0 licensed. 🔥
 	- https://ttsdemo.themetavoice.xyz/
 - [Reka Flash](https://twitter.com/YiTayML/status/1757115386829619534), a new state-of-the-art 21B multimodal model that rivals Gemini Pro and GPT 3.5 on key language & vision benchmarks 
+	- [live chatted with Yi Tay and Max on ThursdAI](https://twitter.com/altryne/status/1758181289218490605) (1hr in)
 - [SPIRIT-LM: Interleaved Spoken and Written Language Model](https://speechbot.github.io/spiritlm/index.html) from Meta
 	- compare with: [LAION BUD-E](https://laion.ai/blog/bud-e/) - ENHANCING AI VOICE ASSISTANTS’ CONVERSATIONAL QUALITY, NATURALNESS AND EMPATHY
 		- Right now (January 2024) we reach latencies of 300 to 500 ms (with a Phi 2 model). We are confident that response times below 300 ms are possible even with larger models like LLama 2 30B in the near future.
@@ -51,10 +60,37 @@ Frontier models
 
 ## Misc reads
 
+- discussions
+	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
 	- 
+
+## fundraising
+
+- Langchain $25m series A with sequoia
+	- and [LangSmith GA](https://x.com/hwchase17/status/1758170252272418978?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- covered in [Forbes](https://www.forbes.com/sites/alexkonrad/2024/02/15/open-source-ai-startup-langchain-launches-langsmith/?sh=42226ad64f00)
+	- Since launching LangSmith, we’ve seen:
+		- Over 80K signups
+		- Over 5K monthly active teams
+		- Over 40 million traces logged in January alone
+	- features
+		- prototyping: **Initial Test Set**, **Comparison View**, **Playground**
+		- beta testing: **Collecting Feedback**, **Annotating Traces**, **Adding Runs to a Dataset**
+		- production: **Monitoring and A/B Testing**, 
+	-  future directions include:
+		- Ability to run online evaluators on a sample of production data
+		- Better filtering and conversation support
+		- Easy deployment of applications with hosted LangServe
+		- Enterprise features to support the administration and security needs for our largest customers.
+- [Magic.dev $117m](https://twitter.com/magicailabs/status/1758140204446323188) series A [with Nat and Dan](https://twitter.com/natfriedman/status/1758143612561568047)
+	- "Code generation is both a product and a path to AGI, requiring new algorithms, lots of CUDA, frontier-scale training, RL, and a new UI."
+	- [talking about "many millions of tokens" context](https://x.com/Hersh_Desai/status/1758147122631757829?s=20) now but previously talked about [5m tokens for "LTM-1"](https://magic.dev/blog/ltm-1)
+	- nat made their own evals
+- Lambda Labs $320m series C ([twitter](https://x.com/stephenbalaban/status/1758154395412214248?s=46&t=90xQ8sGy63D2OtiaoGJuww)) with USIT
+	- This new financing will be used to expand the number of NVIDIA GPUs available in Lambda Cloud and build features that will absolutely delight you.
 
 
 ## memes
