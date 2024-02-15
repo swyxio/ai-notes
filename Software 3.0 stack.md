@@ -50,6 +50,7 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 	- [https://arxiv.org/abs/2308.03688](https://arxiv.org/abs/2308.03688)
 	- [https://withmartian.com](https://withmartian.com/)
 	- [https://aihero.studio/](https://aihero.studio/)
+- "LLM observability": [Baserun, Athina, LangSmith, Parea, Arize, Langfuse](https://news.ycombinator.com/item?id=39371297)
 - evals 
 	- scorecard
 	- https://www.arthur.ai/blog/introducing-arthur-bench
