@@ -1,6 +1,9 @@
 
 ## openai
 
+- OpenAI Sora - [official blog](https://openai.com/sora)
+	- [lead author credits](https://x.com/sama/status/1758193609927721350?s=20)
+	- [sama showing demos in response to user prompts](https://x.com/sama/status/1758193792778404192?s=20)
 - ChatGPT got new memory and new controls https://news.ycombinator.com/item?id=39360724
 	- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
 - gpt-3.5-turbo-0125
