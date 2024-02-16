@@ -30,6 +30,7 @@ see [[DATASETS]]
 
 <img src="https://pbs.twimg.com/media/FkwdJnEXgAAoteg?format=png&name=small" height=300 />
 
+- huggingface top list of GGUF local llama models https://huggingface.co/models?sort=downloads&search=gguf
 - model benchmarks
 	- https://www.mosaicml.com/llm-evaluation
 	- [https://gpt4all.io/index.html](https://gpt4all.io/index.html "https://gpt4all.io/index.html")

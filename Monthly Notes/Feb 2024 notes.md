@@ -11,6 +11,8 @@
 - [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
 - lazy openai
 	- https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/
+- nontechnical
+	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
 - public appearances
 	- logan on a big pod today https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/
 
@@ -54,10 +56,14 @@ Frontier models
 		- Right now (January 2024) we reach latencies of 300 to 500 ms (with a Phi 2 model). We are confident that response times below 300 ms are possible even with larger models like LLama 2 30B in the near future.
 
 
-## open source tooling
+## open source tooling and projects
 
 - [Ollama openai compatibility APIs](https://news.ycombinator.com/item?id=39307330)
 - [LlamaIndex v0.10](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8?source=collection_home---6------0-----------------------)
+- [OpenLLMetry-JS](https://news.ycombinator.com/item?id=39371297) SDK via traceloop
+	- an open protocol and SDK, based on OpenTelemetry, that provides traces and metrics for LLM JS/TS applications and can be connected to any of the 15+ tools that already support OpenTelemetry.
+	- JS version of [Python one](https://news.ycombinator.com/item?id=37843907)
+- [Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
 
 ## product launches
 
