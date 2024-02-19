@@ -69,6 +69,7 @@ Frontier models
 
 ## product launches
 
+- [Groq runs Mixtral 8x7B-32k with 500 T/s](https://news.ycombinator.com/item?id=39428880)
 - vercel ai integrations - aggregation theory on AI
 
 
