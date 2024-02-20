@@ -208,6 +208,7 @@ full training - 10x-100x of a single run
 energy
 - 1 V100 GPU - 300W per day
 - 10k V100 GPUs x 13 days = 936 MWh
+- nother way of looking at the sparsity win is to consider NVIDIAs new H100 GPU costing about $30K.  Including networking, backplane and support hardware costs, each of these processors consumes about 500 watts of power.  Cooling and other facilities require another large chunk of energy.  So 30 H100s will run about $1M up front, and another $1M a year in total energy cost.  That's a very, very expensive cost center.  Project that to the scale of supercomputers like the ORNL Frontier system, which has 40,000 GPUs, cost $600M, consumes 25MW of power, and can only achieve %0.8 peak operations on common sparse problems, and you can see there's a huge market gap here.
 - Power Usage Effectiveness - 1.5 datacenter (as low as 1.15)
 	- so true cost 936 * 1.5 = 1404 MWh
 - 1 MW = 2k homes

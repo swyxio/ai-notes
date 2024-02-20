@@ -60,6 +60,7 @@ Frontier models
 - [SPIRIT-LM: Interleaved Spoken and Written Language Model](https://speechbot.github.io/spiritlm/index.html) from Meta
 	- compare with: [LAION BUD-E](https://laion.ai/blog/bud-e/) - ENHANCING AI VOICE ASSISTANTS’ CONVERSATIONAL QUALITY, NATURALNESS AND EMPATHY
 		- Right now (January 2024) we reach latencies of 300 to 500 ms (with a Phi 2 model). We are confident that response times below 300 ms are possible even with larger models like LLama 2 30B in the near future.
+- [AnimateLCM-SVD-xt](https://x.com/_akhaliq/status/1759658004880740765?s=20): AnimateLCM-SVD-xt can generally produces videos with good quality in 4 steps without requiring the classifier-free guidance, and therefore can save 25 x 2 / 4 = 12.5 times compuation resources compared with normal SVD models
 
 
 ## open source tooling and projects
@@ -74,6 +75,8 @@ Frontier models
 ## product launches
 
 - [Groq runs Mixtral 8x7B-32k with 500 T/s](https://news.ycombinator.com/item?id=39428880)
+	- [instant refactoring](https://twitter.com/mattshumer_/status/1759652937792422188)
+	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699)
 - vercel ai integrations - aggregation theory on AI
 
 
