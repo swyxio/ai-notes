@@ -96,7 +96,7 @@
 	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699)
 - vercel ai integrations - aggregation theory on AI
 - [Llamacloud and LlamaParse](https://news.ycombinator.com/item?id=39443972)
-- [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images
+- [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images. [more demos](https://x.com/sharifshameem/status/1760348586691408213?s=20)
 
 
 ## Misc reads
