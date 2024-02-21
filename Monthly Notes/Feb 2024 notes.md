@@ -14,8 +14,12 @@
 	- The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
 - gpt4turbo 0125 has training data updated to dec 2023
 - [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
-- lazy openai
+- chatgpt bugs and flaws
 	- https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/
+	- ChatGPT went "[beserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)" on Feb 20. 
+		- [going off the rails](https://twitter.com/seanw_m/status/1760115118690509168), [speaking Spanglish](https://twitter.com/seanw_m/status/1760115732333941148)
+		- Acknowledged [by OpenAI status page](https://twitter.com/seanw_m/status/1760116061116969294)
+	- [due to lazy/extensive prompt?](https://twitter.com/dylan522p/status/1755086111397863777)
 - nontechnical
 	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
 - public appearances
@@ -99,7 +103,7 @@ Frontier models
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
-	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=39443965) together with https://github.com/karpathy/minbpe
+	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=**39443965******) together with https://github.com/karpathy/minbpe
 
 ## fundraising
 
