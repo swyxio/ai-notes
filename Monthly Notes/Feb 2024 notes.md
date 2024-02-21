@@ -110,6 +110,7 @@
 		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
 		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
 	- Yao Fu vs Everyone on [Long Context vs RAG](https://x.com/DrJimFan/status/1760367552960897355?s=20)
+	- [F you, show me the prompt](https://hamel.dev/blog/posts/prompt/) on LLM frameworks and nontransparency (dspy, instructor, langchain)
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
