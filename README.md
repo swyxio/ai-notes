@@ -222,6 +222,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 		  - causes math and string character issues https://news.ycombinator.com/item?id=35363769
 		  - and cause [issues with evals](https://x.com/main_horse/status/1744560083957411845?s=20)
 		  - [glitch tokens](https://news.ycombinator.com/item?id=39086318) happen when tokenizer has different dataset than LLM
+		  - [karpathy talking about why tokenization is messy](https://www.youtube.com/watch?v=zduSFxRajkE)
 	  - https://platform.openai.com/tokenizer and https://github.com/openai/tiktoken (more up to date: https://tiktokenizer.vercel.app/)
 	  - Wordpiece -> BPE -> SentenceTransformer
 		  -  [Preliminary reading on Embeddings](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526?gi=ee46baab0d8f)

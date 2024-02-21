@@ -4,6 +4,10 @@
 - OpenAI Sora - [official blog](https://openai.com/sora)
 	- [lead author credits](https://x.com/sama/status/1758193609927721350?s=20)
 	- [sama showing demos in response to user prompts](https://x.com/sama/status/1758193792778404192?s=20)
+		- and on openai tiktok ([dog](https://x.com/venturetwins/status/1759984752206196961?s=20), [pizza](https://www.tiktok.com/@openai/video/7337782565870357803?_r=1&_t=8k3QSuBFQhW))
+	- ylecun hating on world model analogies as usual [https://twitter.com/ylecun/status/1759486703696318935](https://twitter.com/ylecun/status/1759486703696318935 "https://twitter.com/ylecun/status/1759486703696318935")
+		- Modeling the world for action by generating pixel is as wasteful and doomed to failure as the largely-abandoned idea of "analysis by synthesis".
+		- If your goal is to train a world model for recognition or planning, using pixel-level prediction is a terrible idea. Generation happens to work for text because text is discrete with a finite number of symbols. Dealing with uncertainty in the prediction is easy in such settings. Dealing with prediction uncertainty in high-dimension continuous sensory inputs is simply intractable. That's why generative models for sensory inputs are doomed to failure.
 - ChatGPT got new memory and new controls https://news.ycombinator.com/item?id=39360724
 	- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
 - gpt-3.5-turbo-0125
@@ -75,6 +79,7 @@ Frontier models
 ## product launches
 
 - [Groq runs Mixtral 8x7B-32k with 500 T/s](https://news.ycombinator.com/item?id=39428880)
+	- [groqchat](https://news.ycombinator.com/item?id=38739199)
 	- [instant refactoring](https://twitter.com/mattshumer_/status/1759652937792422188)
 	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699)
 - vercel ai integrations - aggregation theory on AI
@@ -86,10 +91,15 @@ Frontier models
 - discussions
 	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
 	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
+	- Gemini imagegen reverse racism issues
+		- [gemini on australian, american, british, german women](https://x.com/debarghya_das/status/1759786243519615169?s=20)
+		- [English women](https://x.com/RazRazcle/status/1760091322629898712?s=20)
+		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
+		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
-	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=39443965)
+	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=39443965) together with https://github.com/karpathy/minbpe
 
 ## fundraising
 
@@ -121,6 +131,7 @@ Frontier models
 
 - https://twitter.com/JackPosobiec/status/1753416551066181672 dignifAI
 - https://www.goody2.ai/chat
+	- [the model card is also hilarious](https://www.goody2.ai/goody2-modelcard.pdf?utm_source=ainews&utm_medium=email)
 - image of no elephant https://www.reddit.com/r/OpenAI/comments/1anm3p3/damn_sneaky/
 	- source of meme: https://twitter.com/GaryMarcus/status/1755476468157833593
 - apple vision pro https://discord.com/channels/822583790773862470/839660725252784149/1204047864096096328
