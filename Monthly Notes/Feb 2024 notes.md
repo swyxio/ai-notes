@@ -140,7 +140,7 @@ Frontier models
 	- This new financing will be used to expand the number of NVIDIA GPUs available in Lambda Cloud and build features that will absolutely delight you.
 - This month, the venture capital firm Menlo Ventures closed a deal to invest $750 million in Anthropic.
 	- [NYT on Anthropic fundraising](https://news.ycombinator.com/item?id=39456140#39457725)
-	- [64m ARR 2024 projection - big downshift from 850m](https://x.com/swyx/status/1760379275163967609?s=20)
+	- ~750m ARR 2024 projection - downshift from 850m in jan
 
 
 ## memes
