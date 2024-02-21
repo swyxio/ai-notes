@@ -46,6 +46,12 @@ Frontier models
 	- V-JEPA is a non-generative model that learns by predicting missing or masked parts of a video in an abstract representation space. This is similar to how our [Image Joint Embedding Predictive Architecture (I-JEPA)](https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/) compares abstract representations of images (rather than comparing the pixels themselves). Unlike generative approaches that try to fill in every missing pixel, V-JEPA has the flexibility to discard unpredictable information, which leads to improved training and sample efficiency by a factor between 1.5x and 6x.
 	- Because it takes a self-supervised learning approach, V-JEPA is pre-trained entirely with unlabeled data. Labels are only used to adapt the model to a particular task after pre-training. This type of architecture proves more efficient than previous models, both in terms of the number of labeled examples needed and the total amount of effort put into learning even the unlabeled data. With V-JEPA, we’ve seen efficiency boosts on both of these fronts.
 	- With V-JEPA, we mask out a large portion of a video so the model is only shown a little bit of the context. We then ask the predictor to fill in the blanks of what’s missing—not in terms of the actual pixels, but rather as a more abstract description in this representation space.
+- [Google Gemma](https://huggingface.co/blog/gemma) - new open LLM
+	- Gemma comes in two sizes: 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants.
+	- bascally SOTA on Reasoning, Coding, [decent bump vs mistral on Math](https://www.reddit.com/r/LocalLLaMA/comments/1awbo84/google_publishes_open_source_2b_and_7b_model/), at the 2-7B range ([chart](https://x.com/Mascobot/status/1760365209720693150?s=20))
+	- Gemma license has [odd terms](https://ai.google.dev/gemma/prohibited_use_policy)
+	- [Karpathy breaks down Gemma tokenizer](https://x.com/karpathy/status/1760350892317098371?s=46&t=6FDPaNxZcbSsELal6Sv7Ug): TLDR this is basically the Llama 2 tokenizer, except bigger (32K -> 256K), with a lot more special tokens, and the only functional departure is that add_dummy_prefix is turned off to False.
+	- open source support - [llama.cpp, quantization, mlx, lmstudio](https://x.com/altryne/status/1760371315641397331?s=20)
 - Cohere AI for good - Aya 101 - very good multilingual model outperforming BLOOM despite 2x languages. Apache 2.0 license
 - [Stable Cascade](https://news.ycombinator.com/item?id=39360106): a new arch vs stable diffusion
 	-  Stable Diffusion uses a compression factor of 8, resulting in a 1024x1024 image being encoded to 128x128. Stable Cascade achieves a compression factor of 42, meaning that it is possible to encode a 1024x1024 image to 24x24, while maintaining crisp reconstructions. The text-conditional model is then trained in the highly compressed latent space. 
@@ -88,6 +94,7 @@ Frontier models
 	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699)
 - vercel ai integrations - aggregation theory on AI
 - [Llamacloud and LlamaParse](https://news.ycombinator.com/item?id=39443972)
+- [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images
 
 
 ## Misc reads
@@ -100,10 +107,12 @@ Frontier models
 		- [English women](https://x.com/RazRazcle/status/1760091322629898712?s=20)
 		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
 		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
+	- Yao Fu vs Everyone on [Long Context vs RAG](https://x.com/DrJimFan/status/1760367552960897355?s=20)
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
 	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=**39443965******) together with https://github.com/karpathy/minbpe
+	- [new paper on the source of in-context learning frm unsupervised data: parallel phrases](https://twitter.com/LChoshen/status/1760315778400735623) - a good [form of interpretability research](https://x.com/BlancheMinerva/status/1760336172310581507?s=20)
 
 ## fundraising
 
@@ -129,6 +138,9 @@ Frontier models
 	- nat made their own evals
 - Lambda Labs $320m series C ([twitter](https://x.com/stephenbalaban/status/1758154395412214248?s=46&t=90xQ8sGy63D2OtiaoGJuww)) with USIT
 	- This new financing will be used to expand the number of NVIDIA GPUs available in Lambda Cloud and build features that will absolutely delight you.
+- This month, the venture capital firm Menlo Ventures closed a deal to invest $750 million in Anthropic.
+	- [NYT on Anthropic fundraising](https://news.ycombinator.com/item?id=39456140#39457725)
+	- [64m ARR 2024 projection - big downshift from 850m](https://x.com/swyx/status/1760379275163967609?s=20)
 
 
 ## memes
