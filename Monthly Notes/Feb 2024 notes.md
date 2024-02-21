@@ -1,4 +1,11 @@
 
+## potential themes of the month
+
+- video
+	- sora
+	- [gemini 1.5](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+- long context vs rag
+
 ## openai
 
 - OpenAI Sora - [official blog](https://openai.com/sora)
@@ -41,6 +48,7 @@
 		- when tested on long code prompts, [HVM author agrees gemini retrieval is better than GPT4](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
 	-  Sparse MoE multimodal model - Can handle 3 hours of video, 22 hours of audio or 10M tokens with almost perfect recall! - Better than Gemini 1 Pro, better than Ultra for text, worse for audio and vision - Sadly not much info regarding model size, # of experts, architecture explorations, etc
 - [Gemini rollout in Google Workspace (Gmail, docs, sheets)](https://blog.google/products/google-one/google-one-gemini-ai-gmail-docs-sheets/)
+	- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 - https://twitter.com/evowizz/status/1753795479543132248
 
 ## models
@@ -99,23 +107,6 @@
 - [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images. [more demos](https://x.com/sharifshameem/status/1760348586691408213?s=20)
 
 
-## Misc reads
-
-- discussions
-	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
-	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
-	- Gemini imagegen reverse racism issues
-		- [gemini on australian, american, british, german women](https://x.com/debarghya_das/status/1759786243519615169?s=20)
-		- [English women](https://x.com/RazRazcle/status/1760091322629898712?s=20)
-		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
-		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
-	- Yao Fu vs Everyone on [Long Context vs RAG](https://x.com/DrJimFan/status/1760367552960897355?s=20)
-- learning
-	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
-	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
-	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=**39443965******) together with https://github.com/karpathy/minbpe
-	- [new paper on the source of in-context learning frm unsupervised data: parallel phrases](https://twitter.com/LChoshen/status/1760315778400735623) - a good [form of interpretability research](https://x.com/BlancheMinerva/status/1760336172310581507?s=20)
-
 ## fundraising
 
 - Langchain $25m series A with sequoia
@@ -144,6 +135,22 @@
 	- [NYT on Anthropic fundraising](https://news.ycombinator.com/item?id=39456140#39457725)
 	- ~750m ARR 2024 projection - downshift from 850m in jan
 
+
+
+## Misc reads
+
+- discussions
+	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
+	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
+	- Gemini imagegen reverse racism issues
+		- [gemini on australian, american, british, german women](https://x.com/debarghya_das/status/1759786243519615169?s=20)
+		- [English women](https://x.com/RazRazcle/status/1760091322629898712?s=20), [medieval british kings](https://x.com/stratejake/status/1760333904857497650?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
+		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
+- learning
+	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
+	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
+	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=**39443965******) together with https://github.com/karpathy/minbpe
 
 ## memes
 
