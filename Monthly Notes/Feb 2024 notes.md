@@ -48,6 +48,7 @@
 		- Through a series of machine learning innovations, we’ve increased 1.5 Pro’s context window capacity far beyond the original 32,000 tokens for Gemini 1.0. We can now run up to 1 million tokens in production.
 		- when tested on long code prompts, [HVM author agrees gemini retrieval is better than GPT4](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
 	-  Sparse MoE multimodal model - Can handle 3 hours of video, 22 hours of audio or 10M tokens with almost perfect recall! - Better than Gemini 1 Pro, better than Ultra for text, worse for audio and vision - Sadly not much info regarding model size, # of experts, architecture explorations, etc
+	- useful for [scanning codebase and implementing fixes for](https://x.com/sullyomarr/status/1760066335898513655?s=46&t=90xQ8sGy63D2OtiaoGJuww) and 
 - [Gemini rollout in Google Workspace (Gmail, docs, sheets)](https://blog.google/products/google-one/google-one-gemini-ai-gmail-docs-sheets/)
 	- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 - https://twitter.com/evowizz/status/1753795479543132248
