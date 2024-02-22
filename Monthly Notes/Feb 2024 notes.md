@@ -66,7 +66,9 @@
 	- Gemma license has [odd terms](https://ai.google.dev/gemma/prohibited_use_policy)
 	- [Karpathy breaks down Gemma tokenizer](https://x.com/karpathy/status/1760350892317098371?s=46&t=6FDPaNxZcbSsELal6Sv7Ug): TLDR this is basically the Llama 2 tokenizer, except bigger (32K -> 256K), with a lot more special tokens, and the only functional departure is that add_dummy_prefix is turned off to False.
 	- open source support - [llama.cpp, quantization, mlx, lmstudio](https://x.com/altryne/status/1760371315641397331?s=20)
-- Cohere AI for good - Aya 101 - very good multilingual model outperforming BLOOM despite 2x languages. Apache 2.0 license
+- [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
+	- "We love the open-source community and will be releasing the weights for the latest Phind-34B model in the coming weeks. We intend to release the weights for Phind-70B in time as well."
+- Cohere Aya 101 - very good multilingual model outperforming BLOOM despite 2x languages. Apache 2.0 license
 - [Stable Cascade](https://news.ycombinator.com/item?id=39360106): a new arch vs stable diffusion
 	-  Stable Diffusion uses a compression factor of 8, resulting in a 1024x1024 image being encoded to 128x128. Stable Cascade achieves a compression factor of 42, meaning that it is possible to encode a 1024x1024 image to 24x24, while maintaining crisp reconstructions. The text-conditional model is then trained in the highly compressed latent space. 
 	- Previous versions of this architecture, achieved a 16x cost reduction over Stable Diffusion 1.5.
