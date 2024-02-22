@@ -26,6 +26,7 @@
 	- ChatGPT went "[beserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)" on Feb 20. 
 		- [going off the rails](https://twitter.com/seanw_m/status/1760115118690509168), [speaking Spanglish](https://twitter.com/seanw_m/status/1760115732333941148)
 		- Acknowledged [by OpenAI status page](https://twitter.com/seanw_m/status/1760116061116969294)
+		- [fixed with reason](https://twitter.com/E0M/status/1760476148763644166)
 	- [due to lazy/extensive prompt?](https://twitter.com/dylan522p/status/1755086111397863777)
 - nontechnical
 	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
@@ -103,6 +104,7 @@
 	- [instant refactoring](https://twitter.com/mattshumer_/status/1759652937792422188)
 	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699)
 	- breakdown on [their marketing/comms](https://twitter.com/lulumeservey/status/1760401126287945830)
+	- some talk aout [their compiler and scheduling tech](https://x.com/tomjaguarpaw/status/1759529106830479657?s=20)
 - vercel ai integrations - aggregation theory on AI
 - [Llamacloud and LlamaParse](https://news.ycombinator.com/item?id=39443972)
 - [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images. [more demos](https://x.com/sharifshameem/status/1760348586691408213?s=20)
@@ -154,6 +156,7 @@
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
 	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=**39443965******) together with https://github.com/karpathy/minbpe
+		- [practical application on vocab size vs tokens/s on codellama vs gpt3.5](1760477997994492272)
 
 ## memes
 
