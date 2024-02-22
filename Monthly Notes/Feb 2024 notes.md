@@ -55,6 +55,7 @@
 
 ## models
 - [Stable Diffusion 3](https://news.ycombinator.com/item?id=39466630)
+	- [some tease of technical detail from emad](https://twitter.com/EMostaque/status/1760660709308846135). "a new type of diffusion transformer", flow matching, multimodal inputs, comes in all sizes
 - [Meta V-JEPA model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/?utm_source=ainews&utm_medium=email) - video version of I-JEPA model
 	- V-JEPA is a non-generative model that learns by predicting missing or masked parts of a video in an abstract representation space. This is similar to how our [Image Joint Embedding Predictive Architecture (I-JEPA)](https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/) compares abstract representations of images (rather than comparing the pixels themselves). Unlike generative approaches that try to fill in every missing pixel, V-JEPA has the flexibility to discard unpredictable information, which leads to improved training and sample efficiency by a factor between 1.5x and 6x.
 	- Because it takes a self-supervised learning approach, V-JEPA is pre-trained entirely with unlabeled data. Labels are only used to adapt the model to a particular task after pre-training. This type of architecture proves more efficient than previous models, both in terms of the number of labeled examples needed and the total amount of effort put into learning even the unlabeled data. With V-JEPA, we’ve seen efficiency boosts on both of these fronts.
