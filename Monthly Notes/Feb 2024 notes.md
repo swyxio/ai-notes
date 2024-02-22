@@ -51,6 +51,8 @@
 	- useful for [scanning codebase and implementing fixes for](https://x.com/sullyomarr/status/1760066335898513655?s=46&t=90xQ8sGy63D2OtiaoGJuww) and 
 - [Gemini rollout in Google Workspace (Gmail, docs, sheets)](https://blog.google/products/google-one/google-one-gemini-ai-gmail-docs-sheets/)
 	- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+- Google $60m/yr data deal with reddit
+	- https://news.ycombinator.com/item?id=39471964
 - https://twitter.com/evowizz/status/1753795479543132248
 
 ## models
