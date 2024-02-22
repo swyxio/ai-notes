@@ -151,6 +151,8 @@
 		- [English women](https://x.com/RazRazcle/status/1760091322629898712?s=20), [medieval british kings](https://x.com/stratejake/status/1760333904857497650?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
 		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
+		- [google only acknowledged the problem with historical figures](https://twitter.com/benthompson/status/1760452419627233610?t=90xQ8sGy63D2OtiaoGJuww) but its bigger than that
+		- similar but worse than [openai dalle](https://twitter.com/swyx/status/1760399621543879016) and [meta emu](https://x.com/andrewb10687674/status/1760414422990754071?s=20)
 	- [Things I Don't Know About AI - Elad Gil](https://news.ycombinator.com/item?id=39453622)
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
