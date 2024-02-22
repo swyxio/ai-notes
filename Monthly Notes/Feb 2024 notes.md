@@ -146,6 +146,8 @@
 
 ## Misc reads
 
+- notable papers
+	- [LongRoPE: Extending LLM Context Window Beyond 2M Tokens](https://arxiv.org/abs/2402.13753)
 - discussions
 	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
 	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
@@ -162,6 +164,7 @@
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
 	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=**39443965******) together with https://github.com/karpathy/minbpe
 		- [practical application on vocab size vs tokens/s on codellama vs gpt3.5](1760477997994492272)
+- 
 
 ## memes
 
