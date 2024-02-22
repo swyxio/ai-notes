@@ -168,6 +168,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	    -   Jailbreaking
 	    -   Prompt Injecting
 	    -   Data Poisoning & Backdoor Attacks
+	- [gergely orosz guide to LLM math](https://newsletter.pragmaticengineer.com/p/scaling-chatgpt) especially the 5 scaling challenges piece
   -  [A Hacker's Guide to Language Models](https://twitter.com/jeremyphoward/status/1705883362991472984?s=20)  ([youtube](https://youtu.be/jkrNMKz9pWU?si=BNz-v6VmdbX7QDtr)) Jeremy Howard's 90min complete overview of LLM learnings - starting at the basics: the 3-step pre-training / fine-tuning / classifier ULMFiT approach used in all modern LLMs.
   - ["Catching up on the weird world of LLMs"](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) - Simon Willison's 40min overview + [Open Questions for AI Engineers](https://www.youtube.com/watch?v=AjLVoAu-u-Q)
   - [LLMs overview from Flyte](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
