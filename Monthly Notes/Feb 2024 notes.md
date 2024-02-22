@@ -102,9 +102,12 @@
 	- [groqchat](https://news.ycombinator.com/item?id=38739199)
 	- [instant refactoring](https://twitter.com/mattshumer_/status/1759652937792422188)
 	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699)
+	- breakdown on [their marketing/comms](https://twitter.com/lulumeservey/status/1760401126287945830)
 - vercel ai integrations - aggregation theory on AI
 - [Llamacloud and LlamaParse](https://news.ycombinator.com/item?id=39443972)
 - [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images. [more demos](https://x.com/sharifshameem/status/1760348586691408213?s=20)
+- [Retell AI launch](https://news.ycombinator.com/item?id=39453402) - [Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402) talked up by [Garry Tan and Aaron Levie](https://x.com/levie/status/1760415616157298816?s=20)
+	- compare with [Vocode](https://github.com/vocodedev/vocode-python) and [Livekit](https://livekit.io/kitt)
 
 ## fundraising
 
@@ -146,6 +149,7 @@
 		- [English women](https://x.com/RazRazcle/status/1760091322629898712?s=20), [medieval british kings](https://x.com/stratejake/status/1760333904857497650?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
 		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
+	- [Things I Don't Know About AI - Elad Gil](https://news.ycombinator.com/item?id=39453622)
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
@@ -161,3 +165,7 @@
 - apple vision pro https://discord.com/channels/822583790773862470/839660725252784149/1204047864096096328
 - chatgpt memory x tipping meme https://x.com/_mira___mira_/status/1757695161671565315?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - karpathy leaving meme https://x.com/yacinemtb/status/1757775133761057113?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- gemini memes
+	- this meme probably wins [the whole month](https://x.com/thecaptain_nemo/status/1760367238161604804?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- [everyone dogpiling on gemini](https://x.com/growing_daniel/status/1760459653887168984?s=20)
+	- c.f. [James Damore](https://twitter.com/yacineMTB/status/1760460012848037919/photo/1). [paulg comment](https://x.com/paulg/status/1760416051181793361?s=20) and [carmack](https://x.com/ID_AA_Carmack/status/1760360183945965853?s=20)
