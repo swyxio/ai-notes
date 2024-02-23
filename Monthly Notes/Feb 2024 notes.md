@@ -125,6 +125,7 @@
 - [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images. [more demos](https://x.com/sharifshameem/status/1760348586691408213?s=20)
 - [Retell AI launch](https://news.ycombinator.com/item?id=39453402) - [Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402) talked up by [Garry Tan and Aaron Levie](https://x.com/levie/status/1760415616157298816?s=20)
 	- compare with [Vocode](https://github.com/vocodedev/vocode-python) and [Livekit](https://livekit.io/kitt)
+- [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)|
 
 ## fundraising
 
