@@ -65,10 +65,15 @@
 	- open source support - [llama.cpp, quantization, mlx, lmstudio](https://x.com/altryne/status/1760371315641397331?s=20)
 - [Stable Diffusion 3](https://news.ycombinator.com/item?id=39466630) - just announced not released
 	- [some tease of technical detail from emad](https://twitter.com/EMostaque/status/1760660709308846135). "a new type of diffusion transformer", flow matching, multimodal inputs, comes in all sizes
+	- Its in sizes from 800m to 8b parameters now, will be all sizes for all sorts of edge to giant GPU deployment.
+	- SD 1.5 is 983m parameters, SDXL is 3.5b, for reference.
+	- [more images](https://x.com/iScienceLuvr/status/1760708610500513882?s=20)
 - [Meta V-JEPA model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/?utm_source=ainews&utm_medium=email) - video version of I-JEPA model
 	- V-JEPA is a non-generative model that learns by predicting missing or masked parts of a video in an abstract representation space. This is similar to how our [Image Joint Embedding Predictive Architecture (I-JEPA)](https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/) compares abstract representations of images (rather than comparing the pixels themselves). Unlike generative approaches that try to fill in every missing pixel, V-JEPA has the flexibility to discard unpredictable information, which leads to improved training and sample efficiency by a factor between 1.5x and 6x.
 	- Because it takes a self-supervised learning approach, V-JEPA is pre-trained entirely with unlabeled data. Labels are only used to adapt the model to a particular task after pre-training. This type of architecture proves more efficient than previous models, both in terms of the number of labeled examples needed and the total amount of effort put into learning even the unlabeled data. With V-JEPA, we’ve seen efficiency boosts on both of these fronts.
 	- With V-JEPA, we mask out a large portion of a video so the model is only shown a little bit of the context. We then ask the predictor to fill in the blanks of what’s missing—not in terms of the actual pixels, but rather as a more abstract description in this representation space.
+- [Firefunction V1](https://twitter.com/lqiao/status/1760664322215379153) - GPT-4 level structured output, 4x lower latency
+	- swyx was involved in this launch
 - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
 	- "We love the open-source community and will be releasing the weights for the latest Phind-34B model in the coming weeks. We intend to release the weights for Phind-70B in time as well."
 - Cohere Aya 101 - very good multilingual model outperforming BLOOM despite 2x languages. Apache 2.0 license
@@ -113,6 +118,8 @@
 	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699)
 	- breakdown on [their marketing/comms](https://twitter.com/lulumeservey/status/1760401126287945830)
 	- some talk aout [their compiler and scheduling tech](https://x.com/tomjaguarpaw/status/1759529106830479657?s=20)
+- [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/) ([fastsdxl.ai](https://news.ycombinator.com/from?site=fastsdxl.ai))
+	- this is using SDXL Lightning underneath which is trained by ByteDance on top of Stable Diffusion XL and [released as an open source model.](https://huggingface.co/ByteDance/SDXL-Lightning) In addition to that, it is using our inference engine and real-time infrastructure to provide a smooth experience compared to other UIs out there (which as far as I know, speed-wise, are not even comparable, ~370ms for 4 step here vs ~2-3 seconds in the replicate link you posted).
 - vercel ai integrations - aggregation theory on AI
 - [Llamacloud and LlamaParse](https://news.ycombinator.com/item?id=39443972)
 - [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images. [more demos](https://x.com/sharifshameem/status/1760348586691408213?s=20)
