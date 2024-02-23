@@ -78,6 +78,7 @@ This Readme is just the high level overview of the space; you should see the mos
 	  - Charm https://twitter.com/shubroski/status/1620139262925754368?s=20
   - https://www.summari.com/ Summari helps busy people read more
 - market maps/landscapes
+	- elad gil 2024 [stack chart](https://blog.eladgil.com/p/things-i-dont-know-about-ai)
 	- sequoia market map [jan 2023](https://twitter.com/sonyatweetybird/status/1584580362339962880), [july 2023](https://www.sequoiacap.com/article/llm-stack-perspective/), [sep 2023](https://www.sequoiacap.com/article/generative-ai-act-two/)
 	- base10 market map https://twitter.com/letsenhance_io/status/1594826383305449491
 	- matt shumer market map https://twitter.com/mattshumer_/status/1620465468229451776 https://docs.google.com/document/d/1sewTBzRF087F6hFXiyeOIsGC1N4N3O7rYzijVexCgoQ/edit

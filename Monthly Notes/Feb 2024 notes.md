@@ -163,6 +163,14 @@
 - discussions
 	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
 	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
+	- attention is quadratic in context length, but NOT transformers compute
+		- https://news.ycombinator.com/item?id=39461568
+		- because [the FFN is a big part of the compute](https://x.com/karpathy/status/1658161721251602432?s=20)
+		- and [flashattention isnt quadratic with sequence length](https://x.com/BlancheMinerva/status/1760026749390176662?s=20) when you look at TFLOPS/s
+			- mathematically it scales quadratically, but in practice, current GPU hardware is utilised more efficiently when the sequences are longer, and this means in practice wall clock compute time scales more favourably than quadratic
+		- see also [delip rao and stella biderman](https://x.com/BlancheMinerva/status/1760020927188697160?s=20)
+		- For example, to take a concrete model (say Llama-70B), it takes about 1.4e16 MLP FLOPs (70 billion * 100000 * 2) to process 100k tokens. The attention component takes about 6.5e15 FLOPS (80 [layers] * 100k [sequence length]^2 * 8192 [hidden dim]). So even if attention turned constant it would reduce runtime by about 30% with today's model at 100k sequence length.
+		- To anyone doubting this, note that llama.cpp does not slow down by a factor of 16 when you pass -c 2048 instead of -c 512.
 	- Gemini imagegen reverse racism issues
 		- [gemini on australian, american, british, german women](https://x.com/debarghya_das/status/1759786243519615169?s=20)
 		- [English women](https://x.com/RazRazcle/status/1760091322629898712?s=20), [medieval british kings](https://x.com/stratejake/status/1760333904857497650?s=46&t=90xQ8sGy63D2OtiaoGJuww)
