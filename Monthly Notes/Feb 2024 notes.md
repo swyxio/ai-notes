@@ -17,6 +17,7 @@
 		- If your goal is to train a world model for recognition or planning, using pixel-level prediction is a terrible idea. Generation happens to work for text because text is discrete with a finite number of symbols. Dealing with uncertainty in the prediction is easy in such settings. Dealing with prediction uncertainty in high-dimension continuous sensory inputs is simply intractable. That's why generative models for sensory inputs are doomed to failure.
 - ChatGPT got new memory and new controls https://news.ycombinator.com/item?id=39360724
 	- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
+- [ChatGPT builder profiles and GPT reviews](https://twitter.com/OfficialLoganK/status/1760746725248258324)
 - gpt-3.5-turbo-0125
 	- The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
 - gpt4turbo 0125 has training data updated to dec 2023
@@ -63,6 +64,7 @@
 	- Gemma license has [odd terms](https://ai.google.dev/gemma/prohibited_use_policy)
 	- [Karpathy breaks down Gemma tokenizer](https://x.com/karpathy/status/1760350892317098371?s=46&t=6FDPaNxZcbSsELal6Sv7Ug): TLDR this is basically the Llama 2 tokenizer, except bigger (32K -> 256K), with a lot more special tokens, and the only functional departure is that add_dummy_prefix is turned off to False.
 	- open source support - [llama.cpp, quantization, mlx, lmstudio](https://x.com/altryne/status/1760371315641397331?s=20)
+	- Google released official [Gemma.cpp](https://news.ycombinator.com/item?id=39481554)
 - [Stable Diffusion 3](https://news.ycombinator.com/item?id=39466630) - just announced not released
 	- [some tease of technical detail from emad](https://twitter.com/EMostaque/status/1760660709308846135). "a new type of diffusion transformer", flow matching, multimodal inputs, comes in all sizes
 	- Its in sizes from 800m to 8b parameters now, will be all sizes for all sorts of edge to giant GPU deployment.
@@ -121,11 +123,13 @@
 - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/) ([fastsdxl.ai](https://news.ycombinator.com/from?site=fastsdxl.ai))
 	- this is using SDXL Lightning underneath which is trained by ByteDance on top of Stable Diffusion XL and [released as an open source model.](https://huggingface.co/ByteDance/SDXL-Lightning) In addition to that, it is using our inference engine and real-time infrastructure to provide a smooth experience compared to other UIs out there (which as far as I know, speed-wise, are not even comparable, ~370ms for 4 step here vs ~2-3 seconds in the replicate link you posted).
 - vercel ai integrations - aggregation theory on AI
+	- [streaming RSC UI components](https://twitter.com/shuding_/status/1761085838174175379)
+	- 
 - [Llamacloud and LlamaParse](https://news.ycombinator.com/item?id=39443972)
 - [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images. [more demos](https://x.com/sharifshameem/status/1760348586691408213?s=20)
 - [Retell AI launch](https://news.ycombinator.com/item?id=39453402) - [Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402) talked up by [Garry Tan and Aaron Levie](https://x.com/levie/status/1760415616157298816?s=20)
 	- compare with [Vocode](https://github.com/vocodedev/vocode-python) and [Livekit](https://livekit.io/kitt)
-- [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)|
+- [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
 
 ## fundraising
 
@@ -163,9 +167,12 @@
 	- [LongRoPE: Extending LLM Context Window Beyond 2M Tokens](https://arxiv.org/abs/2402.13753)
 	- Synthetic data
 		- [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083) - synthetic planning data from A* search logs. [swyx summary](https://twitter.com/swyx/status/1761141537201926431)
+	- [Mamba: the Easy Way](https://news.ycombinator.com/item?id=39482428)
+		- 
 - discussions
 	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
 	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
+	- [RAG vs Long Context](https://twitter.com/Francis_YAO_/status/1759962812229800012) - Yao Fu taking a contrarian stance
 	- attention is quadratic in context length, but NOT transformers compute
 		- https://news.ycombinator.com/item?id=39461568
 		- because [the FFN is a big part of the compute](https://x.com/karpathy/status/1658161721251602432?s=20)
