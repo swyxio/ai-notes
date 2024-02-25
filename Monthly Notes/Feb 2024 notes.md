@@ -58,6 +58,7 @@
 
 ## models
 
+- [stable diffussion video 2](https://x.com/EMostaque/status/1761121428995281052?s=20)
 - [Google Gemma](https://huggingface.co/blog/gemma) ([HN](https://news.ycombinator.com/item?id=39453271), [good Interconnects recap](https://www.interconnects.ai/p/gemma-google-ships-it)) - new open LLM
 	- Gemma comes in two sizes: 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants.
 	- bascally SOTA on Reasoning, Coding, [decent bump vs mistral on Math](https://www.reddit.com/r/LocalLLaMA/comments/1awbo84/google_publishes_open_source_2b_and_7b_model/), at the 2-7B range ([chart](https://x.com/Mascobot/status/1760365209720693150?s=20))
@@ -70,6 +71,7 @@
 	- Its in sizes from 800m to 8b parameters now, will be all sizes for all sorts of edge to giant GPU deployment.
 	- SD 1.5 is 983m parameters, SDXL is 3.5b, for reference.
 	- [more images](https://x.com/iScienceLuvr/status/1760708610500513882?s=20)
+	- [roadmap post SD3](https://x.com/EMostaque/status/1761342315992326199?s=20): control, composition, collaboration
 - [Meta V-JEPA model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/?utm_source=ainews&utm_medium=email) - video version of I-JEPA model
 	- V-JEPA is a non-generative model that learns by predicting missing or masked parts of a video in an abstract representation space. This is similar to how our [Image Joint Embedding Predictive Architecture (I-JEPA)](https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/) compares abstract representations of images (rather than comparing the pixels themselves). Unlike generative approaches that try to fill in every missing pixel, V-JEPA has the flexibility to discard unpredictable information, which leads to improved training and sample efficiency by a factor between 1.5x and 6x.
 	- Because it takes a self-supervised learning approach, V-JEPA is pre-trained entirely with unlabeled data. Labels are only used to adapt the model to a particular task after pre-training. This type of architecture proves more efficient than previous models, both in terms of the number of labeled examples needed and the total amount of effort put into learning even the unlabeled data. With V-JEPA, we’ve seen efficiency boosts on both of these fronts.
