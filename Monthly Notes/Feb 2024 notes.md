@@ -5,6 +5,8 @@
 	- sora
 	- [gemini 1.5](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 - long context vs rag
+- gemini alignment problems and the thing about builders
+- 
 
 ## openai
 
@@ -23,7 +25,7 @@
 - gpt4turbo 0125 has training data updated to dec 2023
 - [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
 - chatgpt bugs and flaws
-	- https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/
+	- https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ acked by [sama on fix](https://twitter.com/sama/status/1754172149378810118)
 	- ChatGPT went "[beserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)" on Feb 20. 
 		- [going off the rails](https://twitter.com/seanw_m/status/1760115118690509168), [speaking Spanglish](https://twitter.com/seanw_m/status/1760115732333941148)
 		- Acknowledged [by OpenAI status page](https://twitter.com/seanw_m/status/1760116061116969294)
