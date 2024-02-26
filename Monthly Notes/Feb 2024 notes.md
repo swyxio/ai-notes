@@ -20,6 +20,7 @@
 - ChatGPT got new memory and new controls https://news.ycombinator.com/item?id=39360724
 	- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
 - [ChatGPT builder profiles and GPT reviews](https://twitter.com/OfficialLoganK/status/1760746725248258324)
+- [Advanced Data Analysis V2](https://twitter.com/btibor91/status/1761726596585504939?utm_source=ainews&utm_medium=email)
 - gpt-3.5-turbo-0125
 	- The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
 - gpt4turbo 0125 has training data updated to dec 2023
@@ -31,6 +32,8 @@
 		- Acknowledged [by OpenAI status page](https://twitter.com/seanw_m/status/1760116061116969294)
 		- [fixed with reason](https://twitter.com/E0M/status/1760476148763644166)
 	- [due to lazy/extensive prompt?](https://twitter.com/dylan522p/status/1755086111397863777)
+- Openai Feather
+	- https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete
 - nontechnical
 	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
 - public appearances
@@ -137,6 +140,8 @@
 
 ## fundraising
 
+- [Moonshot AI $1b on $2.5b valuation](https://x.com/rsalakhu/status/1761062276272902527?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- 
 - Langchain $25m series A with sequoia
 	- and [LangSmith GA](https://x.com/hwchase17/status/1758170252272418978?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- covered in [Forbes](https://www.forbes.com/sites/alexkonrad/2024/02/15/open-source-ai-startup-langchain-launches-langsmith/?sh=42226ad64f00)
