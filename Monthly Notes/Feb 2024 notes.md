@@ -63,6 +63,10 @@
 
 ## models
 
+- [Mistral Large]([https://mistral.ai/news/mistral-large/](https://mistral.ai/news/mistral-large/))
+	- announced deal with [Microsoft and Azure](https://news.ycombinator.com/item?id=39511530)
+		- The US tech giant will provide the 10-month-old Paris-based company with help in bringing its AI models to market. Microsoft will also take a minor stake in Mistral although the financial details have not been disclosed. The partnership makes Mistral the second company to provide commercial language models available on Microsoft’s Azure cloud computing platform.
+	- Mistral small
 - [stable diffussion video 2](https://x.com/EMostaque/status/1761121428995281052?s=20)
 - [Google Gemma](https://huggingface.co/blog/gemma) ([HN](https://news.ycombinator.com/item?id=39453271), [good Interconnects recap](https://www.interconnects.ai/p/gemma-google-ships-it)) - new open LLM
 	- Gemma comes in two sizes: 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants.
@@ -118,6 +122,7 @@
 	- an open protocol and SDK, based on OpenTelemetry, that provides traces and metrics for LLM JS/TS applications and can be connected to any of the 15+ tools that already support OpenTelemetry.
 	- JS version of [Python one](https://news.ycombinator.com/item?id=37843907)
 - [Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
+- [R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R) ([HN has good criticisms of limitations](https://news.ycombinator.com/item?id=39514145). very MVP for now)
 
 ## product launches
 
