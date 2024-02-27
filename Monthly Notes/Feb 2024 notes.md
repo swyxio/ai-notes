@@ -5,8 +5,10 @@
 	- sora
 	- [gemini 1.5](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 - long context vs rag
-- gemini alignment problems and the thing about builders
-- 
+- gemini alignment problems 
+	- the thing about builders
+	- meta https://x.com/ns123abc/status/1761144236118810855?s=46&t=90xQ8sGy63D2OtiaoGJuww 
+	- sydney is back https://x.com/tracewoodgrains/status/1762300324671262960?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 ## openai
 
