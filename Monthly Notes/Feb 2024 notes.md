@@ -145,6 +145,8 @@
 - [Retell AI launch](https://news.ycombinator.com/item?id=39453402) - [Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402) talked up by [Garry Tan and Aaron Levie](https://x.com/levie/status/1760415616157298816?s=20)
 	- compare with [Vocode](https://github.com/vocodedev/vocode-python) and [Livekit](https://livekit.io/kitt)
 - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
+- [Generative UI in julius](https://twitter.com/0interestrates/status/1762566480821186813)
+	- and vercel
 
 ## fundraising
 
