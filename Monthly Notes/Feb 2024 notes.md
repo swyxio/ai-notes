@@ -9,6 +9,7 @@
 	- the thing about builders
 	- meta https://x.com/ns123abc/status/1761144236118810855?s=46&t=90xQ8sGy63D2OtiaoGJuww 
 	- sydney is back https://x.com/tracewoodgrains/status/1762300324671262960?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- [sundar (bland) internal email](https://twitter.com/lulumeservey/status/1762864255437516932)
 
 ## openai
 
@@ -66,7 +67,7 @@
 ## models
 
 - [Mistral Large]([https://mistral.ai/news/mistral-large/](https://mistral.ai/news/mistral-large/))
-	- announced deal with [Microsoft and Azure](https://news.ycombinator.com/item?id=39511530)
+	- announced deal with [Microsoft and Azure](https://news.ycombinator.com/item?id=39511530), alongside [an EUR 15million investment](https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/?guccounter=1) - surprisingly small vs the $2b valuation
 		- The US tech giant will provide the 10-month-old Paris-based company with help in bringing its AI models to market. Microsoft will also take a minor stake in Mistral although the financial details have not been disclosed. The partnership makes Mistral the second company to provide commercial language models available on Microsoft’s Azure cloud computing platform.
 	- Mistral small
 	- removed "[committing to open models](https://news.ycombinator.com/item?id=39517016)" from website
@@ -147,6 +148,7 @@
 - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
 - [Generative UI in julius](https://twitter.com/0interestrates/status/1762566480821186813)
 	- and vercel
+- [RecurseChat - Personal AI Chat with Local LLMs](https://news.ycombinator.com/item?id=39532367) (paid/closed source)
 
 ## fundraising
 
@@ -189,9 +191,9 @@
 		- [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083) - synthetic planning data from A* search logs. [swyx summary](https://twitter.com/swyx/status/1761141537201926431)
 	- [Mamba: the Easy Way](https://news.ycombinator.com/item?id=39482428)
 	- [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
+		- [commentary](https://twitter.com/teortaxesTex/status/1762993615750516777)
 	- [Matryoshka Representation Learning (MRL) from the Ground Up](https://aniketrege.github.io/blog/2024/mrl/)
-		- we did a MRL paper club with the authors this month in the LS discord!
-		- 
+		- we did a MRL paper club with the authors this month in the LS discord! see discord for links
 - discussions
 	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
 	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
