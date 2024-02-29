@@ -120,6 +120,7 @@
 
 ## open source tooling and projects
 
+- [HuggingChat Assistants - open source GPT Store](https://twitter.com/julien_c/status/1754501776835760559?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Ollama openai compatibility APIs](https://news.ycombinator.com/item?id=39307330)
 - [LlamaIndex v0.10](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8?source=collection_home---6------0-----------------------)
 - [OpenLLMetry-JS](https://news.ycombinator.com/item?id=39371297) SDK via traceloop
@@ -180,6 +181,7 @@
 - This month, the venture capital firm Menlo Ventures closed a deal to invest $750 million in Anthropic.
 	- [NYT on Anthropic fundraising](https://news.ycombinator.com/item?id=39456140#39457725)
 	- ~750m ARR 2024 projection - downshift from 850m in jan
+- [Perplexity fundraising deck](https://x.com/BetterPitchGuy/status/1754505942048055604?s=20)
 
 
 
