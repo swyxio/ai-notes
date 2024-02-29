@@ -10,6 +10,7 @@
 	- meta https://x.com/ns123abc/status/1761144236118810855?s=46&t=90xQ8sGy63D2OtiaoGJuww 
 	- sydney is back https://x.com/tracewoodgrains/status/1762300324671262960?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- [sundar (bland) internal email](https://twitter.com/lulumeservey/status/1762864255437516932)
+	- chatgpt [was lazy](https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ )
 
 ## openai
 
@@ -19,28 +20,27 @@
 		- and on openai tiktok ([dog](https://x.com/venturetwins/status/1759984752206196961?s=20), [pizza](https://www.tiktok.com/@openai/video/7337782565870357803?_r=1&_t=8k3QSuBFQhW))
 	- ylecun hating on world model analogies as usual [https://twitter.com/ylecun/status/1759486703696318935](https://twitter.com/ylecun/status/1759486703696318935 "https://twitter.com/ylecun/status/1759486703696318935")
 		- Modeling the world for action by generating pixel is as wasteful and doomed to failure as the largely-abandoned idea of "analysis by synthesis".
-		- If your goal is to train a world model for recognition or planning, using pixel-level prediction is a terrible idea. Generation happens to work for text because text is discrete with a finite number of symbols. Dealing with uncertainty in the prediction is easy in such settings. Dealing with prediction uncertainty in high-dimension continuous sensory inputs is simply intractable. That's why generative models for sensory inputs are doomed to failure.
-- ChatGPT got new memory and new controls https://news.ycombinator.com/item?id=39360724
-	- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
-- [ChatGPT builder profiles and GPT reviews](https://twitter.com/OfficialLoganK/status/1760746725248258324)
-- [Advanced Data Analysis V2](https://twitter.com/btibor91/status/1761726596585504939?utm_source=ainews&utm_medium=email)
-- gpt-3.5-turbo-0125
-	- The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
-- gpt4turbo 0125 has training data updated to dec 2023
-- [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
-- chatgpt bugs and flaws
-	- https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ acked by [sama on fix](https://twitter.com/sama/status/1754172149378810118)
+		- 
+- ChatGPT updates
+	- [New memory and new controls](https://news.ycombinator.com/item?id=39360724) - still not widely rolled out as of time of writing
+		- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
+	- [ChatGPT builder profiles and GPT reviews](https://twitter.com/OfficialLoganK/status/1760746725248258324)
+	- some hints of [Advanced Data Analysis V2](https://twitter.com/btibor91/status/1761726596585504939?utm_source=ainews&utm_medium=email) coming soon
+	- [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
+- Minor model updates
+	- **gpt-3.5-turbo-0125**: The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
+	- gpt4turbo 0125 has training data updated to dec 2023
+- ChatGPT bugs and flaws
+	- [Lazy AI](https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ ) acked by [sama on fix](https://twitter.com/sama/status/1754172149378810118)
 	- ChatGPT went "[beserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)" on Feb 20. 
 		- [going off the rails](https://twitter.com/seanw_m/status/1760115118690509168), [speaking Spanglish](https://twitter.com/seanw_m/status/1760115732333941148)
 		- Acknowledged [by OpenAI status page](https://twitter.com/seanw_m/status/1760116061116969294)
 		- [fixed with reason](https://twitter.com/E0M/status/1760476148763644166)
 	- [due to lazy/extensive prompt?](https://twitter.com/dylan522p/status/1755086111397863777)
-- Openai Feather
-	- https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete
-- nontechnical
+- Misc
+	- misc: [OpenAI Feather](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete) - probably just inhouse scale ai [per patent](https://x.com/ugo_alves/status/1761857718812315838?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
-- public appearances
-	- logan on a big pod today https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/
+	- [Logan on Lenny's pod](https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/) today 
 
 ## Frontier models
 
