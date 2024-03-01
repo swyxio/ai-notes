@@ -89,7 +89,9 @@
 	- V-JEPA is a non-generative model that learns by predicting missing or masked parts of a video in an abstract representation space. This is similar to how our [Image Joint Embedding Predictive Architecture (I-JEPA)](https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/) compares abstract representations of images (rather than comparing the pixels themselves). Unlike generative approaches that try to fill in every missing pixel, V-JEPA has the flexibility to discard unpredictable information, which leads to improved training and sample efficiency by a factor between 1.5x and 6x.
 	- Because it takes a self-supervised learning approach, V-JEPA is pre-trained entirely with unlabeled data. Labels are only used to adapt the model to a particular task after pre-training. This type of architecture proves more efficient than previous models, both in terms of the number of labeled examples needed and the total amount of effort put into learning even the unlabeled data. With V-JEPA, we’ve seen efficiency boosts on both of these fronts.
 	- With V-JEPA, we mask out a large portion of a video so the model is only shown a little bit of the context. We then ask the predictor to fill in the blanks of what’s missing—not in terms of the actual pixels, but rather as a more abstract description in this representation space.
-- StarCoder 2
+- [StarCoder 2 and The Stack v2](https://twitter.com/bigcodeproject/status/1762842312005026258?utm_source=ainews&utm_medium=email)
+	- StarCoder2 is trained with a 16k token context and repo-level information for 4T+ tokens. 
+	- The Stack v2 - the largest code dataset with 900B+ tokens.
 - [Firefunction V1](https://twitter.com/lqiao/status/1760664322215379153) - GPT-4 level structured output, 4x lower latency
 	- swyx was involved in this launch
 - 
@@ -156,6 +158,7 @@
 ## fundraising
 
 - [Moonshot AI $1b on $2.5b valuation](https://x.com/rsalakhu/status/1761062276272902527?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+- Photoroom.ai $43m ([bubble?](https://twitter.com/0x9212ce55/status/1763049362735743276))
 - [Figure robotics AI $675m round at roughly $2b valuation](https://fortune.com/2024/02/23/jeff-bezos-nvidia-openai-microsoft-robot-unicorn-figureai-funding-round/) led by OpenAI and Microsoft joined by [Bezos](https://www.bloomberg.com/news/articles/2024-02-23/bezos-nvidia-join-openai-microsoft-in-funding-humanoid-robot-startup-figure-ai) and Nvidia ([twitter](https://x.com/adcock_brett/status/1763203224172154999?s=46&t=90xQ8sGy63D2OtiaoGJuww))
 	- raised [$70m seed](https://siliconangle.com/2023/05/24/ai-robotics-firm-figure-raises-70m-build-robots-human-form/) last year and was previously [rumored raising $500m](https://siliconangle.com/2024/01/31/report-humanoid-robot-startup-figure-ai-seeks-500m-raise-led-microsoft-openai/)
 - Langchain $25m series A with sequoia
