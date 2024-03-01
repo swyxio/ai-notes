@@ -20,6 +20,9 @@
 		- and on openai tiktok ([dog](https://x.com/venturetwins/status/1759984752206196961?s=20), [pizza](https://www.tiktok.com/@openai/video/7337782565870357803?_r=1&_t=8k3QSuBFQhW))
 	- ylecun hating on world model analogies as usual [https://twitter.com/ylecun/status/1759486703696318935](https://twitter.com/ylecun/status/1759486703696318935 "https://twitter.com/ylecun/status/1759486703696318935")
 		- Modeling the world for action by generating pixel is as wasteful and doomed to failure as the largely-abandoned idea of "analysis by synthesis".
+	- [MKBHD demos](https://x.com/MKBHD/status/1763332752836047234?s=20) and reviews:
+		- 1: It can struggle with physics, specifically with legs/walking. Often in Sora-generated videos of walking, the legs cross over and merge into each other. Also branded items never quite match up to real life. Things like cars, cameras, etc are never quite identifiable as a specific model 
+		- 3: My god the lighting is so good sometimes. In the third clip, it's almost as if there's a large soft key light just out of frame to the left, and across the board, lighting and shadows match very well. Across the desk, the computer, keyboard, face, etc........ but he has 6 fingers lol
 		- 
 - ChatGPT updates
 	- [New memory and new controls](https://news.ycombinator.com/item?id=39360724) - still not widely rolled out as of time of writing
