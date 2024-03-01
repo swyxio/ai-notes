@@ -135,6 +135,7 @@
 	- JS version of [Python one](https://news.ycombinator.com/item?id=37843907)
 - [Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
 - [R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R) ([HN has good criticisms of limitations](https://news.ycombinator.com/item?id=39514145). very MVP for now)
+- [ComfyUI workflow for Face-to-sticker models](https://x.com/fofrai/status/1763209305543602310?s=61) - [Replicate](https://replicate.com/fofr/face-to-sticker)
 
 ## product launches
 
