@@ -147,9 +147,9 @@
 	- some talk aout [their compiler and scheduling tech](https://x.com/tomjaguarpaw/status/1759529106830479657?s=20)
 - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/) ([fastsdxl.ai](https://news.ycombinator.com/from?site=fastsdxl.ai))
 	- this is using SDXL Lightning underneath which is trained by ByteDance on top of Stable Diffusion XL and [released as an open source model.](https://huggingface.co/ByteDance/SDXL-Lightning) In addition to that, it is using our inference engine and real-time infrastructure to provide a smooth experience compared to other UIs out there (which as far as I know, speed-wise, are not even comparable, ~370ms for 4 step here vs ~2-3 seconds in the replicate link you posted).
-- vercel ai integrations - aggregation theory on AI
-	- [streaming RSC UI components](https://twitter.com/shuding_/status/1761085838174175379)
-	- 
+- vercel 
+	- [ai integrations](https://vercel.com/blog/ai-integrations) - aggregation theory on AI
+	- [streaming RSC UI components](https://twitter.com/shuding_/status/1761085838174175379) - [swyx capture of live demo](https://twitter.com/swyx/status/1763034469366399176/video/1)
 - [Llamacloud and LlamaParse](https://news.ycombinator.com/item?id=39443972)
 - [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images. [more demos](https://x.com/sharifshameem/status/1760348586691408213?s=20)
 - [Retell AI launch](https://news.ycombinator.com/item?id=39453402) - [Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402) talked up by [Garry Tan and Aaron Levie](https://x.com/levie/status/1760415616157298816?s=20)
