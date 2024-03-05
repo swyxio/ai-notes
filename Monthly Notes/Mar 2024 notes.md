@@ -55,4 +55,4 @@
 
 ## reading and learning
 
-- 
+- both [thebloke](https://twitter.com/osanseviero/status/1765103307352055991) and teknium got their start 1 yr ago
