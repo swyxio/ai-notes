@@ -67,6 +67,9 @@
 	- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 - Google $60m/yr data deal with reddit
 	- https://news.ycombinator.com/item?id=39471964
+- [Deepmind Genie](https://arxiv.org/abs/2402.15391?utm_source=substack&utm_medium=email)
+	- Google DeepMind has built Genie, a generative model that can create interactive world. The results are compelling and convincing - the Genie architecture lets DeepMind train a system on a bunch of videos of computer games and it creates a generative model that lets people feed in photos of games (or sketches of games) and then be able to play them, with the model inferring the in-game dynamics on the fly. DeepMind also does the same thing with robotics, creating a robotic model that can infer world state and control dynamics.
+	- The Genie game model is an 11b parameter model trained on “a filtered set of 30,000 hours of Internet gameplay videos from hundreds of 2D platformer games”. The dataset was constructed by “filtering publicly available videos for keywords relating to platformers, yielding 55M 16s video clips at 10FPS, with 160x90 resolution. The final dataset contains 6.8M 16s video clips (30k hours)”.
 - https://twitter.com/evowizz/status/1753795479543132248
 
 ## models
