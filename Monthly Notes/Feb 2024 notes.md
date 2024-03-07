@@ -15,7 +15,7 @@
 
 ## openai
 
-- OpenAI Sora - [official blog](https://openai.com/sora)
+- OpenAI Sora - [official blog](https://openai.com/sora), [details and examples](https://openai.com/research/video-generation-models-as-world-simulators)
 	- [lead author credits](https://x.com/sama/status/1758193609927721350?s=20)
 	- [sama showing demos in response to user prompts](https://x.com/sama/status/1758193792778404192?s=20)
 		- and on openai tiktok ([dog](https://x.com/venturetwins/status/1759984752206196961?s=20), [pizza](https://www.tiktok.com/@openai/video/7337782565870357803?_r=1&_t=8k3QSuBFQhW))
@@ -141,6 +141,10 @@
 - [Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
 - [R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R) ([HN has good criticisms of limitations](https://news.ycombinator.com/item?id=39514145). very MVP for now)
 - [ComfyUI workflow for Face-to-sticker models](https://x.com/fofrai/status/1763209305543602310?s=61) - [Replicate](https://replicate.com/fofr/face-to-sticker)
+- [marginalia](https://github.com/Pleias/marginalia), a small python application to perform corpus analysis and retrieve structured annotations with open LLMs ([tweet](https://twitter.com/dorialexander/status/1757104224331059617?s=12&t=90xQ8sGy63D2OtiaoGJuww)). 
+	- "With proper instructions, marginalia will transform any list of texts into structured data."
+	- In contrast with other json libraries and frameworks for LLM, marginalia does not rely on _controlled generation_ but on _bootstrap generation_: instead of selecting LLM output at the token level, marginalia retains or rejects an entire generation.
+	- marginalia is closely integrated with vllm, and takes advantage of its generation speed. Depending on the prompt and the data constraints, a significant share of the generated annotations will not be compliant, either because they are not valid json, because they cannot be unambiguously associated to the original text or because they fail to satisfy some explicit conditions. marginalia will re-generate every non-compliant data until the output is complete.
 
 ## product launches
 
@@ -197,6 +201,9 @@
 - This month, the venture capital firm Menlo Ventures closed a deal to invest $750 million in Anthropic.
 	- [NYT on Anthropic fundraising](https://news.ycombinator.com/item?id=39456140#39457725)
 	- ~750m ARR 2024 projection - downshift from 850m in jan
+- [DatologyAI $12m seed](https://siliconangle.com/2024/02/22/datologyai-raises-11-65m-automate-data-curation-efficient-ai-training/)
+	- a data curation startup that aims to make it easier to build the enormous training datasets required by generative artificial intelligence models, said today it has closed on an $11.65 million seed funding round.
+	- The round was led by Amplify Partners and saw participation from Radical Ventures, Conviction Capital, Outset Capital and Quiet Capital. Also joining were angel investors such as Google LLC Chief Scientist Jeff Dean, Meta Platforms Inc. Chief AI Scientist Yann LeCun.
 - [Perplexity fundraising deck](https://x.com/BetterPitchGuy/status/1754505942048055604?s=20)
 
 
@@ -212,6 +219,8 @@
 		- [commentary](https://twitter.com/teortaxesTex/status/1762993615750516777)
 	- [Matryoshka Representation Learning (MRL) from the Ground Up](https://aniketrege.github.io/blog/2024/mrl/)
 		- we did a MRL paper club with the authors this month in the LS discord! see discord for links
+	- [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://huggingface.co/papers/2402.14905) 
+		- The craziest takeaway IMO, is that they reused layers back to back, and it worked ??? Maybe 3 layer x 100 times is all you need - @picocreator on latent space discord
 - discussions
 	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
 	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
@@ -232,6 +241,7 @@
 		- [google only acknowledged the problem with historical figures](https://twitter.com/benthompson/status/1760452419627233610?t=90xQ8sGy63D2OtiaoGJuww) but its bigger than that
 		- similar but worse than [openai dalle](https://twitter.com/swyx/status/1760399621543879016) and [meta emu](https://x.com/andrewb10687674/status/1760414422990754071?s=20)
 	- [Things I Don't Know About AI - Elad Gil](https://news.ycombinator.com/item?id=39453622)
+	- Crazy: Perplexity CEO told me he'd agreed to hire someone from Google. [Then Google didn't just match that person's salary, but 4X'd it](https://twitter.com/kantrowitz/status/1758316758379733142?s=12&t=90xQ8sGy63D2OtiaoGJuww). Nuts.
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/) 
