@@ -36,6 +36,7 @@
 		- [Haiku is close to GPT4 in evals, but half the cost of GPT3.5T](https://x.com/mattshumer_/status/1764738098389225759?s=20)
 		- [Trained on synthetic data](https://x.com/Justin_Halford_/status/1764677260555034844?s=20)
 		- [lower loss on code is normal/unremarkable](https://twitter.com/kipperrii/status/1764673822987538622)
+		- reminder that [claude prompting is different](https://twitter.com/mattshumer_/status/1765431254801871156) - use xml
 
 ## Open Models
 
