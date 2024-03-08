@@ -204,6 +204,7 @@
 - [DatologyAI $12m seed](https://siliconangle.com/2024/02/22/datologyai-raises-11-65m-automate-data-curation-efficient-ai-training/)
 	- a data curation startup that aims to make it easier to build the enormous training datasets required by generative artificial intelligence models, said today it has closed on an $11.65 million seed funding round.
 	- The round was led by Amplify Partners and saw participation from Radical Ventures, Conviction Capital, Outset Capital and Quiet Capital. Also joining were angel investors such as Google LLC Chief Scientist Jeff Dean, Meta Platforms Inc. Chief AI Scientist Yann LeCun.
+- [Vocode $3.25m seed](https://techfundingnews.com/y-combinator-backed-conversation-ai-startup-vocode-raises-3-25m-to-grow-its-team/) - 
 - [Perplexity fundraising deck](https://x.com/BetterPitchGuy/status/1754505942048055604?s=20)
 
 
