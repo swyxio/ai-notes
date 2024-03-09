@@ -11,6 +11,7 @@
 	- sydney is back https://x.com/tracewoodgrains/status/1762300324671262960?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- [sundar (bland) internal email](https://twitter.com/lulumeservey/status/1762864255437516932)
 	- chatgpt [was lazy](https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ )
+	- [grimes' take on gemini was very poetic](https://x.com/grimezsz/status/1761027769218347103?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - ai support klarna
 
 ## openai
