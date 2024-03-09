@@ -45,7 +45,8 @@
 - Misc
 	- misc: [OpenAI Feather](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete) - probably just inhouse scale ai [per patent](https://x.com/ugo_alves/status/1761857718812315838?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
-	- [Logan on Lenny's pod](https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/) today 
+	- [Logan on Lenny's pod](https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/) 
+	- [Andrej left OpenAI](https://news.ycombinator.com/item?id=39365288)
 	- [TheInformation](https://x.com/Techmeme/status/1755358482885468319?s=20): OpenAI is developing two types of agent software: one to automate tasks by effectively taking over a user's device, and the other for web-based tasks. The startup is moving another step closer to CEO Sam Altman's end goal of turning ChatGPT into a “supersmart personal assistant for work.”
 
 ## Frontier models
@@ -244,6 +245,7 @@
 		- similar but worse than [openai dalle](https://twitter.com/swyx/status/1760399621543879016) and [meta emu](https://x.com/andrewb10687674/status/1760414422990754071?s=20)
 	- [Things I Don't Know About AI - Elad Gil](https://news.ycombinator.com/item?id=39453622)
 	- Crazy: Perplexity CEO told me he'd agreed to hire someone from Google. [Then Google didn't just match that person's salary, but 4X'd it](https://twitter.com/kantrowitz/status/1758316758379733142?s=12&t=90xQ8sGy63D2OtiaoGJuww). Nuts.
+	- [FTX can sell Anthropic shares in liquidation](https://news.ycombinator.com/item?id=39483421)
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/) 
