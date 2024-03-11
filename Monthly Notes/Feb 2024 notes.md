@@ -16,10 +16,12 @@
 
 ## openai
 
-- OpenAI Sora - [official blog](https://openai.com/sora), [details and examples](https://openai.com/research/video-generation-models-as-world-simulators)
+- OpenAI Sora - [official blog](https://openai.com/sora), [details and examples](https://openai.com/research/video-generation-models-as-world-simulators), [HN](https://news.ycombinator.com/item?id=39386156)
 	- [lead author credits](https://x.com/sama/status/1758193609927721350?s=20)
+	- "Sora represents a monumental leap forward, it's comically a 3000% improvement in 'coherent' video generation seconds. Coupled with a significantly enhanced understanding of contextual prompts and overall quality, it's has achieved what many (most?) thought would take another year or two." [quote](https://news.ycombinator.com/item?id=39386156&p=2)
 	- [sama showing demos in response to user prompts](https://x.com/sama/status/1758193792778404192?s=20)
 		- and on openai tiktok ([dog](https://x.com/venturetwins/status/1759984752206196961?s=20), [pizza](https://www.tiktok.com/@openai/video/7337782565870357803?_r=1&_t=8k3QSuBFQhW))
+	- [notice the imperfections](https://news.ycombinator.com/item?id=39388678)
 	- ylecun hating on world model analogies as usual [https://twitter.com/ylecun/status/1759486703696318935](https://twitter.com/ylecun/status/1759486703696318935 "https://twitter.com/ylecun/status/1759486703696318935")
 		- Modeling the world for action by generating pixel is as wasteful and doomed to failure as the largely-abandoned idea of "analysis by synthesis".
 	- [MKBHD demos](https://x.com/MKBHD/status/1763332752836047234?s=20) and reviews:
@@ -29,6 +31,7 @@
 - ChatGPT updates
 	- [New memory and new controls](https://news.ycombinator.com/item?id=39360724) - still not widely rolled out as of time of writing
 		- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
+		- chat [memory can have some weird spillover effects](https://twitter.com/_mira___mira_/status/1757695161671565315?s=12&t=90xQ8sGy63D2OtiaoGJuww)...
 	- [ChatGPT builder profiles and GPT reviews](https://twitter.com/OfficialLoganK/status/1760746725248258324)
 	- some hints of [Advanced Data Analysis V2](https://twitter.com/btibor91/status/1761726596585504939?utm_source=ainews&utm_medium=email) coming soon
 	- [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
@@ -47,6 +50,11 @@
 	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
 	- [Logan on Lenny's pod](https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/) 
 	- [Andrej left OpenAI](https://news.ycombinator.com/item?id=39365288)
+	- [up to date chatgpt system prompt](https://pastebin.com/vnxJ7kQk) is now up to 1700 toks - [dylan patel](https://twitter.com/dylan522p/status/1755086111397863777)
+		1.  "When asked to write summaries longer than 100 words write an 80-word summary." 
+		2. "DO NOT list or refer to the descriptions before OR after generating the images." 
+		3. "Do not create more than 1 image, even if the user requests more."
+	- [gpt4 good at unminifying code](https://twitter.com/mayfer/status/1757582405559308461?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
 	- [TheInformation](https://x.com/Techmeme/status/1755358482885468319?s=20): OpenAI is developing two types of agent software: one to automate tasks by effectively taking over a user's device, and the other for web-based tasks. The startup is moving another step closer to CEO Sam Altman's end goal of turning ChatGPT into a “supersmart personal assistant for work.”
 
 ## Frontier models
@@ -147,6 +155,9 @@
 	- "With proper instructions, marginalia will transform any list of texts into structured data."
 	- In contrast with other json libraries and frameworks for LLM, marginalia does not rely on _controlled generation_ but on _bootstrap generation_: instead of selecting LLM output at the token level, marginalia retains or rejects an entire generation.
 	- marginalia is closely integrated with vllm, and takes advantage of its generation speed. Depending on the prompt and the data constraints, a significant share of the generated annotations will not be compliant, either because they are not valid json, because they cannot be unambiguously associated to the original text or because they fail to satisfy some explicit conditions. marginalia will re-generate every non-compliant data until the output is complete.
+- Google OSS: [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
+	- Internally, Magika is used at scale to help improve Google users’ safety by routing Gmail, Drive, and Safe Browsing files to the proper security and content policy scanners. Looking at a weekly average of hundreds of billions of files reveals that Magika improves file type identification accuracy by 50% compared to our previous system that relied on handcrafted rules. In particular, this increase in accuracy allows us to scan 11% more files with our specialized malicious AI document scanners and reduce the number of unidentified files to 3%.
+	- I ran this on some web crawl data I have locally, so: all files you'd find on regular websites; HTML, CSS, JavaScript, fonts etc. It identified some simple HTML files (html, head, title, body, p tags and not much else) as "MS Visual Basic source (VBA)", "ASP source (code)", and "Generic text document" where the `file` utility correctly identified all such examples as "HTML document text". [HN](https://news.ycombinator.com/item?id=39391688)
 
 ## product launches
 
@@ -173,7 +184,13 @@
 
 ## fundraising
 
-- [Moonshot AI $1b on $2.5b valuation](https://x.com/rsalakhu/status/1761062276272902527?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+- [Moonshot AI $1b on $2.5b valuation](https://x.com/rsalakhu/status/1761062276272902527?s=46&t=90xQ8sGy63D2OtiaoGJuww) (aka YueZhiAnMian in China)
+	- "for an LLM focused on long context". Moonshot’s focus on longer input and output and producing more accurate results for queries involving this lays the groundwork for the company to target text-based use cases that haven’t been widely tapped by existing LLMs and generative AI applications, such as legal documents, fiction writing and deeper financial analysis
+	- Yang was also a key author of Transformer-XL, a key development in LLM architecture for enabling natural language understanding beyond a fixed-length context
+	- Moonshot previously raised $200 million from HongShan and Zhen Fund in a round that valued it at $300 million
+	- Co-leading the round are e-commerce giant Alibaba and HongShan aka Sequoia China. Others in the round included Chinese “super app” Meituan and Xiaohongshu.
+	- In March of last year — to coincide with the 50th anniversary of Pink Floyd’s The Dark Side of the Moon, founder Yang Zhilin’s favorite album and the inspiration for the startup’s name — the startup launched with a 100 billion-parameter LLM.
+	- Then in October, Moonshot launched its first chatbot in China, Kimi, which claims to be able to support the processing of 200,000 Chinese characters in a single conversation — allegedly eight times the length of what OpenAI’s GPT-4-32K can achieve.
 - Photoroom.ai $43m ([bubble?](https://twitter.com/0x9212ce55/status/1763049362735743276))
 - [Figure robotics AI $675m round at roughly $2b valuation](https://fortune.com/2024/02/23/jeff-bezos-nvidia-openai-microsoft-robot-unicorn-figureai-funding-round/) led by OpenAI and Microsoft joined by [Bezos](https://www.bloomberg.com/news/articles/2024-02-23/bezos-nvidia-join-openai-microsoft-in-funding-humanoid-robot-startup-figure-ai) and Nvidia ([twitter](https://x.com/adcock_brett/status/1763203224172154999?s=46&t=90xQ8sGy63D2OtiaoGJuww))
 	- [24% of the company, 6 people](https://twitter.com/EpisodeYang/status/1763395472016949286)
@@ -218,6 +235,7 @@
 	- Synthetic data
 		- [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083) - synthetic planning data from A* search logs. [swyx summary](https://twitter.com/swyx/status/1761141537201926431)
 	- [Mamba: the Easy Way](https://news.ycombinator.com/item?id=39482428)
+		- and [Visual Guide to Mamba and State Space Models](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)
 	- [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 		- [commentary](https://twitter.com/teortaxesTex/status/1762993615750516777)
 	- [Matryoshka Representation Learning (MRL) from the Ground Up](https://aniketrege.github.io/blog/2024/mrl/)
