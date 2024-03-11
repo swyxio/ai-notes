@@ -277,7 +277,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	- [BabyGPT](https://twitter.com/karpathy/status/1645115622517542913) with two tokens 0/1 and context length of 3, viewing it as a finite state markov chain. It was trained on the sequence "111101111011110" for 50 iterations. The parameters and the architecture of the Transformer modifies the probabilities on the arrows.
 	- Build GPT from scratch https://www.youtube.com/watch?v=kCc8FmEb1nY
 	- different GPT from scratch in 60 LOC  https://jaykmody.com/blog/gpt-from-scratch/
-	- 
+- [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html) - code driven intro of diffusion models
 - [137 emergent abilities of large language models](https://www.jasonwei.net/blog/emergence)
 	- Emergent few-shot prompted tasks: BIG-Bench and MMLU benchmarks
 	- Emergent prompting strategies
