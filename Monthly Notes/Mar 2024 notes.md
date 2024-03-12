@@ -61,6 +61,8 @@
 
 ## other launches
 
+- Cognition Devin
+	- you know what https://buttondown.email/ainews/archive/ainews-the-worlds-first-fully-autonomous-ai/
 - Ideogram 1.0 [launched](https://twitter.com/ideogram_ai/status/1762881278955700270), touting text rendering, photorealism, and magic prompt improvement
 - [groq launched api platform](https://x.com/atbeme/status/1764762523868508182?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - [Inflection Pi 2.5](https://inflection.ai/inflection-2-5?utm_source=ainews) reports 94% of GPT4 levels and pi has 1m DAU 6m MAU.
@@ -76,6 +78,8 @@
 
 - [WSJ: Perplexity](https://twitter.com/DeItaone/status/1764999496167981202) raising another round at $1b valuation
 	- passed $10m in ARR
+- 21m cognition ai - devin https://buttondown.email/ainews/archive/ainews-the-worlds-first-fully-autonomous-ai/
+- 70m in seed - [Physical intelligence](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxMDI3MTYzNywiZXhwIjoxNzEwODc2NDM3LCJhcnRpY2xlSWQiOiJTQTkyMDhUMVVNMFcwMCIsImJjb25uZWN0SWQiOiI5MTM4NzMzNDcyQkY0QjlGQTg0OTI3QTVBRjY1QzBCRiJ9.bJiHdqmbYPTdm-l14qjO66dwNAMQxrzgdItg2sZDBsA)
 
 
 ## 4 wars
