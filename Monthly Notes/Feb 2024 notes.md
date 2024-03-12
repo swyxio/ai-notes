@@ -46,6 +46,7 @@
 		- [fixed with reason](https://twitter.com/E0M/status/1760476148763644166)
 	- [due to lazy/extensive prompt?](https://twitter.com/dylan522p/status/1755086111397863777)
 - Misc
+	- [OpenAI Forum](https://twitter.com/officiallogank/status/1758520604754333867?s=12&t=90xQ8sGy63D2OtiaoGJuww) - a place to discuss, learn, and shape AI. The forum features online and in-person events along with paid activities that directly impact OpenAI models.
 	- misc: [OpenAI Feather](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete) - probably just inhouse scale ai [per patent](https://x.com/ugo_alves/status/1761857718812315838?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
 	- [Logan on Lenny's pod](https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/) 
@@ -71,6 +72,7 @@
 		- **Gemini 1.5 Pro comes with a standard 128,000 token context window. But starting today, a limited group of developers and enterprise customers can try it with a context window of up to 1 million tokens via [AI Studio](https://aistudio.google.com/) and [Vertex AI](https://cloud.google.com/vertex-ai) in private preview.**
 		- Through a series of machine learning innovations, we’ve increased 1.5 Pro’s context window capacity far beyond the original 32,000 tokens for Gemini 1.0. We can now run up to 1 million tokens in production.
 		- when tested on long code prompts, [HVM author agrees gemini retrieval is better than GPT4](https://old.reddit.com/r/singularity/comments/1atjz9v/ive_put_a_complex_codebase_into_a_single/)
+		- very good audio and video recall: https://twitter.com/mattshumer_/status/1758526890174751160?s=12&t=90xQ8sGy63D2OtiaoGJuww
 	-  Sparse MoE multimodal model - Can handle 3 hours of video, 22 hours of audio or 10M tokens with almost perfect recall! - Better than Gemini 1 Pro, better than Ultra for text, worse for audio and vision - Sadly not much info regarding model size, # of experts, architecture explorations, etc
 	- useful for [scanning codebase and implementing fixes for](https://x.com/sullyomarr/status/1760066335898513655?s=46&t=90xQ8sGy63D2OtiaoGJuww) and 
 	- [Gemini rollout in Google Workspace (Gmail, docs, sheets)](https://blog.google/products/google-one/google-one-gemini-ai-gmail-docs-sheets/)
@@ -158,6 +160,16 @@
 - Google OSS: [Magika: AI powered fast and efficient file type identification](https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html)
 	- Internally, Magika is used at scale to help improve Google users’ safety by routing Gmail, Drive, and Safe Browsing files to the proper security and content policy scanners. Looking at a weekly average of hundreds of billions of files reveals that Magika improves file type identification accuracy by 50% compared to our previous system that relied on handcrafted rules. In particular, this increase in accuracy allows us to scan 11% more files with our specialized malicious AI document scanners and reduce the number of unidentified files to 3%.
 	- I ran this on some web crawl data I have locally, so: all files you'd find on regular websites; HTML, CSS, JavaScript, fonts etc. It identified some simple HTML files (html, head, title, body, p tags and not much else) as "MS Visual Basic source (VBA)", "ASP source (code)", and "Generic text document" where the `file` utility correctly identified all such examples as "HTML document text". [HN](https://news.ycombinator.com/item?id=39391688)
+- [NotesGPT](https://github.com/Nutlope/notesGPT): generate action items from your notes in seconds. Powered by Convex, Together.ai, and Whisper.
+	- Convex for the database and cloud functions
+	- Next.js App Router for the framework
+	- Together Inference for the LLM (Mixtral)
+	- Together Embeddings for the embeddings for search
+	- Convex File Storage for storing voice notes
+	- Convex Vector search for vector search
+	- Replicate for Whisper transcriptions
+	- Clerk for user authentication
+	- Tailwind CSS for styling
 
 ## product launches
 
