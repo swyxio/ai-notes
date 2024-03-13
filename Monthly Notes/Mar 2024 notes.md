@@ -1,7 +1,8 @@
 
 ## openai
 
-- jan leike open sourced [transformer debugger](https://twitter.com/janleike/status/1767347608065106387) - It combines both automated interpretability and sparse autoencoders, and it allows rapid exploration of models without writing code. It supports both neurons and attention heads. You can intervene on the forward pass by ablating individual neurons and see what changes. In short, it's a quick and easy way to discover circuits manually.
+- Superalignment team open sourced [transformer debugger](https://twitter.com/janleike/status/1767347608065106387)
+	- It combines both automated interpretability and sparse autoencoders, and it allows rapid exploration of models without writing code. It supports both neurons and attention heads. You can intervene on the forward pass by ablating individual neurons and see what changes. In short, it's a quick and easy way to discover circuits manually.
 - nontechnical
 	- [elon sues openai](https://www.washingtonpost.com/business/2024/03/01/musk-openai-lawsuit/), [openai responds](https://twitter.com/openai/status/1765201089366773913?t=6FDPaNxZcbSsELal6Sv7Ug)
 	- [openai board reappoints sama](https://news.ycombinator.com/item?id=39647105), [NYT wrote some stuff about Mira](https://archive.is/uroRV)
@@ -73,6 +74,9 @@
 - [Stable Diffusion 3 Research Paper](https://news.ycombinator.com/item?id=39599958) ([pdf](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf))
 	- Stable Diffusion 3 outperforms state-of-the-art text-to-image generation systems such as DALL·E 3, Midjourney v6, and Ideogram v1 in typography and prompt adherence, based on human preference evaluations. 
 	- Our new Multimodal Diffusion Transformer (MMDiT) architecture uses separate sets of weights for image and language representations, which improves text understanding and spelling capabilities compared to previous versions of SD3.
+- Cerebras WSE-3: [4trillion Transistors](https://news.ycombinator.com/item?id=39693356)
+	- Built on 5nm, this chip increases the cores to over 900,000, has four trillion transistors, and doubles training performance over WSE-2. Each system costs a few million, but the price hasn't gone up, and these systems are being used globally to overcome the bottlenecks that GPUs can't get rid of.
+	- [Training Giant Neural Networks Using Weight Streaming on Cerebras Wafer-Scale Clusters](https://f.hubspotusercontent30.net/hubfs/8968533/Virtual%20Booth%20Docs/CS%20Weight%20Streaming%20White%20Paper%20111521.pdf)
 
 ## fundraising
 
