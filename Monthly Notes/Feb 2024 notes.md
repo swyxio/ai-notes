@@ -38,6 +38,7 @@
 - Minor model updates
 	- **gpt-3.5-turbo-0125**: The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
 	- gpt4turbo 0125 has training data updated to dec 2023
+	- [GPT4T rate limits now can go up to 1.4M toks per minute](https://twitter.com/officiallogank/status/1759983374628753758?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - ChatGPT bugs and flaws
 	- [Lazy AI](https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ ) acked by [sama on fix](https://twitter.com/sama/status/1754172149378810118)
 	- ChatGPT went "[beserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)" on Feb 20. 
@@ -76,7 +77,11 @@
 	-  Sparse MoE multimodal model - Can handle 3 hours of video, 22 hours of audio or 10M tokens with almost perfect recall! - Better than Gemini 1 Pro, better than Ultra for text, worse for audio and vision - Sadly not much info regarding model size, # of experts, architecture explorations, etc
 	- useful for [scanning codebase and implementing fixes for](https://x.com/sullyomarr/status/1760066335898513655?s=46&t=90xQ8sGy63D2OtiaoGJuww) and 
 	- [Gemini rollout in Google Workspace (Gmail, docs, sheets)](https://blog.google/products/google-one/google-one-gemini-ai-gmail-docs-sheets/)
-	- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+	- User hype
+		- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
+		- Gemini's performance improves as I add dozens of examples. There doesn't seem to be an upper limit. [Many-example prompting is the new fine-tuning.](https://twitter.com/mattshumer_/status/1759981272779108403?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- "I uploaded an entire codebase directly from github, AND all of the issues. Not only was it able to understand the entire codebase, it identified the most urgent issue, and IMPLEMENTED a fix." [tweet](https://twitter.com/sullyomarr/status/1760066335898513655?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- [beats claude on Great Gatsby test by ethan mollick](https://twitter.com/emollick/status/1760142889642852729?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - Google $60m/yr data deal with reddit
 	- https://news.ycombinator.com/item?id=39471964
 - [Deepmind Genie](https://arxiv.org/abs/2402.15391?utm_source=substack&utm_medium=email)
@@ -173,7 +178,8 @@
 
 ## product launches
 
-- [Groq runs Mixtral 8x7B-32k with 500 T/s](https://news.ycombinator.com/item?id=39428880)
+- [Groq runs Mixtral 8x7B-32k with 500 T/s](https://news.ycombinator.com/item?id=39428880). groq employees were all over [HN](https://news.ycombinator.com/item?id=39428880) and Reddit
+	- [teknium](https://twitter.com/teknium1/status/1759823195757318520?s=12&t=90xQ8sGy63D2OtiaoGJuww) llama-2 70B test: 380t/s generation time
 	- [groqchat](https://news.ycombinator.com/item?id=38739199)
 	- [instant refactoring](https://twitter.com/mattshumer_/status/1759652937792422188)
 	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699)
@@ -184,7 +190,7 @@
 - vercel 
 	- [ai integrations](https://vercel.com/blog/ai-integrations) - aggregation theory on AI
 	- [streaming RSC UI components](https://twitter.com/shuding_/status/1761085838174175379) - [swyx capture of live demo](https://twitter.com/swyx/status/1763034469366399176/video/1)
-- [Llamacloud and LlamaParse](https://news.ycombinator.com/item?id=39443972)
+- [Llamacloud and LlamaParse](https://news.ycombinator.com/item?id=39443972) - [tweet](https://twitter.com/jerryjliu0/status/1759993062305189921?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Lexica Aperture v4](https://x.com/sharifshameem/status/1760342835994439936?s=20) - near 4k resolution images. [more demos](https://x.com/sharifshameem/status/1760348586691408213?s=20)
 - [Retell AI launch](https://news.ycombinator.com/item?id=39453402) - [Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402) talked up by [Garry Tan and Aaron Levie](https://x.com/levie/status/1760415616157298816?s=20)
 	- compare with [Vocode](https://github.com/vocodedev/vocode-python) and [Livekit](https://livekit.io/kitt)
@@ -256,9 +262,19 @@
 	- [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://huggingface.co/papers/2402.14905) 
 		- The craziest takeaway IMO, is that they reused layers back to back, and it worked ??? Maybe 3 layer x 100 times is all you need - @picocreator on latent space discord
 - discussions
+	- [Fuck you, show me the prompt](https://hamel.dev/blog/posts/prompt/)
+		- [follow up from Jason Liu](https://jxnl.github.io/blog/writing/2024/02/20/formatting-strings/): "I think too many llm libraries are trying to format your strings in weird ways that don't make sense."
 	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
 	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
-	- [RAG vs Long Context](https://twitter.com/Francis_YAO_/status/1759962812229800012) - Yao Fu taking a contrarian stance
+	- [RAG vs Long Context](https://twitter.com/Francis_YAO_/status/1759962812229800012) - Yao Fu taking a contrarian stance ([followup](https://twitter.com/francis_yao_/status/1759962812229800012?s=12&t=90xQ8sGy63D2OtiaoGJuww))
+		- "RAG is cheap, long context is expensive"
+			- response: history of AI tells it is much easier to make smart models cheaper than making cheap model smart -- when it is cheap, it's never smart.
+		- "Long context can mix retrieval and reasoning during the whole decoding processing"
+			- response: RAG only does the retrieval at the very beginning. Typically, given a question, RAG retrieves the paragraphs that is related to the question, then generate. Long-context does the retrieval for every layer and every token.
+		- "RAG supports trillion level tokens, long-context is 1M."
+			- response: True, but there is a natural distribution of the input document, and I tend to believe most of the cases that requires retrieval is under million level
+		- "RAG can be cached, long-context needs to re-enter the whole document."
+			- This is a common misunderstanding of long-context: you only read the input once, then all subsequent queries will reuse the kv cache. One may argue that kv cache is large -- true, but don't worry, we LLM researchers will give you crazy kv cache compression algorithms just in time. 
 	- attention is quadratic in context length, but NOT transformers compute
 		- https://news.ycombinator.com/item?id=39461568
 		- because [the FFN is a big part of the compute](https://x.com/karpathy/status/1658161721251602432?s=20)
@@ -268,7 +284,7 @@
 		- For example, to take a concrete model (say Llama-70B), it takes about 1.4e16 MLP FLOPs (70 billion * 100000 * 2) to process 100k tokens. The attention component takes about 6.5e15 FLOPS (80 [layers] * 100k [sequence length]^2 * 8192 [hidden dim]). So even if attention turned constant it would reduce runtime by about 30% with today's model at 100k sequence length.
 		- To anyone doubting this, note that llama.cpp does not slow down by a factor of 16 when you pass -c 2048 instead of -c 512.
 	- Gemini imagegen reverse racism issues
-		- [gemini on australian, american, british, german women](https://x.com/debarghya_das/status/1759786243519615169?s=20)
+		- [gemini on australian, american, british, german women](https://x.com/debarghya_das/status/1759786243519615169?s=20). [cannot make an image of caucasian male](https://twitter.com/imao_/status/1760093853430710557?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 		- [English women](https://x.com/RazRazcle/status/1760091322629898712?s=20), [medieval british kings](https://x.com/stratejake/status/1760333904857497650?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
 		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
@@ -281,7 +297,8 @@
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/) 
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
-	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=**39443965******) together with https://github.com/karpathy/minbpe
+	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=**39443965******) ([twitter](https://twitter.com/karpathy/status/1759996549109776702)) together with https://github.com/karpathy/minbpe
+		- [tokenization is the root of all evil](https://x.com/krishnanrohit/status/1760003985560481904?s=20)
 		- [practical application on vocab size vs tokens/s on codellama vs gpt3.5](1760477997994492272)
 - 
 
