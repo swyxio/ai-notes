@@ -209,7 +209,7 @@
 	- Co-leading the round are e-commerce giant Alibaba and HongShan aka Sequoia China. Others in the round included Chinese “super app” Meituan and Xiaohongshu.
 	- In March of last year — to coincide with the 50th anniversary of Pink Floyd’s The Dark Side of the Moon, founder Yang Zhilin’s favorite album and the inspiration for the startup’s name — the startup launched with a 100 billion-parameter LLM.
 	- Then in October, Moonshot launched its first chatbot in China, Kimi, which claims to be able to support the processing of 200,000 Chinese characters in a single conversation — allegedly eight times the length of what OpenAI’s GPT-4-32K can achieve.
-- [Together AI raised $100m at $1b valuation](https://x.com/KateClarkTweets/status/1757925626311594465?s=20) - 2x from previous round 4 months ago
+- [Together AI raised $100m at $1.25b valuation](https://x.com/KateClarkTweets/status/1757925626311594465?s=20) - 2x from previous round 4 months ago - later [confirmed by Together](https://x.com/togethercompute/status/1767943482054967555?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - Photoroom.ai $43m ([bubble?](https://twitter.com/0x9212ce55/status/1763049362735743276))
 - [Figure robotics AI $675m round at roughly $2b valuation](https://fortune.com/2024/02/23/jeff-bezos-nvidia-openai-microsoft-robot-unicorn-figureai-funding-round/) led by OpenAI and Microsoft joined by [Bezos](https://www.bloomberg.com/news/articles/2024-02-23/bezos-nvidia-join-openai-microsoft-in-funding-humanoid-robot-startup-figure-ai) and Nvidia ([twitter](https://x.com/adcock_brett/status/1763203224172154999?s=46&t=90xQ8sGy63D2OtiaoGJuww))
 	- [24% of the company, 6 people](https://twitter.com/EpisodeYang/status/1763395472016949286)
