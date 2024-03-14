@@ -62,11 +62,15 @@
 - Answer.ai [FSDP + QLoRA](https://github.com/AnswerDotAI/fsdp_qlora) - [blogpots](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) a fully open source system that, for the first time, can efficiently train a 70b large language model on a regular desktop computer with two or more standard gaming GPUs (RTX 3090 or 4090).
 - Notebook for finetuning Gemma - with 8 bugfixes ([karpathy](https://twitter.com/karpathy/status/1765473722985771335), [notebook](https://news.ycombinator.com/item?id=39671146))
 	- [releasing GemMoE has all the fixes built in](https://x.com/lucasatkins7/status/1767805804705411098?s=46&t=6FDPaNxZcbSsELal6Sv7Ug)
+- [Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern) 
 
 ## other launches
 
 - Cognition Devin
 	- you know what https://buttondown.email/ainews/archive/ainews-the-worlds-first-fully-autonomous-ai/
+	- [mckay wrigley](https://x.com/mckaywrigley/status/1767985840448516343?s=46&t=6FDPaNxZcbSsELal6Sv7Ug) and [andrew gao](https://x.com/itsandrewgao/status/1767576901088919897?s=46&t=90xQ8sGy63D2OtiaoGJuww) user demos
+	- [cost and latency concerns](https://x.com/sincethestudy/status/1767911516336947659?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- people [frustrated](https://twitter.com/JD_2020/status/1767651974823006584) they got the idea first. [metagpt open clone](https://x.com/MetaGPT_/status/1767965444579692832?s=20)
 - Ideogram 1.0 [launched](https://twitter.com/ideogram_ai/status/1762881278955700270), touting text rendering, photorealism, and magic prompt improvement
 - [groq launched api platform](https://x.com/atbeme/status/1764762523868508182?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - [Inflection Pi 2.5](https://inflection.ai/inflection-2-5?utm_source=ainews) reports 94% of GPT4 levels and pi has 1m DAU 6m MAU.
@@ -77,6 +81,8 @@
 - [Stable Diffusion 3 Research Paper](https://news.ycombinator.com/item?id=39599958) ([pdf](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf))
 	- Stable Diffusion 3 outperforms state-of-the-art text-to-image generation systems such as DALL·E 3, Midjourney v6, and Ideogram v1 in typography and prompt adherence, based on human preference evaluations. 
 	- Our new Multimodal Diffusion Transformer (MMDiT) architecture uses separate sets of weights for image and language representations, which improves text understanding and spelling capabilities compared to previous versions of SD3.
+- Cohere Command R
+	- [good for Tool Use](https://twitter.com/aidangomez/status/1767516407254712723) - beats mixtral on "tool talk" benchmark, but not as good as GPT3.5T, "multi-hop" (call a function and then use that output as input to another tool call before responding) coming
 - Cerebras WSE-3: [4trillion Transistors](https://news.ycombinator.com/item?id=39693356)
 	- Built on 5nm, this chip increases the cores to over 900,000, has four trillion transistors, and doubles training performance over WSE-2. Each system costs a few million, but the price hasn't gone up, and these systems are being used globally to overcome the bottlenecks that GPUs can't get rid of.
 	- [Training Giant Neural Networks Using Weight Streaming on Cerebras Wafer-Scale Clusters](https://f.hubspotusercontent30.net/hubfs/8968533/Virtual%20Booth%20Docs/CS%20Weight%20Streaming%20White%20Paper%20111521.pdf)
@@ -97,17 +103,20 @@
 
 ## reads and discussions
 
-- both [thebloke](https://twitter.com/osanseviero/status/1765103307352055991) and teknium got their start 1 yr ago
-- [Training great LLMs from ground zero](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness) - Yi Tay of Reka
-- [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html) - code driven intro of diffusion models
-- [Cosine Similarity of Embeddings](https://x.com/jxnlco/status/1767202480939475389?s=20)
-- PersonaLLM ([twitter](https://x.com/hjian42/status/1765436653940736303?s=46&t=90xQ8sGy63D2OtiaoGJuww))
-	- we simulate distinct LLM personas based on the Big Five personality model, have them complete the 44-item Big Five Inventory (BFI) personality test and a story writing task, and then assess their essays with automatic and human evaluations.
-	- Results show that LLM personas' self-reported BFI scores are consistent with their designated personality types, with large effect sizes observed across five traits.
-	- Furthermore, human evaluation shows that humans can perceive some personality traits (e.g., extraversion) with an accuracy of up to 80%. Interestingly, the accuracy drops significantly when the annotators were informed of the AI's authorship.
-- AI Prompt engineering
-	- Logan K prompting [a train of DSPy comments](https://x.com/OfficialLoganK/status/1765772254862885374?s=20)
-- [What Extropic is building](https://www.extropic.ai/future)
+- discussions
+	- both [thebloke](https://twitter.com/osanseviero/status/1765103307352055991) and teknium got their start 1 yr ago
+	- [Training great LLMs from ground zero](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness) - Yi Tay of Reka
+	- [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html) - code driven intro of diffusion models
+	- [Cosine Similarity of Embeddings](https://x.com/jxnlco/status/1767202480939475389?s=20)
+	- PersonaLLM ([twitter](https://x.com/hjian42/status/1765436653940736303?s=46&t=90xQ8sGy63D2OtiaoGJuww))
+		- we simulate distinct LLM personas based on the Big Five personality model, have them complete the 44-item Big Five Inventory (BFI) personality test and a story writing task, and then assess their essays with automatic and human evaluations.
+		- Results show that LLM personas' self-reported BFI scores are consistent with their designated personality types, with large effect sizes observed across five traits.
+		- Furthermore, human evaluation shows that humans can perceive some personality traits (e.g., extraversion) with an accuracy of up to 80%. Interestingly, the accuracy drops significantly when the annotators were informed of the AI's authorship.
+	- AI Prompt engineering
+		- Logan K prompting [a train of DSPy comments](https://x.com/OfficialLoganK/status/1765772254862885374?s=20)
+	- [What Extropic is building](https://www.extropic.ai/future)
+- Learning
+	- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) ([HN](https://news.ycombinator.com/item?id=39700256))
 
 ## memes
 
