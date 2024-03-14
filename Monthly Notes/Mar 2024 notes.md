@@ -59,6 +59,7 @@
 
 - Answer.ai [FSDP + QLoRA](https://github.com/AnswerDotAI/fsdp_qlora) - [blogpots](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) a fully open source system that, for the first time, can efficiently train a 70b large language model on a regular desktop computer with two or more standard gaming GPUs (RTX 3090 or 4090).
 - Notebook for finetuning Gemma - with 8 bugfixes ([karpathy](https://twitter.com/karpathy/status/1765473722985771335), [notebook](https://news.ycombinator.com/item?id=39671146))
+	- [releasing GemMoE has all the fixes built in](https://x.com/lucasatkins7/status/1767805804705411098?s=46&t=6FDPaNxZcbSsELal6Sv7Ug)
 
 ## other launches
 
