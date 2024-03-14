@@ -55,6 +55,7 @@
 - OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on: https://github.com/levihsu/OOTDiffusion
 - [Yi: Open Foundation Models by 01.AI](https://news.ycombinator.com/item?id=39659781)  paper covering Yi--34B and variants
 - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague) ([HN](https://news.ycombinator.com/item?id=39698546))
+- [SuperPrompt - Better SDXL prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/) - **TL;DR**: I've trained a 77M T5 model to expand prompts, and it meets or exceeds existing 1B+ parameter LLMs in quality and prompt alignment.
 
 ## Open source tooling
 
