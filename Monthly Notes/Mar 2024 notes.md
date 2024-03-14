@@ -104,6 +104,7 @@
 ## reads and discussions
 
 - discussions
+	- [VC backed AI Employee startups collection](https://twitter.com/chiefaioffice/status/1767680581112873242?t=6FDPaNxZcbSsELal6Sv7Ug&utm_source=ainews&utm_medium=email)
 	- both [thebloke](https://twitter.com/osanseviero/status/1765103307352055991) and teknium got their start 1 yr ago
 	- [Training great LLMs from ground zero](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness) - Yi Tay of Reka
 	- [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html) - code driven intro of diffusion models
@@ -122,3 +123,5 @@
 
 - diffusion papers https://twitter.com/cto_junior/status/1766518604395155830
 - gary marcus https://twitter.com/drjwrae/status/1766803741414699286
+- mira memes https://twitter.com/stokel/status/1768185199412625709
+	- runner up https://x.com/IterIntellectus/status/1768080839550566799?s=20
