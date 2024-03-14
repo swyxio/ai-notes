@@ -85,6 +85,7 @@ This Readme is just the high level overview of the space; you should see the mos
 	- nfx https://www.nfx.com/post/generative-ai-tech-5-layers?ref=context-by-cohere
 	- a16z https://a16z.com/2023/01/19/who-owns-the-generative-ai-platform/
 		- https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/
+		- https://a16z.com/100-gen-ai-apps
 	- madrona https://www.madrona.com/foundation-models/
 	- coatue
 		- https://www.coatue.com/blog/perspective/ai-the-coming-revolution-2023
