@@ -249,6 +249,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
 - [Generative UI in julius](https://twitter.com/0interestrates/status/1762566480821186813)
 	- and vercel
+- [Supermaven AI - Copilot competitor with 300k context length](https://twitter.com/mattshumer_/status/1762177681263620547?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [RecurseChat - Personal AI Chat with Local LLMs](https://news.ycombinator.com/item?id=39532367) (paid/closed source)
 - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/) ([HN](https://news.ycombinator.com/item?id=39363499))
 - [Arc Search pinch to summarize feature](https://x.com/raywongy/status/1760778395309277302?s=20)
