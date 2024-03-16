@@ -21,24 +21,35 @@
 	- "Sora represents a monumental leap forward, it's comically a 3000% improvement in 'coherent' video generation seconds. Coupled with a significantly enhanced understanding of contextual prompts and overall quality, it's has achieved what many (most?) thought would take another year or two." [quote](https://news.ycombinator.com/item?id=39386156&p=2)
 	- [sama showing demos in response to user prompts](https://x.com/sama/status/1758193792778404192?s=20)
 		- and on openai tiktok ([dog](https://x.com/venturetwins/status/1759984752206196961?s=20), [pizza](https://www.tiktok.com/@openai/video/7337782565870357803?_r=1&_t=8k3QSuBFQhW))
+	- bill peebles (diffusion transformer author) selection
+		- ["a giant cathedral is completely filled with cats. there are cats everywhere you look. a man enters the cathedral and bows before the giant cat king sitting on a throne."](https://twitter.com/billpeeb/status/1758650919430848991)
+		- ["cinematic trailer for a group of samoyed puppies learning to become chefs"](https://twitter.com/billpeeb/status/1760168958983021046?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- ["an alien blending in naturally with new york city, paranoia thriller style, 35mm film"](https://x.com/billpeeb/status/1764074070688088341?s=20)
+		- ["a man and a woman in their 20s are dining in a futuristic restaurant materialized out of nanotech and ferrofluids"](https://x.com/billpeeb/status/1764073873648017593?s=20)
+		- ["Close-up of a majestic white dragon with pearlescent, silver-edged scales, icy blue eyes, elegant ivory horns, and misty breath. Focus on detailed facial features and textured scales, set against a softly blurred background"](https://x.com/billpeeb/status/1761235966868464078?s=20)
+		- ["a scuba diver discovers a hidden futuristic shipwreck, with cybernetic marine life and advanced alien technology"](https://x.com/billpeeb/status/1761235907330400640?s=20)
+		- ["in a beautifully rendered papercraft world, a steamboat travels across a vast ocean with wispy clouds in the sky. vast grassy hills lie in the distant background, and some sealife is visible near the papercraft ocean's surface"](https://x.com/billpeeb/status/1761235818515968314?s=20)
 	- [notice the imperfections](https://news.ycombinator.com/item?id=39388678)
 	- ylecun hating on world model analogies as usual [https://twitter.com/ylecun/status/1759486703696318935](https://twitter.com/ylecun/status/1759486703696318935 "https://twitter.com/ylecun/status/1759486703696318935")
 		- Modeling the world for action by generating pixel is as wasteful and doomed to failure as the largely-abandoned idea of "analysis by synthesis".
 	- [MKBHD demos](https://x.com/MKBHD/status/1763332752836047234?s=20) and reviews:
 		- 1: It can struggle with physics, specifically with legs/walking. Often in Sora-generated videos of walking, the legs cross over and merge into each other. Also branded items never quite match up to real life. Things like cars, cameras, etc are never quite identifiable as a specific model 
 		- 3: My god the lighting is so good sometimes. In the third clip, it's almost as if there's a large soft key light just out of frame to the left, and across the board, lighting and shadows match very well. Across the desk, the computer, keyboard, face, etc........ but he has 6 fingers lol
-		- 
+		- [MKBHD interview]( https://youtu.be/Srh1lut4Q2A?si=N-JPakQxrxx7HzIo&t=3188) - nothing huge
+	- [Sora team presentation at UC Berkeley](https://x.com/altryne/status/1768683178888208816?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- [Speculation on how it works](https://twitter.com/thatguybg/status/1759935959792312461?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - ChatGPT updates
 	- [New memory and new controls](https://news.ycombinator.com/item?id=39360724) - still not widely rolled out as of time of writing
 		- [uses a new bio tool](https://x.com/simonw/status/1757629263338209584?s=20)
 		- chat [memory can have some weird spillover effects](https://twitter.com/_mira___mira_/status/1757695161671565315?s=12&t=90xQ8sGy63D2OtiaoGJuww)...
+	- [GPT4T cutoff is now Dec 2023](https://twitter.com/artificialguybr/status/1759454478330110360?s=12&t=90xQ8sGy63D2OtiaoGJuww). [buggy](https://x.com/artificialguybr/status/1759458765839954362?s=20)?
 	- [ChatGPT builder profiles and GPT reviews](https://twitter.com/OfficialLoganK/status/1760746725248258324)
 	- some hints of [Advanced Data Analysis V2](https://twitter.com/btibor91/status/1761726596585504939?utm_source=ainews&utm_medium=email) coming soon
 	- [chatgpt in apple vision pro](https://x.com/ChatGPTapp/status/1753480051889508485?s=20)
 - Minor model updates
 	- **gpt-3.5-turbo-0125**: The updated GPT-3.5 Turbo model is now available. It comes with 50% reduced input pricing, 25% reduced output pricing, along with various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls. Returns a maximum of 4,096 output tokens.
 	- gpt4turbo 0125 has training data updated to dec 2023
-	- [GPT4T rate limits now can go up to 1.4M toks per minute](https://twitter.com/officiallogank/status/1759983374628753758?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [GPT4T rate limits now can go up to 1.5M toks per minute](https://twitter.com/officiallogank/status/1759983374628753758?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - ChatGPT bugs and flaws
 	- [Lazy AI](https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ ) acked by [sama on fix](https://twitter.com/sama/status/1754172149378810118)
 	- ChatGPT went "[beserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)" on Feb 20. 
@@ -58,6 +69,8 @@
 		3. "Do not create more than 1 image, even if the user requests more."
 	- [gpt4 good at unminifying code](https://twitter.com/mayfer/status/1757582405559308461?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
 	- [TheInformation](https://x.com/Techmeme/status/1755358482885468319?s=20): OpenAI is developing two types of agent software: one to automate tasks by effectively taking over a user's device, and the other for web-based tasks. The startup is moving another step closer to CEO Sam Altman's end goal of turning ChatGPT into a “supersmart personal assistant for work.”
+		- [the decoder spun content](https://the-decoder.com/openai-reportedly-developing-two-ai-agents-to-automate-entire-work-processes/?amp=1)
+	- [Sam Altman Seeks Trillions of Dollars to Reshape Business of Chips and AI](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0) OpenAI chief pursues investors including the U.A.E. for a project possibly requiring up to $7 trillion
 
 ## Frontier models
 
@@ -80,8 +93,12 @@
 	- User hype
 		- [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 		- Gemini's performance improves as I add dozens of examples. There doesn't seem to be an upper limit. [Many-example prompting is the new fine-tuning.](https://twitter.com/mattshumer_/status/1759981272779108403?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- "just tried with a paper and asked it "what does Figure 5 show?" it contextualized the whole thing and answered based on that tiny section + figure." - [Sully Omarr](https://twitter.com/sullyomarr/status/1758953161883267320?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- "I uploaded an entire codebase directly from github, AND all of the issues. Not only was it able to understand the entire codebase, it identified the most urgent issue, and IMPLEMENTED a fix." [tweet](https://twitter.com/sullyomarr/status/1760066335898513655?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- "I fed an *entire* biology textbook into Gemini 1.5 Pro. 491,002 tokens. I asked it 3 extremely specific questions, and it got each answer 100% correct." [tweet](https://twitter.com/mckaywrigley/status/1760146610745643347?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [beats claude on Great Gatsby test by ethan mollick](https://twitter.com/emollick/status/1760142889642852729?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- [Paige bailey screen capture -> Selenium code](https://twitter.com/dynamicwebpaige/status/1760537379369304309?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
+Just uploaded the video, and said: "This is a screen recording of me completing a task on my laptop. Could you please write Selenium code that would accomplish the same task?"
 - Google $60m/yr data deal with reddit
 	- https://news.ycombinator.com/item?id=39471964
 - [Deepmind Genie](https://arxiv.org/abs/2402.15391?utm_source=substack&utm_medium=email)
@@ -89,7 +106,7 @@
 	- The Genie game model is an 11b parameter model trained on “a filtered set of 30,000 hours of Internet gameplay videos from hundreds of 2D platformer games”. The dataset was constructed by “filtering publicly available videos for keywords relating to platformers, yielding 55M 16s video clips at 10FPS, with 160x90 resolution. The final dataset contains 6.8M 16s video clips (30k hours)”.
 - https://twitter.com/evowizz/status/1753795479543132248
 
-## models
+## open models
 
 - [Mistral Large]([https://mistral.ai/news/mistral-large/](https://mistral.ai/news/mistral-large/))
 	- announced deal with [Microsoft and Azure](https://news.ycombinator.com/item?id=39511530), alongside [an EUR 15million investment](https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/?guccounter=1) - surprisingly small vs the $2b valuation
@@ -99,17 +116,22 @@
 - [stable diffusion video 2](https://x.com/EMostaque/status/1761121428995281052?s=20)
 - [Google Gemma](https://huggingface.co/blog/gemma) ([HN](https://news.ycombinator.com/item?id=39453271), [good Interconnects recap](https://www.interconnects.ai/p/gemma-google-ships-it)) - new open LLM
 	- Gemma comes in two sizes: 7B parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants.
+	- 256k vocab size
 	- bascally SOTA on Reasoning, Coding, [decent bump vs mistral on Math](https://www.reddit.com/r/LocalLLaMA/comments/1awbo84/google_publishes_open_source_2b_and_7b_model/), at the 2-7B range ([chart](https://x.com/Mascobot/status/1760365209720693150?s=20))
-	- Gemma license has [odd terms](https://ai.google.dev/gemma/prohibited_use_policy)
+	- Gemma license has [odd terms](https://ai.google.dev/gemma/prohibited_use_policy) - [reasonable efforts to update](https://twitter.com/thexeophon/status/1760291394336235641?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Karpathy breaks down Gemma tokenizer](https://x.com/karpathy/status/1760350892317098371?s=46&t=6FDPaNxZcbSsELal6Sv7Ug): TLDR this is basically the Llama 2 tokenizer, except bigger (32K -> 256K), with a lot more special tokens, and the only functional departure is that add_dummy_prefix is turned off to False.
 	- open source support - [llama.cpp, quantization, mlx, lmstudio](https://x.com/altryne/status/1760371315641397331?s=20)
 	- Google released official [Gemma.cpp](https://news.ycombinator.com/item?id=39481554)
+	- [its actually 7.8B](https://twitter.com/jxmnop/status/1760487700145041749?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Stable Diffusion 3](https://news.ycombinator.com/item?id=39466630) - just announced not released
 	- [some tease of technical detail from emad](https://twitter.com/EMostaque/status/1760660709308846135). "a new type of diffusion transformer", flow matching, multimodal inputs, comes in all sizes
 	- Its in sizes from 800m to 8b parameters now, will be all sizes for all sorts of edge to giant GPU deployment.
 	- SD 1.5 is 983m parameters, SDXL is 3.5b, for reference.
 	- [more images](https://x.com/iScienceLuvr/status/1760708610500513882?s=20)
 	- [roadmap post SD3](https://x.com/EMostaque/status/1761342315992326199?s=20): control, composition, collaboration
+- [Stable-Audio-Demo](https://stability-ai.github.io/stable-audio-demo/) ([HN](https://news.ycombinator.com/item?id=39354138))
+- [Stable Cascade](https://stability.ai/news/introducing-stable-cascade) - a new text to image model building upon the Würstchen architecture. This model is being released under a non-commercial license that permits non-commercial use only.
+	- Next to standard text-to-image generation, Stable Cascade can generate image variations and image-to-image generations. Image variations work by extracting image embeddings from a given image using CLIP and then returning this back to the model.
 - [Meta V-JEPA model](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/?utm_source=ainews&utm_medium=email) - video version of I-JEPA model
 	- V-JEPA is a non-generative model that learns by predicting missing or masked parts of a video in an abstract representation space. This is similar to how our [Image Joint Embedding Predictive Architecture (I-JEPA)](https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/) compares abstract representations of images (rather than comparing the pixels themselves). Unlike generative approaches that try to fill in every missing pixel, V-JEPA has the flexibility to discard unpredictable information, which leads to improved training and sample efficiency by a factor between 1.5x and 6x.
 	- Because it takes a self-supervised learning approach, V-JEPA is pre-trained entirely with unlabeled data. Labels are only used to adapt the model to a particular task after pre-training. This type of architecture proves more efficient than previous models, both in terms of the number of labeled examples needed and the total amount of effort put into learning even the unlabeled data. With V-JEPA, we’ve seen efficiency boosts on both of these fronts.
@@ -118,11 +140,10 @@
 	- StarCoder2 is trained with a 16k token context and repo-level information for 4T+ tokens. 
 	- The Stack v2 - the largest code dataset with 900B+ tokens.
 - [Firefunction V1](https://twitter.com/lqiao/status/1760664322215379153) - GPT-4 level structured output, 4x lower latency
-	- swyx was involved in this launch
-- 
 - [Phind-70B: Closing the code quality gap with GPT-4 Turbo while running 4x faster](https://www.phind.com/blog/introducing-phind-70b)
 	- "We love the open-source community and will be releasing the weights for the latest Phind-34B model in the coming weeks. We intend to release the weights for Phind-70B in time as well."
-- Cohere Aya 101 - very good multilingual model outperforming BLOOM despite 2x languages. Apache 2.0 license
+- [Cohere Aya 101](https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/) - very good multilingual model outperforming BLOOM despite 2x languages. Apache 2.0 license
+	- was a “huge endeavor” with over 3000 collaborators around the world, including teams and participants from 119 countries, said Sara Hooker, VP of research at Cohere and leader of Cohere for AI. With over 513 million instruction fine-tuned annotations
 - [Stable Cascade](https://news.ycombinator.com/item?id=39360106): a new arch vs stable diffusion
 	-  Stable Diffusion uses a compression factor of 8, resulting in a 1024x1024 image being encoded to 128x128. Stable Cascade achieves a compression factor of 42, meaning that it is possible to encode a 1024x1024 image to 24x24, while maintaining crisp reconstructions. The text-conditional model is then trained in the highly compressed latent space. 
 	- Previous versions of this architecture, achieved a 16x cost reduction over Stable Diffusion 1.5.
@@ -145,10 +166,14 @@
 	- compare with: [LAION BUD-E](https://laion.ai/blog/bud-e/) - ENHANCING AI VOICE ASSISTANTS’ CONVERSATIONAL QUALITY, NATURALNESS AND EMPATHY
 		- Right now (January 2024) we reach latencies of 300 to 500 ms (with a Phi 2 model). We are confident that response times below 300 ms are possible even with larger models like LLama 2 30B in the near future.
 - [AnimateLCM-SVD-xt](https://x.com/_akhaliq/status/1759658004880740765?s=20): AnimateLCM-SVD-xt can generally produces videos with good quality in 4 steps without requiring the classifier-free guidance, and therefore can save 25 x 2 / 4 = 12.5 times compuation resources compared with normal SVD models
+- [Hugging Face announces Cosmo 1B](https://twitter.com/realmrfakename/status/1760054728208294073?s=12&t=90xQ8sGy63D2OtiaoGJuww), a fully open sourced Phi competitor with an open sourced dataset.
+	- The dataset, dubbed "Cosmopedia," is published on the Hugging Face Hub under the Apache 2.0 license. It was generated using Mixtral 8x7B with various sources (AutoMathText, OpenStax, WikiHow, etc) as "seed data."
+	- [The model, which uses on the Llama 2 architecture, has 1.74B parameters, making it slightly larger than the previous TinyLlama. The model was trained on 160 H100 GPUs for 15 hours.](https://twitter.com/ClementDelangue/status/1760064139425149397)
 
 
 ## open source tooling and projects
 
+- "My benchmark for large language models" [https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html](https://t.co/YZBuwpL0tl) ([highlighted by senpai](https://twitter.com/karpathy/status/1760022429605474550?s=12&t=90xQ8sGy63D2OtiaoGJuww))
 - [HuggingChat Assistants - open source GPT Store](https://twitter.com/julien_c/status/1754501776835760559?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Ollama openai compatibility APIs](https://news.ycombinator.com/item?id=39307330)
 - [LlamaIndex v0.10](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8?source=collection_home---6------0-----------------------)
@@ -158,6 +183,7 @@
 - [Reor – An AI note-taking app that runs models locally](https://github.com/reorproject/reor)
 - [R2R – Open-source framework for production-grade RAG](https://github.com/SciPhi-AI/R2R) ([HN has good criticisms of limitations](https://news.ycombinator.com/item?id=39514145). very MVP for now)
 - [ComfyUI workflow for Face-to-sticker models](https://x.com/fofrai/status/1763209305543602310?s=61) - [Replicate](https://replicate.com/fofr/face-to-sticker)
+- Google [Localllm](https://news.ycombinator.com/item?id=39294810) - a llama.cpp wrapper
 - [marginalia](https://github.com/Pleias/marginalia), a small python application to perform corpus analysis and retrieve structured annotations with open LLMs ([tweet](https://twitter.com/dorialexander/status/1757104224331059617?s=12&t=90xQ8sGy63D2OtiaoGJuww)). 
 	- "With proper instructions, marginalia will transform any list of texts into structured data."
 	- In contrast with other json libraries and frameworks for LLM, marginalia does not rely on _controlled generation_ but on _bootstrap generation_: instead of selecting LLM output at the token level, marginalia retains or rejects an entire generation.
@@ -175,6 +201,7 @@
 	- Replicate for Whisper transcriptions
 	- Clerk for user authentication
 	- Tailwind CSS for styling
+- Datadreamer -  [RLHF a LLM in <50 lines of Python](https://datadreamer.dev/docs/latest/pages/get_started/quick_tour/aligning.html)
 
 ## product launches
 
@@ -182,7 +209,11 @@
 	- [teknium](https://twitter.com/teknium1/status/1759823195757318520?s=12&t=90xQ8sGy63D2OtiaoGJuww) llama-2 70B test: 380t/s generation time
 	- [groqchat](https://news.ycombinator.com/item?id=38739199)
 	- [instant refactoring](https://twitter.com/mattshumer_/status/1759652937792422188)
-	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699)
+	- [swyx recap ](https://twitter.com/swyx/status/1759759125314146699) vs [dylan patel](https://www.semianalysis.com/p/groq-inference-tokenomics-speed-but) - groq employees insist dylan is wrong? [stratechery recap](https://stratechery.com/2024/groq-costs-gemini-pro-1-5-googles-timidity/)
+		- Groq’s chip has a fully deterministic VLIW architecture, with no buffers, and it reaches ~725mm2 die size on Global Foundries 14nm process node. It has no external memory, and it keeps weights, KVCache, and activations, etc all on-chip during processing. Because each chip only has 230MB of SRAM, no useful models can actually fit on a single chip. Instead, they must utilize many chips to fit the model and network them together.
+		- In the case of the Mixtral model, Groq had to connect 8 racks of 9 servers each with 8 chips per server. That’s a total of 576 chips to build up the inference unit and serve the Mixtral model. Compare that to Nvidia where a single H100 can fit the model at low batch sizes, and two chips have enough memory to support large batch sizes.
+		- The wafer cost used to fabricate Groq’s chip is likely less than $6,000 per wafer. Compare this to Nvidia’s H100 at 814mm2 die size on a custom variant of TSMC’s 5nm called 4N. The cost for these wafers is closer to $16,000 per wafer. On the flip side, Groq’s architecture seems less viable for implementing yield harvesting versus Nvidia’s, who has an extremely high parametric yield, due to them disabling ~15% of die for most H100 SKUs.
+		- 8xA100s can serve Mixtral and achieve a throughput of ~220 tokens per second per user, and 8xH100s can hit ~280 tokens per second per user without speculative decoding. With Speculative decoding, the 8xH100 inference unit can achieve throughputs approaching 420 tokens per second per user. The throughput could exceed this figure, but implementing speculative decoding on MoE models is challenging.
 	- breakdown on [their marketing/comms](https://twitter.com/lulumeservey/status/1760401126287945830)
 	- some talk aout [their compiler and scheduling tech](https://x.com/tomjaguarpaw/status/1759529106830479657?s=20)
 - [Show HN: Real-time image generation with SDXL Lightning](https://fastsdxl.ai/) ([fastsdxl.ai](https://news.ycombinator.com/from?site=fastsdxl.ai))
@@ -233,6 +264,7 @@
 - [Magic.dev $117m](https://twitter.com/magicailabs/status/1758140204446323188) series A [with Nat and Dan](https://twitter.com/natfriedman/status/1758143612561568047)
 	- "Code generation is both a product and a path to AGI, requiring new algorithms, lots of CUDA, frontier-scale training, RL, and a new UI."
 	- [talking about "many millions of tokens" context](https://x.com/Hersh_Desai/status/1758147122631757829?s=20) now but previously talked about [5m tokens for "LTM-1"](https://magic.dev/blog/ltm-1)
+	- [some stuff on The Information?](https://www.theinformation.com/articles/the-magic-breakthrough-that-got-friedman-and-gross-to-bet-100-million-on-a-coding-startup)
 	- nat made their own evals
 - Lambda Labs $320m series C ([twitter](https://x.com/stephenbalaban/status/1758154395412214248?s=46&t=90xQ8sGy63D2OtiaoGJuww)) with USIT
 	- This new financing will be used to expand the number of NVIDIA GPUs available in Lambda Cloud and build features that will absolutely delight you.
@@ -254,6 +286,8 @@
 	- Synthetic data
 		- [Beyond A*: Better Planning with Transformers](https://arxiv.org/abs/2402.14083) - synthetic planning data from A* search logs. [swyx summary](https://twitter.com/swyx/status/1761141537201926431)
 	- [Mamba: the Easy Way](https://news.ycombinator.com/item?id=39482428)
+		- Idea #1: Selectivity - By making model parameters a function of the input, Mamba makes it possible to “focus” on the parts of the input that are more important for the task at hand.
+		- Idea #2: Fast training without convolutions - using parallel prefix sum
 		- and [Visual Guide to Mamba and State Space Models](https://maartengrootendorst.substack.com/p/a-visual-guide-to-mamba-and-state)
 	- [The Era of 1-bit LLMs: ternary parameters for cost-effective computing](https://arxiv.org/abs/2402.17764)
 		- [commentary](https://twitter.com/teortaxesTex/status/1762993615750516777)
@@ -261,6 +295,10 @@
 		- we did a MRL paper club with the authors this month in the LS discord! see discord for links
 	- [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://huggingface.co/papers/2402.14905) 
 		- The craziest takeaway IMO, is that they reused layers back to back, and it worked ??? Maybe 3 layer x 100 times is all you need - @picocreator on latent space discord
+	- [How to Generate and Use Synthetic Data for Finetuning](https://eugeneyan.com/writing/synthetic/) - covered in LS paper club !
+	- Introducing **Long Context Data Engineering**, a data driven method achieving the first 128k context open source model matching GPT4-level Needle in a Haystack ([Paper](https://arxiv.org/abs/2402.10171), [GitHub](https://github.com/FranxYao/Long-Context-Data-Engineering), [tweet](https://twitter.com/francis_yao_/status/1759986097365627054?s=12&t=90xQ8sGy63D2OtiaoGJuww))
+		- **Our key hypothesis is that the capability of utilizing information anywhere within the 128k context is already in the base model, and can be readily “unlocked” by light weight continue pretraining. In our case we only use 5b tokens, which requires 5days training on 8xA100**
+		- Our recipe is to construct the per-source length upsampled data from existing pretraining datasets. Specifically we keep the domain mixture the same as the pretraining mixture to maintain capability balance, and within each domain, upsample long data to improve long context.
 - discussions
 	- [Fuck you, show me the prompt](https://hamel.dev/blog/posts/prompt/)
 		- [follow up from Jason Liu](https://jxnl.github.io/blog/writing/2024/02/20/formatting-strings/): "I think too many llm libraries are trying to format your strings in weird ways that don't make sense."
@@ -275,6 +313,11 @@
 			- response: True, but there is a natural distribution of the input document, and I tend to believe most of the cases that requires retrieval is under million level
 		- "RAG can be cached, long-context needs to re-enter the whole document."
 			- This is a common misunderstanding of long-context: you only read the input once, then all subsequent queries will reuse the kv cache. One may argue that kv cache is large -- true, but don't worry, we LLM researchers will give you crazy kv cache compression algorithms just in time. 
+		- [Robert Lukoszko also hating on RAG](https://twitter.com/karmedge/status/1759335588199592100?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+			- Simple example for you why RAG is not here to stay you do real shit You are lawyer. You have big long doc with VC deal. ONE single word will change the way the deal is made, POST money or PRE money
+			- [problem with cosine similarity](https://twitter.com/rohanpaul_ai/status/1759825786008109092?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+				-  "Many practical vector databases and neural search solutions depend on fast cosine similarity matching between document and query embeddings. While appealing for its straightforwardness and computational efficiency, this method, often referred to as "no interaction" or "not interaction-based" has been found to underperform in comparison to models that incorporate some form of interaction between queries and documents.
+				- Contextualized Late Interaction over BERT (ColBERT), implements late interaction, which allows for efficient and precise retrieval by processing queries and documents separately until the final stages of the retrieval process.
 	- attention is quadratic in context length, but NOT transformers compute
 		- https://news.ycombinator.com/item?id=39461568
 		- because [the FFN is a big part of the compute](https://x.com/karpathy/status/1658161721251602432?s=20)
@@ -285,21 +328,32 @@
 		- To anyone doubting this, note that llama.cpp does not slow down by a factor of 16 when you pass -c 2048 instead of -c 512.
 	- Gemini imagegen reverse racism issues
 		- [gemini on australian, american, british, german women](https://x.com/debarghya_das/status/1759786243519615169?s=20). [cannot make an image of caucasian male](https://twitter.com/imao_/status/1760093853430710557?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+		- [Larry Pang and Sergey Bing](https://twitter.com/vocalcry/status/1760150802641854519/photo/1)
 		- [English women](https://x.com/RazRazcle/status/1760091322629898712?s=20), [medieval british kings](https://x.com/stratejake/status/1760333904857497650?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
 		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
 		- [google only acknowledged the problem with historical figures](https://twitter.com/benthompson/status/1760452419627233610?t=90xQ8sGy63D2OtiaoGJuww) but its bigger than that
 		- similar but worse than [openai dalle](https://twitter.com/swyx/status/1760399621543879016) and [meta emu](https://x.com/andrewb10687674/status/1760414422990754071?s=20)
+		- [Gemini PM responses were not well received](https://twitter.com/jackk/status/1760334258722250785?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Things I Don't Know About AI - Elad Gil](https://news.ycombinator.com/item?id=39453622)
 	- Crazy: Perplexity CEO told me he'd agreed to hire someone from Google. [Then Google didn't just match that person's salary, but 4X'd it](https://twitter.com/kantrowitz/status/1758316758379733142?s=12&t=90xQ8sGy63D2OtiaoGJuww). Nuts.
 	- [FTX can sell Anthropic shares in liquidation](https://news.ycombinator.com/item?id=39483421)
+	- Evolution of model usage on huggingchat from [openassistant -> llama2-70b -> mistral](https://x.com/julien_c/status/1755325422848417924?s=20)
+	- [Air Canada must honor refund policy invented by airline’s chatbot](https://twitter.com/arstechnica/status/1758540835132494119?s=20)
+	- [AI Is Like Water](https://www.nfx.com/post/ai-like-water)  The formula your AI company actually needs has these multipliers: (Data + Model) x UX x (Distribution + Perceived Value to Customers) = Your new AI MVP
+	- [strong 7bs: mistral, gemma, reka edge mid 7bs: llama2 cautionary tales: mpt, falcon, dolly, olmo](https://twitter.com/agihippo/status/1760790013997179335?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/) 
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
+	- [Explaining the SDXL Latent Space](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space) ([HN](https://news.ycombinator.com/item?id=39267883))
+	- [How we got fine-tuning Mistral-7B to not suck](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b) ([HN](https://news.ycombinator.com/item?id=39271658))
+	- [Implementing a ChatGPT-like LLM from scratch, step by step](https://github.com/rasbt/LLMs-from-scratch) ([HN](https://news.ycombinator.com/item?id=39156778&utm_source=wondercraft_ai))
+		- 
 	- Karpathy [GPT Tokenizer](https://news.ycombinator.com/item?id=**39443965******) ([twitter](https://twitter.com/karpathy/status/1759996549109776702)) together with https://github.com/karpathy/minbpe
 		- [tokenization is the root of all evil](https://x.com/krishnanrohit/status/1760003985560481904?s=20)
 		- [practical application on vocab size vs tokens/s on codellama vs gpt3.5](1760477997994492272)
+		- [lots of attempts at transcribing](https://twitter.com/karpathy/status/1760807877424640386)
 - 
 
 ## memes
