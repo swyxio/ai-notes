@@ -101,6 +101,7 @@
 		- "I uploaded an entire codebase directly from github, AND all of the issues. Not only was it able to understand the entire codebase, it identified the most urgent issue, and IMPLEMENTED a fix." [tweet](https://twitter.com/sullyomarr/status/1760066335898513655?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- "I fed an *entire* biology textbook into Gemini 1.5 Pro. 491,002 tokens. I asked it 3 extremely specific questions, and it got each answer 100% correct." [tweet](https://twitter.com/mckaywrigley/status/1760146610745643347?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- "I recorded myself lifting weights. I fed the video into Gemini 1.5 Pro and asked it to write JSON for each exercise’s name, set count, rep count, weight, and to generate form critiques. Worked perfectly." [tweet](https://twitter.com/mckaywrigley/status/1761113846520131816?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- "I fed Google Gemini 1.5 Pro the last 8 quarters of Amazon shareholder reports and call transcripts. Wow. "What was an Amazon focus for 2022 that is weirdly absent from the 2023 shareholder calls and reports?"" [tweet](https://twitter.com/alliekmiller/status/1760522046251962459?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [beats claude on Great Gatsby test by ethan mollick](https://twitter.com/emollick/status/1760142889642852729?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [Paige bailey screen capture -> Selenium code](https://twitter.com/dynamicwebpaige/status/1760537379369304309?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
 Just uploaded the video, and said: "This is a screen recording of me completing a task on my laptop. Could you please write Selenium code that would accomplish the same task?"
@@ -294,9 +295,9 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 - This month, the venture capital firm Menlo Ventures closed a deal to invest $750 million in Anthropic.
 	- [NYT on Anthropic fundraising](https://news.ycombinator.com/item?id=39456140#39457725)
 	- ~750m ARR 2024 projection - downshift from 850m in jan
-- [DatologyAI $12m seed](https://siliconangle.com/2024/02/22/datologyai-raises-11-65m-automate-data-curation-efficient-ai-training/)
+- [DatologyAI $12m seed](https://siliconangle.com/2024/02/22/datologyai-raises-11-65m-automate-data-curation-efficient-ai-training/) ([tweet](https://twitter.com/arimorcos/status/1760709233090375741?s=12&t=90xQ8sGy63D2OtiaoGJuww))
 	- a data curation startup that aims to make it easier to build the enormous training datasets required by generative artificial intelligence models, said today it has closed on an $11.65 million seed funding round.
-	- The round was led by Amplify Partners and saw participation from Radical Ventures, Conviction Capital, Outset Capital and Quiet Capital. Also joining were angel investors such as Google LLC Chief Scientist Jeff Dean, Meta Platforms Inc. Chief AI Scientist Yann LeCun.
+	- The round was led by Amplify Partners and saw participation from Radical Ventures, Conviction Capital, Outset Capital and Quiet Capital. Also joining were angel investors such as Google LLC Chief Scientist Jeff Dean, Meta Platforms Inc. Chief AI Scientist Yann LeCun. [notable list](https://twitter.com/rishibommasani/status/1760713004835065919?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Vocode $3.25m seed](https://techfundingnews.com/y-combinator-backed-conversation-ai-startup-vocode-raises-3-25m-to-grow-its-team/) - 
 - [Perplexity fundraising deck](https://x.com/BetterPitchGuy/status/1754505942048055604?s=20)
 
@@ -395,6 +396,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 - apple vision pro https://discord.com/channels/822583790773862470/839660725252784149/1204047864096096328
 - chatgpt memory x tipping meme https://x.com/_mira___mira_/status/1757695161671565315?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - karpathy leaving meme https://x.com/yacinemtb/status/1757775133761057113?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- spaghetti eating will smith https://twitter.com/venturetwins/status/1760743433894023545?s=12&t=90xQ8sGy63D2OtiaoGJuww
 - gemini memes
 	- this meme probably wins [the whole month](https://x.com/thecaptain_nemo/status/1760367238161604804?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- [everyone dogpiling on gemini](https://x.com/growing_daniel/status/1760459653887168984?s=20)
