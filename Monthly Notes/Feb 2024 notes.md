@@ -11,6 +11,7 @@
 	- sydney is back https://x.com/tracewoodgrains/status/1762300324671262960?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- [sundar (bland) internal email](https://twitter.com/lulumeservey/status/1762864255437516932)
 	- chatgpt [was lazy](https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ )
+	- being woke extends to [refusing to help people eat more meat](https://twitter.com/thestalwart/status/1761834474139209924?s=12&t=90xQ8sGy63D2OtiaoGJuww) or refusing to [help people learn python](https://x.com/migtissera/status/1761630684383522924?s=20)
 	- [grimes' take on gemini was very poetic](https://x.com/grimezsz/status/1761027769218347103?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - ai support klarna
 
@@ -63,7 +64,7 @@
 	- [How to open GPTs with prefilled messages: Add "?q=Text" on the end of your GPT's url](https://twitter.com/nickadobos/status/1761063347112534061?s=12&t=90xQ8sGy63D2OtiaoGJuww) - doesnt work on mobile
 - Misc
 	- [OpenAI Forum](https://twitter.com/officiallogank/status/1758520604754333867?s=12&t=90xQ8sGy63D2OtiaoGJuww) - a place to discuss, learn, and shape AI. The forum features online and in-person events along with paid activities that directly impact OpenAI models.
-	- misc: [OpenAI Feather](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete) - probably just inhouse scale ai [per patent](https://x.com/ugo_alves/status/1761857718812315838?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- misc: [OpenAI Feather](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete) - probably just inhouse scale ai [per patent](https://x.com/ugo_alves/status/1761857718812315838?s=46&t=90xQ8sGy63D2OtiaoGJuww). [jimmy apples](https://twitter.com/apples_jimmy/status/1761856728520634383?s=12&t=90xQ8sGy63D2OtiaoGJuww): " It’s been around for ages. Subject domain experts temporarily hired by openai write code that openai uses to fine tune their models off. "
 	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
 	- [Logan on Lenny's pod](https://www.lennyspodcast.com/inside-openai-logan-kilpatrick-head-of-developer-relations/) 
 	- [Andrej left OpenAI](https://news.ycombinator.com/item?id=39365288)
@@ -254,6 +255,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 - [RecurseChat - Personal AI Chat with Local LLMs](https://news.ycombinator.com/item?id=39532367) (paid/closed source)
 - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/) ([HN](https://news.ycombinator.com/item?id=39363499))
 - [Arc Search pinch to summarize feature](https://x.com/raywongy/status/1760778395309277302?s=20)
+- [explorer.globe.engineer](https://t.co/lO3rfOdeig) - It uses AI to breakdown any topic in a visual way that is completely different to other search engines. Table of contents, images, links…it has everything!
 
 ## fundraising
 
@@ -328,6 +330,13 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 		- [follow up from Jason Liu](https://jxnl.github.io/blog/writing/2024/02/20/formatting-strings/): "I think too many llm libraries are trying to format your strings in weird ways that don't make sense."
 	- [Umichigan selling student data](https://x.com/suchenzang/status/1758020313689006374?s=20) 
 	- [Interesting discussion on Replicate's poor GPU cold start with CEO](https://news.ycombinator.com/item?id=39411748)
+	- [Yangqing on why "GPU is an arbitrage market"](https://twitter.com/jiayq/status/1761876535877976376?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- the consensus it that price is expensive unless you have a strong bargain power. A few examples (availability apart) for raw H100 price:
+			- @sfcompute short term lease $2.8/h
+			- @awscloud on demand $6.1/h
+			- @LambdaAPI on demand $2.49(pcie) or $3.5(sxm)
+			- @CoreWeave multi-year reserve $2.23/h
+			- @VoltagePark auction $1.8/h
 	- [RAG vs Long Context](https://twitter.com/Francis_YAO_/status/1759962812229800012) - Yao Fu taking a contrarian stance ([followup](https://twitter.com/francis_yao_/status/1759962812229800012?s=12&t=90xQ8sGy63D2OtiaoGJuww))
 		- "RAG is cheap, long context is expensive"
 			- response: history of AI tells it is much easier to make smart models cheaper than making cheap model smart -- when it is cheap, it's never smart.
@@ -357,6 +366,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 		- [moralisticness on basic questions](https://x.com/RazRazcle/status/1760107387955126618?s=20)
 		- [1930s germany](https://x.com/yacineMTB/status/1759971118457245965?s=20)
 		- [google only acknowledged the problem with historical figures](https://twitter.com/benthompson/status/1760452419627233610?t=90xQ8sGy63D2OtiaoGJuww) but its bigger than that
+		- [prompt modification](https://twitter.com/alexandrosm/status/1761620035905433903?s=12&t=90xQ8sGy63D2OtiaoGJuww): "Google secretly injects "I want to make sure that all groups are represented equally" to anything you ask of its AI. To get Gemini to reveal its prompt, just ask it to generate a picture of a dinosaur first. It's not supposed to tell you but the cool dino makes it forget I guess"
 		- similar but worse than [openai dalle](https://twitter.com/swyx/status/1760399621543879016) and [meta emu](https://x.com/andrewb10687674/status/1760414422990754071?s=20)
 		- [Gemini PM responses were not well received](https://twitter.com/jackk/status/1760334258722250785?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [Things I Don't Know About AI - Elad Gil](https://news.ycombinator.com/item?id=39453622)
@@ -367,7 +377,8 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 	- [Nvidia hits $2T valuation as AI frenzy grips Wall Street](https://news.ycombinator.com/item?id=39481131)
 		- [2021 was the peak revenue for Intel ($79B) vs Nvidia ($27B). Replacement cycles for hardware are a couple of years and in 2023 we see Intel at $54B vs Nvidia at $61B.](https://twitter.com/naveengrao/status/1761316912041214423?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [AI Is Like Water](https://www.nfx.com/post/ai-like-water)  The formula your AI company actually needs has these multipliers: (Data + Model) x UX x (Distribution + Perceived Value to Customers) = Your new AI MVP
-	- "[The Problem of Human Specialness in the Age of AI](https://scottaaronson.blog/?p=7784 "Permanent Link: The Problem of Human Specialness in the Age of AI")" - 
+	- "[The Problem of Human Specialness in the Age of AI](https://scottaaronson.blog/?p=7784 "Permanent Link: The Problem of Human Specialness in the Age of AI")"
+	- [Patrick Collison](https://twitter.com/mckaywrigley/status/1761777430333923755?s=12&t=90xQ8sGy63D2OtiaoGJuww): "The best APIs work *extremely* well with LLMs & function calling. If invented today, API could easily be named AI Programming Interface."
 	- [strong 7bs: mistral, gemma, reka edge mid 7bs: llama2 cautionary tales: mpt, falcon, dolly, olmo](https://twitter.com/agihippo/status/1760790013997179335?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [tweet](https://twitter.com/burkov/status/1761566687239815393?s=12&t=90xQ8sGy63D2OtiaoGJuww) The model size of 7B parameters and the full attention of 4k tokens aren't often coming together by coincidence. This is a maximum you can physically train on a standard 8xA100 or 8xH100 Nvidia GPU node with Flash Attention 2 and model sharding. 
 		- The model is split into pieces. Each piece is put on one of the 8 GPUs. Together with the gradients and the attention matrix, they fill the 80GB of a GPU entirely.
