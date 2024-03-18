@@ -88,6 +88,13 @@
 - Cerebras WSE-3: [4trillion Transistors](https://news.ycombinator.com/item?id=39693356)
 	- Built on 5nm, this chip increases the cores to over 900,000, has four trillion transistors, and doubles training performance over WSE-2. Each system costs a few million, but the price hasn't gone up, and these systems are being used globally to overcome the bottlenecks that GPUs can't get rid of.
 	- [Training Giant Neural Networks Using Weight Streaming on Cerebras Wafer-Scale Clusters](https://f.hubspotusercontent30.net/hubfs/8968533/Virtual%20Booth%20Docs/CS%20Weight%20Streaming%20White%20Paper%20111521.pdf)
+- Rysana Inversion ([blog](https://rysana.com/inversion), [tweet](Inversion, our family of structured LLMs.))
+	- Our first generation models are state of the art in structured tasks such as extraction and function calling while running up to 100× faster, with 10× lower latency, outputting 100% reliable structure with 10,000× less overhead than the best alternatives, and boasting the deepest support for typed JSON output available anywhere.
+	- waitlist
+- [Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d): a generative model based on Stable Video Diffusion, advancing the field of 3D technology and delivering greatly improved quality and view-consistency.
+	- This release features two variants: SV3D_u and SV3D_p. SV3D_u generates orbital videos based on single image inputs without camera conditioning. SV3D_p extends the capability by accommodating both single images and orbital views, allowing for the creation of 3D video along specified camera paths. 
+	- Stable Video 3D can be used now for commercial purposes with a Stability AI Membership. For non-commercial use, you can download the model weights on Hugging Face and view our research paper here.
+	- better than previous [Stable Zero123](https://stability.ai/news/stable-zero123-3d-generation)
 
 ## fundraising
 
