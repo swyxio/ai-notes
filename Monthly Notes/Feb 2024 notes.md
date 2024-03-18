@@ -13,7 +13,10 @@
 	- chatgpt [was lazy](https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ )
 	- being woke extends to [refusing to help people eat more meat](https://twitter.com/thestalwart/status/1761834474139209924?s=12&t=90xQ8sGy63D2OtiaoGJuww) or refusing to [help people learn python](https://x.com/migtissera/status/1761630684383522924?s=20) or [refusing to define BLOB](https://x.com/pmarca/status/1761616612510101581?s=20)
 	- [grimes' take on gemini was very poetic](https://x.com/grimezsz/status/1761027769218347103?s=46&t=90xQ8sGy63D2OtiaoGJuww)
-- ai support klarna
+- ai support klarna ([screenshot tweet](https://twitter.com/tanayj/status/1762611727764537671?s=12&t=90xQ8sGy63D2OtiaoGJuww), [klarna CEO](https://twitter.com/klarnaseb/status/1762508581679640814?s=12&t=90xQ8sGy63D2OtiaoGJuww))
+	- Klarna's AI customer support agent is able to handle 2/3rd of the requests by itself in its first month and is doing the job of an equivalent of 700 agents.
+	- has in its first 4 weeks handled 2.3 m customer service chats and the data and insights are staggering: - Handles 2/3 rd of our customer service enquires - On par with humans on customer satisfaction - Higher accuracy leading to a 25% reduction in repeat inquiries - Customer resolves their errands in 2 min vs 11 min - Live 24/7 in over 23 markets, communicating in over 35 languages
+		- Just for clarity this is not a co-pilot, this is AI performing and concluding the conversations and errands by itself.
 
 ## openai
 
@@ -231,7 +234,8 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 	4. Whisperspeech
 	5. StyleTTS 2
 	6. And ElevenLabs v2, too (OpenAI coming soon too) ;)
-1. [Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413) an open source and self-hostable ChatGPT-style system that can access your team’s unique knowledge by connecting to 25 of the most common workplace tools (Slack, Google Drive, Jira, etc.). You ask questions in natural language and get back answers based on your team’s documents. Where relevant, answers are backed by citations and links to the exact documents used to generate them.
+- [Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413) an open source and self-hostable ChatGPT-style system that can access your team’s unique knowledge by connecting to 25 of the most common workplace tools (Slack, Google Drive, Jira, etc.). You ask questions in natural language and get back answers based on your team’s documents. Where relevant, answers are backed by citations and links to the exact documents used to generate them.
+- https://github.com/yoheinakajima/predictivechat - a quick Flask prototype designed to showcase the usage of LLMs in predicting user behavior to decrease latency. ([demo](https://x.com/yoheinakajima/status/1762928630366347631?s=20))
 
 
 ## product launches
