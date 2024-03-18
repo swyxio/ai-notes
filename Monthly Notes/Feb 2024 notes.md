@@ -103,6 +103,7 @@
 		- "I fed an *entire* biology textbook into Gemini 1.5 Pro. 491,002 tokens. I asked it 3 extremely specific questions, and it got each answer 100% correct." [tweet](https://twitter.com/mckaywrigley/status/1760146610745643347?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- "I recorded myself lifting weights. I fed the video into Gemini 1.5 Pro and asked it to write JSON for each exercise’s name, set count, rep count, weight, and to generate form critiques. Worked perfectly." [tweet](https://twitter.com/mckaywrigley/status/1761113846520131816?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- "I fed Google Gemini 1.5 Pro the last 8 quarters of Amazon shareholder reports and call transcripts. Wow. "What was an Amazon focus for 2022 that is weirdly absent from the 2023 shareholder calls and reports?"" [tweet](https://twitter.com/alliekmiller/status/1760522046251962459?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- "I uploaded the source code for the text adventure game, Zork, and asked Gemini 1.5 to play it with me. The model walked me through the game play -- but also made changes and modifications based on the questions I asked." [tweet](https://twitter.com/dynamicwebpaige/status/1762642914516357389?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [beats claude on Great Gatsby test by ethan mollick](https://twitter.com/emollick/status/1760142889642852729?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [Paige bailey screen capture -> Selenium code](https://twitter.com/dynamicwebpaige/status/1760537379369304309?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
 Just uploaded the video, and said: "This is a screen recording of me completing a task on my laptop. Could you please write Selenium code that would accomplish the same task?"
@@ -193,6 +194,11 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 - [HuggingChat Assistants - open source GPT Store](https://twitter.com/julien_c/status/1754501776835760559?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Ollama openai compatibility APIs](https://news.ycombinator.com/item?id=39307330)
 - [LlamaIndex v0.10](https://blog.llamaindex.ai/llamaindex-v0-10-838e735948f8?source=collection_home---6------0-----------------------)
+	- [llama-index-networks feature](https://twitter.com/llama_index/status/1762552542981230769?s=12&t=90xQ8sGy63D2OtiaoGJuww): combine RAG applications into a distributed super-RAG!
+	- ➡️ create an API service for any RAG application
+	- ➡️ connect RAG apps into a single network
+	- ➡️ effortlessly run queries across the entire network
+	- ➡️ get a single answer from all the responses combined by an LLM!
 - [OpenLLMetry-JS](https://news.ycombinator.com/item?id=39371297) SDK via traceloop
 	- an open protocol and SDK, based on OpenTelemetry, that provides traces and metrics for LLM JS/TS applications and can be connected to any of the 15+ tools that already support OpenTelemetry.
 	- JS version of [Python one](https://news.ycombinator.com/item?id=37843907)
@@ -225,6 +231,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 	4. Whisperspeech
 	5. StyleTTS 2
 	6. And ElevenLabs v2, too (OpenAI coming soon too) ;)
+1. [Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413) an open source and self-hostable ChatGPT-style system that can access your team’s unique knowledge by connecting to 25 of the most common workplace tools (Slack, Google Drive, Jira, etc.). You ask questions in natural language and get back answers based on your team’s documents. Where relevant, answers are backed by citations and links to the exact documents used to generate them.
 
 
 ## product launches
@@ -250,6 +257,8 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 - [Retell AI launch](https://news.ycombinator.com/item?id=39453402) - [Conversational Speech API for Your LLM](https://news.ycombinator.com/item?id=39453402) talked up by [Garry Tan and Aaron Levie](https://x.com/levie/status/1760415616157298816?s=20)
 	- compare with [Vocode](https://github.com/vocodedev/vocode-python) and [Livekit](https://livekit.io/kitt)
 - [Show HN: Supermaven, the first code completion tool with 300k token context](https://supermaven.com/blog/introducing-supermaven)
+	- [tweet - TabNine reborn](https://twitter.com/jbfja/status/1760780340342505653?s=12&t=90xQ8sGy63D2OtiaoGJuww): Supermaven not only provides the best completions of any tool but it's also the fastest. In the video below I test the speed of Supermaven compared to several alternatives. Supermaven's response time is 250ms, over 3x faster than any other tool in this case.
+	- "Unlike existing tools which are all based on the Transformer architecture, **Supermaven uses a new operation which is better than self-attention** at integrating information across a long context."
 - [Generative UI in julius](https://twitter.com/0interestrates/status/1762566480821186813)
 	- and vercel
 - [Supermaven AI - Copilot competitor with 300k context length](https://twitter.com/mattshumer_/status/1762177681263620547?s=12&t=90xQ8sGy63D2OtiaoGJuww)

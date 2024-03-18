@@ -58,6 +58,8 @@
 - [Yi: Open Foundation Models by 01.AI](https://news.ycombinator.com/item?id=39659781)  paper covering Yi--34B and variants
 - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague) ([HN](https://news.ycombinator.com/item?id=39698546))
 - [SuperPrompt - Better SDXL prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/) - **TL;DR**: I've trained a 77M T5 model to expand prompts, and it meets or exceeds existing 1B+ parameter LLMs in quality and prompt alignment.
+- [StructLM](https://twitter.com/dorialexander/status/1762374891662131610?s=12&t=90xQ8sGy63D2OtiaoGJuww): LLM for structured knowledge extraction
+	- To augment the Structured Knowledge Grounding (SKG) capabilities in LLMs, we have developed a comprehensive instruction tuning dataset comprising 1.1 million examples. Utilizing this dataset, we train a series of models, referred to as StructLM, based on the Code-LLaMA architecture, ranging from 7B to 34B parameters. Our StructLM series surpasses task-specific models on 14 out of 18 evaluated datasets and establishes new SoTA achievements on 7 SKG tasks. Furthermore, StructLM demonstrates exceptional generalization across 6 novel SKG tasks. Contrary to expectations, we observe that scaling model size offers marginal benefits, with StructLM-34B showing only slight improvements over StructLM-7B. This suggests that structured knowledge grounding is still a challenging task and requires more innovative design to push to a new level.
 
 ## Open source tooling
 
@@ -127,6 +129,10 @@
 	- [What Extropic is building](https://www.extropic.ai/future)
 - Learning
 	- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) ([HN](https://news.ycombinator.com/item?id=39700256))
+	- Intro to DSPy ([blog](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9), [tweet](https://twitter.com/helloiamleonie/status/1762508240359702739?s=12&t=90xQ8sGy63D2OtiaoGJuww)) In DSPy, traditional prompt engineering concepts are replaced with:
+		- Signatures replace hand-written prompts,
+		- Modules replace specific prompt engineering techniques, and
+		- Teleprompters and the DSPy Compiler replace manual iterations of prompt engineering.
 
 ## memes
 
