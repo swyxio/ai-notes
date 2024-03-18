@@ -7,11 +7,11 @@
 - long context vs rag
 - alignment problems 
 	- the thing about builders
-	- meta https://x.com/ns123abc/status/1761144236118810855?s=46&t=90xQ8sGy63D2OtiaoGJuww 
+	- meta image gen as well https://x.com/ns123abc/status/1761144236118810855?s=46&t=90xQ8sGy63D2OtiaoGJuww 
 	- sydney is back https://x.com/tracewoodgrains/status/1762300324671262960?s=46&t=90xQ8sGy63D2OtiaoGJuww
 	- [sundar (bland) internal email](https://twitter.com/lulumeservey/status/1762864255437516932)
 	- chatgpt [was lazy](https://www.reddit.com/r/OpenAI/comments/1aj6lrz/damned_lazy_ai/ )
-	- being woke extends to [refusing to help people eat more meat](https://twitter.com/thestalwart/status/1761834474139209924?s=12&t=90xQ8sGy63D2OtiaoGJuww) or refusing to [help people learn python](https://x.com/migtissera/status/1761630684383522924?s=20)
+	- being woke extends to [refusing to help people eat more meat](https://twitter.com/thestalwart/status/1761834474139209924?s=12&t=90xQ8sGy63D2OtiaoGJuww) or refusing to [help people learn python](https://x.com/migtissera/status/1761630684383522924?s=20) or [refusing to define BLOB](https://x.com/pmarca/status/1761616612510101581?s=20)
 	- [grimes' take on gemini was very poetic](https://x.com/grimezsz/status/1761027769218347103?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - ai support klarna
 
@@ -120,7 +120,8 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 
 ## open models
 
-- [Mistral Large]([https://mistral.ai/news/mistral-large/](https://mistral.ai/news/mistral-large/))
+- [Mistral Large]([https://mistral.ai/news/mistral-large/](https://mistral.ai/news/mistral-large/)) ([decent benchmarks](https://twitter.com/abacaj/status/1762128917786132802?s=12&t=90xQ8sGy63D2OtiaoGJuww) , beats GPT3.5 but just shy of GPT4)
+	- " costs %20 less than gpt4-turbo, but mistrals tokenizer results in %20 more tokens on average. You just use a worse model for the same $" [ouch](https://twitter.com/thexeophon/status/1762174093598642600?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- announced deal with [Microsoft and Azure](https://news.ycombinator.com/item?id=39511530), alongside [an EUR 15million investment](https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/?guccounter=1) - surprisingly small vs the $2b valuation
 		- The US tech giant will provide the 10-month-old Paris-based company with help in bringing its AI models to market.[ Microsoft will also take a minor stake in Mistral](https://news.ycombinator.com/item?id=39511530) although the financial details have not been disclosed. The partnership makes Mistral the second company to provide commercial language models available on Microsoft’s Azure cloud computing platform.
 	- Mistral small as well
@@ -256,6 +257,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 - [Fly.io has GPUs now](https://fly.io/blog/fly-io-has-gpus-now/) ([HN](https://news.ycombinator.com/item?id=39363499))
 - [Arc Search pinch to summarize feature](https://x.com/raywongy/status/1760778395309277302?s=20)
 - [explorer.globe.engineer](https://t.co/lO3rfOdeig) - It uses AI to breakdown any topic in a visual way that is completely different to other search engines. Table of contents, images, links…it has everything!
+- [Announcing STORM](https://x.com/EchoShao8899/status/1762156403312234696?s=20), a system that writes Wikipedia-like articles based on Internet search - STORM is a carefully designed pipeline for knowledge curation rather than a single prompt or model. We build STORM using DSPy which provides very neat modularization - this allows us to keep extending our work without getting lost in many prompt files.
 
 ## fundraising
 
@@ -351,6 +353,8 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 			- [problem with cosine similarity](https://twitter.com/rohanpaul_ai/status/1759825786008109092?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 				-  "Many practical vector databases and neural search solutions depend on fast cosine similarity matching between document and query embeddings. While appealing for its straightforwardness and computational efficiency, this method, often referred to as "no interaction" or "not interaction-based" has been found to underperform in comparison to models that incorporate some form of interaction between queries and documents.
 				- Contextualized Late Interaction over BERT (ColBERT), implements late interaction, which allows for efficient and precise retrieval by processing queries and documents separately until the final stages of the retrieval process.
+	- [Why OSS models should NOT be trained to 1m context](https://x.com/main_horse/status/1762100691949207724?s=20)
+		- A single 7B forward pass costs 37.4x more FLOPs-per-token @ 1M ctx, relative to 4k ctx. Arguably att head dims need be larger as well.
 	- attention is quadratic in context length, but NOT transformers compute
 		- https://news.ycombinator.com/item?id=39461568
 		- because [the FFN is a big part of the compute](https://x.com/karpathy/status/1658161721251602432?s=20)
@@ -383,6 +387,9 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 		- [tweet](https://twitter.com/burkov/status/1761566687239815393?s=12&t=90xQ8sGy63D2OtiaoGJuww) The model size of 7B parameters and the full attention of 4k tokens aren't often coming together by coincidence. This is a maximum you can physically train on a standard 8xA100 or 8xH100 Nvidia GPU node with Flash Attention 2 and model sharding. 
 		- The model is split into pieces. Each piece is put on one of the 8 GPUs. Together with the gradients and the attention matrix, they fill the 80GB of a GPU entirely.
 		- If you see a model with more than 4k token context, it is cheating somehow, for example by using Multi-Query Attention like in Gemma or Sliding Window Attention like in Mistral. If you see a finetune of a 30B+ parameters made on one 8xA/H100 machine, it's a QLoRA, most likely quantized to 8 or 4 bits.
+	- [Does anyone have a favorite task where gpt-4 has near chance accuracy when zero or few-shot prompted?](https://twitter.com/sea_snell/status/1761440741858111776?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- (number 1) distractor (number2) distractor (number 3)
+		- [fchollet's ARC benchmark](https://github.com/fchollet/ARC)
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/) 
