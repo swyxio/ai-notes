@@ -97,6 +97,9 @@
 	- This release features two variants: SV3D_u and SV3D_p. SV3D_u generates orbital videos based on single image inputs without camera conditioning. SV3D_p extends the capability by accommodating both single images and orbital views, allowing for the creation of 3D video along specified camera paths. 
 	- Stable Video 3D can be used now for commercial purposes with a Stability AI Membership. For non-commercial use, you can download the model weights on Hugging Face and view our research paper here.
 	- better than previous [Stable Zero123](https://stability.ai/news/stable-zero123-3d-generation)
+- [Contextual AI RAG 2.0](https://x.com/contextualai/status/1770073215567569392?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- Unlike the previous generation of RAG, which stitches together frozen models, vector databases, and poor quality embeddings, our system is optimized end to end.
+	- Using RAG 2.0, we’ve created our first set of Contextual Language Models (CLMs), which achieve state-of-the-art performance on a wide variety of industry benchmarks. CLMs outperform strong RAG baselines based on GPT-4 and the best open-source models by a large margin, according to our research and our customers.
 
 ## fundraising
 
