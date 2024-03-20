@@ -67,6 +67,9 @@
 - Notebook for finetuning Gemma - with 8 bugfixes ([karpathy](https://twitter.com/karpathy/status/1765473722985771335), [notebook](https://news.ycombinator.com/item?id=39671146))
 	- [releasing GemMoE has all the fixes built in](https://x.com/lucasatkins7/status/1767805804705411098?s=46&t=6FDPaNxZcbSsELal6Sv7Ug)
 - [Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern) 
+- https://github.com/mshumer/gpt-prompt-engineer
+	- https://x.com/mattshumer_/status/1770494629844074975?s=20
+	-  a new version of gpt-prompt-engineer that takes full advantage of Anthropic's Claude 3 Opus model. This version auto-generates test cases and allows for the user to define multiple input variables, making it even more powerful and flexible. Try it out with the claude-prompt-engineer.ipynb notebook in the repo!
 
 ## other launches
 

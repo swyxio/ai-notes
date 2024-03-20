@@ -28,7 +28,7 @@
 	- bill peebles (diffusion transformer author) selection
 		- ["a giant cathedral is completely filled with cats. there are cats everywhere you look. a man enters the cathedral and bows before the giant cat king sitting on a throne."](https://twitter.com/billpeeb/status/1758650919430848991)
 		- ["cinematic trailer for a group of samoyed puppies learning to become chefs"](https://twitter.com/billpeeb/status/1760168958983021046?s=12&t=90xQ8sGy63D2OtiaoGJuww)
-		- ["an alien blending in naturally with new york city, paranoia thriller style, 35mm film"](https://x.com/billpeeb/status/1764074070688088341?s=20)
+		- ["an alien blending in naturally with new york city, paranoia thriller style, 35mm film"](https://x.com/billpeeb/status/1764074070688088341?s=20) - criticised [here](https://x.com/strangeharbors/status/1770111357708337258?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 		- ["a man and a woman in their 20s are dining in a futuristic restaurant materialized out of nanotech and ferrofluids"](https://x.com/billpeeb/status/1764073873648017593?s=20)
 		- ["Close-up of a majestic white dragon with pearlescent, silver-edged scales, icy blue eyes, elegant ivory horns, and misty breath. Focus on detailed facial features and textured scales, set against a softly blurred background"](https://x.com/billpeeb/status/1761235966868464078?s=20)
 		- ["a scuba diver discovers a hidden futuristic shipwreck, with cybernetic marine life and advanced alien technology"](https://x.com/billpeeb/status/1761235907330400640?s=20)
