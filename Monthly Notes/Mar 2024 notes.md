@@ -134,6 +134,7 @@
 		- Logan K prompting [a train of DSPy comments](https://x.com/OfficialLoganK/status/1765772254862885374?s=20)
 	- [What Extropic is building](https://www.extropic.ai/future)
 	- "What does Alan Kay think about programming and teaching programming with copilots and LLMs of today?" ([quora/HN](https://news.ycombinator.com/item?id=39758391))
+	- [Key Stable Diffusion Researchers Leave Stability AI as Company Flounders](https://www.forbes.com/sites/iainmartin/2024/03/20/key-stable-diffusion-researchers-leave-stability-ai-as-company-flounders) ([HN](https://news.ycombinator.com/item?id=39768402))
 - Learning
 	- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) ([HN](https://news.ycombinator.com/item?id=39700256))
 	- Intro to DSPy ([blog](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9), [tweet](https://twitter.com/helloiamleonie/status/1762508240359702739?s=12&t=90xQ8sGy63D2OtiaoGJuww)) In DSPy, traditional prompt engineering concepts are replaced with:
