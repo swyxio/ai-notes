@@ -114,7 +114,7 @@
 - [WSJ: Perplexity](https://twitter.com/DeItaone/status/1764999496167981202) raising another round at $1b valuation
 	- passed $10m in ARR
 - 21m cognition ai - devin https://buttondown.email/ainews/archive/ainews-the-worlds-first-fully-autonomous-ai/
-- 70m in seed - [Physical intelligence](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxMDI3MTYzNywiZXhwIjoxNzEwODc2NDM3LCJhcnRpY2xlSWQiOiJTQTkyMDhUMVVNMFcwMCIsImJjb25uZWN0SWQiOiI5MTM4NzMzNDcyQkY0QjlGQTg0OTI3QTVBRjY1QzBCRiJ9.bJiHdqmbYPTdm-l14qjO66dwNAMQxrzgdItg2sZDBsA)
+- 70m in seed - [Physical intelligence](https://www.bloomberg.com/news/articles/2024-03-12/physical-intelligence-is-building-ai-for-robots-backed-by-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxMDI3MTYzNywiZXhwIjoxNzEwODc2NDM3LCJhcnRpY2xlSWQiOiJTQTkyMDhUMVVNMFcwMCIsImJjb25uZWN0SWQiOiI5MTM4NzMzNDcyQkY0QjlGQTg0OTI3QTVBRjY1QzBCRiJ9.bJiHdqmbYPTdm-l14qjO66dwNAMQxrzgdItg2sZDBsA) - [https://news.ycombinator.com/item?id=39690967](https://news.ycombinator.com/item?id=39690967 "https://news.ycombinator.com/item?id=39690967") apparently 70m at 400m valuaation
 
 
 ## 4 wars
