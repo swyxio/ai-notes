@@ -57,6 +57,7 @@
 - OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on: https://github.com/levihsu/OOTDiffusion
 - [Yi: Open Foundation Models by 01.AI](https://news.ycombinator.com/item?id=39659781)  paper covering Yi--34B and variants
 - [LaVague: Open-source Large Action Model to automate Selenium browsing](https://github.com/lavague-ai/LaVague) ([HN](https://news.ycombinator.com/item?id=39698546))
+	- similar to [https://github.com/Skyvern-AI/Skyvern](https://github.com/Skyvern-AI/Skyvern)
 - [SuperPrompt - Better SDXL prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/) - **TL;DR**: I've trained a 77M T5 model to expand prompts, and it meets or exceeds existing 1B+ parameter LLMs in quality and prompt alignment.
 - [StructLM](https://twitter.com/dorialexander/status/1762374891662131610?s=12&t=90xQ8sGy63D2OtiaoGJuww): LLM for structured knowledge extraction
 	- To augment the Structured Knowledge Grounding (SKG) capabilities in LLMs, we have developed a comprehensive instruction tuning dataset comprising 1.1 million examples. Utilizing this dataset, we train a series of models, referred to as StructLM, based on the Code-LLaMA architecture, ranging from 7B to 34B parameters. Our StructLM series surpasses task-specific models on 14 out of 18 evaluated datasets and establishes new SoTA achievements on 7 SKG tasks. Furthermore, StructLM demonstrates exceptional generalization across 6 novel SKG tasks. Contrary to expectations, we observe that scaling model size offers marginal benefits, with StructLM-34B showing only slight improvements over StructLM-7B. This suggests that structured knowledge grounding is still a challenging task and requires more innovative design to push to a new level.
@@ -103,6 +104,9 @@
 - [Contextual AI RAG 2.0](https://x.com/contextualai/status/1770073215567569392?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- Unlike the previous generation of RAG, which stitches together frozen models, vector databases, and poor quality embeddings, our system is optimized end to end.
 	- Using RAG 2.0, we’ve created our first set of Contextual Language Models (CLMs), which achieve state-of-the-art performance on a wide variety of industry benchmarks. CLMs outperform strong RAG baselines based on GPT-4 and the best open-source models by a large margin, according to our research and our customers.
+- smaller
+	- [Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
+		- Meticulate uses LLMs to emulate analyst research processes. For example, to manually build a competitive landscape like this one: https://meticulate.ai/workflow/65dbfeec44da6238abaaa059, an analyst needs to spend ~2 hours digging through company websites, forums, and market reports. Meticulate replicates this same process of discovering, researching, and mapping companies using ~1500 LLM calls and ~500 webpages and database pulls, delivering results 50x faster at 50x less cost. At each step, we use an LLM as an agent to run searches, select and summarize articles, devise frameworks of analysis, and make small decisions like ranking and sorting companies. Compared to approaches where an LLM is being used directly to answer questions, this lets us deliver results that (a) come from real time searches and (b) are traceable back to the original sources.
 
 ## fundraising
 
@@ -141,6 +145,8 @@
 		- Signatures replace hand-written prompts,
 		- Modules replace specific prompt engineering techniques, and
 		- Teleprompters and the DSPy Compiler replace manual iterations of prompt engineering.
+	- [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm/)
+		- "you can just train your own multimodal llm by training a projection between, say, whisper embeddings and mistral embeddings, concatenating them, and freezing the rest" https://twitter.com/EsotericCofe/status/1771095068872491287
 
 ## memes
 
