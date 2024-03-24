@@ -236,7 +236,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 	6. And ElevenLabs v2, too (OpenAI coming soon too) ;)
 - [Danswer (YC W24) – Open-source AI search and chat over private data](https://news.ycombinator.com/item?id=39467413) an open source and self-hostable ChatGPT-style system that can access your team’s unique knowledge by connecting to 25 of the most common workplace tools (Slack, Google Drive, Jira, etc.). You ask questions in natural language and get back answers based on your team’s documents. Where relevant, answers are backed by citations and links to the exact documents used to generate them.
 - https://github.com/yoheinakajima/predictivechat - a quick Flask prototype designed to showcase the usage of LLMs in predicting user behavior to decrease latency. ([demo](https://x.com/yoheinakajima/status/1762928630366347631?s=20))
-
+- [gptscript-ai](https://github.com/gptscript-ai)/**[gptscript](https://github.com/gptscript-ai/gptscript)**  a new scripting language to automate your interaction with a Large Language Model (LLM), namely OpenAI. The ultimate goal is to create a natural language programming experience. The syntax of GPTScript is largely natural language, making it very easy to learn and use. Natural language prompts can be mixed with traditional scripts such as bash and python or even external HTTP service calls. 
 
 ## product launches
 
