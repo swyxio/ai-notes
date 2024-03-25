@@ -132,7 +132,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 	- launched Le Chat: brand new chat interface [https://chat.mistral.ai](https://t.co/eAiTFIpc7m)
 	- added Advanced reasoning, function calling, JSON mode, and more
 	- removed "[committing to open models](https://news.ycombinator.com/item?id=39517016)" from website - CEO [says](https://twitter.com/arthurmensch/status/1762818733016322168) "We’re still committed to leading open-weight models! We ask for a little patience, 1.5k H100s only got us that far." 
-- [stable diffusion video 2](https://x.com/EMostaque/status/1761121428995281052?s=20)
+- [Stable Diffusion Video 2](https://x.com/EMostaque/status/1761121428995281052?s=20)
 - [Google Gemma](https://huggingface.co/blog/gemma) ([HN](https://news.ycombinator.com/item?id=39453271), [good Interconnects recap](https://www.interconnects.ai/p/gemma-google-ships-it)) - new open LLM
 	- Gemma comes in two sizes: 7B ([its actually 7.8B](https://twitter.com/jxmnop/status/1760487700145041749?s=12&t=90xQ8sGy63D2OtiaoGJuww)) parameters, for efficient deployment and development on consumer-size GPU and TPU and 2B versions for CPU and on-device applications. Both come in base and instruction-tuned variants.
 	- 256k vocab size
@@ -282,7 +282,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 	- In March of last year — to coincide with the 50th anniversary of Pink Floyd’s The Dark Side of the Moon, founder Yang Zhilin’s favorite album and the inspiration for the startup’s name — the startup launched with a 100 billion-parameter LLM.
 	- Then in October, Moonshot launched its first chatbot in China, Kimi, which claims to be able to support the processing of 200,000 Chinese characters in a single conversation — allegedly eight times the length of what OpenAI’s GPT-4-32K can achieve.
 - [Together AI raised $100m at $1.25b valuation](https://x.com/KateClarkTweets/status/1757925626311594465?s=20) - 2x from previous round 4 months ago - later [confirmed by Together](https://x.com/togethercompute/status/1767943482054967555?s=46&t=90xQ8sGy63D2OtiaoGJuww)
-- Photoroom.ai $43m ([bubble?](https://twitter.com/0x9212ce55/status/1763049362735743276))
+- Photoroom.ai raised $43m ([bubble?](https://twitter.com/0x9212ce55/status/1763049362735743276))
 - [Figure robotics AI $675m round at roughly $2b valuation](https://fortune.com/2024/02/23/jeff-bezos-nvidia-openai-microsoft-robot-unicorn-figureai-funding-round/) led by OpenAI and Microsoft joined by [Bezos](https://www.bloomberg.com/news/articles/2024-02-23/bezos-nvidia-join-openai-microsoft-in-funding-humanoid-robot-startup-figure-ai) and Nvidia ([twitter](https://x.com/adcock_brett/status/1763203224172154999?s=46&t=90xQ8sGy63D2OtiaoGJuww))
 	- [24% of the company, 6 people](https://twitter.com/EpisodeYang/status/1763395472016949286)
 	- raised [$70m seed](https://siliconangle.com/2023/05/24/ai-robotics-firm-figure-raises-70m-build-robots-human-form/) last year and was previously [rumored raising $500m](https://siliconangle.com/2024/01/31/report-humanoid-robot-startup-figure-ai-seeks-500m-raise-led-microsoft-openai/)
