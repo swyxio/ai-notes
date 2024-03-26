@@ -491,6 +491,8 @@ This list will be out of date but will get you started. My live list of people t
 - It's just matrix multiplication/stochastic parrots
 	- Even LLM skeptic Yann LeCun says LLMs have some level of understanding: https://twitter.com/ylecun/status/1667947166764023808
 	- Gary Marcus’ “Deep Learning is Hitting a Wall” https://nautil.us/deep-learning-is-hitting-a-wall-238440/ pushed symbolic systems
+- "guo lai ren" antihypers-> worriers
+	- https://adamkarvonen.github.io/machine_learning/2024/03/20/chess-gpt-interventions.html#next-token-predictors
 
 
 ## Legal, Ethics, and Privacy
