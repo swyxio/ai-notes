@@ -9,6 +9,9 @@
 	- [OpenAI's chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
 - Community comments
 	- [GPT4 browsing buggy current search - pulls from a cache](https://x.com/AndrewCurran_/status/1764546464087159230?s=20)
+	- ChatGPT [silently released Vision for GPT3.5](https://twitter.com/btibor91/status/1772760733844906084)
+		- also [working on version history and duplicate/revert](https://x.com/sucralose__/status/1772673238771908665?s=20)
+		- and [instruction blocks and saved state](https://twitter.com/btibor91/status/1770489674584273302)
 
 ## frontier models
 

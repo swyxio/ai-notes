@@ -66,6 +66,7 @@
 	- [do some flow engineering to get chatgpt to be concise](https://x.com/mattshumer_/status/1761066875948011583?s=20)
 	- [How to open GPTs with prefilled messages: Add "?q=Text" on the end of your GPT's url](https://twitter.com/nickadobos/status/1761063347112534061?s=12&t=90xQ8sGy63D2OtiaoGJuww) - doesnt work on mobile
 - Misc
+	- [openai now generates about 100 billion words per day. all people on earth generate about 100 trillion words per day.](https://twitter.com/sama/status/1756089361609981993?lang=en)
 	- [OpenAI Forum](https://twitter.com/officiallogank/status/1758520604754333867?s=12&t=90xQ8sGy63D2OtiaoGJuww) - a place to discuss, learn, and shape AI. The forum features online and in-person events along with paid activities that directly impact OpenAI models.
 	- misc: [OpenAI Feather](https://www.semafor.com/article/01/27/2023/openai-has-hired-an-army-of-contractors-to-make-basic-coding-obsolete) - probably just inhouse scale ai [per patent](https://x.com/ugo_alves/status/1761857718812315838?s=46&t=90xQ8sGy63D2OtiaoGJuww). [jimmy apples](https://twitter.com/apples_jimmy/status/1761856728520634383?s=12&t=90xQ8sGy63D2OtiaoGJuww): " It’s been around for ages. Subject domain experts temporarily hired by openai write code that openai uses to fine tune their models off. "
 	- shut down [State-affiliated Threat Actors](https://openai.com/blog/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors)
