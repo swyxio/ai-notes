@@ -52,6 +52,7 @@
 
 ## Open Models
 
+- [Databricks Mosaic DBRX](https://buttondown.email/ainews/archive/ainews-dbrx-best-open-model-but-not-most-efficient/)
 - [elon "open source" grok](https://twitter.com/elonmusk/status/1767108624038449405)... but its just some code and not weights
 - RWKV EagleX - [1.7T token checkpoint beating Llama 2 7B](https://twitter.com/picocreator/status/1768951823510180327)
 	- (beat llama, with less tokens, on new architecture)
@@ -114,6 +115,7 @@
 
 ## fundraising
 
+- cohere managed to raise at 5b valuation https://twitter.com/steph_palazzolo/status/1773095998555898305
 - [WSJ: Perplexity](https://twitter.com/DeItaone/status/1764999496167981202) raising another round at $1b valuation
 	- passed $10m in ARR
 - 21m cognition ai - devin https://buttondown.email/ainews/archive/ainews-the-worlds-first-fully-autonomous-ai/
@@ -148,6 +150,8 @@
 			- commendable versatile fresh profound fascinating intriguing prevalent proactive vital authentic invasive insightful beneficial strategic manageable replicable traditional instrumental extant continental innovative meticulous intricate notable noteworthy invaluable pivotal potent ingenious cogent ongoing tangible methodical laudable lucid appreciable adaptable admirable refreshing proficient thoughtful credible exceptional digestible interpretative remarkable seamless economical interdisciplinary sustainable optimizable comprehensive pragmatic comprehensible unique fuller foundational distinctive pertinent valuable speedy inherent considerable holistic operational substantial compelling technological excellent keen cultural unauthorized expansive prospective vivid consequential unprecedented inclusive asymmetrical cohesive quicker defensive wider imaginative competent contentious widespread environmental substantive creative academic sizeable demonstrable prudent practicable signatory unnoticed automotive minimalistic intelligent
 		- [here](https://twitter.com/RubenHssd/status/1772649401959215524):
 			- Hurdles Bustling Harnessing Unveiling the power Realm Depicted Demistify Insurmountable New Era Poised Unravel Entanglement Unprecedented Eerie connection Beacon Unleash Delve Enrich Multifaced Elevate Discover Supercharge Unlock Unleash Tailored Elegant Delve Dive Ever-evolving pride Realm Meticulously Grappling Weighing Picture Architect Adventure Journey Embark Navigate Navigation dazzle
+	- [Attention is all you need reunion at GTC](https://twitter.com/iScienceLuvr/status/1770520628455702701)
+	- [Andrej Karpathy at Sequoia's AI Ascent](https://youtu.be/c3b-JASoPi0?si=3A23D271aXdsQlIe&t=1609)
 - Learning
 	- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) ([HN](https://news.ycombinator.com/item?id=39700256))
 	- Intro to DSPy ([blog](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9), [tweet](https://twitter.com/helloiamleonie/status/1762508240359702739?s=12&t=90xQ8sGy63D2OtiaoGJuww)) In DSPy, traditional prompt engineering concepts are replaced with:
