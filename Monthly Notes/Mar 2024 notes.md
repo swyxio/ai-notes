@@ -116,6 +116,7 @@
 ## fundraising
 
 - cohere managed to raise at 5b valuation https://twitter.com/steph_palazzolo/status/1773095998555898305
+- [The tech giant initially invested $1.25 billion in September 2023 and committed to investing up to $4 billion.](https://www.maginative.com/article/amazon-completes-massive-4-billion-investment-in-ai-startup-anthropic/) On Wednesday, Amazon announced the completion of the deal with an additional $2.75 billion investment, securing a minority ownership position in Anthropic.
 - [WSJ: Perplexity](https://twitter.com/DeItaone/status/1764999496167981202) raising another round at $1b valuation
 	- passed $10m in ARR
 - 21m cognition ai - devin https://buttondown.email/ainews/archive/ainews-the-worlds-first-fully-autonomous-ai/
