@@ -149,6 +149,8 @@
 	- [What Extropic is building](https://www.extropic.ai/future)
 	- "What does Alan Kay think about programming and teaching programming with copilots and LLMs of today?" ([quora/HN](https://news.ycombinator.com/item?id=39758391))
 	- [Key Stable Diffusion Researchers Leave Stability AI as Company Flounders](https://www.forbes.com/sites/iainmartin/2024/03/20/key-stable-diffusion-researchers-leave-stability-ai-as-company-flounders) ([HN](https://news.ycombinator.com/item?id=39768402))
+		- emad left
+		- [huggingface explored acquisition](https://archive.is/8QkSl)
 	- ChatGPT "tells" and banned words
 		- [innovative, meticulous](https://x.com/skalskip92/status/1773027050720301176?s=20):
 			- commendable versatile fresh profound fascinating intriguing prevalent proactive vital authentic invasive insightful beneficial strategic manageable replicable traditional instrumental extant continental innovative meticulous intricate notable noteworthy invaluable pivotal potent ingenious cogent ongoing tangible methodical laudable lucid appreciable adaptable admirable refreshing proficient thoughtful credible exceptional digestible interpretative remarkable seamless economical interdisciplinary sustainable optimizable comprehensive pragmatic comprehensible unique fuller foundational distinctive pertinent valuable speedy inherent considerable holistic operational substantial compelling technological excellent keen cultural unauthorized expansive prospective vivid consequential unprecedented inclusive asymmetrical cohesive quicker defensive wider imaginative competent contentious widespread environmental substantive creative academic sizeable demonstrable prudent practicable signatory unnoticed automotive minimalistic intelligent
