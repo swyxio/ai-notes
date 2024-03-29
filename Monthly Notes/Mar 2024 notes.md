@@ -85,6 +85,7 @@
 	- [cost and latency concerns](https://x.com/sincethestudy/status/1767911516336947659?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- people [frustrated](https://twitter.com/JD_2020/status/1767651974823006584) they got the idea first. [metagpt open clone](https://x.com/MetaGPT_/status/1767965444579692832?s=20)
 - Ideogram 1.0 [launched](https://twitter.com/ideogram_ai/status/1762881278955700270), touting text rendering, photorealism, and magic prompt improvement
+- Hume Chrome demo: [https://demo.hume.ai/](https://demo.hume.ai/ "https://demo.hume.ai/")
 - [groq launched api platform](https://x.com/atbeme/status/1764762523868508182?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - [Inflection Pi 2.5](https://inflection.ai/inflection-2-5?utm_source=ainews) reports 94% of GPT4 levels and pi has 1m DAU 6m MAU.
 	- [suspiciously close to Claude 3 sonnet](https://twitter.com/seshubon/status/1765870717844050221)
@@ -117,6 +118,8 @@
 
 - cohere managed to raise at 5b valuation https://twitter.com/steph_palazzolo/status/1773095998555898305
 - [The tech giant initially invested $1.25 billion in September 2023 and committed to investing up to $4 billion.](https://www.maginative.com/article/amazon-completes-massive-4-billion-investment-in-ai-startup-anthropic/) On Wednesday, Amazon announced the completion of the deal with an additional $2.75 billion investment, securing a minority ownership position in Anthropic.
+- Hume [$50m Series B](https://finance.yahoo.com/news/hume-ai-announces-50-million-161500806.html ): launches world’s first Empathic Voice Interface, enabling developers to integrate an emotionally intelligent AI voice into applications across health and wellness, AR/VR, customer service call centers, healthcare and more – with a few lines of code.
+	- Chrome demo: [https://demo.hume.ai/](https://demo.hume.ai/ "https://demo.hume.ai/")
 - [WSJ: Perplexity](https://twitter.com/DeItaone/status/1764999496167981202) raising another round at $1b valuation
 	- passed $10m in ARR
 - 21m cognition ai - devin https://buttondown.email/ainews/archive/ainews-the-worlds-first-fully-autonomous-ai/
