@@ -116,7 +116,7 @@
 
 ## fundraising
 
-- cohere managed to raise at 5b valuation https://twitter.com/steph_palazzolo/status/1773095998555898305
+- cohere managed to raise at 5b valuation https://twitter.com/steph_palazzolo/status/1773095998555898305 with 22m ARR
 - [The tech giant initially invested $1.25 billion in September 2023 and committed to investing up to $4 billion.](https://www.maginative.com/article/amazon-completes-massive-4-billion-investment-in-ai-startup-anthropic/) On Wednesday, Amazon announced the completion of the deal with an additional $2.75 billion investment, securing a minority ownership position in Anthropic.
 - Hume [$50m Series B](https://finance.yahoo.com/news/hume-ai-announces-50-million-161500806.html ): launches world’s first Empathic Voice Interface, enabling developers to integrate an emotionally intelligent AI voice into applications across health and wellness, AR/VR, customer service call centers, healthcare and more – with a few lines of code.
 	- Chrome demo: [https://demo.hume.ai/](https://demo.hume.ai/ "https://demo.hume.ai/")
@@ -141,6 +141,14 @@
 	- [Training great LLMs from ground zero](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness) - Yi Tay of Reka
 	- [Diffusion models from scratch, from a new theoretical perspective](https://www.chenyang.co/diffusion.html) - code driven intro of diffusion models
 	- [Cosine Similarity of Embeddings](https://x.com/jxnlco/status/1767202480939475389?s=20) is context dependent and if you dont know your model well you dont know what it does
+	- Binary Embeddings
+		- https://txt.cohere.com/int8-binary-embeddings/
+		- https://huggingface.co/blog/embedding-quantization
+		- [Binary vector search is better than FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
+			- TL;DR from the field:
+				- this is extremely helpful for doing a first pass over a _ton_ of documents in a resource constrained environment.
+				- it is extremely _unhelpful_ unless you're retrieving 10x the documents you want via binary, then doing re-ranking via the FP-32 to rank the remaining.
+				- in general, it's unlikely you need the technique unless you're A) on the edge, i.e. on consumer devices from 3 years ago or B) you have tens of millions of vectors on a server. All this stuff sounds really fancy, but when you implement it from scratch, you quickly learn "oh its 384 numbers I gotta multiply together"
 	- PersonaLLM ([twitter](https://x.com/hjian42/status/1765436653940736303?s=46&t=90xQ8sGy63D2OtiaoGJuww))
 		- we simulate distinct LLM personas based on the Big Five personality model, have them complete the 44-item Big Five Inventory (BFI) personality test and a story writing task, and then assess their essays with automatic and human evaluations.
 		- Results show that LLM personas' self-reported BFI scores are consistent with their designated personality types, with large effect sizes observed across five traits.
@@ -171,6 +179,7 @@
 ## memes
 
 - diffusion papers https://twitter.com/cto_junior/status/1766518604395155830
+- inflection and stability https://x.com/pmddomingos/status/1771625825273586144?s=20
 - gary marcus https://twitter.com/drjwrae/status/1766803741414699286
 - mira memes https://twitter.com/stokel/status/1768185199412625709
 	- runner up https://x.com/IterIntellectus/status/1768080839550566799?s=20
