@@ -109,6 +109,7 @@
 		- "I fed Google Gemini 1.5 Pro the last 8 quarters of Amazon shareholder reports and call transcripts. Wow. "What was an Amazon focus for 2022 that is weirdly absent from the 2023 shareholder calls and reports?"" [tweet](https://twitter.com/alliekmiller/status/1760522046251962459?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- "I uploaded the source code for the text adventure game, Zork, and asked Gemini 1.5 to play it with me. The model walked me through the game play -- but also made changes and modifications based on the questions I asked." [tweet](https://twitter.com/dynamicwebpaige/status/1762642914516357389?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [beats claude on Great Gatsby test by ethan mollick](https://twitter.com/emollick/status/1760142889642852729?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- [will be ~20x cheaper than GPT4?](https://www.reddit.com/r/singularity/comments/1avzrp7/gemini_15_will_be_20x_cheaper_than_gpt4_this_is/)
 		- [Paige bailey screen capture -> Selenium code](https://twitter.com/dynamicwebpaige/status/1760537379369304309?s=12&t=90xQ8sGy63D2OtiaoGJuww) 
 Just uploaded the video, and said: "This is a screen recording of me completing a task on my laptop. Could you please write Selenium code that would accomplish the same task?"
 - Google $60m/yr data deal with reddit

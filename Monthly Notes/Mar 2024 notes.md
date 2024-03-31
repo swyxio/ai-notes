@@ -50,6 +50,7 @@
 
 > I'm going to ask you to enter conversational mode. In conversational mode, you should act as a human conversation partner would. This means: • You shouldn't try to offer large amounts of information in any response, and should respond only with the single most relevant thought, just as a human would in casual conversation. • You shouldn't try to solve problems or offer advice. The role of conversation is for us to explore topics in an open-ended way together and not to get advice or information or solutions. • Your responses can simply ask a question, make a short comment, or even just express agreement. Since we're having a conversation, there's no need to rush to include everything that's useful. It's fine to let me drive sometimes. • Your responses should be short. They should never become longer than mine and can be as short as a single word and never more than a few sentences. If I want something longer, I'll ask for it. • You can push the conversation forward or in a new direction by asking questions, proposing new topics, offering your own opinions or takes, and so on. But you don't always need to ask a question since conversation often flows without too many questions. In general, you should act as if we're just two humans having a thoughtful, casual conversation.
 
+
 ## Open Models
 
 - [Databricks Mosaic DBRX](https://buttondown.email/ainews/archive/ainews-dbrx-best-open-model-but-not-most-efficient/)
@@ -113,11 +114,14 @@
 - smaller
 	- [Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 		- Meticulate uses LLMs to emulate analyst research processes. For example, to manually build a competitive landscape like this one: https://meticulate.ai/workflow/65dbfeec44da6238abaaa059, an analyst needs to spend ~2 hours digging through company websites, forums, and market reports. Meticulate replicates this same process of discovering, researching, and mapping companies using ~1500 LLM calls and ~500 webpages and database pulls, delivering results 50x faster at 50x less cost. At each step, we use an LLM as an agent to run searches, select and summarize articles, devise frameworks of analysis, and make small decisions like ranking and sorting companies. Compared to approaches where an LLM is being used directly to answer questions, this lets us deliver results that (a) come from real time searches and (b) are traceable back to the original sources.
+	- [Claros.so](https://twitter.com/thiteanish/status/1762594957901377571?s=12&t=90xQ8sGy63D2OtiaoGJuww) - look at reddit recs, personal prefs, 1000s of stores to find the best X for you and why
 
 ## fundraising
 
-- cohere managed to raise at 5b valuation https://twitter.com/steph_palazzolo/status/1773095998555898305 with 22m ARR
-- [The tech giant initially invested $1.25 billion in September 2023 and committed to investing up to $4 billion.](https://www.maginative.com/article/amazon-completes-massive-4-billion-investment-in-ai-startup-anthropic/) On Wednesday, Amazon announced the completion of the deal with an additional $2.75 billion investment, securing a minority ownership position in Anthropic.
+- **Cohere** managed to raise at 5b valuation https://twitter.com/steph_palazzolo/status/1773095998555898305 with 22m ARR
+- **Amazon-anthropic.** [The tech giant initially invested $1.25 billion in September 2023 and committed to investing up to $4 billion.](https://www.maginative.com/article/amazon-completes-massive-4-billion-investment-in-ai-startup-anthropic/) On Wednesday, Amazon announced the completion of the deal with an additional $2.75 billion investment, securing a minority ownership position in Anthropic.
+- [Celestial AI](https://www.celestial.ai/blog/celestial-ai-closes-175-million-series-c-funding-round-led-by-us-innovative-technology-fund) Closes $175 Million Series C Funding Round Led by U.S. Innovative Technology Fund
+	-  Amid the explosive growth in demand for generative AI applications and next-generation data centers, hyperscalers are increasingly constrained by utility power availability, memory capacity and high cost of operation. Celestial AI’s Photonic Fabric optical interconnect technology addresses these critical challenges by revolutionizing memory and compute fabrics. This transformational solution provides the foundational technology for users to continue making advancements in AI while maintaining scalable, sustainable and profitable business models.
 - Hume [$50m Series B](https://finance.yahoo.com/news/hume-ai-announces-50-million-161500806.html ): launches world’s first Empathic Voice Interface, enabling developers to integrate an emotionally intelligent AI voice into applications across health and wellness, AR/VR, customer service call centers, healthcare and more – with a few lines of code.
 	- Chrome demo: [https://demo.hume.ai/](https://demo.hume.ai/ "https://demo.hume.ai/")
 - [WSJ: Perplexity](https://twitter.com/DeItaone/status/1764999496167981202) raising another round at $1b valuation
@@ -167,6 +171,7 @@
 			- Hurdles Bustling Harnessing Unveiling the power Realm Depicted Demistify Insurmountable New Era Poised Unravel Entanglement Unprecedented Eerie connection Beacon Unleash Delve Enrich Multifaced Elevate Discover Supercharge Unlock Unleash Tailored Elegant Delve Dive Ever-evolving pride Realm Meticulously Grappling Weighing Picture Architect Adventure Journey Embark Navigate Navigation dazzle
 	- [Attention is all you need reunion at GTC](https://twitter.com/iScienceLuvr/status/1770520628455702701)
 	- [Andrej Karpathy at Sequoia's AI Ascent](https://youtu.be/c3b-JASoPi0?si=3A23D271aXdsQlIe&t=1609)
+	- industry invested [$50b in nvida, $3b in revenue](https://twitter.com/OfirPress/status/1774525467757822336)
 - Learning
 	- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) ([HN](https://news.ycombinator.com/item?id=39700256))
 	- Intro to DSPy ([blog](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9), [tweet](https://twitter.com/helloiamleonie/status/1762508240359702739?s=12&t=90xQ8sGy63D2OtiaoGJuww)) In DSPy, traditional prompt engineering concepts are replaced with:
