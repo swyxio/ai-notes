@@ -11,6 +11,20 @@
 - https://epochai.org/trends
 - human analogies
 	- https://x.com/atroyn/status/1749203484543787435?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- [10^25 vs 10^26](https://jack-clark.net/2024/03/28/what-does-1025-versus-1026-mean/)
+	- Assumptions:
+Using FP8 precision – various frontier labs (e.g, Inflection) have trained using FP8
+40% efficiency – assuming you’ve worked hard to make your training process efficient. E.g., Google claims ~46% for PALM 540B
+$2 per chip hour – assuming bulk discounts from economies-of-scale.
+Training a standard Transformer-based, large generative model.
+
+10^26
+Flops per chip second = 2000e12* × 0.4 = 8E14
+Flops per chip hour = flops per chip s × 60 (seconds per minute) × 60 (minutes per hour) = 2.88E18
+chip h = 1e26 / flops per chip h = 34.722M
+chip h × $2 = $69.444M
+
+*3958 TFLOPS (for fp8 with sparsity) on H100 SXM divided by 2 (because the 2x sparsity support generally isn’t relevant for training), so the right number is 1979e12. But the datasheet doesn’t have enough information to tell you that; you just have to know!
 
 ### where are all the ai engineers?
 
