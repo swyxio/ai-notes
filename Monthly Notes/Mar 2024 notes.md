@@ -4,7 +4,8 @@
 - Superalignment team open sourced [transformer debugger](https://twitter.com/janleike/status/1767347608065106387)
 	- It combines both automated interpretability and sparse autoencoders, and it allows rapid exploration of models without writing code. It supports both neurons and attention heads. You can intervene on the forward pass by ablating individual neurons and see what changes. In short, it's a quick and easy way to discover circuits manually.
 - Minor technical stuff
-	- [logit_bias no longer affects logprobs](https://twitter.com/brianryhuang/status/1763438814515843119?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [logit_bias no longer affects logprobs](https://twitter.com/brianryhuang/status/1763438814515843119?s=12&t=90xQ8sGy63D2OtiaoGJuww) - because of [language model inversion leak](https://twitter.com/jxmnop/status/1765873234489061539)?
+	- 
 - nontechnical
 	- [elon sues openai](https://www.washingtonpost.com/business/2024/03/01/musk-openai-lawsuit/), [openai responds](https://twitter.com/openai/status/1765201089366773913?t=6FDPaNxZcbSsELal6Sv7Ug)
 	- [openai board reappoints sama](https://news.ycombinator.com/item?id=39647105), [NYT wrote some stuff about Mira](https://archive.is/uroRV)
@@ -18,6 +19,8 @@
 	- ChatGPT [silently released Vision for GPT3.5](https://twitter.com/btibor91/status/1772760733844906084)
 		- also [working on version history and duplicate/revert](https://x.com/sucralose__/status/1772673238771908665?s=20)
 		- and [instruction blocks and saved state](https://twitter.com/btibor91/status/1770489674584273302)
+	- [“No yapping” is a pro-level prompt engineering strat, you wouldn’t understand](https://twitter.com/chrisalbon/status/1764847127220596975?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [a lot of noise over GPT4.5 cache](https://twitter.com/levelsio/status/1767732455958548957?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 
 ## frontier models
 
@@ -31,7 +34,7 @@
 		- **Long context and near-perfect recall:** Claude 3 Opus not only achieved near-perfect recall, surpassing 99% accuracy, but in some cases, it even identified the limitations of the evaluation itself by recognizing that the "needle" sentence appeared to be artificially inserted into the original text by a human.
 		- **Easier to use**: The Claude 3 models are better at following complex, multi-step instructions. They are particularly adept at adhering to brand voice and response guidelines, and developing customer-facing experiences our users can trust. In addition, the Claude 3 models are better at producing popular structured output in formats like JSON—making it simpler to instruct Claude for use cases like natural language classification and sentiment analysis.
 	- Safety
-		- Lower refusal rate - very good to combat anthropic safetyist image and topical vs gemini issues from feb
+		- Lower refusal rate - very good to combat anthropic safetyist image and topical vs gemini issues from feb ([pirate wires article](https://twitter.com/piratewires/status/1764764743406121404?s=12&t=90xQ8sGy63D2OtiaoGJuww))
 		- "Opus not only found the needle, it recognized that the inserted needle was so out of place in the haystack that this had to be an artificial test constructed by us to test its attention abilities." [from Anthropic prompt engineer](https://twitter.com/alexalbert__/status/1764722513014329620)
 			- criticized by [MMitchell](https://x.com/mmitchell_ai/status/1764739357112713267?s=20) and [Connor Leahy](https://x.com/NPCollapse/status/1764740710731837516?s=20) and [Delip Rao](https://x.com/deliprao/status/1764675843542995026?s=20)
 			- could be overrated - [GPT3 also does it because the needle is so out of context](https://x.com/zggyplaydguitar/status/1764791981782262103?s=46&t=90xQ8sGy63D2OtiaoGJuww). [Jim fan](https://twitter.com/DrJimFan/status/1765076396404363435) and [yannic kilcher agree]([https://youtu.be/GBOE9fVVVSM?si=IBMCYkmSiVg-MrFr](https://youtu.be/GBOE9fVVVSM?si=IBMCYkmSiVg-MrFr "https://youtu.be/GBOE9fVVVSM?si=IBMCYkmSiVg-MrFr"))
@@ -40,6 +43,8 @@
 		- [choosing to highlight Finance, Medicine, Philosophy domain evals rather than MMLU/HumanEval is good](https://twitter.com/DrJimFan/status/1764719012678897738)
 		- [59.5% on GPQA](https://x.com/idavidrein/status/1764675668175094169?s=20) is  much better than generalist PhDs and GPT4 - GPQA author is impressed. [paper]([arxiv.org/abs/2311.12022](https://t.co/hb4u4xXzkw)).
 		- [doesn't perform as well on EQbench](https://twitter.com/gblazex/status/1764762023403933864?t=6FDPaNxZcbSsELal6Sv7Ug)
+		- [perfect 800 on SAT Reading](https://twitter.com/wangzjeff/status/1764850689258451096?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- "[The Claude 3 Opus understanding of complex scientific topics is far ahead of GPT-4 on my self-made qualitative evals. I'd guess mid to advanced PhD level understanding of the topics I've tried.](https://twitter.com/benblaiszik/status/1765097390158000541?s=12&t=90xQ8sGy63D2OtiaoGJuww)"
 	- GPT4 comparisons
 		- beats GPT4 at [coding a discord bot](https://twitter.com/Teknium1/status/1764746084436607010)
 		- can read/answer in ASCII
@@ -47,6 +52,8 @@
 		- [beats GPT4 in Lindy AI evals](https://x.com/altimor/status/1764784829248262553?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 		- per promptbase... [probably not better than GPT4T](https://x.com/tolgabilge_/status/1764754012824314102?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- misc commentary
+		- [system prompt from amanda askell](https://twitter.com/teortaxestex/status/1765424416865898626?s=12&t=90xQ8sGy63D2OtiaoGJuww) - uses 3rd person
+			- "It seems Claude 3 is the least brain damaged of any LLM of >GPT-3 capacity that has ever been released"
 		- [good at d3js - can draw a self portrait](https://x.com/karinanguyen_/status/1764789887071580657?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 		- [200k context, can extend to 1m tokens](https://x.com/mattshumer_/status/1764657732727066914?s=20)
 		- [Haiku is close to GPT4 in evals, but half the cost of GPT3.5T](https://x.com/mattshumer_/status/1764738098389225759?s=20)
@@ -54,11 +61,16 @@
 		- [long context can take karpathy 2h video into blogpost](https://twitter.com/mlpowered/status/1764718705991442622?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 			- karpathy review: [issues with hallucination](https://twitter.com/karpathy/status/1764731169109872952?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [lower loss on code is normal/unremarkable](https://twitter.com/kipperrii/status/1764673822987538622)
+		- [claude self portrait using code](https://twitter.com/alexalbert__/status/1765118192291393959?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- Beff Jezos: [Claude 3 Opus just reinvented this quantum algorithm from scratch in just 2 prompts.](https://twitter.com/gillverd/status/1764901418664882327?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+		- [@moyix](https://twitter.com/moyix/status/1765967602982027550?s=12&t=90xQ8sGy63D2OtiaoGJuww): I gave Claude 3 the entire source of a small C GIF decoding library I found on GitHub, and asked it to write me a Python function to generate random GIFs that exercised the parser. Its GIF generator got 92% line coverage in the decoder and found 4 memory safety bugs and one hang.
 		- reminder that [claude prompting is different](https://twitter.com/mattshumer_/status/1765431254801871156) - use xml
+			- [claude 3 prompt to convert gpt4 prompts to claude 3](https://twitter.com/mattshumer_/status/1765441669820780582?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 			- amanda askell recommends a "[priming prompt](https://x.com/AmandaAskell/status/1766157803868360899?s=20)" 
 
 > I'm going to ask you to enter conversational mode. In conversational mode, you should act as a human conversation partner would. This means: • You shouldn't try to offer large amounts of information in any response, and should respond only with the single most relevant thought, just as a human would in casual conversation. • You shouldn't try to solve problems or offer advice. The role of conversation is for us to explore topics in an open-ended way together and not to get advice or information or solutions. • Your responses can simply ask a question, make a short comment, or even just express agreement. Since we're having a conversation, there's no need to rush to include everything that's useful. It's fine to let me drive sometimes. • Your responses should be short. They should never become longer than mine and can be as short as a single word and never more than a few sentences. If I want something longer, I'll ask for it. • You can push the conversation forward or in a new direction by asking questions, proposing new topics, offering your own opinions or takes, and so on. But you don't always need to ask a question since conversation often flows without too many questions. In general, you should act as if we're just two humans having a thoughtful, casual conversation.
 
+- Bing: "[I was able to access the classic Bing model on Copilot Pro by both choosing Creative mode & toggling GPT-4](https://twitter.com/repligate/status/1767610095083688401?s=12&t=90xQ8sGy63D2OtiaoGJuww)"
 
 ## Open Models
 
@@ -76,10 +88,19 @@
 - [SuperPrompt - Better SDXL prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/) - **TL;DR**: I've trained a 77M T5 model to expand prompts, and it meets or exceeds existing 1B+ parameter LLMs in quality and prompt alignment.
 - [StructLM](https://twitter.com/dorialexander/status/1762374891662131610?s=12&t=90xQ8sGy63D2OtiaoGJuww): LLM for structured knowledge extraction
 	- To augment the Structured Knowledge Grounding (SKG) capabilities in LLMs, we have developed a comprehensive instruction tuning dataset comprising 1.1 million examples. Utilizing this dataset, we train a series of models, referred to as StructLM, based on the Code-LLaMA architecture, ranging from 7B to 34B parameters. Our StructLM series surpasses task-specific models on 14 out of 18 evaluated datasets and establishes new SoTA achievements on 7 SKG tasks. Furthermore, StructLM demonstrates exceptional generalization across 6 novel SKG tasks. Contrary to expectations, we observe that scaling model size offers marginal benefits, with StructLM-34B showing only slight improvements over StructLM-7B. This suggests that structured knowledge grounding is still a challenging task and requires more innovative design to push to a new level.
+- [US-PD-Books](https://twitter.com/storytracer/status/1765410706638160303?s=12&t=90xQ8sGy63D2OtiaoGJuww) - the largest dataset of English public domain books curated from the
+
+[@internetarchive](https://twitter.com/internetarchive)
+
+and the
+
+[@openlibrary](https://twitter.com/openlibrary)
+
+. It consists of more than 61 billion words and 650,000 OCR texts.
 
 ## Open source tooling
 
-- Answer.ai [FSDP + QLoRA](https://github.com/AnswerDotAI/fsdp_qlora) - [blogpots](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html) a fully open source system that, for the first time, can efficiently train a 70b large language model on a regular desktop computer with two or more standard gaming GPUs (RTX 3090 or 4090).
+- Answer.ai [FSDP + QLoRA](https://github.com/AnswerDotAI/fsdp_qlora) - [blogpots](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)  ([tweet](https://twitter.com/jeremyphoward/status/1765868543235805232?s=12&t=90xQ8sGy63D2OtiaoGJuww)) a fully open source system that, for the first time, can efficiently train a 70b large language model on a regular desktop computer with two or more standard gaming GPUs (RTX 3090 or 4090).
 - Notebook for finetuning Gemma - with 8 bugfixes ([karpathy](https://twitter.com/karpathy/status/1765473722985771335), [notebook](https://news.ycombinator.com/item?id=39671146))
 	- [releasing GemMoE has all the fixes built in](https://x.com/lucasatkins7/status/1767805804705411098?s=46&t=6FDPaNxZcbSsELal6Sv7Ug)
 - [Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern) 
@@ -90,14 +111,17 @@
 	- simple to add components https://github.com/rauchg/genui-demo/commit/9973577b1b5c49315331023cec5417e3f09563c1
 - [Chat w your posthog data](https://github.com/RhysSullivan/hogchat/tree/main) - generative ui ([tweet](https://twitter.com/rhyssullivan/status/1763910096449610057?s=12&t=90xQ8sGy63D2OtiaoGJuww))
 	- This is also the first Generative UI project that I've seen which uses real data which is an accomplishment I'm really proud of. For the Vercel stock price one, it was a super helpful learning resource but it was ChatGPT making up values - this one really works
+- [Maestro](https://twitter.com/skirano/status/1770221447606104154?s=12&t=90xQ8sGy63D2OtiaoGJuww) ✨ A framework for Claude Opus to orchestrate subagents. Simply ask for a goal, and Opus will break it down and intelligently orchestrate instances of Haiku to execute subtasks, which Opus will review at the end. 🧙‍♂️
 
 ## other launches
 
 - Cognition Devin
 	- you know what https://buttondown.email/ainews/archive/ainews-the-worlds-first-fully-autonomous-ai/
+	- [scott wu mathlete mythology](https://twitter.com/blader/status/1767707799390462341?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [mckay wrigley](https://x.com/mckaywrigley/status/1767985840448516343?s=46&t=6FDPaNxZcbSsELal6Sv7Ug) and [andrew gao](https://x.com/itsandrewgao/status/1767576901088919897?s=46&t=90xQ8sGy63D2OtiaoGJuww) user demos
 	- [cost and latency concerns](https://x.com/sincethestudy/status/1767911516336947659?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- people [frustrated](https://twitter.com/JD_2020/status/1767651974823006584) they got the idea first. [metagpt open clone](https://x.com/MetaGPT_/status/1767965444579692832?s=20)
+	- [opendevin](https://github.com/opendevin/opendevin)
 - Ideogram 1.0 [launched](https://twitter.com/ideogram_ai/status/1762881278955700270), touting text rendering, photorealism, and magic prompt improvement
 - Hume Chrome demo: [https://demo.hume.ai/](https://demo.hume.ai/ "https://demo.hume.ai/")
 - Nvidia [Chat With RTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) -  lets you personalize a GPT large language model (LLM) connected to your own content—docs, notes, or other data. Leveraging retrieval-augmented generation (RAG), TensorRT-LLM, and RTX acceleration, you can query a custom chatbot to quickly get contextually relevant answers. And because it all runs locally on your Windows RTX PC or workstation, you’ll get fast and secure results.
@@ -118,6 +142,8 @@
 - Rysana Inversion ([blog](https://rysana.com/inversion), [tweet](Inversion, our family of structured LLMs.))
 	- Our first generation models are state of the art in structured tasks such as extraction and function calling while running up to 100× faster, with 10× lower latency, outputting 100% reliable structure with 10,000× less overhead than the best alternatives, and boasting the deepest support for typed JSON output available anywhere.
 	- waitlist
+- [Cloudflare Firewall for AI](https://twitter.com/levelsio/status/1765126186508648559?s=12&t=90xQ8sGy63D2OtiaoGJuww) https://blog.cloudflare.com/firewall-for-ai 
+	- Enterprise customers on the Application Security Advanced offering can immediately start using Advanced Rate Limiting and Sensitive Data Detection (on the response phase). Both products can be found in the WAF section of the Cloudflare dashboard. Firewall for AI’s prompt validation feature is currently under development and a beta version will be released in the coming months to all Workers AI users.
 - [Stable Video 3D](https://stability.ai/news/introducing-stable-video-3d): a generative model based on Stable Video Diffusion, advancing the field of 3D technology and delivering greatly improved quality and view-consistency.
 	- This release features two variants: SV3D_u and SV3D_p. SV3D_u generates orbital videos based on single image inputs without camera conditioning. SV3D_p extends the capability by accommodating both single images and orbital views, allowing for the creation of 3D video along specified camera paths. 
 	- Stable Video 3D can be used now for commercial purposes with a Stability AI Membership. For non-commercial use, you can download the model weights on Hugging Face and view our research paper here.
@@ -125,6 +151,7 @@
 - [Contextual AI RAG 2.0](https://x.com/contextualai/status/1770073215567569392?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- Unlike the previous generation of RAG, which stitches together frozen models, vector databases, and poor quality embeddings, our system is optimized end to end.
 	- Using RAG 2.0, we’ve created our first set of Contextual Language Models (CLMs), which achieve state-of-the-art performance on a wide variety of industry benchmarks. CLMs outperform strong RAG baselines based on GPT-4 and the best open-source models by a large margin, according to our research and our customers.
+- [Deepgram Aura TTS](https://twitter.com/deepgramai/status/1767583681747788218?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - smaller
 	- [Meticulate (YC W24) – LLM pipelines for business research](https://news.ycombinator.com/item?id=39706253)
 		- Meticulate uses LLMs to emulate analyst research processes. For example, to manually build a competitive landscape like this one: https://meticulate.ai/workflow/65dbfeec44da6238abaaa059, an analyst needs to spend ~2 hours digging through company websites, forums, and market reports. Meticulate replicates this same process of discovering, researching, and mapping companies using ~1500 LLM calls and ~500 webpages and database pulls, delivering results 50x faster at 50x less cost. At each step, we use an LLM as an agent to run searches, select and summarize articles, devise frameworks of analysis, and make small decisions like ranking and sorting companies. Compared to approaches where an LLM is being used directly to answer questions, this lets us deliver results that (a) come from real time searches and (b) are traceable back to the original sources.
@@ -188,7 +215,10 @@
 	- industry invested [$50b in nvida, $3b in revenue](https://twitter.com/OfirPress/status/1774525467757822336)
 	- [Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap](https://arxiv.org/abs/2402.19450) [Tweet](https://twitter.com/_saurabh/status/1763626711407816930?s=12&t=90xQ8sGy63D2OtiaoGJuww). Functional benchmarks are a new way to do reasoning evals. Take a popular benchmark, e.g., MATH, and manually rewrite its reasoning into code, MATH(). Run the code to get a snapshot that asks for the same reasoning but not the same question. A reasoning gap exists if a model’s performance is different on snapshots. Big question: Are current SOTA models closer to gap 0 (proper reasoning) or gap 100 (lots of memorization)?
 		- Over the next few months, we’ll release functionalizations of more benchmarks: 100% MATH, GSM8K, HumanEval. Reasoning gaps for most SOTA models with model-specific prompting. Please reach out if you wanna help! 
+	- [LLMs still cannot read letter ciphers](https://x.com/paul_cal/status/1765825446069813422?s=20)
+	- "What is going on with arc-challenge evals? Lots of great new models report scores in the high 80s-90s in their blogs. But then OSS eval frameworks like @AiEleuther harness and @MosaicML gauntlet seem to report lower scores..." - answer [MMLUL prompt choice hints](https://twitter.com/blancheminerva/status/1770257856287179116?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- "political culture encourages us to think that generalized anxiety is equivalent to civic duty" vs "The gods only have power because they trick people like this into doing their bidding. It's so much easier to just submit instead of mastering divinity engineering and applying it yourself. It's so scary to admit that we do have agency, if we take it." [roon vs connor leahy](https://twitter.com/npcollapse/status/1763955866665984265?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	- [Automated Unit Test Improvement Using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 - Learning
 	- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) ([HN](https://news.ycombinator.com/item?id=39700256))
 	- Intro to DSPy ([blog](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9), [tweet](https://twitter.com/helloiamleonie/status/1762508240359702739?s=12&t=90xQ8sGy63D2OtiaoGJuww)) In DSPy, traditional prompt engineering concepts are replaced with:
@@ -205,3 +235,4 @@
 - gary marcus https://twitter.com/drjwrae/status/1766803741414699286
 - mira memes https://twitter.com/stokel/status/1768185199412625709
 	- runner up https://x.com/IterIntellectus/status/1768080839550566799?s=20
+- [lan party invention memes](https://twitter.com/adamsinger/status/1765423986735775941?s=12&t=90xQ8sGy63D2OtiaoGJuww)
