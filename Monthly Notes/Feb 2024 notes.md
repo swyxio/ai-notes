@@ -408,6 +408,7 @@ Just uploaded the video, and said: "This is a screen recording of me completing 
 - learning
 	- **[TPU-Alignment](https://github.com/Locutusque/TPU-Alignment)** - Fully fine-tune large models like Mistral-7B, Llama-2-13B, or Qwen-14B completely for free. on the weekly 20hrs of TPUv3-8 pod from Kaggle 
 	- [GGUF, the Long Way Around](https://vickiboykis.com/2024/02/28/gguf-the-long-way-around/) 
+	- Clive Chan - [from manufacturing a GPU to training a GPT](https://twitter.com/itsclivetime/status/1762412200025878571?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 	- [undo llama2 safety tuning with $200 LoRA](https://www.lesswrong.com/posts/qmQFHCgCyEEjuy5a7/lora-fine-tuning-efficiently-undoes-safety-training-from?)
 	- [Explaining the SDXL Latent Space](https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space) ([HN](https://news.ycombinator.com/item?id=39267883))
 	- [How we got fine-tuning Mistral-7B to not suck](https://helixml.substack.com/p/how-we-got-fine-tuning-mistral-7b) ([HN](https://news.ycombinator.com/item?id=39271658))

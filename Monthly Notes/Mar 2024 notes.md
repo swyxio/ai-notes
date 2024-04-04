@@ -3,6 +3,8 @@
 
 - Superalignment team open sourced [transformer debugger](https://twitter.com/janleike/status/1767347608065106387)
 	- It combines both automated interpretability and sparse autoencoders, and it allows rapid exploration of models without writing code. It supports both neurons and attention heads. You can intervene on the forward pass by ablating individual neurons and see what changes. In short, it's a quick and easy way to discover circuits manually.
+- Minor technical stuff
+	- [logit_bias no longer affects logprobs](https://twitter.com/brianryhuang/status/1763438814515843119?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - nontechnical
 	- [elon sues openai](https://www.washingtonpost.com/business/2024/03/01/musk-openai-lawsuit/), [openai responds](https://twitter.com/openai/status/1765201089366773913?t=6FDPaNxZcbSsELal6Sv7Ug)
 	- [openai board reappoints sama](https://news.ycombinator.com/item?id=39647105), [NYT wrote some stuff about Mira](https://archive.is/uroRV)
@@ -11,6 +13,8 @@
 	- [ChatGPT no longer requires signup](https://openai.com/blog/start-using-chatgpt-instantly)
 - Community comments
 	- [GPT4 browsing buggy current search - pulls from a cache](https://x.com/AndrewCurran_/status/1764546464087159230?s=20)
+	- [If you export your chat history from ChatGPT, you get the system prompt(s) for free](https://twitter.com/thexeophon/status/1764318807009415500?s=12&t=90xQ8sGy63D2OtiaoGJuww), no jailbreaking or similar needed
+		- "[I prompt hacked ChatGPT and found out that they've launched fast browsing, using a cached version of Bing.](https://twitter.com/wangzjeff/status/1764572262743851339?s=12&t=90xQ8sGy63D2OtiaoGJuww)"
 	- ChatGPT [silently released Vision for GPT3.5](https://twitter.com/btibor91/status/1772760733844906084)
 		- also [working on version history and duplicate/revert](https://x.com/sucralose__/status/1772673238771908665?s=20)
 		- and [instruction blocks and saved state](https://twitter.com/btibor91/status/1770489674584273302)
@@ -19,7 +23,7 @@
 
 > notes: simonw's [The GPT-4 barrier has finally been smashed](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/) recaps the feeling at early March 2024
 
-- [Anthropic Claude 3](https://www.anthropic.com/news/claude-3-family) ([technical report](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf))
+- [Anthropic Claude 3](https://www.anthropic.com/news/claude-3-family) ([technical report](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf), [tweet](https://twitter.com/anthropicai/status/1764653830468428150?s=12&t=90xQ8sGy63D2OtiaoGJuww))
 	- Haiku (small, $0.25/mtok - "available soon"), Sonnet (medium, $3/mtok - powers claude.ai, is on Amazon Bedrock and Google Vertex), Opus (large $15/mtok - powers Claude Pro)
 		- **Speed**: Haiku is the fastest and most cost-effective model on the market for its intelligence category. **It can read an information and data dense research paper on arXiv (~10k tokens) with charts and graphs in less than three seconds**. Following launch, we expect to improve performance even further. [Sonnet is 2x faster than Opus and Claude 2/2.1](https://x.com/AnthropicAI/status/1764653835568726215?s=20)
 		- **Vision**: The Claude 3 models have **sophisticated vision capabilities** on par with other leading models. They can process a wide range of visual formats, including photos, charts, graphs and technical diagrams.
@@ -31,6 +35,7 @@
 		- "Opus not only found the needle, it recognized that the inserted needle was so out of place in the haystack that this had to be an artificial test constructed by us to test its attention abilities." [from Anthropic prompt engineer](https://twitter.com/alexalbert__/status/1764722513014329620)
 			- criticized by [MMitchell](https://x.com/mmitchell_ai/status/1764739357112713267?s=20) and [Connor Leahy](https://x.com/NPCollapse/status/1764740710731837516?s=20) and [Delip Rao](https://x.com/deliprao/status/1764675843542995026?s=20)
 			- could be overrated - [GPT3 also does it because the needle is so out of context](https://x.com/zggyplaydguitar/status/1764791981782262103?s=46&t=90xQ8sGy63D2OtiaoGJuww). [Jim fan](https://twitter.com/DrJimFan/status/1765076396404363435) and [yannic kilcher agree]([https://youtu.be/GBOE9fVVVSM?si=IBMCYkmSiVg-MrFr](https://youtu.be/GBOE9fVVVSM?si=IBMCYkmSiVg-MrFr "https://youtu.be/GBOE9fVVVSM?si=IBMCYkmSiVg-MrFr"))
+		- [delip rao safety cricitism of claude on AWS](https://twitter.com/deliprao/status/1764675843542995026)
 	- Evals
 		- [choosing to highlight Finance, Medicine, Philosophy domain evals rather than MMLU/HumanEval is good](https://twitter.com/DrJimFan/status/1764719012678897738)
 		- [59.5% on GPQA](https://x.com/idavidrein/status/1764675668175094169?s=20) is  much better than generalist PhDs and GPT4 - GPQA author is impressed. [paper]([arxiv.org/abs/2311.12022](https://t.co/hb4u4xXzkw)).
@@ -46,6 +51,8 @@
 		- [200k context, can extend to 1m tokens](https://x.com/mattshumer_/status/1764657732727066914?s=20)
 		- [Haiku is close to GPT4 in evals, but half the cost of GPT3.5T](https://x.com/mattshumer_/status/1764738098389225759?s=20)
 		- [Trained on synthetic data](https://x.com/Justin_Halford_/status/1764677260555034844?s=20)
+		- [long context can take karpathy 2h video into blogpost](https://twitter.com/mlpowered/status/1764718705991442622?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+			- karpathy review: [issues with hallucination](https://twitter.com/karpathy/status/1764731169109872952?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 		- [lower loss on code is normal/unremarkable](https://twitter.com/kipperrii/status/1764673822987538622)
 		- reminder that [claude prompting is different](https://twitter.com/mattshumer_/status/1765431254801871156) - use xml
 			- amanda askell recommends a "[priming prompt](https://x.com/AmandaAskell/status/1766157803868360899?s=20)" 
@@ -78,7 +85,11 @@
 - [Skyvern – Browser automation using LLMs and computer vision](https://github.com/Skyvern-AI/skyvern) 
 - https://github.com/mshumer/gpt-prompt-engineer
 	- https://x.com/mattshumer_/status/1770494629844074975?s=20
-	-  a new version of gpt-prompt-engineer that takes full advantage of Anthropic's Claude 3 Opus model. This version auto-generates test cases and allows for the user to define multiple input variables, making it even more powerful and flexible. Try it out with the claude-prompt-engineer.ipynb notebook in the repo!
+	-  a new version of gpt-prompt-engineer that takes full advantage of Anthropic's Claude 3 Opus model. This version auto-generates test cases and allows for the user to define multiple input variables, making it even more powerful and flexible. Try it out with the claude-prompt-engineer.ipynb notebook in the repo
+- Vercel demo of [Gen UI](https://genui-demo.vercel.app/) ([tweet](https://twitter.com/rauchg/status/1764470692484096496?s=12&t=90xQ8sGy63D2OtiaoGJuww))
+	- simple to add components https://github.com/rauchg/genui-demo/commit/9973577b1b5c49315331023cec5417e3f09563c1
+- [Chat w your posthog data](https://github.com/RhysSullivan/hogchat/tree/main) - generative ui ([tweet](https://twitter.com/rhyssullivan/status/1763910096449610057?s=12&t=90xQ8sGy63D2OtiaoGJuww))
+	- This is also the first Generative UI project that I've seen which uses real data which is an accomplishment I'm really proud of. For the Vercel stock price one, it was a super helpful learning resource but it was ChatGPT making up values - this one really works
 
 ## other launches
 
@@ -89,6 +100,7 @@
 	- people [frustrated](https://twitter.com/JD_2020/status/1767651974823006584) they got the idea first. [metagpt open clone](https://x.com/MetaGPT_/status/1767965444579692832?s=20)
 - Ideogram 1.0 [launched](https://twitter.com/ideogram_ai/status/1762881278955700270), touting text rendering, photorealism, and magic prompt improvement
 - Hume Chrome demo: [https://demo.hume.ai/](https://demo.hume.ai/ "https://demo.hume.ai/")
+- Nvidia [Chat With RTX](https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/) -  lets you personalize a GPT large language model (LLM) connected to your own content—docs, notes, or other data. Leveraging retrieval-augmented generation (RAG), TensorRT-LLM, and RTX acceleration, you can query a custom chatbot to quickly get contextually relevant answers. And because it all runs locally on your Windows RTX PC or workstation, you’ll get fast and secure results.
 - [groq launched api platform](https://x.com/atbeme/status/1764762523868508182?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 - [Inflection Pi 2.5](https://inflection.ai/inflection-2-5?utm_source=ainews) reports 94% of GPT4 levels and pi has 1m DAU 6m MAU.
 	- [suspiciously close to Claude 3 sonnet](https://twitter.com/seshubon/status/1765870717844050221)
@@ -174,6 +186,9 @@
 	- [Attention is all you need reunion at GTC](https://twitter.com/iScienceLuvr/status/1770520628455702701)
 	- [Andrej Karpathy at Sequoia's AI Ascent](https://youtu.be/c3b-JASoPi0?si=3A23D271aXdsQlIe&t=1609)
 	- industry invested [$50b in nvida, $3b in revenue](https://twitter.com/OfirPress/status/1774525467757822336)
+	- [Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap](https://arxiv.org/abs/2402.19450) [Tweet](https://twitter.com/_saurabh/status/1763626711407816930?s=12&t=90xQ8sGy63D2OtiaoGJuww). Functional benchmarks are a new way to do reasoning evals. Take a popular benchmark, e.g., MATH, and manually rewrite its reasoning into code, MATH(). Run the code to get a snapshot that asks for the same reasoning but not the same question. A reasoning gap exists if a model’s performance is different on snapshots. Big question: Are current SOTA models closer to gap 0 (proper reasoning) or gap 100 (lots of memorization)?
+		- Over the next few months, we’ll release functionalizations of more benchmarks: 100% MATH, GSM8K, HumanEval. Reasoning gaps for most SOTA models with model-specific prompting. Please reach out if you wanna help! 
+	- "political culture encourages us to think that generalized anxiety is equivalent to civic duty" vs "The gods only have power because they trick people like this into doing their bidding. It's so much easier to just submit instead of mastering divinity engineering and applying it yourself. It's so scary to admit that we do have agency, if we take it." [roon vs connor leahy](https://twitter.com/npcollapse/status/1763955866665984265?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - Learning
 	- [Spreadsheets are all you need](https://spreadsheets-are-all-you-need.ai/index.html) ([HN](https://news.ycombinator.com/item?id=39700256))
 	- Intro to DSPy ([blog](https://towardsdatascience.com/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9), [tweet](https://twitter.com/helloiamleonie/status/1762508240359702739?s=12&t=90xQ8sGy63D2OtiaoGJuww)) In DSPy, traditional prompt engineering concepts are replaced with:
