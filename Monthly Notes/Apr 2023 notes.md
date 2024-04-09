@@ -10,6 +10,8 @@
 	- Comprehensive Validation Metrics: The ability to compute metrics like loss and accuracy over the entire validation dataset instead of a sampled batch, providing better insight on model quality
 	- Hyperparameter Configuration: The ability to configure available hyperparameters from the Dashboard (rather than only through the API or SDK) 
 	- Fine-Tuning Dashboard Improvements: Including the ability to configure hyperparameters, view more detailed training metrics, and rerun jobs from previous configurations
+- minor technical stuff
+	- [GPT4V GA](https://twitter.com/OpenAIDevs/status/1777769463258988634) now also uses JSON mode and function calling - useases devin, healthify snap, make real
 
 ## frontier models
 
@@ -32,6 +34,7 @@
 ## discussion
 
 - soumith v fchollet https://x.com/fchollet/status/1776319511807115589
+- delve is from nigeria https://twitter.com/moultano/status/1777727219097342287
 
 ## memes
 

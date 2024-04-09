@@ -5,7 +5,6 @@
 	- It combines both automated interpretability and sparse autoencoders, and it allows rapid exploration of models without writing code. It supports both neurons and attention heads. You can intervene on the forward pass by ablating individual neurons and see what changes. In short, it's a quick and easy way to discover circuits manually.
 - Minor technical stuff
 	- [logit_bias no longer affects logprobs](https://twitter.com/brianryhuang/status/1763438814515843119?s=12&t=90xQ8sGy63D2OtiaoGJuww) - because of [language model inversion leak](https://twitter.com/jxmnop/status/1765873234489061539)?
-	- 
 - nontechnical
 	- [elon sues openai](https://www.washingtonpost.com/business/2024/03/01/musk-openai-lawsuit/), [openai responds](https://twitter.com/openai/status/1765201089366773913?t=6FDPaNxZcbSsELal6Sv7Ug)
 	- [openai board reappoints sama](https://news.ycombinator.com/item?id=39647105), [NYT wrote some stuff about Mira](https://archive.is/uroRV)
