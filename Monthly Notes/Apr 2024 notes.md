@@ -46,10 +46,14 @@
 	- Multilingual support of both base and chat models;
 	- Stable support of 32K context length for models of all sizes
 
+## open source tooling
+
+- https://github.com/GregorD1A1/TinderGPT
+
 ## other launches
 
 - udio music https://twitter.com/udiomusic/status/1778045322654003448?t=6FDPaNxZcbSsELal6Sv7Ug
-	- 
+	- sonauto as well
 
 
 ## discussion
