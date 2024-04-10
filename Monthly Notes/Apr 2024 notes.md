@@ -17,6 +17,8 @@
 	- Fine-Tuning Dashboard Improvements: Including the ability to configure hyperparameters, view more detailed training metrics, and rerun jobs from previous configurations
 - minor technical stuff
 	- [GPT4V GA](https://twitter.com/OpenAIDevs/status/1777769463258988634) now also uses JSON mode and function calling - useases devin, healthify snap, tldraw makereal. openai account calls it "[majorly improved](https://x.com/OpenAI/status/1777772582680301665)"
+		- specifically [reasoning has been further improved](https://x.com/polynoamial/status/1777809000345505801?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the). and [math](https://twitter.com/owencm/status/1777770827985150022) 
+		- [cursor has better comparison](https://twitter.com/cursor_ai/status/1777886886884986944?t=6FDPaNxZcbSsELal6Sv7Ug)
 	- 
 
 ## frontier models
