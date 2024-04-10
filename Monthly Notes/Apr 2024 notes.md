@@ -19,6 +19,7 @@
 	- [GPT4V GA](https://twitter.com/OpenAIDevs/status/1777769463258988634) now also uses JSON mode and function calling - useases devin, healthify snap, tldraw makereal. openai account calls it "[majorly improved](https://x.com/OpenAI/status/1777772582680301665)"
 		- specifically [reasoning has been further improved](https://x.com/polynoamial/status/1777809000345505801?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the). and [math](https://twitter.com/owencm/status/1777770827985150022) 
 		- [cursor has better comparison](https://twitter.com/cursor_ai/status/1777886886884986944?t=6FDPaNxZcbSsELal6Sv7Ug)
+		- GPT4T upgrade - [less verbose, better at codegen](https://twitter.com/gdb/status/1778126026532372486?t=6FDPaNxZcbSsELal6Sv7Ug)
 	- 
 
 ## frontier models
@@ -36,12 +37,19 @@
 	-   **Optimized for RAG workflows**: Command R+ is [optimized for RAG](https://twitter.com/aidangomez/status/1775878606108979495), with multi-hop capabilities to break down complex questions and strong tool use. It's integrated with [@LangChainAI](https://twitter.com/cohere/status/1775931339361149230) for building RAG applications.
 	-   **Multilingual support**: Command R+ has [strong performance](https://twitter.com/seb_ruder/status/1775882934542533021) across 10 languages including English, French, Spanish, Italian, German, Portuguese, Japanese, Korean, Arabic, and Chinese. The SonnetTokenizer is [efficient for non-English text](https://twitter.com/JayAlammar/status/1775928159784915229).
 	- [became the #6 model on lmsys ](https://twitter.com/lmsysorg/status/1777630133798772766?t=90xQ8sGy63D2OtiaoGJuww)and top open model, beating mistral large and qwen, but behind claude sonnet, gemini pro, and gpt4t
+- Mistral 8x22B
+	- 
 - [Stable Audio 2.0](https://x.com/StabilityAI/status/1775501906321793266?s=20) - a new model capable of producing high-quality, full tracks with coherent musical structure up to three minutes long at 44.1 kHz stereo from a single prompt.
 - Qwen 1.5-32B-Chat ([HF](https://huggingface.co/Qwen/Qwen1.5-32B-Chat)) - the beta version of Qwen2, a transformer-based decoder-only language model pretrained on a large amount of data. In comparison with the previous released Qwen, the improvements include:
 	- 8 model sizes, including 0.5B, 1.8B, 4B, 7B, 14B, 32B and 72B dense models, and an MoE model of 14B with 2.7B activated;
 	- Significant performance improvement in human preference for chat models;
 	- Multilingual support of both base and chat models;
 	- Stable support of 32K context length for models of all sizes
+
+## other launches
+
+- udio music https://twitter.com/udiomusic/status/1778045322654003448?t=6FDPaNxZcbSsELal6Sv7Ug
+	- 
 
 
 ## discussion
