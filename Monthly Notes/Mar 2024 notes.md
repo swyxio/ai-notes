@@ -11,6 +11,7 @@
 	- [OpenAI's chatbot store is filling up with spam](https://techcrunch.com/2024/03/20/openais-chatbot-store-is-filling-up-with-spam/)
 	- [OpenAI removes Sam Altman's ownership of its Startup Fund](https://www.reuters.com/technology/openai-removes-sam-altmans-ownership-its-startup-fund-2024-04-01/)
 	- [ChatGPT no longer requires signup](https://openai.com/blog/start-using-chatgpt-instantly)
+- leaks - [$100b microsoft Stargate datacenter](https://fortune.com/2024/04/02/microsoft-openai-stargate-100-billion-ai-supercomputer-star-wars-sdi/)
 - Community comments
 	- [GPT4 browsing buggy current search - pulls from a cache](https://x.com/AndrewCurran_/status/1764546464087159230?s=20)
 	- [If you export your chat history from ChatGPT, you get the system prompt(s) for free](https://twitter.com/thexeophon/status/1764318807009415500?s=12&t=90xQ8sGy63D2OtiaoGJuww), no jailbreaking or similar needed
