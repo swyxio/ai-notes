@@ -50,6 +50,7 @@
 ## open source tooling
 
 - https://github.com/GregorD1A1/TinderGPT
+- https://github.com/princeton-nlp/SWE-agent
 
 ## other launches
 
