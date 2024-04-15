@@ -56,6 +56,8 @@
 
 - udio music https://twitter.com/udiomusic/status/1778045322654003448?t=6FDPaNxZcbSsELal6Sv7Ug
 	- sonauto as well
+- [Reka Core/Flash/Edge](https://publications.reka.ai/reka-core-tech-report.pdf)
+	-   
 
 ## fundraising
 
