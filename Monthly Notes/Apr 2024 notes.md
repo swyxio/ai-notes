@@ -53,10 +53,12 @@
 
 - https://github.com/GregorD1A1/TinderGPT
 - https://github.com/princeton-nlp/SWE-agent
+- https://github.com/Dhravya/supermemory t's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
 ## other launches
 
 - udio music https://twitter.com/udiomusic/status/1778045322654003448?t=6FDPaNxZcbSsELal6Sv7Ug
+	- [comedy dialogue, sports analysis, commercials, radio broadcasts, asmr, nature sounds](https://x.com/mckaywrigley/status/1778867824217542766?s=46&t=6FDPaNxZcbSsELal6Sv7Ug)
 	- sonauto as well
 - [Reka Core/Flash/Edge](https://publications.reka.ai/reka-core-tech-report.pdf)
 	-   
@@ -65,10 +67,14 @@
 
 - [XAI seeking 4b](https://www.bloomberg.com/news/articles/2024-04-11/elon-musk-s-xai-seeks-up-to-4-billion-to-compete-with-openai)
 
+## Learning
+
+- Thom Wolf - [how to train LLMs in 2024](https://youtu.be/2-SPH9hIKT8?si=wqYrDbhvgJUT2zHP)
 ## discussion
 
 - soumith v fchollet https://x.com/fchollet/status/1776319511807115589
 - delve is from nigeria https://twitter.com/moultano/status/1777727219097342287
+	- https://x.com/jeremynguyenphd/status/1780580567215681644?s=46&t=90xQ8sGy63D2OtiaoGJuww
 
 ## memes
 
