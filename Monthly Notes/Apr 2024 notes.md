@@ -58,6 +58,21 @@
 
 ## open source tooling
 
+- LMsys arena-hard: https://twitter.com/lmsysorg/status/1782179997622649330
+	-  a pipeline to build our next generation benchmarks with live Arena data.
+	- Significantly better separability than MT-bench (22.6% -> 87.4%)
+	- Highest agreement to Chatbot Arena ranking (89.1%)
+	- Fast & cheap to run ($25)
+	- Frequent update with live data
+	- We propose to use Confidence Intervals via Bootstrapping to calculate below two metrics:
+	- Agreement with human: does benchmark have high agreement to human preference?
+	- Separability: can benchmark confidently separate models?
+	- Arena-hard achieves the highest on both, serving as a fast proxy to Chatbot Arena ranking.
+	- How does Arena-hard pipeline work?
+		1) Input: 200K Arena user prompts
+		2) Topic modeling to ensure diversity 
+		3) Key criteria (e.g., domain knowledge, problem-solving) to select high quality topic clusters
+	1) Result: 500 challenging benchmark prompts.
 - https://github.com/GregorD1A1/TinderGPT
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/Dhravya/supermemory t's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
@@ -72,6 +87,7 @@
 
 ## fundraising
 
+- [Perplexity raised 62.7m at 1b valuation, led by dan gross](https://x.com/AravSrinivas/status/1782784338238873769)
 - [XAI seeking 4b](https://www.bloomberg.com/news/articles/2024-04-11/elon-musk-s-xai-seeks-up-to-4-billion-to-compete-with-openai)
 
 ## Learning
