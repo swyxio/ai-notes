@@ -73,6 +73,8 @@
 		2) Topic modeling to ensure diversity 
 		3) Key criteria (e.g., domain knowledge, problem-solving) to select high quality topic clusters
 	1) Result: 500 challenging benchmark prompts.
+- [LangChain - ToolCallingAgent](https://twitter.com/LangChainAI/status/1778465775034249625?utm_source=ainews&utm_medium=email)
+	- A standard `bind_tools` method for attaching tools to a model that handles provider-specific formatting.
 - https://github.com/GregorD1A1/TinderGPT
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/Dhravya/supermemory t's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
@@ -98,6 +100,8 @@
 - soumith v fchollet https://x.com/fchollet/status/1776319511807115589
 - delve is from nigeria https://twitter.com/moultano/status/1777727219097342287
 	- https://x.com/jeremynguyenphd/status/1780580567215681644?s=46&t=90xQ8sGy63D2OtiaoGJuww
+- [devin debunking](https://news.ycombinator.com/item?id=40008109)
+	- [cognition company response](https://twitter.com/cognition_labs/status/1780661877686538448) - [engineer's response](https://twitter.com/walden_yan/status/1780014680242528406)
 
 ## memes
 
