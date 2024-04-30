@@ -105,6 +105,7 @@
 	- https://x.com/jeremynguyenphd/status/1780580567215681644?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - [devin debunking](https://news.ycombinator.com/item?id=40008109)
 	- [cognition company response](https://twitter.com/cognition_labs/status/1780661877686538448) - [engineer's response](https://twitter.com/walden_yan/status/1780014680242528406)
+- [what can LLMs never do?](https://news.ycombinator.com/item?id=40179232)
 - papers
 	- Our 12 scaling laws (for LLM knowledge capacity)
 		- prefix [low quality data with junk tokens](https://twitter.com/ZeyuanAllenZhu/status/1777513028466188404) - "when pre-training good data (e.g., Wiki) together with "junks" (e.g., Common Crawl), LLM's capacity on good data may decrease by 20x times! A simple fix: add domain tokens to your data; LLMs can auto-detect domains rich in knowledge and prioritize."
