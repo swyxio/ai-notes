@@ -17,7 +17,8 @@
 	- Fine-Tuning Dashboard Improvements: Including the ability to configure hyperparameters, view more detailed training metrics, and rerun jobs from previous configurations
 - minor technical stuff
 	- [batch endpoint](https://twitter.com/OpenAIDevs/status/1779922566091522492) - Just upload a file of bulk requests, receive results within 24 hours, and get 50% off API prices
-	- [GPT4V GA](https://twitter.com/OpenAIDevs/status/1777769463258988634) now also uses JSON mode and function calling - useases devin, healthify snap, tldraw makereal. openai account calls it "[majorly improved](https://x.com/OpenAI/status/1777772582680301665)"
+	- `tool_choice: required` uses [constrained sampling](https://twitter.com/gdb/status/1784990428854391173) for openai funciton calling
+	- [GPT4V GA](https://twitter.com/OpenAIDevs/status/1777769463258988634) now also uses JSON mode and function calling - useases devin, healthify snap, tldraw makereal. openai account calls it "[majorly improved](https://x.com/OpenAI/status/1777772582680301665)" GPT4T
 		- specifically [reasoning has been further improved](https://x.com/polynoamial/status/1777809000345505801?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the). and [math](https://twitter.com/owencm/status/1777770827985150022) 
 		- [cursor has better comparison](https://twitter.com/cursor_ai/status/1777886886884986944?t=6FDPaNxZcbSsELal6Sv7Ug)
 		- GPT4T upgrade - [less verbose, better at codegen](https://twitter.com/gdb/status/1778126026532372486?t=6FDPaNxZcbSsELal6Sv7Ug)
@@ -104,6 +105,9 @@
 	- https://x.com/jeremynguyenphd/status/1780580567215681644?s=46&t=90xQ8sGy63D2OtiaoGJuww
 - [devin debunking](https://news.ycombinator.com/item?id=40008109)
 	- [cognition company response](https://twitter.com/cognition_labs/status/1780661877686538448) - [engineer's response](https://twitter.com/walden_yan/status/1780014680242528406)
+- papers
+	- Our 12 scaling laws (for LLM knowledge capacity)
+		- prefix [low quality data with junk tokens](https://twitter.com/ZeyuanAllenZhu/status/1777513028466188404) - "when pre-training good data (e.g., Wiki) together with "junks" (e.g., Common Crawl), LLM's capacity on good data may decrease by 20x times! A simple fix: add domain tokens to your data; LLMs can auto-detect domains rich in knowledge and prioritize."
 
 ## memes
 
