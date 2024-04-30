@@ -8,6 +8,7 @@
 
 - harvey case study https://x.com/gabepereyra/status/1775207692841488542?s=20
 	- - 93% preferred vs. ChatGPT by BigLaw attorneys - 87% more accurate case citations
+- [partnership with FT](https://x.com/gdb/status/1784972212627443902)
 - more improvements to OpenAI's Fine-Tuning API & additional info on its Custom Models program [https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program](https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program "https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program")
 	- Epoch-based Checkpoint Creation: Automatically produce one full fine-tuned model checkpoint during each training epoch, which reduces the need for subsequent retraining, especially in the cases of overfitting
 	- Comparative Playground: A new side-by-side Playground UI for comparing model quality and performance, allowing human evaluation of the outputs of multiple models or fine-tune snapshots against a single prompt
@@ -16,7 +17,9 @@
 	- Hyperparameter Configuration: The ability to configure available hyperparameters from the Dashboard (rather than only through the API or SDK) 
 	- Fine-Tuning Dashboard Improvements: Including the ability to configure hyperparameters, view more detailed training metrics, and rerun jobs from previous configurations
 - minor technical stuff
+	- [chatgpt memory rolled out to all plus users](https://twitter.com/OpenAI/status/1784992796669096181)
 	- [batch endpoint](https://twitter.com/OpenAIDevs/status/1779922566091522492) - Just upload a file of bulk requests, receive results within 24 hours, and get 50% off API prices
+		- [increased rate limits and dashboard support](https://twitter.com/gdb/status/1785340207031804345)
 	- `tool_choice: required` uses [constrained sampling](https://twitter.com/gdb/status/1784990428854391173) for openai funciton calling
 	- [GPT4V GA](https://twitter.com/OpenAIDevs/status/1777769463258988634) now also uses JSON mode and function calling - useases devin, healthify snap, tldraw makereal. openai account calls it "[majorly improved](https://x.com/OpenAI/status/1777772582680301665)" GPT4T
 		- specifically [reasoning has been further improved](https://x.com/polynoamial/status/1777809000345505801?utm_source=ainews&utm_medium=email&utm_campaign=ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the). and [math](https://twitter.com/owencm/status/1777770827985150022) 
@@ -24,6 +27,7 @@
 		- GPT4T upgrade - [less verbose, better at codegen](https://twitter.com/gdb/status/1778126026532372486?t=6FDPaNxZcbSsELal6Sv7Ug)
 - rumors
 	- [NYT says openai scraped 1m hrs of youtube data](https://www.theverge.com/2024/4/6/24122915/openai-youtube-transcripts-gpt-4-training-data-google)
+	
 
 ## frontier models
 
