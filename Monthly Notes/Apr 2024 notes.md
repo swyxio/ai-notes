@@ -97,6 +97,7 @@
 
 - [Perplexity raised 62.7m at 1b valuation, led by dan gross](https://x.com/AravSrinivas/status/1782784338238873769)
 	- https://www.bloomberg.com/news/articles/2024-04-23/ai-search-startup-perplexity-valued-at-1-billion-in-funding-round
+- [Augment - 252m seed](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
 - [XAI seeking 4b](https://www.bloomberg.com/news/articles/2024-04-11/elon-musk-s-xai-seeks-up-to-4-billion-to-compete-with-openai)
 
 ## Learning
