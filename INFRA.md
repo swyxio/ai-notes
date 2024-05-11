@@ -32,6 +32,8 @@
   https://twitter.com/srush_nlp/status/1633509903611437058?s=46&t=90xQ8sGy63D2OtiaoGJuww xkcd style tbale with orders if magnitude
   as opposed to [Kaplan scaling laws](https://arxiv.org/pdf/2001.08361.pdf) (1.7x tokens, instead of 20x tokens)
   - the most pessimistic estimate of how much like the most capable organization could get is the 500 billion tokens. A more optimistic estimate is like 10 trillion tokens is how many tokens the most capable organization could get, like mostly English tokens. https://theinsideview.ai/ethan#limits-of-scaling-data
+  - https://x.com/mark_cummins/status/1788949893903511705?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	  - Llama 3 was trained on 15 trillion tokens (11T words). That’s large - approximately 100,000x what a human requires for language learning
   - https://twitter.com/BlancheMinerva/status/1644175139028840454?s=20
 	  - In 2010 Google Books reported 129,864,880 books. According to UNESCO, there are several million books published in the US alone each year.
 	  - There are over 2,000 characters per page of text, which means that if the average book has 100 pages the total set of books in 2010 is about 100x the size of the Pile and that number grows by about one Pile per year.
