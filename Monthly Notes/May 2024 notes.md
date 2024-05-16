@@ -9,6 +9,7 @@
 	- Roughly 25% of ChatGPT users already use the browse function, but the company expects that a majority of users will do so once the feature is broadly rolled out. 
 	- A representative for OpenAI disputed the accuracy of the information in the deck, which is more than three months old. The gen AI firm also negotiates deals on a per-publisher basis, rather than structuring all of its deals uniformly, the representative said.
 - minor stuff
+	- [API platform has Projects](https://help.openai.com/en/articles/9186755-managing-your-work-in-the-api-platform-with-projects) with roles and cost management and service accounts
 	- [reddit partnership](https://openai.com/index/openai-and-reddit-partnership/)
 
 ## frontier models
