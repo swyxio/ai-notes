@@ -10,6 +10,8 @@
 	- A representative for OpenAI disputed the accuracy of the information in the deck, which is more than three months old. The gen AI firm also negotiates deals on a per-publisher basis, rather than structuring all of its deals uniformly, the representative said.
 - minor stuff
 	- [API platform has Projects](https://help.openai.com/en/articles/9186755-managing-your-work-in-the-api-platform-with-projects) with roles and cost management and service accounts
+	- ChatGPT Code Interpreter/Data Analysis improvements
+		- **OpenAI introduces interactive tables, charts, and file integration**: In a [tweet](https://x.com/OpenAI/status/1791227287569932368), OpenAI announced that ChatGPT Plus, Team, and Enterprise users can now upload files from Google Drive and Microsoft OneDrive, and interact with tables and charts within the AI model.
 	- [reddit partnership](https://openai.com/index/openai-and-reddit-partnership/)
 
 ## frontier models
@@ -20,7 +22,7 @@
 ## open models
 
 - [Falcon 2](https://news.ycombinator.com/item?id=40344302)
-- 
+- **MetaAI unveils Chameleon, a Mixed-Modal Early-Fusion Foundation Model**: Similar to GPT-4o, Chameleon is capable of "[**interleaved text and image understanding and generation**](https://x.com/AIatMeta/status/1791263344714014733)," as announced by MetaAI on Twitter.
 
 ## open source tooling 
 
