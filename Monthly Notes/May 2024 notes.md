@@ -35,8 +35,10 @@
 - Scale AI gsm1k
 	- https://twitter.com/DrJimFan/status/1786054643568517261
 - [Consistency LLM - parallel decoders accelerates inference 3.5x](https://news.ycombinator.com/item?id=40302201)
-- 
+- [Google Gemini's impending Context Caching](https://news.ycombinator.com/item?id=40364220)
 - [shunyu yao phd defense](https://twitter.com/ShunyuYao12/status/1789058769982550031)
 	- "Language Agents: From Next-Token Prediction to Digital Automation"  
 	- Talk (WebShop, SWE-bench, ReAct, ToT, CoALA, and on the future of agents): 
 	- https://ysymyth.github.io/papers/Dissertation-finalized.pdf
+- learning
+	- [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
