@@ -30,6 +30,12 @@
 	- modelfusion joins vercel
 - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)|
 
+
+## Funding
+
+- scale ai: **Scale AI raises $1B at $13.8B valuation in round led by Accel**: [@alexandr_wang](https://twitter.com/alexandr_wang/status/1792905417065914858)
+- suno ai: **Suno raises $125M to enable anyone to make music with AI**: [@suno_ai_](https://twitter.com/suno_ai_/status/1792922276683297162) 
+
 ## Discussions
 
 - Scale AI gsm1k
