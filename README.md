@@ -175,6 +175,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - https://spreadsheets-are-all-you-need.ai
   - ["Catching up on the weird world of LLMs"](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) - Simon Willison's 40min overview + [Open Questions for AI Engineers](https://www.youtube.com/watch?v=AjLVoAu-u-Q)
   - [LLMs overview from Flyte](https://flyte.org/blog/getting-started-with-large-language-models-key-things-to-know#what-are-llms)
+  - Clementine Fourrier on [How Evals are Done](https://huggingface.co/blog/clefourrier/llm-evaluation)
   - [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/) - great recap
 	  - [Evals](https://eugeneyan.com/writing/llm-patterns/#evals-to-measure-performance): To measure performance
 	-   [RAG](https://eugeneyan.com/writing/llm-patterns/#retrieval-augmented-generation-to-add-knowledge): To add recent, external knowledge
