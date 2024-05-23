@@ -13,6 +13,10 @@
 	- ChatGPT Code Interpreter/Data Analysis improvements
 		- **OpenAI introduces interactive tables, charts, and file integration**: In a [tweet](https://x.com/OpenAI/status/1791227287569932368), OpenAI announced that ChatGPT Plus, Team, and Enterprise users can now upload files from Google Drive and Microsoft OneDrive, and interact with tables and charts within the AI model.
 	- [reddit partnership](https://openai.com/index/openai-and-reddit-partnership/)
+- nontechnical stuff
+	- Sky/Scarlett Johannson drama
+	- Ilya + Jan Leike resignations
+	- [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 
 ## frontier models
 
