@@ -123,6 +123,7 @@ attention visualization https://catherinesyeh.github.io/attn-docs/
 -   [**Sparks of artificial general intelligence: Early experiments with GPT-4**](https://arxiv.org/abs/2303.12712): Early analysis from Microsoft Research on the capabilities of GPT-4, the current most advanced LLM, relative to human intelligence.
 -   [**The AI revolution: How Auto-GPT unleashes a new era of automation and creativity**](https://pub.towardsai.net/the-ai-revolution-how-auto-gpt-unleashes-a-new-era-of-automation-and-creativity-2008aa2ca6ae): An introduction to Auto-GPT and AI agents in general. This technology is very early but important to understand — it uses internet access and self-generated sub-tasks in order to solve specific, complex problems or goals.
 -   **[The Waluigi Effect](https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post)**: Nominally an explanation of the “Waluigi effect” (i.e., why “alter egos” emerge in LLM behavior), but interesting mostly for its deep dive on the theory of LLM prompting.
+- QKV https://x.com/karpathy/status/1794021159895507173
 
 
 
