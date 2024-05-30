@@ -318,6 +318,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	- https://finbarrtimbers.substack.com/p/five-years-of-progress-in-gpts GPT1/2/3, Megatron, Gopher, Chinchilla, PaLM, LLaMa
 	- good summary paper (8 things to know) https://cims.nyu.edu/~sbowman/eightthings.pdf
 - [Huggingface MOE explainer](https://huggingface.co/blog/moe)
+- https://blog.alexalemi.com/kl-is-all-you-need.html
 
 
 
