@@ -7,6 +7,7 @@ A live updating list of good ai podcasts and newsletters by swyx. Please feel fr
 some of these are on youtube too, i dont really bother separating them. ⭐  represents particular faves, ask me IRL
 
 - Researchers & Specialists
+  	- [AImodels.fyi](https://aimodels.fyi) (Mike Young, @mikeyoung44) - Free summaries of all AI/ML papers published on arXiv each day, ranked by popularity
 	- [The Gradient](https://thegradientpub.substack.com/s/podcast) (Daniel Bashir) - great practitioner interviews
 	- [Practical AI](https://changelog.com/practicalai) (Dan Whitenack) - good weekly conversations, a bit enterprisey
 	- [This Week in Machine Learning/AI](https://twimlai.com/podcast/twimlai/) (Sam Charrington) - one of the longest running practitioner interview shows
