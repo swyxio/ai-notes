@@ -60,7 +60,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- https://eugeneyan.com/writing/
 	- https://lilianweng.github.io/
 - Aggregators
-    	- [AImodels.fyi](https://aimodels.fyi) (Mike Young) - Free summaries of all AI/ML papers published on arXiv each day, ranked by popularity. Also covers models on Replicate and HuggingFace.
+ 	- [AImodels.fyi](https://aimodels.fyi) (Mike Young) - Free summaries of all AI/ML papers published on arXiv each day, ranked by popularity. Also covers models on Replicate and HuggingFace.
 	- [Emergent Mind](https://www.emergentmind.com) (trending arXiv ML/AI papers with GPT-4-generated summaries and links to social media discussions) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/) see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
 	- Amplify/Sarah Catanzaro's PTK https://www.amplifypartners.com/projects-to-know
 	- Ben's Bites https://bensbites.beehiiv.com/
