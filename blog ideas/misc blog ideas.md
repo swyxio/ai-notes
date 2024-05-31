@@ -29,6 +29,8 @@ chip h × $2 = $69.444M
 
 [cost to alphazero](https://twitter.com/finbarrtimbers/status/1765478681194234074?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - my estimate is more like $1.7M. They trained with 5016 TPU chips for 13 days for chess, 9 hours in Chess, and 12 hours in Shogi. This is a total of 333 hours. The total cost is then 1.67M TPU chip-hours. They used v1 TPUs, which I don't think ever had public pricing. A v2 TPU costs <$1 per chip-hour at the 1 year commitment level. So that's less than $1.7M per training run. The 3 year commitment price is ~$0.5873 per chip-hour, which is probably a more reasonable estimate for Google's internal price (although still high by at least a factor of 2, imo). That would mean the total cost is ~$980k. Are we assuming they did 36 full training runs? That seems unlikely.
+- 
+- 4x-5x scaling in compute - https://www.reddit.com/r/singularity/comments/1d3xfhs/the_amount_of_compute_used_in_training_is/
 
 ### where are all the ai engineers?
 
