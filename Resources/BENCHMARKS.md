@@ -3,6 +3,7 @@ Benchmarks exist between the Data and Models, and are the least obvious/glamorou
 
 easiest way i know to run the benchmarks yourself is https://github.com/EleutherAI/lm-evaluation-harness
 - which was forked from the MMLU test https://huggingface.co/blog/evaluating-mmlu-leaderboard and is also related to the stanford HELM impl
+- and drives the Open LLM Leaderboard https://github.com/huggingface/blog/blob/main/open-llm-leaderboard-mmlu.md
 openai evals is promising but doesnt have most of them implemented yet
 
 
