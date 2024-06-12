@@ -34,6 +34,7 @@ prompt engineering techniques
 ## reading list
 
 - https://github.com/dair-ai/Prompt-Engineering-Guide
+- https://x.com/learnprompting/status/1800931910404784380
 - https://github.com/brexhq/prompt-engineering ([HN](https://news.ycombinator.com/item?id=35942583))
 - https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://news.ycombinator.com/item?id=36196113) https://arxiv.org/abs/2302.11382
