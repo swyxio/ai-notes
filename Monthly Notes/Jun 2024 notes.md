@@ -1,4 +1,10 @@
 
+## openai
+
+- nontechnical
+	- apple doesnt pay oepnai for chatgpt deal
+	- revneue doubels to 3.4b in the last 6 months
+
 ## notable reads
 
 - [A Picture is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
@@ -16,3 +22,5 @@
 - apple intelligence
 	- [ipad calculator is nutes](https://x.com/levie/status/1800224021193396594)
 	- [talaria tool](https://buttondown.email/ainews/archive/ainews-talaria-apples-new-mlops-superweapon-4066/)
+- perplexity - forbes attribution issue
+- 
