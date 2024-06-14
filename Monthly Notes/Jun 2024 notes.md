@@ -23,6 +23,7 @@
 
 - forcing AI on to us
 	- msft recall default https://news.ycombinator.com/item?id=40610435
+		- and delay https://news.ycombinator.com/item?id=40683210
 - apple intelligence
 	- [ipad calculator is nutes](https://x.com/levie/status/1800224021193396594)
 	- [talaria tool](https://buttondown.email/ainews/archive/ainews-talaria-apples-new-mlops-superweapon-4066/)
