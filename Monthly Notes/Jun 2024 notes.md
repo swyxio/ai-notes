@@ -14,6 +14,10 @@
 	- The authors can compute conditional probability densities for every missing token in a sequence, again in parallel, i.e., densities for all missing tokens at once.
 	- The authors propose a rejection-sampling method for generating in-fill tokens, again in parallel. Their method seems to work well in practice.
 
+## launches
+
+- luma ai dream machine https://news.ycombinator.com/item?id=40670096
+
 ## discussions
 
 
