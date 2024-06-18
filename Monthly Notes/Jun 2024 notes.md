@@ -21,6 +21,8 @@
 ## launches
 
 - luma ai dream machine https://news.ycombinator.com/item?id=40670096
+- arc-agi benchmark
+	- got 71% or 50% solution https://x.com/bshlgrs/status/1802766374961553887
 
 ## discussions and good reads
 
@@ -28,6 +30,7 @@
 - [cost of self hosting Llama 3](https://blog.lytix.co/posts/self-hosting-llama-3)
 	- Assuming 100% utilization of your model Llama-3 8B-Instruct model costs about $17 dollars per 1M tokens when self hosting with EKS, vs ChatGPT with the same workload can offer $1 per 1M tokens. 
 	- Choosing to self host the hardware can make the cost <$0.01 per 1M token that takes ~5.5 years to break even.
+- [A Picture is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
 - forcing AI on to us
 	- msft recall default https://news.ycombinator.com/item?id=40610435
 		- and delay https://news.ycombinator.com/item?id=40683210
@@ -35,4 +38,4 @@
 	- [ipad calculator is nutes](https://x.com/levie/status/1800224021193396594)
 	- [talaria tool](https://buttondown.email/ainews/archive/ainews-talaria-apples-new-mlops-superweapon-4066/)
 - perplexity - forbes attribution issue
-- 
+- [books4 dataset](https://web.archive.org/web/20240519104217/https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/)
