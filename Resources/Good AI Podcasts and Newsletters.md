@@ -30,9 +30,10 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- ⭐ [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - great new pod
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host. Recently taken over to Caryn Marooney.
 	- [Robot Brains](https://www.therobotbrains.ai/) - Pieter Abbeel - decent backlog
-	- [Generally Intelligent](https://generallyintelligent.com/podcast) - Kanjun Qiu - very cerebral/RL focused. dormant.
+	- [Generally Intelligent](https://generallyintelligent.com/podcast) - Kanjun Qiu - very cerebral/RL focused. now dormant.
 	- [Weaviate Podcast](https://podcasters.spotify.com/pod/show/weaviate/episodes/Erika-Cardenas--Roman-Grebennikov--and-Vsevolod-Goloviznin-on-Recommendation-and-Metarank---Pod-43-e2280u3) - good technical discussions
 	- [NLP Highlights](https://www.listennotes.com/podcasts/nlp-highlights-allen-institute-for-f9Yt4vD_ger/) by the Allen Institute (infrequent but good pre 2020 backlog. Check episode 36)
+	- [High Agency](https://podcasts.apple.com/us/podcast/high-agency-the-podcast-for-ai-builders/id1747605459) - Raza Habib (HumanLoop) - new
 - VCs
 	- ⭐ [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil
 	- [Training Data](https://podcasts.apple.com/gb/podcast/training-data/id1750736528) - Sequoia
