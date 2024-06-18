@@ -35,8 +35,9 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [NLP Highlights](https://www.listennotes.com/podcasts/nlp-highlights-allen-institute-for-f9Yt4vD_ger/) by the Allen Institute (infrequent but good pre 2020 backlog. Check episode 36)
 - VCs
 	- ⭐ [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil
-	- [MAD podcast](https://podcasts.apple.com/us/podcast/the-mad-podcast-with-matt-turck/id1686238724) - Matt Turck - new
+	- [Training Data](https://podcasts.apple.com/gb/podcast/training-data/id1750736528) - Sequoia
 	- [Unsupervised Learning](https://podtail.com/en/podcast/unsupervised-learning/) - Redpoint
+	- [MAD podcast](https://podcasts.apple.com/us/podcast/the-mad-podcast-with-matt-turck/id1686238724) - Matt Turck
 - Mine :) https://latent.space/
 
 ## Newsletters
