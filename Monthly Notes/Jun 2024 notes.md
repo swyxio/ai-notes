@@ -5,6 +5,11 @@
 	- apple doesnt pay oepnai for chatgpt deal
 	- revneue doubels to 3.4b in the last 6 months
 
+## frontier models
+
+- claude 3.5 sonnet 
+	- artifacts [system prompt](https://x.com/elder_plinius/status/1804052791259717665)
+
 ## notable reads
 
 - [A Picture is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
