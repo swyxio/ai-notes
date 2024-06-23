@@ -28,6 +28,7 @@
 - luma ai dream machine https://news.ycombinator.com/item?id=40670096
 - arc-agi benchmark
 	- got 71% or 50% solution https://x.com/bshlgrs/status/1802766374961553887
+- [midjourney launches personalization](https://x.com/nickfloats/status/1800718391961170356?utm_source=thesephist&utm_medium=email&utm_campaign=maps-and-compasses)
 
 ## discussions and good reads
 
