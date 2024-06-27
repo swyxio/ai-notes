@@ -25,6 +25,9 @@
 
 ## launches
 
+- etched launch: https://www.etched.com/announcing-etched
+	- Sohu is the world’s first transformer ASIC. One 8xSohu server replaces 160 H100 GPUs.
+	- By specializing, Sohu gets unprecedented performance. One 8xSohu server can serve over 500,000 Llama 70B tokens per second.
 - luma ai dream machine https://news.ycombinator.com/item?id=40670096
 - arc-agi benchmark
 	- got 71% or 50% solution https://x.com/bshlgrs/status/1802766374961553887
