@@ -91,7 +91,7 @@
 	- [comedy dialogue, sports analysis, commercials, radio broadcasts, asmr, nature sounds](https://x.com/mckaywrigley/status/1778867824217542766?s=46&t=6FDPaNxZcbSsELal6Sv7Ug)
 	- sonauto as well
 - [Reka Core/Flash/Edge](https://publications.reka.ai/reka-core-tech-report.pdf)
-	-   
+- [Infinity AI:  first Ai generated YC AI demo Day](https://x.com/snowmaker/status/1775598317399060687)
 
 ## fundraising
 

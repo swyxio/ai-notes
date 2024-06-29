@@ -9,6 +9,8 @@
 
 - claude 3.5 sonnet 
 	- artifacts [system prompt](https://x.com/elder_plinius/status/1804052791259717665)
+	- [nontechnical](https://x.com/alexalbert__/status/1805617413578539322) 
+		- claude sidebar, projects, custom instructions
 
 ## notable reads
 
@@ -23,7 +25,12 @@
 
 - [stable diffusion 3 medium](https://stability.ai/news/stable-diffusion-3-medium)
 
-## launches
+
+## open tooling
+
+- [plandex](https://github.com/plandex-ai/plandex) - a reliable and developer-friendly AI coding agent in your terminal. It can plan out and complete large tasks that span many files and steps.
+
+## other launches
 
 - etched launch: https://www.etched.com/announcing-etched
 	- Sohu is the world’s first transformer ASIC. One 8xSohu server replaces 160 H100 GPUs.
@@ -31,7 +38,18 @@
 - luma ai dream machine https://news.ycombinator.com/item?id=40670096
 - arc-agi benchmark
 	- got 71% or 50% solution https://x.com/bshlgrs/status/1802766374961553887
+- [hugginface open llm leaderboard v2](https://huggingface.co/spaces/open-llm-leaderboard/blog)
+	- gsm8k, truthfulqa are contaminated in instruction datasets
+	- models saturated hellaswag, mmlu, arc
+	- mmlu has errors
+	- new: MMLU-Pro, GPQA, MuSR, MATH, IFEval, BBH
+	- Reporting a fairer average for ranking: using normalized scores
+	-  some models appear to have a relatively stable ranking (in bold below): Qwen-2-72B instruct, Meta’s Llama3-70B instruct, 01-ai’s Yi-1.5-34B chat, Cohere’s Command R + model, and lastly Smaug-72B, from AbacusAI.
 - [midjourney launches personalization](https://x.com/nickfloats/status/1800718391961170356?utm_source=thesephist&utm_medium=email&utm_campaign=maps-and-compasses)
+
+## fundraising
+
+- [cohere $450m at $5b valuation](https://www.reuters.com/technology/nvidia-salesforce-double-down-ai-startup-cohere-450-million-round-source-says-2024-06-04/)
 
 ## discussions and good reads
 
