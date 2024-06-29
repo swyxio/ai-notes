@@ -16,6 +16,36 @@
 
 ## Transcription (Speech to Text or ASR)
 
+[High level](https://www.reddit.com/r/MachineLearning/comments/14xxg6i/comment/jrsbfps/)
+
+### API
+
+If you simply want to submit your audio files and have an API transcribe them, then Whisper JAX is hands-down the best option for you: [https://huggingface.co/spaces/sanchit-gandhi/whisper-jax](https://huggingface.co/spaces/sanchit-gandhi/whisper-jax)
+
+The demo is powered by two TPU v4-8's, so it has serious fire-power to transcribe long audio files quickly (1hr of audio in about 30s). It's currently got a limit of 2hr per audio upload, but you could use the Gradio client API to automatically ping this space with all 10k of your 30 mins audio files sequentially, and return the transcriptions: [https://twitter.com/sanchitgandhi99/status/1656665496463495168](https://twitter.com/sanchitgandhi99/status/1656665496463495168)
+
+This way, you get all the benefits of the API, without having to run the model locally yourself! IMO this is the fastest way to set-up your transcription protocol, and also the fastest way to transcribe the audios 😉
+
+https://www.reddit.com/r/MachineLearning/comments/16ftd9v/p_whisper_large_benchmark_137_days_of_audio/ # 137 DAYS of Audio Transcribed in 15 Hours for Just $117 ($0.00059/min)
+
+### Run locally
+
+By locally, we mean running the model yourself (either on your local device, or on a Cloud device). I have experience with a few of these implementations, and here are my thoughts:
+
+1. Original Whisper: [https://github.com/openai/whisper](https://github.com/openai/whisper). Baseline implementation
+    
+2. Hugging Face Whisper: [https://huggingface.co/openai/whisper-large-v2#long-form-transcription](https://huggingface.co/openai/whisper-large-v2#long-form-transcription). Uses an efficient batching algorithm to give a 7x speed-up on long-form audio samples. By far the easiest way of using Whisper: just `pip install transformers` and run it as per the code sample! No crazy dependencies, easy API, no extra optimisation packages, loads of documentation and love on [GitHub](https://github.com/huggingface/transformers) ❤️. Compatible with fine-tuning if you want this!
+    
+3. Whisper JAX: [https://github.com/sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax). Builds on the Hugging Face implementation. Written in JAX (instead of PyTorch), where you get a 10x or more speed-up if you run it on TPU v4 hardware (I've gotten up to 15x with large batch sizes for super long audio files). Overall, 70-100x faster than OpenAI if you run it on TPU v4
+    
+4. Faster Whisper: [https://github.com/guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper). 4x faster than original, also for short form audio samples. But no extra gains for long form on top of this
+    
+5. Whisper X: [https://github.com/m-bain/whisperX](https://github.com/m-bain/whisperX). Uses Faster Whisper under-the-hood, so same speed-ups.
+    
+6. Whisper cpp: [https://github.com/ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp). Written in cpp. Super fast to boot up and run. Works on-device (e.g. a laptop or phone) since it's quantised and in cpp. Quoted as transcribing 1hr of audio in approx 8.5 minutes (so about 17x slower than Whisper JAX on TPU v4)
+
+### 2023
+
 - [https://github.com/ochen1/insanely-fast-whisper-cli](https://t.co/sphlCVJ35d)
 - [https://github.com/ycyy/faster-whisper-webui](https://t.co/7weHsstQbv)
 - [https://github.com/themanyone/whisper_dictation](https://t.co/tyqPlfcADa) 
