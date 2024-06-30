@@ -36,6 +36,10 @@
 - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)|
 
 
+## launches
+
+- [ChatGPT UI for rabbit holes with reader pane - a9.io](https://delve.a9.io/)
+
 ## Funding
 
 - scale ai: **Scale AI raises $1B at $13.8B valuation in round led by Accel**: [@alexandr_wang](https://twitter.com/alexandr_wang/status/1792905417065914858)
@@ -43,6 +47,14 @@
 
 ## Discussions
 
+- [LLM evaluation tools/vendors that really like that are useful in domain specific contexts? ](https://x.com/HamelHusain/status/1787944186714759419) 
+	I'm looking for vendors that have ALL of the below:
+	
+	1. Observability
+	2. Allow you to write your own assertions and LLM judges
+	3. Bootsrap the creation of #2 automatically with LLMs
+	4. Measure the alignment between humans (through an annotation queue) and capture critiques, also helping to generate more kinds of tests like #2
+	5. Prompt, data and model versioning
 - [The future of foundation models is closed source](https://x.com/absoluttig/status/1793001830110380313)
 	- centralized vs decentralized
 	- Despite recent progress and endless cheerleading, open-source AI will become a financial drain for model builders, an inferior option for developers and consumers, and a risk to national security. Closed-source models will create far more economic and consumer value over the next decade.
@@ -51,9 +63,11 @@
 	- https://twitter.com/DrJimFan/status/1786054643568517261
 - [Consistency LLM - parallel decoders accelerates inference 3.5x](https://news.ycombinator.com/item?id=40302201)
 - [Google Gemini's impending Context Caching](https://news.ycombinator.com/item?id=40364220)
+- [Consistency Large Language Models: A Family of Efficient Parallel Decoders](https://hao-ai-lab.github.io/blogs/cllm/): converting LLMs to parallel decoders accelerates inference 3.5x
 - [shunyu yao phd defense](https://twitter.com/ShunyuYao12/status/1789058769982550031)
-	- "Language Agents: From Next-Token Prediction to Digital Automation"  
+	- "Language Agents: From Next-Token Prediction to Digital Automation"   https://ysymyth.github.io/papers/Dissertation-finalized.pdf
 	- Talk (WebShop, SWE-bench, ReAct, ToT, CoALA, and on the future of agents): 
 	- https://ysymyth.github.io/papers/Dissertation-finalized.pdf
+- [fineweb dataset](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) a new, large-scale (15-trillion tokens, 44TB disk space) dataset for LLM pretraining. FineWeb is derived from 96 CommonCrawl snapshots and produces better-performing LLMs than other open pretraining datasets.
 - learning
 	- [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)

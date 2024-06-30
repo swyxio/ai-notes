@@ -23,12 +23,18 @@
 
 ## open models
 
+
+- [Mamba-2 release](https://goombalab.github.io/blog/2024/mamba2-part1-model/)
+	- https://arxiv.org/abs/2405.21060
+	- https://x.com/_albertgu/status/1797651223035904355
+	- https://x.com/tri_dao/status/1797650443218436165
 - [stable diffusion 3 medium](https://stability.ai/news/stable-diffusion-3-medium)
 
 
 ## open tooling
 
 - [plandex](https://github.com/plandex-ai/plandex) - a reliable and developer-friendly AI coding agent in your terminal. It can plan out and complete large tasks that span many files and steps.
+- [R2R - rag2riches](https://github.com/SciPhi-AI/R2R) -  a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more.
 
 ## other launches
 
@@ -36,7 +42,7 @@
 	- Sohu is the world’s first transformer ASIC. One 8xSohu server replaces 160 H100 GPUs.
 	- By specializing, Sohu gets unprecedented performance. One 8xSohu server can serve over 500,000 Llama 70B tokens per second.
 - luma ai dream machine https://news.ycombinator.com/item?id=40670096
-- arc-agi benchmark
+- arc-agi benchmark, [arc prize](https://news.ycombinator.com/item?id=40648960)
 	- got 71% or 50% solution https://x.com/bshlgrs/status/1802766374961553887
 - [hugginface open llm leaderboard v2](https://huggingface.co/spaces/open-llm-leaderboard/blog)
 	- gsm8k, truthfulqa are contaminated in instruction datasets
@@ -58,6 +64,7 @@
 	- Assuming 100% utilization of your model Llama-3 8B-Instruct model costs about $17 dollars per 1M tokens when self hosting with EKS, vs ChatGPT with the same workload can offer $1 per 1M tokens. 
 	- Choosing to self host the hardware can make the cost <$0.01 per 1M token that takes ~5.5 years to break even.
 - [A Picture is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
+	- Here’s a [fact](https://openai.com/api/pricing/): GPT-4o charges 170 tokens to process each `512x512` tile used in high-res mode. At ~0.75 tokens/word, this suggests a picture is worth about 227 words—only a factor of four off from the traditional saying.
 - forcing AI on to us
 	- msft recall default https://news.ycombinator.com/item?id=40610435
 		- and delay https://news.ycombinator.com/item?id=40683210
@@ -66,3 +73,5 @@
 	- [talaria tool](https://buttondown.email/ainews/archive/ainews-talaria-apples-new-mlops-superweapon-4066/)
 - perplexity - forbes attribution issue
 - [books4 dataset](https://web.archive.org/web/20240519104217/https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/)
+- [together ai mixture of agents](https://www.together.ai/blog/together-moa)
+	- Our reference implementation, Together MoA, significantly surpass GPT-4o 57.5% on AlpacaEval 2.0 with a score of 65.1% using only open source models. While Together MoA achieves higher accuracy, it does come at the cost of a slower time to first token; reducing this latency is an exciting future direction for this research.

@@ -57,6 +57,7 @@ The Illustrated Transformer - [https://jalammar.github.io/illustrated-transform
 - Reminder that my deep learning course [@unige_en](https://twitter.com/unige_en)is entirely available on-line. 1000+ slides, ~20h of screen-casts. [https://fleuret.org/dlc/](https://t.co/6OVyjPdwrC)
 - https://e2eml.school/transformers.html Transformers from Scratch
 
+https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer
 
 https://news.ycombinator.com/item?id=35712334
 The Illustrated Transformer is fantastic, but I would suggest that those going into it really should read the previous articles in the series to get a foundation to understand it more, plus later articles that go into GPT and BERT, here's the list:
@@ -74,6 +75,9 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 [2] [https://srush.github.io/raspy/](https://srush.github.io/raspy/)
 
 [3] [https://arxiv.org/abs/2301.05062](https://arxiv.org/abs/2301.05062)
+
+
+[3blue 1 brown visualizing attention](https://www.3blue1brown.com/lessons/attention) https://news.ycombinator.com/item?id=40035514
 
 
 The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) - [https://jalammar.github.io/illustrated-bert/](https://jalammar.github.io/illustrated-bert/)
