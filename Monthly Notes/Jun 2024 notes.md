@@ -60,6 +60,7 @@
 ## discussions and good reads
 
 
+- [leopold aschenbrenner's Trillion Dollar Cluster essay](https://situational-awareness.ai/)
 - [cost of self hosting Llama 3](https://blog.lytix.co/posts/self-hosting-llama-3)
 	- Assuming 100% utilization of your model Llama-3 8B-Instruct model costs about $17 dollars per 1M tokens when self hosting with EKS, vs ChatGPT with the same workload can offer $1 per 1M tokens. 
 	- Choosing to self host the hardware can make the cost <$0.01 per 1M token that takes ~5.5 years to break even.

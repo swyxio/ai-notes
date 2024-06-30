@@ -86,7 +86,7 @@
 - https://github.com/GregorD1A1/TinderGPT
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/Dhravya/supermemory t's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-
+- [Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
 ## other launches
 
 - udio music https://twitter.com/udiomusic/status/1778045322654003448?t=6FDPaNxZcbSsELal6Sv7Ug
@@ -120,7 +120,7 @@
 - papers
 	- Our 12 scaling laws (for LLM knowledge capacity)
 		- prefix [low quality data with junk tokens](https://twitter.com/ZeyuanAllenZhu/status/1777513028466188404) - "when pre-training good data (e.g., Wiki) together with "junks" (e.g., Common Crawl), LLM's capacity on good data may decrease by 20x times! A simple fix: add domain tokens to your data; LLMs can auto-detect domains rich in knowledge and prioritize."
-
+	- [Mixture of Depths](https://x.com/PiotrPadlewski/status/1775865549802598800)
 ## memes
 
 - suno memes
