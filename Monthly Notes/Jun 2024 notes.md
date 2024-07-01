@@ -23,7 +23,16 @@
 
 ## open models
 
-
+- [qwen2 release](https://qwenlm.github.io/blog/qwen2/)
+	- Pretrained and instruction-tuned models of 5 sizes, including Qwen2-0.5B, Qwen2-1.5B, Qwen2-7B, Qwen2-57B-A14B, and Qwen2-72B;
+	- Having been trained on data in 27 additional languages besides English and Chinese;
+	- Extended context length support up to 128K tokens with Qwen2-7B-Instruct and Qwen2-72B-Instruct.
+	- 5️⃣ Sizes: 0.5B, 1.5B, 7B, 57B-14B (MoE), 72B as Base & Instruct versions
+	- 🪟 Context: 32k for 0.5B & 1.5B, 64k for 57B MoE, 128k for 7B and 72B
+	- 🌎 Multilingual in 29 Languages, including European, Middle East, and Asian.
+	  📜 Released under Apache 2.0 except 72B version (still commercially useable)
+	  🏆 72B: MMLU 82.3; IFEval 77.6; MT-Bench 9.12; 86.0 HumanEval
+	  🥇7B: MMLU 70.5; MT-Bench 8.41; HumanEval 79.9
 - [Mamba-2 release](https://goombalab.github.io/blog/2024/mamba2-part1-model/)
 	- https://arxiv.org/abs/2405.21060
 	- https://x.com/_albertgu/status/1797651223035904355
@@ -56,6 +65,8 @@
 ## fundraising
 
 - [cohere $450m at $5b valuation](https://www.reuters.com/technology/nvidia-salesforce-double-down-ai-startup-cohere-450-million-round-source-says-2024-06-04/)
+- [ESM3](https://x.com/soumithchintala/status/1805641549499212259) - EvolutionaryScale: 
+ESM3 is a generative language model for programming biology. In experiments, we found ESM3 can simulate 500M years of evolution to generate new fluorescent proteins.
 
 ## discussions and good reads
 
