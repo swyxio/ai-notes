@@ -27,6 +27,9 @@
 
 - Gemini / Gemma 2 https://buttondown.email/ainews/archive/ainews-to-be-named-1404/
 	- [context caching](https://news.ycombinator.com/item?id=40364220)
+- ANthropic
+	- [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
+	- [Claude tool use GA](https://www.anthropic.com/news/tool-use-ga)
 
 ## open models
 
