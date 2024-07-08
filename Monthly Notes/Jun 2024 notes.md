@@ -53,6 +53,7 @@
 
 ## open tooling
 
+- [answer.ai claudette](https://www.answer.ai/posts/2024-06-21-claudette.html)
 - [plandex](https://github.com/plandex-ai/plandex) - a reliable and developer-friendly AI coding agent in your terminal. It can plan out and complete large tasks that span many files and steps.
 - [R2R - rag2riches](https://github.com/SciPhi-AI/R2R) -  a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more.
 - [finetune GPT2 for spam classification](https://x.com/virattt/status/1806377615189528884?s=12&t=90xQ8sGy63D2OtiaoGJuww)
