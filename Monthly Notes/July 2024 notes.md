@@ -1,5 +1,9 @@
 
 
+## open source demos and tooling
+
+- [Claude Engineer 2 with agents](https://x.com/skirano/status/1812943785237639218) 
+
 ## launches
 
 - [runway gen 3 alpha](https://x.com/runwayml/status/1807822396415467686)
