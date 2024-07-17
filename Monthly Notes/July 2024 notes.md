@@ -4,6 +4,12 @@
 
 - [runway gen 3 alpha](https://x.com/runwayml/status/1807822396415467686)
 
+## fundraising
+
+- exa
+- sfcompute
+- 300m series A wew [https://x.com/pathak2206/status/1810769359591330201?s=46](https://x.com/pathak2206/status/1810769359591330201?s=46 "https://x.com/pathak2206/status/1810769359591330201?s=46")
+
 ## discussions
 
 - [AnswerAI modifications to ColBERT](https://x.com/ZainHasan6/status/1807496799273308281)
