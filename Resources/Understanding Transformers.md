@@ -78,6 +78,7 @@ Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With
 
 
 [3blue 1 brown visualizing attention](https://www.3blue1brown.com/lessons/attention) https://news.ycombinator.com/item?id=40035514
+- https://www.youtube.com/watch?v=wjZofJX0v4M
 
 
 The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) - [https://jalammar.github.io/illustrated-bert/](https://jalammar.github.io/illustrated-bert/)

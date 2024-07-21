@@ -2,7 +2,8 @@
 ## openai
 
 - GPT4o
-	- 
+	- https://buttondown.email/ainews/archive/ainews-gpt-4o-the-new-sota-everything-frontier/
+	- skyfall - takedown of Sky https://buttondown.email/ainews/archive/ainews-to-be-named-3447/
 - [OpenAI's Preferred Publisher Program publisher partnerships deck](https://news.ycombinator.com/item?id=40310228)
 	- Additionally, members of the program receive priority placement and “richer brand expression” in chat conversations, and their content benefits from more prominent link treatments. Finally, through PPP, OpenAI also offers licensed financial terms to publishers.
 	- The financial incentives participating publishers can expect to receive are grouped into two buckets: guaranteed value and variable value. Guaranteed value is a licensing payment that compensates the publisher for allowing OpenAI to access its backlog of data, while variable value is contingent on display success, a metric based on the number of users engaging with linked or displayed content.
@@ -17,7 +18,7 @@
 	- [openai model spec](https://news.ycombinator.com/item?id=40300482)
 - nontechnical stuff
 	- Sky/Scarlett Johannson drama
-	- Ilya + Jan Leike resignations
+	- [Ilya + Jan Leike resignations](https://buttondown.email/ainews/archive/ainews-to-be-named-3669/)
 	- [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 	- [bought chatgpt.com](https://news.ycombinator.com/item?id=40259100)
 - Rumors
@@ -27,7 +28,9 @@
 
 - Gemini / Gemma 2 https://buttondown.email/ainews/archive/ainews-to-be-named-1404/
 	- [context caching](https://news.ycombinator.com/item?id=40364220)
+	- other I/O things for gemini https://buttondown.email/ainews/archive/ainews-google-io-in-60-seconds/
 - ANthropic
+	- [Scaling monosemanticity](https://buttondown.email/ainews/archive/ainews-anthropic-cracks-the-llm-genome-project/)
 	- [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 	- [Claude tool use GA](https://www.anthropic.com/news/tool-use-ga)
 
@@ -35,6 +38,7 @@
 
 - [Falcon 2](https://news.ycombinator.com/item?id=40344302)
 - **MetaAI unveils Chameleon, a Mixed-Modal Early-Fusion Foundation Model**: Similar to GPT-4o, Chameleon is capable of "[**interleaved text and image understanding and generation**](https://x.com/AIatMeta/status/1791263344714014733)," as announced by MetaAI on Twitter.
+	- https://buttondown.email/ainews/archive/ainews-chameleon-metas-unreleased-gpt4o-like/
 
 ## open source tooling 
 
@@ -49,6 +53,7 @@
 - [ChatGPT UI for rabbit holes with reader pane - a9.io](https://delve.a9.io/)
 - [Nonlinear chatgpt ui](https://news.ycombinator.com/item?id=40300126)
 - [ellipsis.dev - automated pr reviews/fixes](https://news.ycombinator.com/item?id=40309719)
+- [cartesia - low latency SSM model](https://buttondown.email/ainews/archive/ainews-sonic-a-low-latency-voice-model-for/)
 
 ## Funding
 
@@ -80,6 +85,9 @@
 	- Talk (WebShop, SWE-bench, ReAct, ToT, CoALA, and on the future of agents): 
 	- https://ysymyth.github.io/papers/Dissertation-finalized.pdf
 - [fineweb dataset](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1) a new, large-scale (15-trillion tokens, 44TB disk space) dataset for LLM pretraining. FineWeb is derived from 96 CommonCrawl snapshots and produces better-performing LLMs than other open pretraining datasets.
+- [CoPE - position encoding > linear attention](https://buttondown.email/ainews/archive/ainews-to-be-named-4285/)
+- [SB 1047](https://buttondown.email/ainews/archive/ainews-the-top-ai-engineer/)
+- [clementine fourrier on LLM eval approaches](https://buttondown.email/ainews/archive/ainews-to-be-named-4285/)
 - learning
 	- [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
 	- [Exploring HN by mapping and analyzing 40M posts and comments for fun](https://news.ycombinator.com/item?id=40307519) (blog.wilsonl.in)

@@ -6,6 +6,7 @@
 
 ## openai
 
+- [GPT4T with Vision GA](https://buttondown.email/ainews/archive/ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the/)
 - harvey case study https://x.com/gabepereyra/status/1775207692841488542?s=20
 	- - 93% preferred vs. ChatGPT by BigLaw attorneys - 87% more accurate case citations
 - [partnership with FT](https://x.com/gdb/status/1784972212627443902)
@@ -34,13 +35,13 @@
 - Anthropic
 	- [Claude - tool use now in beta](https://twitter.com/AnthropicAI/status/1775979802627084713)
 - Google
-	- gemini unerstand audio, uses unlimited files, offers json mode, no more waitlist https://x.com/liambolling/status/1777758743637483562?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- [Gemini 1.5 pro GA](https://buttondown.email/ainews/archive/ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the/): gemini unerstand audio, uses unlimited files, offers json mode, no more waitlist https://x.com/liambolling/status/1777758743637483562?s=46&t=90xQ8sGy63D2OtiaoGJuww
 		- https://x.com/OfficialLoganK/status/1777733743303696554
 	- [codegemma](https://x.com/_philschmid/status/1777673558874829090) - 2b (27% humaneval) & 7b (52% humaneval) with 8k context - 500b extra tokens
 
 ## open models
 
-- Llama 3
+- Llama 3 - 70b gpt-4-level
 	- [top 5 in Lmsys, but also tied for first in English](https://x.com/lmsysorg/status/1782483701710061675?s=46&t=90xQ8sGy63D2OtiaoGJuww)
 	- [karpathy notes](https://x.com/karpathy/status/1781028605709234613), [HN](https://news.ycombinator.com/item?id=40077533)
 - Cohere Command R+: [@cohere](https://twitter.com/cohere/status/1775878850699808928) released Command R+, a 104B parameter model with 128k context length, open weights for non-commercial use, and strong multilingual and RAG capabilities. It's available on the [Cohere playground](https://twitter.com/cohere/status/1775878883268509801) and [Hugging Face](https://twitter.com/osanseviero/status/1775882744792273209). [Aidan tweet](https://twitter.com/aidangomez/status/1775878606108979495)
@@ -121,6 +122,8 @@
 	- Our 12 scaling laws (for LLM knowledge capacity)
 		- prefix [low quality data with junk tokens](https://twitter.com/ZeyuanAllenZhu/status/1777513028466188404) - "when pre-training good data (e.g., Wiki) together with "junks" (e.g., Common Crawl), LLM's capacity on good data may decrease by 20x times! A simple fix: add domain tokens to your data; LLMs can auto-detect domains rich in knowledge and prioritize."
 	- [Mixture of Depths](https://x.com/PiotrPadlewski/status/1775865549802598800)
+- [aaron defazio vs adamw](https://buttondown.email/ainews/archive/ainews-adamw-aarond/) optimizer
+
 ## memes
 
 - suno memes
