@@ -92,15 +92,7 @@
 - [SuperPrompt - Better SDXL prompts in 77M Parameters](https://brianfitzgerald.xyz/prompt-augmentation/) - **TL;DR**: I've trained a 77M T5 model to expand prompts, and it meets or exceeds existing 1B+ parameter LLMs in quality and prompt alignment.
 - [StructLM](https://twitter.com/dorialexander/status/1762374891662131610?s=12&t=90xQ8sGy63D2OtiaoGJuww): LLM for structured knowledge extraction
 	- To augment the Structured Knowledge Grounding (SKG) capabilities in LLMs, we have developed a comprehensive instruction tuning dataset comprising 1.1 million examples. Utilizing this dataset, we train a series of models, referred to as StructLM, based on the Code-LLaMA architecture, ranging from 7B to 34B parameters. Our StructLM series surpasses task-specific models on 14 out of 18 evaluated datasets and establishes new SoTA achievements on 7 SKG tasks. Furthermore, StructLM demonstrates exceptional generalization across 6 novel SKG tasks. Contrary to expectations, we observe that scaling model size offers marginal benefits, with StructLM-34B showing only slight improvements over StructLM-7B. This suggests that structured knowledge grounding is still a challenging task and requires more innovative design to push to a new level.
-- [US-PD-Books](https://twitter.com/storytracer/status/1765410706638160303?s=12&t=90xQ8sGy63D2OtiaoGJuww) - the largest dataset of English public domain books curated from the
-
-[@internetarchive](https://twitter.com/internetarchive)
-
-and the
-
-[@openlibrary](https://twitter.com/openlibrary)
-
-. It consists of more than 61 billion words and 650,000 OCR texts.
+- [US-PD-Books](https://twitter.com/storytracer/status/1765410706638160303?s=12&t=90xQ8sGy63D2OtiaoGJuww) - the largest dataset of English public domain books curated from the [@internetarchive](https://twitter.com/internetarchive) and the [@openlibrary](https://twitter.com/openlibrary) . It consists of more than 61 billion words and 650,000 OCR texts.
 
 ## Open source tooling
 

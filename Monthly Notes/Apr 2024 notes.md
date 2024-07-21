@@ -1,7 +1,7 @@
 
 ## top themes
 
-- - [became the #6 model on lmsys](https://twitter.com/lmsysorg/status/1777630133798772766?t=90xQ8sGy63D2OtiaoGJuww)and top open model, beating mistral large and qwen, but behind claude sonnet, gemini pro, and gpt4t
+- command R+ - [became the #6 model on lmsys](https://twitter.com/lmsysorg/status/1777630133798772766?t=90xQ8sGy63D2OtiaoGJuww)and top open model, beating mistral large and qwen, but behind claude sonnet, gemini pro, and gpt4t
 
 
 ## openai
