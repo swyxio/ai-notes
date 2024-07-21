@@ -3,10 +3,15 @@
 
 - minor
 	- [criticgpt](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/) writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF
+	- [Hacker Releases Jailbroken "Godmode" Version of ChatGPT](https://futurism.com/hackers-jailbroken-chatgpt-godmode)
 - nontechnical
 	- apple doesnt pay oepnai for chatgpt deal
 	- revneue doubels to 3.4b in the last 6 months
 	- [mira murati "creepy spyware" reaction](https://www.youtube.com/watch?app=desktop&v=BD0Us5Bn6Lw)
+	- [OpenAI welcomes Sarah Friar (CFO) and Kevin Weil (CPO)](https://openai.com/index/openai-welcomes-cfo-cpo/?utm_source=www.therundown.ai&utm_medium=newsletter&utm_campaign=apple-brings-chatgpt-to-iphones)
+	- [Report: OpenAI Doubled Annualized Revenue in 6 Months](https://www.pymnts.com/artificial-intelligence-2/2024/report-openai-doubled-annualized-revenue-in-6-months/)
+	- employee NDA issue
+		- [Leaked OpenAI Documents Show Sam Altman Was Clearly Aware of Silencing Former Employees](https://futurism.com/sam-altman-silencing-former-employees)
 
 ## frontier models
 
@@ -24,6 +29,7 @@
 			- For each feature, we want to find a variety of dataset examples that activate it to different levels, exploring its full distribution. Doing this efficiently for millions of features is an interesting distributed systems problem. Originally, all of this ran in a single job – but we quickly scaled beyond that. Below is a sketch of our current approach.
 	- [nontechnical](https://x.com/alexalbert__/status/1805617413578539322) 
 		- claude sidebar, projects, custom instructions
+		- jan leike joins =- [OpenAI researcher who resigned over safety concerns joins Anthropic](https://www.theverge.com/2024/5/28/24166370/jan-leike-openai-anthropic-ai-safety-research)
 		
 
 
@@ -31,6 +37,7 @@
 
 - Chrome adds [Window.ai](https://x.com/rauchg/status/1806385778064564622?s=12&t=90xQ8sGy63D2OtiaoGJuww) api with gemini nano
 - Apple Intelligence launch
+	- [Apple Intelligence: every new AI feature coming to the iPhone and Mac](https://www.theverge.com/2024/6/10/24175405/wwdc-apple-ai-news-features-ios-18-macos-15-iphone-ipad-mac)
 
 ## open models
 
@@ -49,7 +56,7 @@
 	- https://x.com/_albertgu/status/1797651223035904355
 	- https://x.com/tri_dao/status/1797650443218436165
 - [stable diffusion 3 medium](https://stability.ai/news/stable-diffusion-3-medium)
-
+- -   -   [Mistral releases Codestral, its first generative AI model for code](https://techcrunch.com/2024/05/29/mistral-releases-its-first-generative-ai-model-for-code/)
 
 ## open tooling
 
@@ -58,6 +65,7 @@
 - [R2R - rag2riches](https://github.com/SciPhi-AI/R2R) -  a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more.
 - [finetune GPT2 for spam classification](https://x.com/virattt/status/1806377615189528884?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - [Thread.dev AI-powered Jupyter Notebook](https://github.com/squaredtechnologies/thread) — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
+- [Introducing Lamini Memory Tuning: 95% LLM Accuracy, 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
 
 ## other launches
 
@@ -66,6 +74,7 @@
 	- By specializing, Sohu gets unprecedented performance. One 8xSohu server can serve over 500,000 Llama 70B tokens per second.
 - luma ai dream machine https://news.ycombinator.com/item?id=40670096
 	- [adding keyframes - example prompts](https://x.com/lumalabsai/status/1806435502096310656?s=12&t=90xQ8sGy63D2OtiaoGJuww)
+	-  [‘We don’t need Sora anymore’: Luma’s new AI video generator Dream Machine slammed with traffic after debut](https://venturebeat.com/ai/we-dont-need-sora-anymore-lumas-new-ai-video-generator-dream-machine-slammed-with-traffic-after-debut/)
 - arc-agi benchmark, [arc prize](https://news.ycombinator.com/item?id=40648960)
 	- got 71% or 50% solution https://x.com/bshlgrs/status/1802766374961553887
 - Figma AI [(config talk video](https://www.youtube.com/watch?v=_JMmdM00048), [blogpost](https://www.figma.com/blog/introducing-figma-ai/))
@@ -84,17 +93,24 @@
 	-  some models appear to have a relatively stable ranking (in bold below): Qwen-2-72B instruct, Meta’s Llama3-70B instruct, 01-ai’s Yi-1.5-34B chat, Cohere’s Command R + model, and lastly Smaug-72B, from AbacusAI.
 - [midjourney launches personalization](https://x.com/nickfloats/status/1800718391961170356?utm_source=thesephist&utm_medium=email&utm_campaign=maps-and-compasses)
 - [fixie ai ultravox](https://x.com/juberti/status/1798898986289684849) - *open source* speech to speech model — understands non-textual speech elements — paralinguistic information. it can pick up on tone, pauses, and more! 
+- [Udio introduces new udio-130 music generation model and more advanced features](https://braintitan.medium.com/udio-introduces-new-udio-130-music-generation-model-and-more-advanced-features-3f08b9909f7b)
+- [ElevenLabs’ AI generator makes explosions or other sound effects with just a prompt](https://www.theverge.com/2024/5/31/24168898/elevenlabs-prompt-generative-ai-content)
 
 ## fundraising
 
 - [cohere $450m at $5b valuation](https://www.reuters.com/technology/nvidia-salesforce-double-down-ai-startup-cohere-450-million-round-source-says-2024-06-04/)
+- [Mistral closes €600m at €5.8bn valuation with new lead investor](https://sifted.eu/articles/mistral-468m-round-news/)
 - [pika $80m series B](https://www.washingtonpost.com/technology/2024/06/04/pika-funding-openai-sora-google-video/) ([bloomberg](https://www.bloomberg.com/news/articles/2024-06-05/spark-capital-jared-leto-back-ai-video-startup-pika))
 - [ESM3](https://x.com/soumithchintala/status/1805641549499212259) - EvolutionaryScale: 
 ESM3 is a generative language model for programming biology. In experiments, we found ESM3 can simulate 500M years of evolution to generate new fluorescent proteins.
+- [Ilya Sutskever, Daniel Gross, Daniel Levy launch Safe Superintelligence Inc.](https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence)
+- [Astrocade raises $12M for AI-based social gaming platform](https://venturebeat.com/games/astrocade-raises-12m-for-ai-based-social-gaming-platform/)
 
 ## discussions and good reads
 
 - [leopold aschenbrenner's Trillion Dollar Cluster essay](https://situational-awareness.ai/)
+	- https://cointelegraph.com/news/agi-realism-by-2027-aschenbrenner
+	-  [Training Compute of Frontier AI Models Grows by 4-5x per Year](https://epochai.org/blog/training-compute-of-frontier-ai-models-grows-by-4-5x-per-year)
 - [cost of self hosting Llama 3](https://blog.lytix.co/posts/self-hosting-llama-3)
 	- Assuming 100% utilization of your model Llama-3 8B-Instruct model costs about $17 dollars per 1M tokens when self hosting with EKS, vs ChatGPT with the same workload can offer $1 per 1M tokens. 
 	- Choosing to self host the hardware can make the cost <$0.01 per 1M token that takes ~5.5 years to break even.
@@ -107,6 +123,7 @@ ESM3 is a generative language model for programming biology. In experiments, we 
 	- [ipad calculator is nutes](https://x.com/levie/status/1800224021193396594)
 	- [talaria tool](https://buttondown.email/ainews/archive/ainews-talaria-apples-new-mlops-superweapon-4066/)
 - perplexity - forbes attribution issue
+- schedule free optimizers: [The Road Less Scheduled](https://arxiv.org/abs/2405.15682v1)
 - [books4 dataset](https://web.archive.org/web/20240519104217/https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/)
 - [together ai mixture of agents](https://www.together.ai/blog/together-moa)
 	- Our reference implementation, Together MoA, significantly surpass GPT-4o 57.5% on AlpacaEval 2.0 with a score of 65.1% using only open source models. While Together MoA achieves higher accuracy, it does come at the cost of a slower time to first token; reducing this latency is an exciting future direction for this research.
