@@ -55,6 +55,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Bradley Metrock (Deepgram) https://thisweekinvoice.substack.com/
 	- Carlos's Data Machina https://datamachina.substack.com/
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
+	- [Elvis Saravia's NLP Newsletter](https://nlp.elvissaravia.com/) - paper recap
 	- https://www.supervised.news/ is new but promising quality
 	- https://nextword.substack.com/ is new but promising quality
 	- https://www.aitidbits.ai/about is new  but promising quality

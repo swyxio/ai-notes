@@ -86,7 +86,7 @@
 - [The future of foundation models is closed source](https://x.com/absoluttig/status/1793001830110380313)
 	- centralized vs decentralized
 	- Despite recent progress and endless cheerleading, open-source AI will become a financial drain for model builders, an inferior option for developers and consumers, and a risk to national security. Closed-source models will create far more economic and consumer value over the next decade.
-	- 
+- https://a16z.com/how-generative-ai-is-remaking-ui-ux-design/ ![https://d1lamhf6l6yk6d.cloudfront.net/uploads/2024/05/AI-powered-UX-design-1024x790.png](https://d1lamhf6l6yk6d.cloudfront.net/uploads/2024/05/AI-powered-UX-design-1024x790.png)
 - Scale AI gsm1k
 	- https://twitter.com/DrJimFan/status/1786054643568517261
 - [Consistency LLM - parallel decoders accelerates inference 3.5x](https://news.ycombinator.com/item?id=40302201)
