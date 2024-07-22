@@ -99,7 +99,7 @@
 ## fundraising
 
 - [cohere $450m at $5b valuation](https://www.reuters.com/technology/nvidia-salesforce-double-down-ai-startup-cohere-450-million-round-source-says-2024-06-04/)
-- [Mistral closes €600m at €5.8bn valuation with new lead investor](https://sifted.eu/articles/mistral-468m-round-news/)
+- [Mistral closes €600m at €5.8bn valuation with new lead investor](https://sifted.eu/articles/mistral-468m-round-news/) - [General Catalyst](https://news.ycombinator.com/item?id=40651298#40651470)
 - [pika $80m series B](https://www.washingtonpost.com/technology/2024/06/04/pika-funding-openai-sora-google-video/) ([bloomberg](https://www.bloomberg.com/news/articles/2024-06-05/spark-capital-jared-leto-back-ai-video-startup-pika))
 - [ESM3](https://x.com/soumithchintala/status/1805641549499212259) - EvolutionaryScale: 
 ESM3 is a generative language model for programming biology. In experiments, we found ESM3 can simulate 500M years of evolution to generate new fluorescent proteins.
