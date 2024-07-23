@@ -18,6 +18,8 @@
 
 ## open models
 
+- Llama 3.1
+	- https://buttondown.email/ainews/archive/ainews-llama-31-leaks/
 - [gemma 2 9b 27b](https://venturebeat.com/ai/googles-gemma-2-series-launches-with-not-one-but-two-lightweight-model-options-a-9b-and-27b/)
 - other models
 	- [Meta Large Language Model Compiler: Foundation Models of Compiler Optimization](https://ai.meta.com/research/publications/meta-large-language-model-compiler-foundation-models-of-compiler-optimization/?utm_source=twitter&utm_medium=organic_social&utm_content=link&utm_campaign=fair)
@@ -33,6 +35,7 @@
 
 - [Claude Engineer 2 with agents](https://x.com/skirano/status/1812943785237639218) 
 - open leaderboard v2 [Performances are plateauing, let's make the leaderboard steep again](https://huggingface.co/spaces/open-llm-leaderboard/blog?utm_source=www.therundown.ai&utm_medium=newsletter&utm_campaign=the-ai-model-leaderboard)
+- [Exo: Run your own AI cluster at home with everyday devices](https://github.com/exo-explore/exo) ([github.com/exo-explore](https://news.ycombinator.com/from?site=github.com/exo-explore)) https://news.ycombinator.com/item?id=40973339
 
 ## launches
 
