@@ -20,6 +20,9 @@
 
 - Llama 3.1
 	- https://buttondown.email/ainews/archive/ainews-llama-31-leaks/
+	- try with groq, cartesia https://x.com/JonPTaylor/status/1815911406522491360
+	- binglish 
+		- https://x.com/repligate/status/1816279356655702371
 - [gemma 2 9b 27b](https://venturebeat.com/ai/googles-gemma-2-series-launches-with-not-one-but-two-lightweight-model-options-a-9b-and-27b/)
 - other models
 	- [Meta Large Language Model Compiler: Foundation Models of Compiler Optimization](https://ai.meta.com/research/publications/meta-large-language-model-compiler-foundation-models-of-compiler-optimization/?utm_source=twitter&utm_medium=organic_social&utm_content=link&utm_campaign=fair)
