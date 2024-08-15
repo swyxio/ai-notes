@@ -44,6 +44,11 @@ By locally, we mean running the model yourself (either on your local device, or 
     
 6. Whisper cpp: [https://github.com/ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp). Written in cpp. Super fast to boot up and run. Works on-device (e.g. a laptop or phone) since it's quantised and in cpp. Quoted as transcribing 1hr of audio in approx 8.5 minutes (so about 17x slower than Whisper JAX on TPU v4)
 
+## 2024
+
+- realtime whisper webgpu in browser: https://huggingface.co/spaces/Xenova/realtime-whisper-webgpu
+	- june: async version https://huggingface.co/spaces/Xenova/whisper-webgpu
+
 ### 2023
 
 - [https://github.com/ochen1/insanely-fast-whisper-cli](https://t.co/sphlCVJ35d)

@@ -58,6 +58,7 @@
 ## discussions
 
 - [AI Agents that Matter](https://arxiv.org/abs/2407.01502v1) - must incorporate cost
+- [RIP LMsys](https://x.com/teortaxesTex/status/1806769232509546732) - Gemma 2 27B > Llama 3 70B
 - synthetic data
 	- -   [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094)
 - [Researchers upend AI status quo by eliminating matrix multiplication in LLMs](https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/2/)
