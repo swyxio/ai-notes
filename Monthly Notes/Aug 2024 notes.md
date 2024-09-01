@@ -15,6 +15,7 @@
 - "[a billion parameters * trillion tokens is $5,000](https://x.com/cis_female/status/1820305397821112726?s=61)"
 - [Sakana AI Scientist](https://x.com/SakanaAILabs/status/1823178623513239992)
 	- [not much there at all](https://x.com/jimmykoppel/status/1828077203956850756)
+- Ted Chiang's essay in [the New Yorker](https://x.com/NewYorker/status/1829933450834690309)
 
 ## open tooling
 
