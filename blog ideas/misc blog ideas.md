@@ -32,6 +32,9 @@ chip h × $2 = $69.444M
 *3958 TFLOPS (for fp8 with sparsity) on H100 SXM divided by 2 (because the 2x sparsity support generally isn’t relevant for training), so the right number is 1979e12. But the datasheet doesn’t have enough information to tell you that; you just have to know!
 
 
+https://dynomight.substack.com/p/data-wall
+Claude Shannon, the father of information theory, famously estimated that English language text on average has 11.8 bits/word. But recent language models suggest that it’s only 2.3 bits/word or perhaps even less. So the 5×10⁸ words a person might have heard probably only contains 1.2 billion bits of actual information—less than the 6 billion bits in DNA.
+
 [cost to alphazero](https://twitter.com/finbarrtimbers/status/1765478681194234074?s=12&t=90xQ8sGy63D2OtiaoGJuww)
 - my estimate is more like $1.7M. They trained with 5016 TPU chips for 13 days for chess, 9 hours in Chess, and 12 hours in Shogi. This is a total of 333 hours. The total cost is then 1.67M TPU chip-hours. They used v1 TPUs, which I don't think ever had public pricing. A v2 TPU costs <$1 per chip-hour at the 1 year commitment level. So that's less than $1.7M per training run. The 3 year commitment price is ~$0.5873 per chip-hour, which is probably a more reasonable estimate for Google's internal price (although still high by at least a factor of 2, imo). That would mean the total cost is ~$980k. Are we assuming they did 36 full training runs? That seems unlikely.
 - 
