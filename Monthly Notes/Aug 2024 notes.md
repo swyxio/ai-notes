@@ -1,4 +1,9 @@
 
+## open models
+
+- [cartesia edge/rene/sonic on device models](https://cartesia.ai/blog/on-device)
+- 
+
 ## funding
 
 - cursor series A
@@ -6,6 +11,7 @@
 ## launches
 
 - [langchain API](https://x.com/futureparam/status/1819825945672364413) vs Substrate Labs
+- [gptengineer app](https://news.ycombinator.com/item?id=41380814) launch
 
 ## discussions and reads
 
