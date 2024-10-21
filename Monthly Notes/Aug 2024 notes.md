@@ -12,6 +12,7 @@
 
 - [langchain API](https://x.com/futureparam/status/1819825945672364413) vs Substrate Labs
 - [gptengineer app](https://news.ycombinator.com/item?id=41380814) launch
+- grok 2 https://x.ai/blog/grok-2
 
 ## discussions and reads
 
