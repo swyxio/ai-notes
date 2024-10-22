@@ -1,3 +1,7 @@
+
+
+- https://www.anthropic.com/research/sabotage-evaluations
+
 every defense against prompt injection
 - https://github.com/tldrsec/prompt-injection-defenses
 
