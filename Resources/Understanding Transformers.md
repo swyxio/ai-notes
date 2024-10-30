@@ -1,6 +1,7 @@
 swyx's to-read list (incl a lot of history)
 - https://aman.ai/primers/ai/transformers/
 - https://magazine.sebastianraschka.com/p/understanding-large-language-models
+- visualizing https://poloclub.github.io/transformer-explainer/
 
 
 ELI5: https://news.ycombinator.com/item?id=35977891
