@@ -61,7 +61,7 @@ Karpathy list of security concerns (from [1hr intro talk](https://www.youtube.co
 
 - hack a prompt playground https://twitter.com/altryne/status/1656720751893037056?s=20
 - Prompted by these limitations, we subsequently formulate HouYi, a novel black-box prompt injection attack technique, which draws inspiration from traditional web injection attacks. HouYi is compartmentalized into three crucial elements: a seamlessly-incorporated pre-constructed prompt, an injection prompt inducing context partition, and a malicious payload designed to fulfill the attack objectives. Leveraging HouYi, we unveil previously unknown and severe attack outcomes, such as unrestricted arbitrary LLM usage and uncomplicated application prompt theft. https://arxiv.org/abs/2306.05499
-
+- computer use prompt injections https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/
 
 
 ## Prompt Hardening
