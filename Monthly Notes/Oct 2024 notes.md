@@ -15,3 +15,7 @@ general
 - openai for profit pbc move https://archive.ph/59oI0
 - openai 6.6b funding round
 - neuclear datacetners
+
+## misc convos
+
+- [Google CEO says more than a quarter of the company's new code is created by AI](https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10) - with more color from google ai eng https://news.ycombinator.com/item?id=41992028
