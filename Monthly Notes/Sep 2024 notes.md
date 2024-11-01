@@ -1,4 +1,8 @@
 
+## open source
+
+- llama 3.2 vision and edge https://news.ycombinator.com/item?id=41649763
+
 ## discussions
 
 - Chain of Thought Empowers Transformers to Solve Inherently Serial Problems https://arxiv.org/pdf/2402.12875
