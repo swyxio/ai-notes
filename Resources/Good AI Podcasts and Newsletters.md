@@ -63,6 +63,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- https://eugeneyan.com/writing/
 	- https://lilianweng.github.io/
 - Aggregators
+	- [smol.ai AI news](https://buttondown.com/ainews/) (A smol service by @swyx and other Latent.Space friends!) - [Recommended by Karpathy as one of the best AI newsletters](https://t.co/60ial0bf3N)
 	- [Emergent Mind](https://www.emergentmind.com) (trending arXiv ML/AI papers with GPT-4-generated summaries and links to social media discussions) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/) see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
 	- Amplify/Sarah Catanzaro's PTK https://www.amplifypartners.com/projects-to-know
 	- Ben's Bites https://bensbites.beehiiv.com/
