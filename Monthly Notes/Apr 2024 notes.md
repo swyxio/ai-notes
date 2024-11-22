@@ -1,11 +1,12 @@
 
 ## top themes
 
-- - [became the #6 model on lmsys](https://twitter.com/lmsysorg/status/1777630133798772766?t=90xQ8sGy63D2OtiaoGJuww)and top open model, beating mistral large and qwen, but behind claude sonnet, gemini pro, and gpt4t
+- command R+ - [became the #6 model on lmsys](https://twitter.com/lmsysorg/status/1777630133798772766?t=90xQ8sGy63D2OtiaoGJuww)and top open model, beating mistral large and qwen, but behind claude sonnet, gemini pro, and gpt4t
 
 
 ## openai
 
+- [GPT4T with Vision GA](https://buttondown.email/ainews/archive/ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the/)
 - harvey case study https://x.com/gabepereyra/status/1775207692841488542?s=20
 	- - 93% preferred vs. ChatGPT by BigLaw attorneys - 87% more accurate case citations
 - [partnership with FT](https://x.com/gdb/status/1784972212627443902)
@@ -34,19 +35,21 @@
 - Anthropic
 	- [Claude - tool use now in beta](https://twitter.com/AnthropicAI/status/1775979802627084713)
 - Google
-	- gemini unerstand audio, uses unlimited files, offers json mode, no more waitlist https://x.com/liambolling/status/1777758743637483562?s=46&t=90xQ8sGy63D2OtiaoGJuww
+	- [Gemini 1.5 pro GA](https://buttondown.email/ainews/archive/ainews-gemini-pro-and-gpt4t-vision-go-ga-on-the/): gemini unerstand audio, uses unlimited files, offers json mode, no more waitlist https://x.com/liambolling/status/1777758743637483562?s=46&t=90xQ8sGy63D2OtiaoGJuww
 		- https://x.com/OfficialLoganK/status/1777733743303696554
 	- [codegemma](https://x.com/_philschmid/status/1777673558874829090) - 2b (27% humaneval) & 7b (52% humaneval) with 8k context - 500b extra tokens
 
 ## open models
 
-- Llama 3
+- Llama 3 - 70b gpt-4-level
 	- [top 5 in Lmsys, but also tied for first in English](https://x.com/lmsysorg/status/1782483701710061675?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+	- [karpathy notes](https://x.com/karpathy/status/1781028605709234613), [HN](https://news.ycombinator.com/item?id=40077533)
 - Cohere Command R+: [@cohere](https://twitter.com/cohere/status/1775878850699808928) released Command R+, a 104B parameter model with 128k context length, open weights for non-commercial use, and strong multilingual and RAG capabilities. It's available on the [Cohere playground](https://twitter.com/cohere/status/1775878883268509801) and [Hugging Face](https://twitter.com/osanseviero/status/1775882744792273209). [Aidan tweet](https://twitter.com/aidangomez/status/1775878606108979495)
 	-   **Optimized for RAG workflows**: Command R+ is [optimized for RAG](https://twitter.com/aidangomez/status/1775878606108979495), with multi-hop capabilities to break down complex questions and strong tool use. It's integrated with [@LangChainAI](https://twitter.com/cohere/status/1775931339361149230) for building RAG applications.
 	-   **Multilingual support**: Command R+ has [strong performance](https://twitter.com/seb_ruder/status/1775882934542533021) across 10 languages including English, French, Spanish, Italian, German, Portuguese, Japanese, Korean, Arabic, and Chinese. The SonnetTokenizer is [efficient for non-English text](https://twitter.com/JayAlammar/status/1775928159784915229).
 	- [became the #6 model on lmsys ](https://twitter.com/lmsysorg/status/1777630133798772766?t=90xQ8sGy63D2OtiaoGJuww)and top open model, beating mistral large and qwen, but behind claude sonnet, gemini pro, and gpt4t
 - Mistral 8x22B
+	- https://news.ycombinator.com/item?id=40064736
 - Phi-3 ([HN, Technical Report](https://news.ycombinator.com/item?id=40127806), [sebastian bubeck short video](https://twitter.com/SebastienBubeck/status/1782627991874678809?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1782627991874678809%7Ctwgr%5E507304ee4fbb7b0a8a9c60b9bb5711109bde1d41%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.emergentmind.com%2Fpapers%2F2404.14219))
 	- phi-3-mini: 3.8B model trained on 3.3T tokens rivals Mixtral 8x7B and GPT-3.5
 	- phi-3-medium: 14B model trained on 4.8T tokens w/ 78% on MMLU and 8.9 on MT-bench
@@ -84,14 +87,15 @@
 - https://github.com/GregorD1A1/TinderGPT
 - https://github.com/princeton-nlp/SWE-agent
 - https://github.com/Dhravya/supermemory t's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-
+- [Dify, a visual workflow to build/test LLM applications](https://github.com/langgenius/dify)
 ## other launches
 
 - udio music https://twitter.com/udiomusic/status/1778045322654003448?t=6FDPaNxZcbSsELal6Sv7Ug
 	- [comedy dialogue, sports analysis, commercials, radio broadcasts, asmr, nature sounds](https://x.com/mckaywrigley/status/1778867824217542766?s=46&t=6FDPaNxZcbSsELal6Sv7Ug)
-	- sonauto as well
+	- [sonauto as well](https://news.ycombinator.com/item?id=39992817): A more controllable AI music creator  
+		- Others do music generation by training a Vector Quantized Variational Autoencoder like Descript Audio Codec (https://github.com/descriptinc/descript-audio-codec) to turn music into tokens, then training an LLM on those tokens. Instead, we ripped the tokenization part off and replaced it with a normal variational autoencoder bottleneck (along with some other important changes to enable insane compression ratios). This gave us a nice, normally distributed latent space on which to train a diffusion transformer (like Sora). Our diffusion model is also particularly interesting because it is the first audio diffusion model to generate coherent lyrics!
 - [Reka Core/Flash/Edge](https://publications.reka.ai/reka-core-tech-report.pdf)
-	-   
+- [Infinity AI:  first Ai generated YC AI demo Day](https://x.com/snowmaker/status/1775598317399060687)
 
 ## fundraising
 
@@ -100,9 +104,12 @@
 - [Augment - 252m seed](https://techcrunch.com/2024/04/24/eric-schmidt-backed-augment-a-github-copilot-rival-launches-out-of-stealth-with-252m/)
 - [XAI seeking 4b](https://www.bloomberg.com/news/articles/2024-04-11/elon-musk-s-xai-seeks-up-to-4-billion-to-compete-with-openai)
 
+[Nvidia acquires RunAI for ~700m](https://news.ycombinator.com/item?id=40144235)
 ## Learning
 
+- llm.c release - [karpathy explanation](https://x.com/karpathy/status/1778153659106533806)
 - Thom Wolf - [how to train LLMs in 2024](https://youtu.be/2-SPH9hIKT8?si=wqYrDbhvgJUT2zHP)
+- [Building A GPU from scratch](https://x.com/MajmudarAdam/status/1783304235909877846)
 ## discussion
 
 - soumith v fchollet https://x.com/fchollet/status/1776319511807115589
@@ -114,6 +121,8 @@
 - papers
 	- Our 12 scaling laws (for LLM knowledge capacity)
 		- prefix [low quality data with junk tokens](https://twitter.com/ZeyuanAllenZhu/status/1777513028466188404) - "when pre-training good data (e.g., Wiki) together with "junks" (e.g., Common Crawl), LLM's capacity on good data may decrease by 20x times! A simple fix: add domain tokens to your data; LLMs can auto-detect domains rich in knowledge and prioritize."
+	- [Mixture of Depths](https://x.com/PiotrPadlewski/status/1775865549802598800)
+- [aaron defazio vs adamw](https://buttondown.email/ainews/archive/ainews-adamw-aarond/) optimizer
 
 ## memes
 
