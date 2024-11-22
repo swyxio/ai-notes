@@ -5,6 +5,7 @@
 - https://cookbook.openai.com/examples/how_to_finetune_chat_models
 - https://jsonlint.com/
 - https://www.convertjson.com/json-to-jsonlines.htm
+- https://jsoning.com/ JSON tools (formatter, validator, JSONPath, JSON Patch, converters)
 - related demo projects
 	- https://github.com/nub3Ar/Auto-distill-GPT/blob/main/main.py
 	- https://github.com/eqian99/finetuning-experiment/blob/main/Benchmark_Latency-Public.ipynb
