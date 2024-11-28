@@ -39,10 +39,12 @@ By locally, we mean running the model yourself (either on your local device, or 
 3. Whisper JAX: [https://github.com/sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax). Builds on the Hugging Face implementation. Written in JAX (instead of PyTorch), where you get a 10x or more speed-up if you run it on TPU v4 hardware (I've gotten up to 15x with large batch sizes for super long audio files). Overall, 70-100x faster than OpenAI if you run it on TPU v4
     
 4. Faster Whisper: [https://github.com/guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper). 4x faster than original, also for short form audio samples. But no extra gains for long form on top of this
+
+  - see also https://github.com/linto-ai/whisper-timestamped and other tools https://github.com/abus-aikorea/voice-pro
     
-5. Whisper X: [https://github.com/m-bain/whisperX](https://github.com/m-bain/whisperX). Uses Faster Whisper under-the-hood, so same speed-ups.
+6. Whisper X: [https://github.com/m-bain/whisperX](https://github.com/m-bain/whisperX). Uses Faster Whisper under-the-hood, so same speed-ups.
     
-6. Whisper cpp: [https://github.com/ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp). Written in cpp. Super fast to boot up and run. Works on-device (e.g. a laptop or phone) since it's quantised and in cpp. Quoted as transcribing 1hr of audio in approx 8.5 minutes (so about 17x slower than Whisper JAX on TPU v4)
+7. Whisper cpp: [https://github.com/ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp). Written in cpp. Super fast to boot up and run. Works on-device (e.g. a laptop or phone) since it's quantised and in cpp. Quoted as transcribing 1hr of audio in approx 8.5 minutes (so about 17x slower than Whisper JAX on TPU v4)
 
 ## 2024
 
