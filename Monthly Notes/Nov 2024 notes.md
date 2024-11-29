@@ -16,3 +16,6 @@
 - Google Is Working on Reasoning AI, Chasing OpenAI’s Efforts
 	- https://archive.ph/Y3OVO#selection-1405.0-1405.59
 	- In recent months, multiple teams at [Alphabet Inc.](https://archive.ph/o/Y3OVO/https://www.bloomberg.com/quote/goog:undefined)’s Google have been making progress on AI reasoning software, according to people with knowledge of the matter,
+
+- llm not good business https://calpaterson.com/porter.html
+  - 
