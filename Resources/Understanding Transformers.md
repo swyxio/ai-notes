@@ -1,4 +1,5 @@
-swyx's to-read list (incl a lot of history)
+swyx's must-read list (incl a lot of history)
+- origins of attention https://x.com/karpathy/status/1864023344435380613
 - https://aman.ai/primers/ai/transformers/
 - https://magazine.sebastianraschka.com/p/understanding-large-language-models
 - visualizing https://poloclub.github.io/transformer-explainer/
