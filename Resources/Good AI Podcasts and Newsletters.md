@@ -28,7 +28,8 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- smaller creators worth noting: [Algorithmic Simplicity](https://www.youtube.com/watch?v=N6Piou4oYx8) (explanations of archs), [Umar Jamil (standard concept teaching channel, very technical)](https://www.youtube.com/@umarjamilai?app=desktop) and [Daniel Bourke (livestream paper replication)](https://www.youtube.com/@danielbourkearxiv2821?app=desktop), [Efficient NLP (good short paper/technique explainers)](https://www.youtube.com/@EfficientNLP), [Trelis Research](https://www.youtube.com/watch?v=ae2lbmtTY5A)
 	- [/r/LocalLlama list has 23 recommendations](https://www.reddit.com/r/LocalLLaMA/comments/1atycgd/which_localllama_focused_yt_channels_do_you_follow/)
 - Companies
-	- ⭐ [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - great new pod
+	- [The DeepMind Podcast](https://deepmind.google/discover/the-podcast/) - from GDM 
+	- [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - great new pod
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host. Recently taken over to Caryn Marooney.
 	- [Robot Brains](https://www.therobotbrains.ai/) - Pieter Abbeel - decent backlog
 	- [Generally Intelligent](https://generallyintelligent.com/podcast) - Kanjun Qiu - very cerebral/RL focused. now dormant.
