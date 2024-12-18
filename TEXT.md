@@ -129,7 +129,7 @@ Brief history: https://agi-sphere.com/llama-models/ https://news.ycombinator.com
 		- https://www.numbersstation.ai/post/nsql-llama-2-7b
 - https://github.com/facebookresearch/llama
 	- [Paper](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/333078981_693988129081760_4712707815225756708_n.pdf?_nc_cat=108&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=vopDLpNfG6gAX84qs6h&_nc_ht=scontent-sjc3-1.xx&oh=00_AfDipCb80g49Ksfxrjxiy7mOOl8ZoBO5QScseom5FDM14Q&oe=641984E2)
-	- https://github.com/ggerganov/llama.cpp/
+	- https://github.com/ggerganov/llama.cpp/ (https://blog.steelph0enix.dev/posts/llama-cpp-guide)
 	- run on cpus https://github.com/facebookresearch/llama/compare/main...markasoftware:llama-cpu:main (its slow)
 	- run on macs https://github.com/remixer-dec/llama-mps
 		- [https://chatonmac.com](https://chatonmac.com/) BYOK, lets you edit system prompt
