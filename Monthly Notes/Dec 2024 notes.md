@@ -12,6 +12,7 @@
 
 ## open projects
 
+- modernbert: https://huggingface.co/blog/modernbert
 -  my free voice-transcription app here: https://say.addy.ie. It's open-source too https://github.com/addyosmani/say
 
 ## launches
