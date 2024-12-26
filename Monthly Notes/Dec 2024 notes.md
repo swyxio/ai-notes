@@ -18,3 +18,13 @@
 ## launches
 
 - tldraw computer https://x.com/karpathy/status/1869426621637333346
+- free compute
+  - github copilot free https://news.ycombinator.com/item?id=42453341
+  - ?oai?claude?gemini?
+
+## misc
+
+- the true origin of attention from dmitry bahdanau https://news.ycombinator.com/item?id=42310213
+- jeff dean on alphachip https://news.ycombinator.com/item?id=42285128
+- yc and power in SV https://commoncog.com/c/cases/y-combinator-power/
+- Procedural knowledge in pretraining drives reasoning in large language models (arxiv.org) https://news.ycombinator.com/item?id=42289310
