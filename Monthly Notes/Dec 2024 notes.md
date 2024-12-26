@@ -8,3 +8,12 @@
 - openai 12 days
   - 1800 chatgpt
     - https://x.com/scaling01/status/1869832272523989503
+
+
+## open projects
+
+-  my free voice-transcription app here: https://say.addy.ie. It's open-source too https://github.com/addyosmani/say
+
+## launches
+
+- tldraw computer https://x.com/karpathy/status/1869426621637333346
