@@ -24,6 +24,7 @@
 ## launches
 
 - tldraw computer https://x.com/karpathy/status/1869426621637333346
+- Hume OCTAVE (Omni-Capable Text and Voice Engine) https://www.hume.ai/blog/introducing-octave
 - free compute
   - github copilot free https://news.ycombinator.com/item?id=42453341
   - ?oai?claude?gemini?
