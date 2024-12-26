@@ -12,6 +12,9 @@
   - o3
     - https://news.ycombinator.com/item?id=42473321
 
+## models
+
+- qwq, qvq
 
 ## open projects
 
@@ -24,6 +27,14 @@
 - free compute
   - github copilot free https://news.ycombinator.com/item?id=42453341
   - ?oai?claude?gemini?
+
+## papers
+
+- coconut https://arxiv.org/abs/2412.06769 Training Large Language Models to Reason in a Continuous Latent Space
+- Large Concept Models: https://ai.meta.com/research/publications/large-concept-models-language-modeling-in-a-sentence-representation-space/
+- BLT: https://ai.meta.com/research/publications/byte-latent-transformer-patches-scale-better-than-tokens/
+- Memory Layers: https://ai.meta.com/research/publications/evalgim-a-library-for-evaluating-generative-image-models/
+- Flowmatching guide https://ai.meta.com/research/publications/flow-matching-guide-and-code/
 
 ## misc
 
