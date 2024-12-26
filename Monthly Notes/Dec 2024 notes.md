@@ -4,6 +4,7 @@
 - anthropic
   - https://www.anthropic.com/research/alignment-faking
   - https://openai.com/index/deliberative-alignment/
+  - building effective agents https://www.anthropic.com/research/building-effective-agents
 - openai 12 days
   - 1800 chatgpt
     - https://x.com/scaling01/status/1869832272523989503
