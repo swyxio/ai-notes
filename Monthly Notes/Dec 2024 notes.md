@@ -1,0 +1,3 @@
+- have we hit a wall
+  - https://simonwillison.net/2024/Dec/19/is-ai-progress-slowing-down/
+  - 
