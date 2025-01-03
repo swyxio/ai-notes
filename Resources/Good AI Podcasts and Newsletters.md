@@ -20,6 +20,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- ⭐ [AI Brief](https://sites.libsyn.com/468519) -  NLW bringing his recap skills over from the crypto world. daily news coverage, [quality video](https://www.youtube.com/channel/UCKelCK4ZaO6HeEI1KQjqzWA). (We have done [cross pods](https://www.latent.space/p/breakdown))
 	- ⭐ [ThursdAI by @altryne](https://sub.thursdai.news/podcast?nthPub=531) - Twitter Spaces at least once a week on all the top AI news, esp good interviews with OSS innovators. Frequent collaborator with Latent Space eg on [Dev Day](https://www.latent.space/p/devday) and [Axolotl](https://www.latent.space/p/axolotl)
 	- ⭐ [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps (NOT available as podcast... all the above are)
+ 	- [Dwarkesh Podcast](https://www.dwarkeshpatel.com/podcast) - not AI focused but AI heavy, some very heavy hitters. The new Lex fridman!
 	- [Samuel Albanie](https://youtube.com/@SamuelAlbanie1?si=i-SDzcaKgpImvFVT) professor with a youtube explaining papers. new but good
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
  	- [AI & I - Dan Shipper/Every.to](https://www.youtube.com/watch?v=ELYaeUYjy48&list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL) - generic less-technical founder interview pod with nevertheless some good technical gets
