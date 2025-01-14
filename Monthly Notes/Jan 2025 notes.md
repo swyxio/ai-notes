@@ -22,3 +22,5 @@ Misc smaller launches
 
 random notes
 - [lovable github drama](https://x.com/auchenberg/status/1875219521700503905)
+- [US ai infrastructure exec order](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
+- [UK PM AI opportunities Action Plan](https://www.gov.uk/government/speeches/pm-speech-on-ai-opportunities-action-plan-13-january-2025)
