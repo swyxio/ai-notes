@@ -18,9 +18,11 @@ Misc smaller launches
 - small reasoning model https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
 - [phi 4 weights available](https://news.ycombinator.com/item?id=42642971) 
 - sketch.dev - [David Crawshaw on how i program with llms](https://crawshaw.io/blog/programming-with-llms)
+## fundraises
 
+- 1. cursor $105m series B https://x.com/sarahdingwang/status/1879279307119608142
 
-random notes
+## random notes
 - [lovable github drama](https://x.com/auchenberg/status/1875219521700503905)
 - [US ai infrastructure exec order](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 - [UK PM AI opportunities Action Plan](https://www.gov.uk/government/speeches/pm-speech-on-ai-opportunities-action-plan-13-january-2025)
