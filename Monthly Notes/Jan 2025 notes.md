@@ -1,7 +1,12 @@
 
-foudnation model labs
+## foudnation model labs
+
 - [ how would you change Claude's personality](https://x.com/karpathy/status/1874678592702972398)
 	- [Claude comedy set](https://x.com/AmandaAskell/status/1874873487355249151)
+
+## smaller models
+
+- kokoro TTS https://reddit.com/r/LocalLLaMA/comments/1i06mew/how_is_kokoro_tts_so_good_with_so_few_parameters/
 
 what people are talking about
 - Things we learned about LLMs in 2024 https://simonwillison.net/2024/Dec/31/llms-in-2024/
@@ -24,6 +29,8 @@ Misc smaller launches
 
 ## random notes
 - [lovable github drama](https://x.com/auchenberg/status/1875219521700503905)
-- [US ai infrastructure exec order](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
-- [UK PM AI opportunities Action Plan](https://www.gov.uk/government/speeches/pm-speech-on-ai-opportunities-action-plan-13-january-2025)
-- [oai economic blueprint](https://openai.com/global-affairs/openais-economic-blueprint/)
+- regulation
+	- [US ai infrastructure exec order](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
+	- [UK PM AI opportunities Action Plan](https://www.gov.uk/government/speeches/pm-speech-on-ai-opportunities-action-plan-13-january-2025)
+	- [oai economic blueprint](https://openai.com/global-affairs/openais-economic-blueprint/)
+- [nvidia gpu glossary](https://modal.com/gpu-glossary/readme)
