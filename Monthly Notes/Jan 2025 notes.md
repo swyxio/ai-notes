@@ -3,6 +3,7 @@
 
 - [ how would you change Claude's personality](https://x.com/karpathy/status/1874678592702972398)
 	- [Claude comedy set](https://x.com/AmandaAskell/status/1874873487355249151)
+- [405B MiniMax MoE](https://www.reddit.com/r/LocalLLaMA/comments/1i1ty0e/405b_minimax_moe_technical_deepdive/) from hailuo
 
 ## smaller models
 
