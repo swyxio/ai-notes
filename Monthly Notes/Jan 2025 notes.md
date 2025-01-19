@@ -15,6 +15,9 @@ what people are talking about
 
 - [My 25-year adventure in AI and ML](https://austinhenley.com/blog/25yearsofai.html)
 - [AI founders vs the bitter lesson](https://lukaspetersson.com/blog/2025/bitter-vertical/)
+- [Jensen Huang keynote at CES](https://news.ycombinator.com/item?id=42618595)
+- [getty images and shutterstock merge](https://news.ycombinator.com/item?id=42621544)
+- [software engineering as we knew it is dead](https://x.com/signulll/status/1879589762073579857)
 
 papers
 - PRIME: [process reinforcement through implicit rewards](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)
