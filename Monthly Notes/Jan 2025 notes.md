@@ -4,6 +4,7 @@
 - [ how would you change Claude's personality](https://x.com/karpathy/status/1874678592702972398)
 	- [Claude comedy set](https://x.com/AmandaAskell/status/1874873487355249151)
 - [405B MiniMax MoE](https://www.reddit.com/r/LocalLLaMA/comments/1i1ty0e/405b_minimax_moe_technical_deepdive/) from hailuo
+- Deepseek R1 :)
 
 ## smaller models
 
@@ -25,11 +26,14 @@ papers
 
 Misc smaller launches
 - small reasoning model https://huggingface.co/PowerInfer/SmallThinker-3B-Preview
+- [humanity's last exam](https://scale.com/blog/humanitys-last-exam-results)
 - [phi 4 weights available](https://news.ycombinator.com/item?id=42642971) 
 - sketch.dev - [David Crawshaw on how i program with llms](https://crawshaw.io/blog/programming-with-llms)
 ## fundraises
 
 - 1. cursor $105m series B https://x.com/sarahdingwang/status/1879279307119608142
+
+
 
 ## random notes
 - [lovable github drama](https://x.com/auchenberg/status/1875219521700503905)
@@ -38,3 +42,4 @@ Misc smaller launches
 	- [UK PM AI opportunities Action Plan](https://www.gov.uk/government/speeches/pm-speech-on-ai-opportunities-action-plan-13-january-2025)
 	- [oai economic blueprint](https://openai.com/global-affairs/openais-economic-blueprint/)
 - [nvidia gpu glossary](https://modal.com/gpu-glossary/readme)
+- [microsoft 365 copilot price increase](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/)
