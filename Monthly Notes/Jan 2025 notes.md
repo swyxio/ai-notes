@@ -5,6 +5,12 @@
 	- [Claude comedy set](https://x.com/AmandaAskell/status/1874873487355249151)
 - [405B MiniMax MoE](https://www.reddit.com/r/LocalLLaMA/comments/1i1ty0e/405b_minimax_moe_technical_deepdive/) from hailuo
 - Deepseek R1 :)
+	- deepseek math
+		- was it 5.5m or [50-100m?](https://x.com/casper_hansen_/status/1884890079493075075)
+
+## big open models
+
+- qwen 2.5 max [videogen](https://x.com/EHuanglu/status/1885024173862613485)
 
 ## smaller models
 
@@ -37,6 +43,7 @@ Misc smaller launches
 
 ## random notes
 - [lovable github drama](https://x.com/auchenberg/status/1875219521700503905)
+- [OpenAI says it has evidence DeepSeek used its model to train competitor](https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6)
 - regulation
 	- [US ai infrastructure exec order](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/)
 	- [UK PM AI opportunities Action Plan](https://www.gov.uk/government/speeches/pm-speech-on-ai-opportunities-action-plan-13-january-2025)
