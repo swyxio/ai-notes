@@ -7,6 +7,7 @@
 - Deepseek R1 :)
 	- deepseek math
 		- was it 5.5m or [50-100m?](https://x.com/casper_hansen_/status/1884890079493075075)
+	- [Dario on deepseek ](https://darioamodei.com/on-deepseek-and-export-controls)
 
 ## big open models
 
