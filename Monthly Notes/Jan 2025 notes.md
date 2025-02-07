@@ -16,6 +16,7 @@
 ## smaller models
 
 - kokoro TTS https://reddit.com/r/LocalLLaMA/comments/1i06mew/how_is_kokoro_tts_so_good_with_so_few_parameters/
+- mistral small 3  https://news.ycombinator.com/item?id=42877860
 
 what people are talking about
 - Things we learned about LLMs in 2024 https://simonwillison.net/2024/Dec/31/llms-in-2024/
