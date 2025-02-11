@@ -8,6 +8,8 @@
 	- deepseek math
 		- was it 5.5m or [50-100m?](https://x.com/casper_hansen_/status/1884890079493075075)
 	- [Dario on deepseek ](https://darioamodei.com/on-deepseek-and-export-controls)
+	- [arcprize analysis](https://arcprize.org/blog/r1-zero-r1-results-analysis)
+	- [illustrated deepseek r1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
 
 ## big open models
 
