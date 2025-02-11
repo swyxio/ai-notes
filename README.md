@@ -106,6 +106,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 
 ### Beginner Reads
 
+  - [Karpathy 2025 Intro to LLMs](https://www.youtube.com/watch?v=7xTGNNLPyMI) ([summary](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr))
   - [Bill Gates on AI](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun) ([tweet](https://twitter.com/gdb/status/1638310597325365251?s=20))
 	  - "The development of AI is as fundamental as the creation of the microprocessor, the personal computer, the Internet, and the mobile phone. It will change the way people work, learn, travel, get health care, and communicate with each other."
   - [Steve Yegge on AI for developers](https://about.sourcegraph.com/blog/cheating-is-all-you-need)
