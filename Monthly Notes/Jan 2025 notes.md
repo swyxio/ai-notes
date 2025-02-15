@@ -10,6 +10,9 @@
 	- [Dario on deepseek ](https://darioamodei.com/on-deepseek-and-export-controls)
 	- [arcprize analysis](https://arcprize.org/blog/r1-zero-r1-results-analysis)
 	- [illustrated deepseek r1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
+	- [sama response](https://x.com/sama/status/1884066337103962416)
+	- [why did deepseek go viral?](https://x.com/nearcyan/status/1884467386964951379)
+	- [theory on RL on CoT working now vs before](https://x.com/voooooogel/status/1884089601901683088)
 
 ## big open models
 

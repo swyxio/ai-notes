@@ -17,6 +17,8 @@
 ## papers
 
 - [LIMO: less is more for reasoning](https://news.ycombinator.com/item?id=42991676)
+- [DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2)
+	- Agentica: [Replicating Deepseek-R1 for $4500: RL Boosts 1.5B Model Beyond o1-preview](https://github.com/agentica-project/deepscaler)
 
 
 
