@@ -21,6 +21,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- ⭐ [ThursdAI by @altryne](https://sub.thursdai.news/podcast?nthPub=531) - Twitter Spaces at least once a week on all the top AI news, esp good interviews with OSS innovators. Frequent collaborator with Latent Space eg on [Dev Day](https://www.latent.space/p/devday) and [Axolotl](https://www.latent.space/p/axolotl)
 	- ⭐ [AI Explained](https://www.youtube.com/@ai-explained-) - short, nontechnical news recaps (NOT available as podcast... all the above are)
  	- [Dwarkesh Podcast](https://www.dwarkeshpatel.com/podcast) - not AI focused but AI heavy, some very heavy hitters. The new Lex fridman!
+  	- [Around the Prompt with Logan Kilpatrick/Nolan Fortman](https://www.youtube.com/watch?v=fwHkdivFCuc&list=PLTx3b9n8davxZz_tV1bMol0fvWGyEsegM) - new pod from Gemini AI Product Lead
 	- [Samuel Albanie](https://youtube.com/@SamuelAlbanie1?si=i-SDzcaKgpImvFVT) professor with a youtube explaining papers. new but good
 	- [Eye on AI](https://open.spotify.com/show/5aFnCGDhpL5bGr2uHy4bB5) - Weekly analysis at the intersection of artificial intelligence and industry. (less technical but great guest backlog)
  	- [AI & I - Dan Shipper/Every.to](https://www.youtube.com/watch?v=ELYaeUYjy48&list=PLuMcoKK9mKgHtW_o9h5sGO2vXrffKHwJL) - generic less-technical founder interview pod with nevertheless some good technical gets
