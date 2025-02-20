@@ -21,8 +21,6 @@
 	- Agentica: [Replicating Deepseek-R1 for $4500: RL Boosts 1.5B Model Beyond o1-preview](https://github.com/agentica-project/deepscaler)
 
 
-
-
 ## Demos
 
 - [gemini youtube agent ](https://x.com/DynamicWebPaige/status/1887897486770974770)
@@ -41,6 +39,8 @@
 	- [vibe coding](https://news.ycombinator.com/item?id=42913909)
 	- [codenames benchmark](https://x.com/IlyaAbyzov/status/1885784027275424227)
 - [roadmap prompt](https://x.com/kregenrek/status/1885979673059876883)
+- [hf ultrascale playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
+- [how to scale your model by deepmind](https://buttondown.com/ainews/archive/ainews-how-to-scale-your-model-by-deepmind/)
 - [RLHF book](https://news.ycombinator.com/item?id=42902936)
 	- [PPO and GRPO](https://yugeten.github.io/posts/2025/01/ppogrpo/)
 	- [GRPO](https://x.com/nrehiew_/status/1885079616248832090): "GRPO gets rid of the Value Model and NOT the Reward Model. This is the main insight since you save memory. The main change between PPO and GRPO is the way the advantage is calculated. PPO uses the Value Model to compute the advantage while GRPO computes the advantage by normalizing against the rollouts in each group."
