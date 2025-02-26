@@ -29,6 +29,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [Matthew Berman](https://www.youtube.com/@matthew_berman) - short explainer videos of AI Engineering related projects and news
 	- smaller creators worth noting: [Algorithmic Simplicity](https://www.youtube.com/watch?v=N6Piou4oYx8) (explanations of archs), [Umar Jamil (standard concept teaching channel, very technical)](https://www.youtube.com/@umarjamilai?app=desktop) and [Daniel Bourke (livestream paper replication)](https://www.youtube.com/@danielbourkearxiv2821?app=desktop), [Efficient NLP (good short paper/technique explainers)](https://www.youtube.com/@EfficientNLP), [Trelis Research](https://www.youtube.com/watch?v=ae2lbmtTY5A), [McKay Wrigley](https://www.youtube.com/@realmckaywrigley)
 	- [/r/LocalLlama list has 23 recommendations](https://www.reddit.com/r/LocalLLaMA/comments/1atycgd/which_localllama_focused_yt_channels_do_you_follow/)
+        - [The Cloudcast](https://www.thecloudcast.net/) – Initially focused on Cloud and it still pivots around cloud native stuff but lately their focus on AI has been very instructive and formative.  	
 - Companies
 	- [The DeepMind Podcast](https://deepmind.google/discover/the-podcast/) - from GDM 
 	- [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - great new pod
