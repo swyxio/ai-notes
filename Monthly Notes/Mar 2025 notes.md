@@ -2,12 +2,23 @@
 
 frontier models
 - gpt 4.5 https://news.ycombinator.com/item?id=43197872
+- oppenai new audio model updates https://news.ycombinator.com/item?id=43426022
 
 ## open models
 - sesame open model https://news.ycombinator.com/item?id=43362616
+- [qwen 2.5 VL](https://news.ycombinator.com/item?id=43464068)
 
-fundraising
+## other launches
+- [hedra labs - hedra character 3](https://x.com/hedra_labs/status/1897699010632466469)
+- [gemini live with video](https://x.com/GeminiApp/status/1905770523109597275)
+
+## fundraising
 - cartesia 64m A https://x.com/cartesia_ai/status/1899479695537676624
+- phonic seed - lux and swyx
+
+## projects
+- [gemini code - from raiza](https://x.com/raizamrtn/status/1906097326260945254)
+- claude deep research - from will
 
 misc
 
