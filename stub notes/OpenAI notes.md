@@ -28,6 +28,8 @@
 	- aug - superalignment
 		- jan leike https://axrpodcast.libsyn.com/24-superalignment-with-jan-leike
 	- oct 2023 - [openai explains what they do for global affairs people](https://openai.com/global-affairs/openai-technology-explained)
+	- the blip
+		- https://www.youtube.com/watch?v=pv4gTq4HV3U <- emails from mira
 - leadup to ChatGPT
 	- https://www.theverge.com/2024/12/12/24318650/chatgpt-openai-history-two-year-anniversary
  		- both [microsoft](https://x.com/christinahkim/status/1869159721003081825) and anthropic had similar chatbots but didnt launch 
