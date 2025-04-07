@@ -31,3 +31,4 @@ misc
 	- [the model is the product](https://news.ycombinator.com/item?id=43397474)
 	- [a16z voice ai](https://gamma.app/docs/a16z-AI-Voice-Update-2025--ttkorld8iy6wfnj?mode=doc)
 	- [sabine hossenfelder skeptical of llms](https://x.com/skdh/status/1905132853672784121)
+	- [recent ai progress mostly bullshit](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit)
