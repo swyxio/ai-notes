@@ -80,3 +80,9 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- https://generallyintelligent.substack.com/ (daily bitesize news)
 	- TLDR AI https://tldr.tech/ai (daily aggregator with focus on research and big tech)
 - Mine :) https://latent.space/ has a monthly news recap, but i am also [incubating a daily one](https://buttondown.email/ainews)
+
+---
+
+## other lists i like
+
+- this one https://x.com/jesslionness/status/1910394910219657409
