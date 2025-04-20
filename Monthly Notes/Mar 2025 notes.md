@@ -7,10 +7,12 @@ frontier models
 ## open models
 - sesame open model https://news.ycombinator.com/item?id=43362616
 - [qwen 2.5 VL](https://news.ycombinator.com/item?id=43464068)
+- [tencent hunyuan t-1 - mamba powered large model](https://news.ycombinator.com/item?id=43447254) (not released?)
 
 ## other launches
 - [hedra labs - hedra character 3](https://x.com/hedra_labs/status/1897699010632466469)
 - [gemini live with video](https://x.com/GeminiApp/status/1905770523109597275)
+- [claude web search](https://news.ycombinator.com/item?id=43425655)
 
 ## fundraising
 - cartesia 64m A https://x.com/cartesia_ai/status/1899479695537676624
