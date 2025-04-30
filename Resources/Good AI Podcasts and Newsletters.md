@@ -40,7 +40,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 - VCs
 	- ⭐ [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil
 	- [Training Data](https://podcasts.apple.com/gb/podcast/training-data/id1750736528) - Sequoia
-	- [Unsupervised Learning](https://podtail.com/en/podcast/unsupervised-learning/) - Redpoint
+	- [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1672188924) - Redpoint
 	- [MAD podcast](https://podcasts.apple.com/us/podcast/the-mad-podcast-with-matt-turck/id1686238724) - Matt Turck
 - Mine :) https://latent.space/
 
@@ -67,7 +67,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- https://lilianweng.github.io/
 - Aggregators
  	- [AImodels.fyi](https://aimodels.fyi) (Mike Young) - Free summaries of all AI/ML papers published on arXiv each day, ranked by popularity. Also covers models on Replicate and HuggingFace.
-	- [Emergent Mind](https://www.emergentmind.com) (trending arXiv ML/AI papers with GPT-4-generated summaries and links to social media discussions) - see also Karpathy's [arxiv-sanity](https://arxiv-sanity-lite.com/)
+	- [Emergent Mind](https://www.emergentmind.com) (trending arXiv ML/AI papers with GPT-4-generated summaries and links to social media discussions) - see also Karpathy's [arxiv-sanity](https://github.com/karpathy/arxiv-sanity-lite)
 	- Amplify/Sarah Catanzaro's PTK https://www.amplifypartners.com/projects-to-know
 	- Ben's Bites https://bensbites.beehiiv.com/
 	- TheSequence https://thesequence.substack.com/about
