@@ -33,6 +33,11 @@
 	- https://x.com/mayfer/status/1909409592653529102
 
 
+## fundraising
+
+- manus 500m https://x.com/pingroma/status/1915607839370076407
+
+
 ## opinions
 - [google is winning on every ai front](https://news.ycombinator.com/item?id=43661235)
 	- [gemini tier list](https://x.com/suchenzang/status/1911251230317490416)
