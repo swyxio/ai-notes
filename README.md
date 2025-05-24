@@ -139,6 +139,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	  - https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/
 	  - https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/
 	  - https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html 
+	  - https://www.seangoedecke.com/diffusion-models-explained/
   - for nontechnical
     - https://www.jonstokes.com/p/ai-content-generation-part-1-machine
     - https://www.protocol.com/generative-ai-startup-landscape-map
