@@ -14,6 +14,7 @@ ELI5: https://news.ycombinator.com/item?id=35977891
 - FT coverage of the paper authors and when and how they left https://archive.is/2023.07.23-044102/https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50
 - backstory on the title https://news.ycombinator.com/item?id=38758413
 - aidan gomez [says](https://x.com/aidangomez/status/1773863558482202986?s=46&t=90xQ8sGy63D2OtiaoGJuww) the image was made with adobe illustrator
+- oral history https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/
 The Illustrated Transformer - [https://jalammar.github.io/illustrated-transformer/](https://jalammar.github.io/illustrated-transformer/)
 - GPT in 60LOC https://jaykmody.com/blog/gpt-from-scratch/
 	- pre read https://jaykmody.com/blog/attention-intuition/
