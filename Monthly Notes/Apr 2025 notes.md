@@ -23,6 +23,8 @@
 - [bytedance seed thinking v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5)
 - bitnet finally released
 	- https://news.ycombinator.com/item?id=43714004
+- xiaomi https://github.com/XiaomiMiMo/MiMo
+- 
 
 ## projects
 
