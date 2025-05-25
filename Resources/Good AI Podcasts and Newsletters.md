@@ -1,6 +1,8 @@
 A live updating list of good ai podcasts and newsletters by swyx. Please feel free to PR your additions and I'll take a look.
 
 > this ended up being the best list — [Andrew Chen](https://twitter.com/andrewchen/status/1642626083962130432?s=46&t=90xQ8sGy63D2OtiaoGJuww)
+>
+> here are some great podcasts that cover AI in unique & interesting ways - [Lex Fridman](https://x.com/swyx/status/1926738970475397140)
 
 ## Podcasts
 
