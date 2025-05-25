@@ -20,6 +20,7 @@
 - llama 4
 	- [potential benchmark gaming](https://old.reddit.com/r/LocalLLaMA/comments/1jt8yug/serious_issues_in_llama_4_training_i_have/)
 	- [llama 4 learnings from cloudflare](https://x.com/_mchenco/status/1908873033852338580)
+	- https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1
 - [bytedance seed thinking v1.5](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5)
 - bitnet finally released
 	- https://news.ycombinator.com/item?id=43714004
