@@ -24,7 +24,9 @@
 - bitnet finally released
 	- https://news.ycombinator.com/item?id=43714004
 - xiaomi https://github.com/XiaomiMiMo/MiMo
-- 
+- apple MLX serving
+	- https://github.com/skyzh/tiny-llm
+	- https://news.ycombinator.com/item?id=43820022
 
 ## projects
 
