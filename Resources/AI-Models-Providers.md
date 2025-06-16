@@ -1,5 +1,4 @@
-
-## [AI/ML API](https://aimlapi.com/app/?utm_source=ai-notes&utm_medium=github&utm_campaign=integration)  
+## 1. [AI/ML API](https://aimlapi.com/app/?utm_source=ai-notes&utm_medium=github&utm_campaign=integration)  
 **AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes.**  
 
 
