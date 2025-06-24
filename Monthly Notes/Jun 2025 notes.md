@@ -1,4 +1,8 @@
 
+## open models
+
+- mistral code https://mistral.ai/products/mistral-code
+
 misc
 - simple intro to dspy https://x.com/MaximeRivest/status/1929861781448536081
 

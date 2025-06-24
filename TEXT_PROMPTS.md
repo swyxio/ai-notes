@@ -187,6 +187,7 @@ perplexity prompt
 
 ## Code related prompts
 
+- programmer handbook of 10 techniques for prompting https://addyo.substack.com/p/the-prompt-engineering-playbook-for
 - program aided prompting https://github.com/reasoning-machines/pal
 - natbot prompt https://github.com/nat/natbot/blob/27a357115093cfe9ca927c9e22fd07048e91eb36/natbot.py
 - generate csv, test code, and readme https://twitter.com/goodside/status/1563989550808154113
