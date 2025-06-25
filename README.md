@@ -224,6 +224,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
   - suhail journey https://twitter.com/Suhail/status/1541276314485018625?s=20&t=X2MVKQKhDR28iz3VZEEO8w
   - composable diffusion - "AND" instead of "and" https://twitter.com/TomLikesRobots/status/1580293860902985728
   - on BPE tokenization https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0 see also google sentencepiece and openai tiktoken
+	  - see visualization here https://lucalp.dev/bitter-lesson-tokenization-and-blt/
 	  - source in GPT2 source https://github.com/openai/gpt-2/blob/master/src/encoder.py
 	  - note that BPEs are suboptimal https://www.lesswrong.com/posts/dFbfCLZA4pejckeKc/a-mechanistic-explanation-for-solidgoldmagikarp-like-tokens?commentId=9jNdKscwEWBB4GTCQ
 		  - [//---------------------------------------------------------------------------------------------------------------- is a single GPT-4 token](https://twitter.com/goodside/status/1753192905844592989)
