@@ -26,6 +26,7 @@ misc
 	- https://x.com/OpenAI/status/1935382830378516643
 - cogniotion vs anthropic on multiagent
 	- good dsquared summary https://www.youtube.com/watch?v=WKVkNZ-mOPY
+- context engineering https://x.com/karpathy/status/1937902205765607626
 
 
 ## standing list of current investable things
