@@ -6,6 +6,15 @@
 
 ## math/numbers ai eng should know 
 
+- https://news.ycombinator.com/item?id=44458676
+- For large models, compute is very rarely dominated by attention. Take, for example, this FLOPs calculation from [https://www.adamcasson.com/posts/transformer-flops](https://www.adamcasson.com/posts/transformer-flops)
+
+Compute per token = 2(P + L × W × D)
+
+P: total parameters L: Number of Layers W: context size D: Embedding dimension
+
+For Llama 8b, the window size starts dominating compute cost per token only at 61k tokens.
+
 - PetaFLOP/s-days is a terrible unit. I propose the "person" = 20 PFLOPS, and the "person-year". GPT-3 was 1024 A100s for 34 days. (1024*312e12*34 / (20e15*365)) 1.5 person-years GPT-4 was 25k A100s for 90 days. (25e3*312e12*90 / (20e15*365)) 96 person-years https://twitter.com/karpathy/status/1690906227981905920
 - cost per token
 	- boris power got rekt

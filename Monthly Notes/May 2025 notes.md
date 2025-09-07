@@ -4,6 +4,8 @@
 
 unreasonable effectiveness of agent loop https://sketch.dev/blog/agent-loop
 
+mistral medium 3 https://x.com/MistralAI/status/1920119463430500541
+
 
 ## fundraising
 

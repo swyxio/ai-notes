@@ -196,10 +196,12 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	-   [**What is ChatGPT doing … and why does it work?**](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/): Computer scientist and entrepreneur Stephen Wolfram gives a long but highly readable explanation, from first principles, of how modern AI models work. He follows the timeline from early neural nets to today’s LLMs and ChatGPT.
 	-   **[Transformers, explained](https://daleonai.com/transformers-explained)**: This post by Dale Markowitz is a shorter, more direct answer to the question “what is an LLM, and how does it work?” This is a great way to ease into the topic and develop intuition for the technology. It was written about GPT-3 but still applies to newer models.
 	-   **[How Stable Diffusion works](https://mccormickml.com/2022/12/21/how-stable-diffusion-works/)**: This is the computer vision analogue to the last post. Chris McCormick gives a layperson’s explanation of how Stable Diffusion works and develops intuition around text-to-image models generally. For an even _gentler_ introduction, check out this [comic](https://www.reddit.com/r/StableDiffusion/comments/zs5dk5/i_made_an_infographic_to_explain_how_stable/) from r/StableDiffusion.
+		- (2025) 3blue1brown on [how diffusion works](https://www.youtube.com/watch?v=iv-5mZ_9CPY)
 	- Explainers
 		-   [**Deep learning in a nutshell: core concepts**](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/): This four-part series from Nvidia walks through the basics of deep learning as practiced in 2015, and is a good resource for anyone just learning about AI.
 		-   **[Practical deep learning for coders](https://course.fast.ai/)**: Comprehensive, free course on the fundamentals of AI, explained through practical examples and code.
 		-   **[Word2vec explained](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71)**: Easy introduction to embeddings and tokens, which are building blocks of LLMs (and all language models).
+			- https://news.ycombinator.com/item?id=44708028
 		-   **[Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)**: More in-depth post on back-propagation if you want to understand the details. If you want even more, try the [Stanford CS231n lecture](https://www.youtube.com/watch?v=i94OvYb6noo) ([course here](http://cs231n.stanford.edu/2016/)) on Youtube.
 	- Courses
 		-   **[Stanford CS229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)**: Introduction to Machine Learning with Andrew Ng, covering the fundamentals of machine learning.
@@ -269,6 +271,7 @@ The more advanced GPT3 reads have been split out to https://github.com/sw-yx/ai-
 	- language models can follow both flipped labels and semantically-unrelated labels (https://arxiv.org/abs/2303.03846)
  - [LLM Paper Notes](https://github.com/eugeneyan/llm-paper-notes) - notes from the [Latent Space paper club](https://www.latent.space/about#%C2%A7components) by [Eugene Yan](https://eugeneyan.com/)
  - [CMU LLM syllabus](https://llmsystem.github.io/llmsystem2024spring/docs/Syllabus)
+ - explaining [batching in inference](https://www.seangoedecke.com/inference-batching-and-deepseek/) relevant to DeepSeek R1
 - Transformers from scratch https://e2eml.school/transformers.html
 	- transformers vs LSTM https://medium.com/analytics-vidhya/why-are-lstms-struggling-to-matchup-with-transformers-a1cc5b2557e3
 	- transformer code walkthru https://twitter.com/mark_riedl/status/1555188022534176768
