@@ -42,6 +42,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 - VCs
 	- ⭐ [No Priors](https://linktr.ee/nopriors) - Sarah Guo and Elad Gil
 	- [Training Data](https://podcasts.apple.com/gb/podcast/training-data/id1750736528) - Sequoia
+ 	- [Barrchives](https://www.youtube.com/@BarrchivesPodcast) - Barr at Amplify
 	- [Unsupervised Learning](https://podcasts.apple.com/us/podcast/unsupervised-learning/id1672188924) - Redpoint
 	- [MAD podcast](https://podcasts.apple.com/us/podcast/the-mad-podcast-with-matt-turck/id1686238724) - Matt Turck
 - Mine :) https://latent.space/
