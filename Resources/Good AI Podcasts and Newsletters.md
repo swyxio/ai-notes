@@ -64,6 +64,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- https://www.supervised.news/ is new but promising quality
 	- https://nextword.substack.com/ is new but promising quality
 	- https://www.aitidbits.ai/about is new  but promising quality
+ 	- PulseMCP (official MCP registry) https://www.pulsemcp.com/newsletter	
 - infrequent but great when they post
 	- https://eugeneyan.com/writing/
 	- https://lilianweng.github.io/
