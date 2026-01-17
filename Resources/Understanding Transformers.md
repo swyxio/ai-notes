@@ -64,6 +64,8 @@ The Illustrated Transformer - [https://jalammar.github.io/illustrated-transform
 
 https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer
 
+explaining QKV https://arpitbhayani.me/blogs/qkv-matrices/
+
 https://news.ycombinator.com/item?id=35712334
 The Illustrated Transformer is fantastic, but I would suggest that those going into it really should read the previous articles in the series to get a foundation to understand it more, plus later articles that go into GPT and BERT, here's the list:
 
