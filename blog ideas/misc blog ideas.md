@@ -21,6 +21,7 @@ For Llama 8b, the window size starts dominating compute cost per token only at 6
 	- https://twitter.com/borismpower/status/1709641395659780452?s=12&t=90xQ8sGy63D2OtiaoGJuww
 	- its more like 70b model - $1 / M on anyscale, 0.8/M on lepton, 0.7/M on fireworks
 		- can see on openrouter https://x.com/xanderatallah/status/1709717677730636102?s=20
+        - and also on AI/ML API [https://aimlapi.com/app/](https://aimlapi.com/app/?utm_source=ai-notes&utm_medium=github&utm_campaign=integration)
 - https://github.com/ray-project/llm-numbers#1-mb-gpu-memory-required-for-1-token-of-output-with-a-13b-parameter-model
 - https://epochai.org/trends
 - human analogies

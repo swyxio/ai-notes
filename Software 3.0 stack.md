@@ -66,6 +66,7 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 - https://github.com/BerriAI/litellm
 - martian
 - openrouter
+- AI/ML API
 
 ## typing/json structure libraries 
 
