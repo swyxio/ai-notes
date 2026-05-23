@@ -13,7 +13,7 @@
 
 ## model size and requirements
 
-- https://github.com/amirgholami/ai_and_memory_wall  ([article](https://medium.com/riselab/ai-and-memory-wall-2cb4265cb0b8))We report the number of paramters, feature size, as well as the total FLOPs for inference/training for SOTA models in CV, Speech Learning, and NLP.
+- https://github.com/amirgholami/ai_and_memory_wall  ([article](https://medium.com/riselab/ai-and-memory-wall-2cb4265cb0b8))We report the number of parameters, feature size, as well as the total FLOPs for inference/training for SOTA models in CV, Speech Learning, and NLP.
   - https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/ai_and_compute.png?raw=true
   - https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/hw_scaling.png?raw=true
   - ![https://pbs.twimg.com/media/F3mlttAa4AIg4VX?format=jpg&name=large](https://pbs.twimg.com/media/F3mlttAa4AIg4VX?format=jpg&name=large)
@@ -52,7 +52,7 @@
 	- We (Probably) Won’t Run Out of Data
 	- AI Energy Use and Heat Signatures
 - https://www.lesswrong.com/posts/RihYwmskuJT9Rkbjq/the-longest-training-run
-	- [This blog makes a good argument that training runs should never be more than 15mo, because the hardware/sofware/algos advance so fast that you're better off waiting:](https://x.com/abhi_venigalla/status/1750336788282175716?s=20)
+	- [This blog makes a good argument that training runs should never be more than 15mo, because the hardware/software/algos advance so fast that you're better off waiting:](https://x.com/abhi_venigalla/status/1750336788282175716?s=20)
 
 
 ## Infrastructure
@@ -245,7 +245,7 @@ Table 2: Peak MPT-7B throughput (req/sec) with static batching and a FasterTrans
 - https://hardwarelottery.github.io ML will run into an asymptote because matrix multiplication and full forward/backprop passes are ridiculously expensive. What hardware improvements do we need to enable new architectures?
 - "bitter lessons" - http://incompleteideas.net/IncIdeas/BitterLesson.html https://twitter.com/drjwrae/status/1601044625447301120?s=20
 	- response https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Model-versus-Data-AI-1.pdf
-  - optimizatoin https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/
+  - optimization https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/
 - related: https://www.wired.com/2017/04/building-ai-chip-saved-google-building-dozen-new-data-centers/
 - transformers won because they were more scalable https://arxiv.org/pdf/2010.11929.pdf
 - Apple Neural Engine Transformers https://github.com/apple/ml-ane-transformers
