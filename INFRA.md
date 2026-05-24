@@ -13,7 +13,7 @@
 
 ## model size and requirements
 
-- https://github.com/amirgholami/ai_and_memory_wall  ([article](https://medium.com/riselab/ai-and-memory-wall-2cb4265cb0b8))We report the number of paramters, feature size, as well as the total FLOPs for inference/training for SOTA models in CV, Speech Learning, and NLP.
+- https://github.com/amirgholami/ai_and_memory_wall  ([article](https://medium.com/riselab/ai-and-memory-wall-2cb4265cb0b8))We report the number of parameters, feature size, as well as the total FLOPs for inference/training for SOTA models in CV, Speech Learning, and NLP.
   - https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/ai_and_compute.png?raw=true
   - https://github.com/amirgholami/ai_and_memory_wall/blob/main/imgs/pngs/hw_scaling.png?raw=true
   - ![https://pbs.twimg.com/media/F3mlttAa4AIg4VX?format=jpg&name=large](https://pbs.twimg.com/media/F3mlttAa4AIg4VX?format=jpg&name=large)
