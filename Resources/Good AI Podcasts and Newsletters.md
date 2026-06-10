@@ -15,6 +15,10 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk) (Tim Scarfe) - great backlog of safety/philosophy researcher interviews
 	- [Deep Papers](https://www.deeppapers.dev/) (Arize AI staff) - deep dives on today’s seminal AI papers and research.
 	- [The Retort](https://retortai.com/)  and [Interconnects Audio](https://podcast.interconnects.ai/) (Nathan Lambert) - Topical coverage from [a RLHF researcher and an AI ethicist](https://retortai.com/people) (new)
+	- [Chain of Thought](https://chainofthought.show/) (Conor Bronsdon) - AI engineering interviews: agents, evals, LLMOps, developer infrastructure
+	- [AI Engineering Podcast](https://www.aiengineeringpodcast.com/) (Tobias Macey) - long-running interviews on building and operating AI systems in production
+	- [How I AI](https://www.lennysnewsletter.com/s/how-i-ai) (Claire Vo) - screen-share episodes showing how people actually use AI tools in their daily work, part of Lenny's podcast network
+	- [MLOps.community](https://podcast.mlops.community/) (Demetrios Brafman) - practitioner interviews on shipping and running ML and LLM systems
 - News/Youtubers
 	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
 	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps. less frequent these days.
