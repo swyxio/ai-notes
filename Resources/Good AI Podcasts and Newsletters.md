@@ -62,8 +62,12 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Alan Thompson's Life Architect https://lifearchitect.substack.com (note [his credentials sus](https://news.ycombinator.com/item?id=35588974))
 	- Bradley Metrock (Deepgram) https://thisweekinvoice.substack.com/
 	- Carlos's Data Machina https://datamachina.substack.com/
+	- Chip Huyen's [huyenchip.com](https://huyenchip.com/blog/) - infrequent but in-depth essays on AI engineering and ML systems from the author of the O'Reilly AI Engineering book
+	- Conor Bronsdon's [Chain of Thought](https://newsletter.chainofthought.show/) - AI engineering interviews and writeups on agents, evals, and LLMOps
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
 	- [Elvis Saravia's NLP Newsletter](https://nlp.elvissaravia.com/) - paper recap
+	- Hamel Husain's [Blog](https://hamel.dev/) - hands-on writeups on LLM evals, error analysis, and shipping AI products
+	- Simon Willison's [Newsletter](https://simonw.substack.com/) - prolific, practical commentary on LLMs, tooling, and prompt injection from the Datasette creator
 	- https://www.supervised.news/ is new but promising quality
 	- https://nextword.substack.com/ is new but promising quality
 	- https://www.aitidbits.ai/about is new  but promising quality
