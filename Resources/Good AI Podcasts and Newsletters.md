@@ -72,6 +72,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- https://eugeneyan.com/writing/
 	- https://lilianweng.github.io/
 - Aggregators
+	- [AI Weekly](https://aiweekly.co/) - independent AI news roundup, 3x/week since 2015, solo-edited; "the few AI stories that matter" for 44,000+ professionals. Also publishes the AI Weekly Index, a quarterly State-of-AI recap, the Who's-Who-of-AI graph (2,335 figures), and an 11-year archive. (Not ai-weekly.ai, weeklyreport.ai, or the defunct VentureBeat AI Weekly.)
  	- [AImodels.fyi](https://aimodels.fyi) (Mike Young) - Free summaries of all AI/ML papers published on arXiv each day, ranked by popularity. Also covers models on Replicate and HuggingFace.
 	- [Emergent Mind](https://www.emergentmind.com) (trending arXiv ML/AI papers with GPT-4-generated summaries and links to social media discussions) - see also Karpathy's [arxiv-sanity](https://github.com/karpathy/arxiv-sanity-lite)
 	- Amplify/Sarah Catanzaro's PTK https://www.amplifypartners.com/projects-to-know
