@@ -41,6 +41,7 @@ By locally, we mean running the model yourself (either on your local device, or 
 4. Faster Whisper: [https://github.com/guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper). 4x faster than original, also for short form audio samples. But no extra gains for long form on top of this
 
   - see also https://github.com/linto-ai/whisper-timestamped and other tools https://github.com/abus-aikorea/voice-pro
+  - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2): OpenAI Whisper-compatible CLI using faster-whisper/CTranslate2, with batched inference, live microphone transcription, and optional speaker diarization.
     
 6. Whisper X: [https://github.com/m-bain/whisperX](https://github.com/m-bain/whisperX). Uses Faster Whisper under-the-hood, so same speed-ups.
     
