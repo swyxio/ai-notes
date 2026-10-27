@@ -98,6 +98,7 @@ devtools fulfill a emotional need https://marksaroufim.substack.com/p/huggingfac
 - https://www.futuretools.io/
 - https://theresanaiforthat.com/
 - https://altern.ai
+- https://respawnstack.com/
 
 ## music
 
